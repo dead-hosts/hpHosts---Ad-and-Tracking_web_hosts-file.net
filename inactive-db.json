@@ -141,9 +141,7 @@
             "ad2.pl.mediainter.net",
             "ad2387.com",
             "ad3.bonadza.com",
-            "ad3.liverail.com"
-        ],
-        "to_test": [
+            "ad3.liverail.com",
             "ad4.liverail.com",
             "ad5.liverail.com",
             "adam-rizer.us",
@@ -155,6 +153,7 @@
             "adcycle.standard.net",
             "adelina-ashman.us",
             "adelina-strode.us",
+            "adelogs.adobe.com",
             "adfeed.pagefair.net",
             "adgalax.com",
             "adimage.asiaone.com.sg",
@@ -170,6 +169,7 @@
             "admicro2.vcmedia.vn",
             "adnet.vn",
             "adnetwork.net.vn",
+            "adotomy.com",
             "adparad.net",
             "adpath.mobi",
             "adperiun.com",
@@ -177,7 +177,9 @@
             "adplus.goo.mx",
             "adppv.com",
             "adpron.com",
-            "adproper.info",
+            "adproper.info"
+        ],
+        "to_test": [
             "adready.net",
             "adrianna-brumbelow.us",
             "adrienne-atkin.us",
