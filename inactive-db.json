@@ -100,9 +100,7 @@
             "ad.investopedia.com",
             "ad.jaumo.com",
             "ad.jokeroo.com",
-            "ad.lazynerd.info"
-        ],
-        "to_test": [
+            "ad.lazynerd.info",
             "ad.madvertise.de",
             "ad.moboqo.com",
             "ad.novasol.com",
@@ -112,8 +110,6 @@
             "ad.philipstreehouse.info",
             "ad.r.worldssl.net",
             "ad.recursosgratis.com",
-            "ad.sa9.woowy.com",
-            "ad.sab.woowy.com",
             "ad.sethads.info",
             "ad.sexyunivers.fr",
             "ad.sid-ads.com",
@@ -133,11 +129,9 @@
             "ad.yashi.com",
             "ad.yieldx.com",
             "ad.zoglafi.info",
-            "ad1.adinfuse.com",
             "ad1.bonadza.com",
             "ad1.trafficx.com",
             "ad1.zendmedia.com",
-            "ad2.adinfuse.com",
             "ad2.advglobet.com",
             "ad2.bbmedia.cz",
             "ad2.billboard.cz",
@@ -147,7 +141,9 @@
             "ad2.pl.mediainter.net",
             "ad2387.com",
             "ad3.bonadza.com",
-            "ad3.liverail.com",
+            "ad3.liverail.com"
+        ],
+        "to_test": [
             "ad4.liverail.com",
             "ad5.liverail.com",
             "adam-rizer.us",
