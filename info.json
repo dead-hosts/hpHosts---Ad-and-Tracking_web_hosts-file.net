@@ -7,5 +7,13 @@
     "list_name": "hpHosts---Ad-and-Tracking_web_hosts-file.net.list",
     "name": "hpHosts---Ad-and-Tracking_web_hosts-file.net",
     "raw_link": "https://hosts-file.net/ad_servers.txt",
-    "stable": "0"
+    "stable": "0",
+    "arguments": [
+        "--travis",
+        "-a",
+        "-ex",
+        "--plain",
+        "--split",
+        "-t 2"
+    ]
 }
