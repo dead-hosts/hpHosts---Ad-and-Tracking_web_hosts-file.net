@@ -1008,11 +1008,7 @@
             "clicks.superpages.com",
             "clickstream.loomia.com",
             "clicktale.pantherssl.com",
-            "clicktalecdn.sslcs.cdngc.net"
-        ],
-        "to_test": [
-            "ads.tpvl.co",
-            "adv.securestudies.com",
+            "clicktalecdn.sslcs.cdngc.net",
             "client-verify.adtricity.com",
             "clients.tbo.com",
             "clipfish.ivwbox.de",
@@ -1063,7 +1059,6 @@
             "consolefiles.info",
             "constance-polen.us",
             "content.dl-rms.com",
-            "content.liveuniverse.com",
             "content.wt.net",
             "convenir.science",
             "conversion-tracker.com",
@@ -1081,7 +1076,11 @@
             "corrosif.science",
             "coudre.ovh",
             "count.xhit.com",
-            "count.yourmusic.cc",
+            "count.yourmusic.cc"
+        ],
+        "to_test": [
+            "ads.tpvl.co",
+            "adv.securestudies.com",
             "counter.adultcheck.com",
             "counter.d.delivery51.com",
             "counter.eanalyzer.de",
