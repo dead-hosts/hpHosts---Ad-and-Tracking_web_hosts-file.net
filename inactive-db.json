@@ -352,10 +352,7 @@
             "ads1-fo.stickyadstv.com",
             "ads1.iweb.cortica.com",
             "ads1.qadabra.com",
-            "ads1.theglobeandmail.com"
-        ],
-        "to_test": [
-            "ads.tpvl.co",
+            "ads1.theglobeandmail.com",
             "ads2-fo.stickyadstv.com",
             "ads2.callwave.com",
             "ads2.collegeclub.com",
@@ -412,7 +409,10 @@
             "adshare.freedocast.com",
             "adshuh.com",
             "adsmarket.co.il",
-            "adsmile.biz",
+            "adsmile.biz"
+        ],
+        "to_test": [
+            "ads.tpvl.co",
             "adsnet.vpnboxil.com",
             "adsnext.net",
             "adsopx.com",
