@@ -272,9 +272,7 @@
             "ads.lanetro.com",
             "ads.lebenna.com",
             "ads.letemps.ch",
-            "ads.locators.com"
-        ],
-        "to_test": [
+            "ads.locators.com",
             "ads.macsolutions.com",
             "ads.mail3x.com",
             "ads.maotec-00.de",
@@ -336,7 +334,6 @@
             "ads.thewebfreaks.com",
             "ads.todomobile.co",
             "ads.top500.org",
-            "ads.tpvl.co",
             "ads.tweetmeme.com",
             "ads.unlimitedbanners.com",
             "ads.uol.com.ar",
@@ -355,7 +352,10 @@
             "ads1-fo.stickyadstv.com",
             "ads1.iweb.cortica.com",
             "ads1.qadabra.com",
-            "ads1.theglobeandmail.com",
+            "ads1.theglobeandmail.com"
+        ],
+        "to_test": [
+            "ads.tpvl.co",
             "ads2-fo.stickyadstv.com",
             "ads2.callwave.com",
             "ads2.collegeclub.com",
