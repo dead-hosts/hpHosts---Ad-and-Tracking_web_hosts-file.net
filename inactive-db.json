@@ -3612,19 +3612,7 @@
             "www.xtransfer.net",
             "www.yeppyepp.co.il",
             "www.yesupweb.com",
-            "www.youradslab.com"
-        ],
-        "to_test": [
-            "ads.tpvl.co",
-            "adv.securestudies.com",
-            "jupiter1.appads.com",
-            "jupiter3.appads.com",
-            "neptune.appads.com",
-            "neptune3.appads.com",
-            "req.appads.com",
-            "req2.appads.com",
-            "req3.appads.com",
-            "www.zinzimo.info",
+            "www.youradslab.com",
             "www.zoe-labat.us",
             "www1.fwarnr.us",
             "www10.sitetracker.com",
@@ -3690,9 +3678,20 @@
             "zb.bitterstrawberry.org",
             "zdfsup.ivwbox.de",
             "zdnet.ivwbox.de",
-            "zinzimo.info",
             "zo6.adservlite.com",
-            "zxcvb.space"
-        ]
+            "zxcvb.space",
+            "ads.tpvl.co",
+            "adv.securestudies.com",
+            "jupiter1.appads.com",
+            "jupiter3.appads.com",
+            "neptune.appads.com",
+            "neptune3.appads.com",
+            "req.appads.com",
+            "req2.appads.com",
+            "req3.appads.com",
+            "www.zinzimo.info",
+            "zinzimo.info"
+        ],
+        "to_test": []
     }
 }
