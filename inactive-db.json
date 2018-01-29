@@ -177,9 +177,7 @@
             "adplus.goo.mx",
             "adppv.com",
             "adpron.com",
-            "adproper.info"
-        ],
-        "to_test": [
+            "adproper.info",
             "adready.net",
             "adrianna-brumbelow.us",
             "adrienne-atkin.us",
@@ -274,7 +272,9 @@
             "ads.lanetro.com",
             "ads.lebenna.com",
             "ads.letemps.ch",
-            "ads.locators.com",
+            "ads.locators.com"
+        ],
+        "to_test": [
             "ads.macsolutions.com",
             "ads.mail3x.com",
             "ads.maotec-00.de",
