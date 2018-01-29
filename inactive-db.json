@@ -409,10 +409,7 @@
             "adshare.freedocast.com",
             "adshuh.com",
             "adsmarket.co.il",
-            "adsmile.biz"
-        ],
-        "to_test": [
-            "ads.tpvl.co",
+            "adsmile.biz",
             "adsnet.vpnboxil.com",
             "adsnext.net",
             "adsopx.com",
@@ -439,7 +436,6 @@
             "adv.digisesso.com",
             "adv.lampsplus.com",
             "adv.researchnow.co.uk",
-            "adv.securestudies.com",
             "adv0052.247realmedia.com",
             "adv777.com",
             "advantech.vo.llnwd.net",
@@ -456,6 +452,7 @@
             "advgoogle.com",
             "advision.webevents.yahoo.com",
             "advnt03.com",
+            "adwired.mobi",
             "adx.arip.co.th",
             "adx2.chip.de",
             "adxregie.com",
@@ -486,7 +483,11 @@
             "affilijack.luminea.de",
             "affilitracker.biz",
             "affirmer.science",
-            "afftrack.box.tmpds286.trkag1.com",
+            "afftrack.box.tmpds286.trkag1.com"
+        ],
+        "to_test": [
+            "ads.tpvl.co",
+            "adv.securestudies.com",
             "agata-lillard.us",
             "agata-wadlington.us",
             "agenda.complex.com",
