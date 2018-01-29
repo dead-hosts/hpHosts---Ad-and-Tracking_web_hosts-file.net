@@ -1262,11 +1262,7 @@
             "download.trustworthydownload.com",
             "drops.ads.visionweb.no",
             "dt001.net",
-            "dw.cbsi.com.cn"
-        ],
-        "to_test": [
-            "ads.tpvl.co",
-            "adv.securestudies.com",
+            "dw.cbsi.com.cn",
             "e.analytics.yahoo.com",
             "e.ilovethat.co.uk",
             "e.mouseflow.com",
@@ -1285,7 +1281,11 @@
             "edgar.ivwbox.de",
             "edna-read.us",
             "edw.insideline.com",
-            "edward-hulsey.us",
+            "edward-hulsey.us"
+        ],
+        "to_test": [
+            "ads.tpvl.co",
+            "adv.securestudies.com",
             "eileen-devore.us",
             "eileen-welk.us",
             "einsfest.ivwbox.de",
