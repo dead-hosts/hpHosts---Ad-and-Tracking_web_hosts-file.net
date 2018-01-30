@@ -5,7 +5,8 @@
         "-ex",
         "--plain",
         "--split",
-        "-t 2"
+        "-t 2",
+        "--share-logs"
     ],
     "autosave_minutes": "10",
     "commit_autosave_message": "Test of hpHosts---Ad-and-Tracking_web_hosts-file.net",
