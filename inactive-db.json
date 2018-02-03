@@ -129,13 +129,7 @@
             "ad.zoglafi.info",
             "ad1.bonadza.com",
             "ad1.trafficx.com",
-            "ad1.zendmedia.com"
-        ],
-        "to_test": [
-            "1und1.ivwbox.de",
-            "2df.ivwbox.de",
-            "3sat.ivwbox.de",
-            "4players.ivwbox.de",
+            "ad1.zendmedia.com",
             "ad2.advglobet.com",
             "ad2.bbmedia.cz",
             "ad2.billboard.cz",
@@ -159,7 +153,13 @@
             "adelina-strode.us",
             "adelogs.adobe.com",
             "adfeed.pagefair.net",
-            "adgalax.com",
+            "adgalax.com"
+        ],
+        "to_test": [
+            "1und1.ivwbox.de",
+            "2df.ivwbox.de",
+            "3sat.ivwbox.de",
+            "4players.ivwbox.de",
             "adimage.asiaone.com.sg",
             "adimages.4sure.com",
             "adincl.gopher.com",
