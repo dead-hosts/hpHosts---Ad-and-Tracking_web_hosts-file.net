@@ -390,13 +390,7 @@
             "adserver.ens-news.com",
             "adserver.freenet.de",
             "adserver.gtxcash.com",
-            "adserver.highspeedtesting.com"
-        ],
-        "to_test": [
-            "1und1.ivwbox.de",
-            "2df.ivwbox.de",
-            "3sat.ivwbox.de",
-            "4players.ivwbox.de",
+            "adserver.highspeedtesting.com",
             "adserver.itsfogo.com",
             "adserver.plhb.com",
             "adserver.singnet.com",
@@ -469,7 +463,13 @@
             "afdtkr.com",
             "aff.lottobooker.com",
             "affil.mupromo.com",
-            "affili.lr-vital.com",
+            "affili.lr-vital.com"
+        ],
+        "to_test": [
+            "1und1.ivwbox.de",
+            "2df.ivwbox.de",
+            "3sat.ivwbox.de",
+            "4players.ivwbox.de",
             "affiliate.7host.com",
             "affiliate.a4dtracker.com",
             "affiliate.ab1trk.com",
