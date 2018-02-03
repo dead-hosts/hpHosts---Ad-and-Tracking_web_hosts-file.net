@@ -335,13 +335,7 @@
             "ads.top500.org",
             "ads.tweetmeme.com",
             "ads.unlimitedbanners.com",
-            "ads.uol.com.ar"
-        ],
-        "to_test": [
-            "1und1.ivwbox.de",
-            "2df.ivwbox.de",
-            "3sat.ivwbox.de",
-            "4players.ivwbox.de",
+            "ads.uol.com.ar",
             "ads.veelporno.com",
             "ads.videoaxs.com",
             "ads.videostrip.com-prizes-giveaway.online",
@@ -391,10 +385,18 @@
             "adserver.affiliation.com",
             "adserver.banneradministration.com",
             "adserver.bluewin.ch",
+            "adserver.cyberpresse.ca",
             "adserver.dotcommedia.de",
             "adserver.ens-news.com",
             "adserver.freenet.de",
             "adserver.gtxcash.com",
+            "adserver.highspeedtesting.com"
+        ],
+        "to_test": [
+            "1und1.ivwbox.de",
+            "2df.ivwbox.de",
+            "3sat.ivwbox.de",
+            "4players.ivwbox.de",
             "adserver.itsfogo.com",
             "adserver.plhb.com",
             "adserver.singnet.com",
