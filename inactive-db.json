@@ -80,13 +80,7 @@
             "ad.collective-media.net",
             "ad.coupons.com",
             "ad.cpvfeed.com",
-            "ad.cuasar.info"
-        ],
-        "to_test": [
-            "1und1.ivwbox.de",
-            "2df.ivwbox.de",
-            "3sat.ivwbox.de",
-            "4players.ivwbox.de",
+            "ad.cuasar.info",
             "ad.ero.ru",
             "ad.exigomedia.com",
             "ad.fnnews.com",
@@ -103,6 +97,7 @@
             "ad.investopedia.com",
             "ad.jaumo.com",
             "ad.jokeroo.com",
+            "ad.kixer.com",
             "ad.lazynerd.info",
             "ad.madvertise.de",
             "ad.moboqo.com",
@@ -134,7 +129,13 @@
             "ad.zoglafi.info",
             "ad1.bonadza.com",
             "ad1.trafficx.com",
-            "ad1.zendmedia.com",
+            "ad1.zendmedia.com"
+        ],
+        "to_test": [
+            "1und1.ivwbox.de",
+            "2df.ivwbox.de",
+            "3sat.ivwbox.de",
+            "4players.ivwbox.de",
             "ad2.advglobet.com",
             "ad2.bbmedia.cz",
             "ad2.billboard.cz",
