@@ -2520,9 +2520,7 @@
             "tawny-joiner.us",
             "tbtrack.zugo.com",
             "tcy.smartadserver.com",
-            "tds.xlivevideo.ru"
-        ],
-        "to_test": [
+            "tds.xlivevideo.ru",
             "te.kontera.com",
             "te.suntimes.com",
             "telecommand.telemetry.microsoft.com.nsatc.net",
@@ -2648,7 +2646,9 @@
             "trackinguk2.com",
             "tracknewsletter.com",
             "traffic-delivery.org",
-            "traffic-exchanger.net",
+            "traffic-exchanger.net"
+        ],
+        "to_test": [
             "traffic.cimedia.com",
             "trafficlearn.com",
             "traffspot.com",
