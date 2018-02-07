@@ -137,9 +137,7 @@
             "ad2.bonadza.com",
             "ad2.ip.ro",
             "ad2.pl.mediainter.net",
-            "ad2387.com"
-        ],
-        "to_test": [
+            "ad2387.com",
             "ad3.bonadza.com",
             "ad3.liverail.com",
             "ad4.liverail.com",
@@ -168,7 +166,9 @@
             "admestate.ru",
             "admicro2.vcmedia.vn",
             "adnet.vn",
-            "adnetwork.net.vn",
+            "adnetwork.net.vn"
+        ],
+        "to_test": [
             "adotomy.com",
             "adparad.net",
             "adpath.mobi",
