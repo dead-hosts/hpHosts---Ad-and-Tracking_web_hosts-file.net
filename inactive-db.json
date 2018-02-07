@@ -2406,12 +2406,11 @@
             "static.directrev.com",
             "static.goaheadtours.netdna-cdn.com",
             "static.i47-safebrowse.com",
-            "static.k73me-mobile.com"
-        ],
-        "to_test": [
+            "static.k73me-mobile.com",
             "static.mlt01.com",
             "static.ndoverdrive.net",
             "static.nirror.com",
+            "static.o67-theguard.com",
             "static.pixazza.com",
             "static.salesresourcepartners.com",
             "static.smowtion.com",
@@ -2521,7 +2520,9 @@
             "tawny-joiner.us",
             "tbtrack.zugo.com",
             "tcy.smartadserver.com",
-            "tds.xlivevideo.ru",
+            "tds.xlivevideo.ru"
+        ],
+        "to_test": [
             "te.kontera.com",
             "te.suntimes.com",
             "telecommand.telemetry.microsoft.com.nsatc.net",
