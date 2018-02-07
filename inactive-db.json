@@ -740,9 +740,7 @@
             "bob02.bob.vmsn.de",
             "bonnie-schrecengost.us",
             "boom.udimg.com",
-            "boutique.telecharger.com"
-        ],
-        "to_test": [
+            "boutique.telecharger.com",
             "boxesists.com",
             "bpmsza.com",
             "br.ecritel.bench.cedexis.com",
@@ -776,7 +774,6 @@
             "bumperich.ru",
             "buzzbox.buzzfeed.com",
             "c.91wan.com",
-            "c.adroll.com",
             "c.baidu.com",
             "c.commtimize.com",
             "c.compete.com",
@@ -837,7 +834,9 @@
             "cathleen-rooker.us",
             "cathy-adams.us",
             "catrina-mcrae.us",
-            "cbjslog.baidu.com",
+            "cbjslog.baidu.com"
+        ],
+        "to_test": [
             "cct2.o2online.de",
             "cdn-static.liverail.com",
             "cdn.addelive.com",
