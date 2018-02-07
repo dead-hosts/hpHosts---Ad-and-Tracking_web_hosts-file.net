@@ -3460,9 +3460,7 @@
             "wzeu.ask.com",
             "wzus.ask.com",
             "wzus1.ask.com",
-            "wzuy1.ask.com"
-        ],
-        "to_test": [
+            "wzuy1.ask.com",
             "xa.xingcloud.com",
             "xbonus.net",
             "xml.fusionxml.com",
@@ -3715,6 +3713,7 @@
             "zdfsup.ivwbox.de",
             "zdnet.ivwbox.de",
             "zinzimo.info"
-        ]
+        ],
+        "to_test": []
     }
 }
