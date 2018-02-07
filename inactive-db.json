@@ -976,9 +976,7 @@
             "clickstream.loomia.com",
             "clickstrip.6wav.es",
             "clicktale.pantherssl.com",
-            "clicktalecdn.sslcs.cdngc.net"
-        ],
-        "to_test": [
+            "clicktalecdn.sslcs.cdngc.net",
             "client-verify.adtricity.com",
             "clients.tbo.com",
             "clk.about.com",
@@ -1042,7 +1040,9 @@
             "corrosif.science",
             "coudre.ovh",
             "count.xhit.com",
-            "count.yourmusic.cc",
+            "count.yourmusic.cc"
+        ],
+        "to_test": [
             "counter.adultcheck.com",
             "counter.d.delivery51.com",
             "counter.eanalyzer.de",
