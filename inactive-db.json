@@ -2722,9 +2722,7 @@
             "vpn.carmunity.de",
             "vprmnwbskk.com",
             "vroll.net",
-            "w.uimserv.net"
-        ],
-        "to_test": [
+            "w.uimserv.net",
             "w3.ime.net",
             "waiwidgets-1246822334.eu-west-1.elb.amazonaws.com",
             "wap.carmunity.de",
@@ -2744,8 +2742,6 @@
             "websexy.mobi",
             "websponsors.net",
             "websurvey.burstmedia.com",
-            "webtrack-brickstreetconnect-bau-prd.hsbc.com.hk",
-            "webtrack-brickstreetconnect-mkt-prd.hsbc.com.hk",
             "wendi-bell.us",
             "werehacked.com",
             "whitney-swindell.us",
@@ -2787,7 +2783,9 @@
             "www-cm.com",
             "www.123456.center",
             "www.123456.click",
-            "www.12place.com",
+            "www.12place.com"
+        ],
+        "to_test": [
             "www.1phads.com",
             "www.202trackingsoft.com",
             "www.3dots.co.il",
