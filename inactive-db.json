@@ -1109,9 +1109,7 @@
             "d.m3.net",
             "d.unanimis.co.uk",
             "d07d50a751bc6ddf12bf3af0efee9b45.dvdvideosoft.com",
-            "d15qhc0lu1ghnk.cloudfront.net"
-        ],
-        "to_test": [
+            "d15qhc0lu1ghnk.cloudfront.net",
             "d1clufhfw8sswh.cloudfront.net",
             "d1d43ayl08oaq2.cloudfront.net",
             "d1izbwxtc3f9ue.cloudfront.net",
@@ -1219,7 +1217,9 @@
             "download.trustworthydownload.com",
             "drops.ads.visionweb.no",
             "dt001.net",
-            "dw.cbsi.com.cn",
+            "dw.cbsi.com.cn"
+        ],
+        "to_test": [
             "e.analytics.yahoo.com",
             "e.ilovethat.co.uk",
             "e.mouseflow.com",
