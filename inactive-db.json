@@ -1442,9 +1442,7 @@
             "ilapi.ebay.com",
             "ilu.troughtheend.com",
             "image.adjuggler.com",
-            "image.directadvert.ru"
-        ],
-        "to_test": [
+            "image.directadvert.ru",
             "image.emaradx.com",
             "image.ugo.com",
             "image01.ctvdigital.com",
@@ -1617,7 +1615,9 @@
             "kimberley-chin.us",
             "kimberley-mackinnon.us",
             "kimberly-worsham.us",
-            "kimia.monetizerlink.com",
+            "kimia.monetizerlink.com"
+        ],
+        "to_test": [
             "kona.kontera.com",
             "kona32.kontera.com",
             "kori-stimson.us",
