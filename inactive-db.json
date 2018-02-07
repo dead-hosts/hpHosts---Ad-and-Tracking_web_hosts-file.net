@@ -834,9 +834,7 @@
             "cathleen-rooker.us",
             "cathy-adams.us",
             "catrina-mcrae.us",
-            "cbjslog.baidu.com"
-        ],
-        "to_test": [
+            "cbjslog.baidu.com",
             "cct2.o2online.de",
             "cdn-static.liverail.com",
             "cdn.addelive.com",
@@ -978,7 +976,9 @@
             "clickstream.loomia.com",
             "clickstrip.6wav.es",
             "clicktale.pantherssl.com",
-            "clicktalecdn.sslcs.cdngc.net",
+            "clicktalecdn.sslcs.cdngc.net"
+        ],
+        "to_test": [
             "client-verify.adtricity.com",
             "clients.tbo.com",
             "clk.about.com",
