@@ -1217,9 +1217,7 @@
             "download.trustworthydownload.com",
             "drops.ads.visionweb.no",
             "dt001.net",
-            "dw.cbsi.com.cn"
-        ],
-        "to_test": [
+            "dw.cbsi.com.cn",
             "e.analytics.yahoo.com",
             "e.ilovethat.co.uk",
             "e.mouseflow.com",
@@ -1235,7 +1233,9 @@
             "eddie-theriot.us",
             "edna-read.us",
             "edw.insideline.com",
-            "edward-hulsey.us",
+            "edward-hulsey.us"
+        ],
+        "to_test": [
             "eileen-devore.us",
             "eileen-welk.us",
             "elaine-hamdan.us",
