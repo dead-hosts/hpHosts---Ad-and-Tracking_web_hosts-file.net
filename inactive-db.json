@@ -2050,9 +2050,7 @@
             "openx.ip.radio.de",
             "openx.xenium.pl",
             "ornacorn.com",
-            "otter.topsy.com"
-        ],
-        "to_test": [
+            "otter.topsy.com",
             "ox-d.bstk.servedbyopenx.com",
             "ox-d.buyer.servedbyopenx.com",
             "ox-d.enveromedia.com",
@@ -2143,7 +2141,9 @@
             "printdirectoryinfo.com",
             "printdirectorylinks.com",
             "printdirectorylistings.com",
-            "priscilla-rush.us",
+            "priscilla-rush.us"
+        ],
+        "to_test": [
             "prochina.work",
             "profile.uimserv.net",
             "proxy.mobilecore.com",
