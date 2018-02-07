@@ -701,9 +701,7 @@
             "banners.moviesunlimited.com",
             "banners.nichepromotion.com",
             "banners.nocreditcardgay.com",
-            "banners.officialauctions.com"
-        ],
-        "to_test": [
+            "banners.officialauctions.com",
             "banners.paixaogay.com",
             "banners.passeilimitado.com",
             "banners.spiceworks.com",
@@ -742,7 +740,9 @@
             "bob02.bob.vmsn.de",
             "bonnie-schrecengost.us",
             "boom.udimg.com",
-            "boutique.telecharger.com",
+            "boutique.telecharger.com"
+        ],
+        "to_test": [
             "boxesists.com",
             "bpmsza.com",
             "br.ecritel.bench.cedexis.com",
