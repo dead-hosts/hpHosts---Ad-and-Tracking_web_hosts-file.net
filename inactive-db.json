@@ -2333,9 +2333,7 @@
             "shonda-nowicki.us",
             "show.buzzcity.net",
             "show.wwbads.com",
-            "sierra-arwood.us"
-        ],
-        "to_test": [
+            "sierra-arwood.us",
             "silvia-maffei.us",
             "simona-godoy.us",
             "simona-regnier.us",
@@ -2407,6 +2405,10 @@
             "static.crowdscience.com",
             "static.directrev.com",
             "static.goaheadtours.netdna-cdn.com",
+            "static.i47-safebrowse.com",
+            "static.k73me-mobile.com"
+        ],
+        "to_test": [
             "static.mlt01.com",
             "static.ndoverdrive.net",
             "static.nirror.com",
