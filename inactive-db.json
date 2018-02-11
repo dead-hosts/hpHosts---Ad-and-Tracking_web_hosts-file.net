@@ -378,10 +378,7 @@
             "ads_ad_center.s3.amazonaws.com",
             "adsbrokermirror1.info",
             "adsbrokermirror3.info",
-            "adsbrokermirror4.info"
-        ],
-        "to_test": [
-            "ads.videostrip.com-prizes-giveaway.online",
+            "adsbrokermirror4.info",
             "adserv.680180.net",
             "adserv.adscpm.com",
             "adserv.entriq.net",
@@ -413,12 +410,10 @@
             "adserverstatus.com",
             "adservices02.picadmedia.com",
             "adserving.adswisher.com",
-            "adserving.bizcrank.com",
             "adserving.clicknety.com",
             "adserving.flagcpc.com",
             "adserving.liveuniversenetwork.com",
             "adserving.trafficsupplier.net",
-            "adservpi.com",
             "adshare.freedocast.com",
             "adshuh.com",
             "adsmarket.co.il",
@@ -451,7 +446,11 @@
             "adv0052.247realmedia.com",
             "adv777.com",
             "advantech.vo.llnwd.net",
-            "advert.trainingtools.com",
+            "advert.trainingtools.com"
+        ],
+        "to_test": [
+            "ads.videostrip.com-prizes-giveaway.online",
+            "adservpi.com",
             "advertex.media-vertex.com",
             "advertise.about.com",
             "advertiser.clicknety.com",
