@@ -446,11 +446,7 @@
             "adv0052.247realmedia.com",
             "adv777.com",
             "advantech.vo.llnwd.net",
-            "advert.trainingtools.com"
-        ],
-        "to_test": [
-            "ads.videostrip.com-prizes-giveaway.online",
-            "adservpi.com",
+            "advert.trainingtools.com",
             "advertex.media-vertex.com",
             "advertise.about.com",
             "advertiser.clicknety.com",
@@ -518,6 +514,7 @@
             "alisa-green.us",
             "alisa-rake.us",
             "alissa-blanchard.us",
+            "alldcs.sphere.com",
             "alleyezonme-collection.buzzfeed.com",
             "allie-cunha.us",
             "allie-hobdy.us",
@@ -577,7 +574,11 @@
             "ap.lookout.com",
             "ap.xad.com",
             "apac.analytics.yahoo.com",
-            "api.ad.ly",
+            "api.ad.ly"
+        ],
+        "to_test": [
+            "ads.videostrip.com-prizes-giveaway.online",
+            "adservpi.com",
             "api.burt.io",
             "api.choicestream.com",
             "api.contentclick.co.uk",
