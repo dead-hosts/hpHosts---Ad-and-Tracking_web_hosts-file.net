@@ -677,11 +677,7 @@
             "bandai.hs.llnwd.net",
             "banner.betwwts.com",
             "banner.bruteforcemarket.com",
-            "banner.comtec.de"
-        ],
-        "to_test": [
-            "ads.videostrip.com-prizes-giveaway.online",
-            "adservpi.com",
+            "banner.comtec.de",
             "banner.gala.se",
             "banner.glopro.com",
             "banner.indicate.to",
@@ -700,6 +696,7 @@
             "banners.cinepolis.com",
             "banners.cm.ru",
             "banners.dmarie.com",
+            "banners.dolcdn.gr",
             "banners.driving4dollars.com",
             "banners.e-dologic.co.il",
             "banners.ebay.com",
@@ -726,7 +723,11 @@
             "baryof.com",
             "bbc.2cnt.net",
             "bcm.itv.com",
-            "beacon.heliumnetwork.com",
+            "beacon.heliumnetwork.com"
+        ],
+        "to_test": [
+            "ads.videostrip.com-prizes-giveaway.online",
+            "adservpi.com",
             "beacon.net-updater.com",
             "beacon.www.theguardian.com",
             "bernadette-durrett.us",
