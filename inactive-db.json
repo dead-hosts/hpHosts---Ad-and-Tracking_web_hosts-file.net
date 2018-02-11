@@ -574,11 +574,7 @@
             "ap.lookout.com",
             "ap.xad.com",
             "apac.analytics.yahoo.com",
-            "api.ad.ly"
-        ],
-        "to_test": [
-            "ads.videostrip.com-prizes-giveaway.online",
-            "adservpi.com",
+            "api.ad.ly",
             "api.burt.io",
             "api.choicestream.com",
             "api.contentclick.co.uk",
@@ -681,7 +677,11 @@
             "bandai.hs.llnwd.net",
             "banner.betwwts.com",
             "banner.bruteforcemarket.com",
-            "banner.comtec.de",
+            "banner.comtec.de"
+        ],
+        "to_test": [
+            "ads.videostrip.com-prizes-giveaway.online",
+            "adservpi.com",
             "banner.gala.se",
             "banner.glopro.com",
             "banner.indicate.to",
