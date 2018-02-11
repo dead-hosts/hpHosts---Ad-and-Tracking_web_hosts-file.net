@@ -81,9 +81,7 @@
             "ad.collective-media.net",
             "ad.coupons.com",
             "ad.cpvfeed.com",
-            "ad.cuasar.info"
-        ],
-        "to_test": [
+            "ad.cuasar.info",
             "ad.ero.ru",
             "ad.exigomedia.com",
             "ad.fnnews.com",
@@ -130,7 +128,10 @@
             "ad.yashi.com",
             "ad.yieldx.com",
             "ad.zoglafi.info",
-            "ad1.bonadza.com",
+            "ad1.adinfuse.com",
+            "ad1.bonadza.com"
+        ],
+        "to_test": [
             "ad1.trafficx.com",
             "ad1.zendmedia.com",
             "ad2.advglobet.com",
