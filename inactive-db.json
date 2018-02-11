@@ -149,11 +149,10 @@
             "adbytes.buzzbytes.net",
             "adcarem.co",
             "adcode.optimatic.com",
-            "adcount.in"
-        ],
-        "to_test": [
+            "adcount.in",
             "adcounter.globeandmail.com",
             "adcycle.standard.net",
+            "addebris.link",
             "adelina-ashman.us",
             "adelina-strode.us",
             "adelogs.adobe.com",
@@ -167,6 +166,7 @@
             "adk2.adperium.com",
             "adlayer.net",
             "admail.am",
+            "adman_test.go2cloud.org",
             "admaster.candela.com.au",
             "admestate.ru",
             "admicro2.vcmedia.vn",
@@ -206,6 +206,7 @@
             "ads.adroar.com",
             "ads.adservhere.com",
             "ads.adsfirefly.com",
+            "ads.adshub.net",
             "ads.adsoptimizer.net",
             "ads.adsrig.com",
             "ads.adultadvertising.net",
@@ -237,7 +238,9 @@
             "ads.cimedia.com",
             "ads.clearbluemedia.com",
             "ads.cnn.com",
-            "ads.comicbookresources.com",
+            "ads.comicbookresources.com"
+        ],
+        "to_test": [
             "ads.communityserver.org",
             "ads.coolads.de",
             "ads.cos.com",
