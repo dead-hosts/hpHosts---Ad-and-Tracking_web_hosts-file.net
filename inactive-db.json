@@ -383,9 +383,7 @@
             "adsbrokermirror4.info",
             "adserv.680180.net",
             "adserv.adscpm.com",
-            "adserv.entriq.net"
-        ],
-        "to_test": [
+            "adserv.entriq.net",
             "adserv.quality-channel.com",
             "adserv.quality-channel.de",
             "adserv.spiegel.de",
@@ -414,6 +412,7 @@
             "adserverstatus.com",
             "adservices02.picadmedia.com",
             "adserving.adswisher.com",
+            "adserving.bizcrank.com",
             "adserving.clicknety.com",
             "adserving.flagcpc.com",
             "adserving.liveuniversenetwork.com",
@@ -459,7 +458,9 @@
             "advertising.mortgagebankers.org",
             "advertising.veeseo.com",
             "advertisingpath.net",
-            "advertlead.net",
+            "advertlead.net"
+        ],
+        "to_test": [
             "advgoogle.com",
             "advision.webevents.yahoo.com",
             "advnt03.com",
