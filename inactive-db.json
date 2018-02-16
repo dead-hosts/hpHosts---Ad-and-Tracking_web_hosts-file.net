@@ -586,9 +586,7 @@
             "api.opencandy.com",
             "api.perun.s5labs.io",
             "api.ringtonematcher.com",
-            "api.seomsg.com"
-        ],
-        "to_test": [
+            "api.seomsg.com",
             "api.statdns.com",
             "api.superfish.com",
             "api.tapfortap.com",
@@ -681,7 +679,9 @@
             "bandai.hs.llnwd.net",
             "banner.betwwts.com",
             "banner.bruteforcemarket.com",
-            "banner.comtec.de",
+            "banner.comtec.de"
+        ],
+        "to_test": [
             "banner.gala.se",
             "banner.glopro.com",
             "banner.indicate.to",
