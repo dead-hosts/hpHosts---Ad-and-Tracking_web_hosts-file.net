@@ -1447,13 +1447,7 @@
             "i2.crtcdn.net",
             "iadtools.cimedia.com",
             "idvisitor.socialreader.com",
-            "iframe.travel.yahoo.com"
-        ],
-        "to_test": [
-            "boxesists.com",
-            "callmd5map.com",
-            "click.mvc19.com",
-            "good.9downloadall.com",
+            "iframe.travel.yahoo.com",
             "ihatepops.com",
             "ilapi.ebay.com",
             "ilu.troughtheend.com",
@@ -1463,7 +1457,6 @@
             "image.ugo.com",
             "image01.ctvdigital.com",
             "imagec18.247realmedia.com",
-            "images-geo.outbrain.com",
             "images.cenniche.com",
             "images.engine54.com",
             "images.freeshop.com",
@@ -1568,7 +1561,13 @@
             "js.buzzcity.net",
             "js.cdn.ac",
             "js.socialsay.me",
-            "js.uvidi.com",
+            "js.uvidi.com"
+        ],
+        "to_test": [
+            "boxesists.com",
+            "callmd5map.com",
+            "click.mvc19.com",
+            "good.9downloadall.com",
             "jsfeedadsget.com",
             "juana-gribble.us",
             "judith-whitbeck.us",
