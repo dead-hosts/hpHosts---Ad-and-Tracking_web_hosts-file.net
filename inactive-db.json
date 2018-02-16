@@ -19,13 +19,10 @@
             "a.affil.io",
             "a.analytics.yahoo.com",
             "a.clookie.net",
-            "a.collective-media.net"
-        ],
-        "to_test": [
+            "a.collective-media.net",
             "a.contentabc.net",
             "a.fashiocdn.com",
             "a.kat.cr",
-            "a.msclickrdr.com",
             "a.oix.net",
             "a.rad.msn.com",
             "a.rdb.so",
@@ -64,6 +61,7 @@
             "acvsrv.mediaonenetwork.net",
             "ad-411.com",
             "ad-images.suntimes.com",
+            "ad-incisive.grapeshot.co.uk",
             "ad-text.com",
             "ad.about.com",
             "ad.adbest.com",
@@ -83,7 +81,9 @@
             "ad.collective-media.net",
             "ad.coupons.com",
             "ad.cpvfeed.com",
-            "ad.cuasar.info",
+            "ad.cuasar.info"
+        ],
+        "to_test": [
             "ad.ero.ru",
             "ad.exigomedia.com",
             "ad.fnnews.com",
