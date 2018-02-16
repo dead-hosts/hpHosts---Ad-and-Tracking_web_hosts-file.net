@@ -783,11 +783,9 @@
             "bumperich.ru",
             "buysellad.eu",
             "buzzbox.buzzfeed.com",
-            "c.91wan.com"
-        ],
-        "to_test": [
-            "boxesists.com",
+            "c.91wan.com",
             "c.adroll.com",
+            "c.allegrostatic.pl",
             "c.baidu.com",
             "c.commtimize.com",
             "c.compete.com",
@@ -813,7 +811,6 @@
             "caitlin-spry.us",
             "caitlyn-peet.us",
             "calendrier.science",
-            "callmd5map.com",
             "calme.science",
             "cameron-wolter.us",
             "camille-drennen.us",
@@ -965,7 +962,11 @@
             "cinthya-sipe.us",
             "cipg.actonsoftware.com",
             "circonstance.science",
-            "city.sk",
+            "city.sk"
+        ],
+        "to_test": [
+            "boxesists.com",
+            "callmd5map.com",
             "cjmooter.xcache.kinxcdn.com",
             "cktagalongs.com",
             "claire-bonelli.us",
