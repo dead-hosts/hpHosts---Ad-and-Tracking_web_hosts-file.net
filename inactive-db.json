@@ -331,9 +331,7 @@
             "ads.rottentomatoes.com",
             "ads.securebanners.biz",
             "ads.sid-ads.com",
-            "ads.sittiad.com"
-        ],
-        "to_test": [
+            "ads.sittiad.com",
             "ads.smartdevicemedia.com",
             "ads.smowtion.com",
             "ads.stationplay.com",
@@ -343,6 +341,7 @@
             "ads.tfxiq.com",
             "ads.theglobeandmail.com",
             "ads.thewebfreaks.com",
+            "ads.tlvmedia.com",
             "ads.todomobile.co",
             "ads.top500.org",
             "ads.tweetmeme.com",
@@ -384,7 +383,9 @@
             "adsbrokermirror4.info",
             "adserv.680180.net",
             "adserv.adscpm.com",
-            "adserv.entriq.net",
+            "adserv.entriq.net"
+        ],
+        "to_test": [
             "adserv.quality-channel.com",
             "adserv.quality-channel.de",
             "adserv.spiegel.de",
