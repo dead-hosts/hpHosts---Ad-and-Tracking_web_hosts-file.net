@@ -458,9 +458,7 @@
             "advertising.mortgagebankers.org",
             "advertising.veeseo.com",
             "advertisingpath.net",
-            "advertlead.net"
-        ],
-        "to_test": [
+            "advertlead.net",
             "advgoogle.com",
             "advision.webevents.yahoo.com",
             "advnt03.com",
@@ -519,7 +517,6 @@
             "alisa-green.us",
             "alisa-rake.us",
             "alissa-blanchard.us",
-            "alldcs.sphere.com",
             "alleyezonme-collection.buzzfeed.com",
             "allie-cunha.us",
             "allie-hobdy.us",
@@ -589,7 +586,9 @@
             "api.opencandy.com",
             "api.perun.s5labs.io",
             "api.ringtonematcher.com",
-            "api.seomsg.com",
+            "api.seomsg.com"
+        ],
+        "to_test": [
             "api.statdns.com",
             "api.superfish.com",
             "api.tapfortap.com",
