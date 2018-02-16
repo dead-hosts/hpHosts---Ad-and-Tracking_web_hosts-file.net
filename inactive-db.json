@@ -238,9 +238,7 @@
             "ads.cimedia.com",
             "ads.clearbluemedia.com",
             "ads.cnn.com",
-            "ads.comicbookresources.com"
-        ],
-        "to_test": [
+            "ads.comicbookresources.com",
             "ads.communityserver.org",
             "ads.contentabc.net",
             "ads.coolads.de",
@@ -284,6 +282,7 @@
             "ads.lebenna.com",
             "ads.letemps.ch",
             "ads.locators.com",
+            "ads.lubbockonline.com",
             "ads.macsolutions.com",
             "ads.mail3x.com",
             "ads.maotec-00.de",
@@ -332,7 +331,9 @@
             "ads.rottentomatoes.com",
             "ads.securebanners.biz",
             "ads.sid-ads.com",
-            "ads.sittiad.com",
+            "ads.sittiad.com"
+        ],
+        "to_test": [
             "ads.smartdevicemedia.com",
             "ads.smowtion.com",
             "ads.stationplay.com",
