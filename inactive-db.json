@@ -147,9 +147,7 @@
             "ad5.liverail.com",
             "adam-rizer.us",
             "adbytes.buzzbytes.net",
-            "adcarem.co"
-        ],
-        "to_test": [
+            "adcarem.co",
             "adcode.optimatic.com",
             "adcount.in",
             "adcounter.globeandmail.com",
@@ -181,6 +179,7 @@
             "adpick.switchboard.com",
             "adplus.goo.mx",
             "adppv.com",
+            "adproject.net",
             "adpron.com",
             "adproper.info",
             "adprs.net",
@@ -207,7 +206,6 @@
             "ads.adprofs.com",
             "ads.adroar.com",
             "ads.adservhere.com",
-            "ads.adsfirefly.com",
             "ads.adshub.net",
             "ads.adsoptimizer.net",
             "ads.adsrig.com",
@@ -240,7 +238,9 @@
             "ads.cimedia.com",
             "ads.clearbluemedia.com",
             "ads.cnn.com",
-            "ads.comicbookresources.com",
+            "ads.comicbookresources.com"
+        ],
+        "to_test": [
             "ads.communityserver.org",
             "ads.contentabc.net",
             "ads.coolads.de",
