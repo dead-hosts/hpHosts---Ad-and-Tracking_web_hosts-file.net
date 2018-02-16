@@ -127,9 +127,7 @@
             "ad.wedoo.com",
             "ad.yashi.com",
             "ad.yieldx.com",
-            "ad.zoglafi.info"
-        ],
-        "to_test": [
+            "ad.zoglafi.info",
             "ad1.adinfuse.com",
             "ad1.bonadza.com",
             "ad1.trafficx.com",
@@ -149,7 +147,9 @@
             "ad5.liverail.com",
             "adam-rizer.us",
             "adbytes.buzzbytes.net",
-            "adcarem.co",
+            "adcarem.co"
+        ],
+        "to_test": [
             "adcode.optimatic.com",
             "adcount.in",
             "adcounter.globeandmail.com",
