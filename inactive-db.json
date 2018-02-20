@@ -419,9 +419,7 @@
             "adserving.liveuniversenetwork.com",
             "adserving.trafficsupplier.net",
             "adshare.freedocast.com",
-            "adshuh.com"
-        ],
-        "to_test": [
+            "adshuh.com",
             "adsmarket.co.il",
             "adsmile.biz",
             "adsnet.vpnboxil.com",
@@ -495,7 +493,9 @@
             "affilijack.luminea.de",
             "affilitracker.biz",
             "affirmer.science",
-            "afftrack.box.tmpds286.trkag1.com",
+            "afftrack.box.tmpds286.trkag1.com"
+        ],
+        "to_test": [
             "agata-lillard.us",
             "agata-wadlington.us",
             "agenda.complex.com",
