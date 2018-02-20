@@ -2314,9 +2314,7 @@
             "secretgrowth-00866.us",
             "secretgrowth-12198.us",
             "secretgrowth-53664.us",
-            "sectracking.com"
-        ],
-        "to_test": [
+            "sectracking.com",
             "selena-corkery.us",
             "selina-krouse.us",
             "selina-scarlett.us",
@@ -2394,7 +2392,9 @@
             "sprinks-clicks.about.com",
             "sprinks.about.com",
             "spynettest.microsoft.com",
-            "srv.perf.overture.com",
+            "srv.perf.overture.com"
+        ],
+        "to_test": [
             "srv1.wa.marketingsolutions.yahoo.com",
             "srv2.wa.marketingsolutions.yahoo.com",
             "srv3.wa.marketingsolutions.yahoo.com",
