@@ -1273,9 +1273,7 @@
             "emma-gabbert.us",
             "en.mywebzines.com",
             "en.oxosurf.eu",
-            "engine.awaps.net"
-        ],
-        "to_test": [
+            "engine.awaps.net",
             "engine.bottomdollar.com",
             "engine.data.cnzz.com",
             "engine.gamerati.net",
@@ -1344,7 +1342,9 @@
             "fmdwbsfxf0.com",
             "foreverb.rxmedicalweb.netdna-cdn.com",
             "forum.openx.org",
-            "fr.static.planet49.com",
+            "fr.static.planet49.com"
+        ],
+        "to_test": [
             "francesca-fleetwood.us",
             "francesca-studer.us",
             "free-counter.5u.com",
