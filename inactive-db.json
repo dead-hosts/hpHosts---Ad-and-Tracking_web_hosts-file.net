@@ -1237,9 +1237,7 @@
             "dw.cbsi.com.cn",
             "e.analytics.yahoo.com",
             "e.ilovethat.co.uk",
-            "e.mouseflow.com"
-        ],
-        "to_test": [
+            "e.mouseflow.com",
             "e2yth.tv",
             "ea-traffic-redirection.com",
             "ea.clubic.com",
@@ -1275,7 +1273,9 @@
             "emma-gabbert.us",
             "en.mywebzines.com",
             "en.oxosurf.eu",
-            "engine.awaps.net",
+            "engine.awaps.net"
+        ],
+        "to_test": [
             "engine.bottomdollar.com",
             "engine.data.cnzz.com",
             "engine.gamerati.net",
