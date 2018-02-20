@@ -171,9 +171,7 @@
             "admestate.ru",
             "admicro2.vcmedia.vn",
             "admobtube.com",
-            "adnet.vn"
-        ],
-        "to_test": [
+            "adnet.vn",
             "adnetwork.net.vn",
             "adotomy.com",
             "adparad.net",
@@ -280,7 +278,9 @@
             "ads.internova.de",
             "ads.iweb.cortica.com",
             "ads.jacksonville.com",
-            "ads.komli.com",
+            "ads.komli.com"
+        ],
+        "to_test": [
             "ads.lanetro.com",
             "ads.lebenna.com",
             "ads.letemps.ch",
