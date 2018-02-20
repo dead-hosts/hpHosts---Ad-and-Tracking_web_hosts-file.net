@@ -1569,9 +1569,7 @@
             "js.cdn.ac",
             "js.socialsay.me",
             "js.uvidi.com",
-            "jsfeedadsget.com"
-        ],
-        "to_test": [
+            "jsfeedadsget.com",
             "juana-gribble.us",
             "judith-whitbeck.us",
             "juliana-clawson.us",
@@ -1826,7 +1824,9 @@
             "lynsey-mabon.us",
             "lzxrz.net",
             "m.millennialmedia.com",
-            "m.webtrends.com",
+            "m.webtrends.com"
+        ],
+        "to_test": [
             "m12n.servebom.com",
             "m1449.ic-live.com",
             "m1639.ic-live.com",
