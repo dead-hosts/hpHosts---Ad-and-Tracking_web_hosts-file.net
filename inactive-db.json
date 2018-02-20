@@ -3483,9 +3483,7 @@
             "wzus1.ask.com",
             "wzuy1.ask.com",
             "xa.xingcloud.com",
-            "xbonus.net"
-        ],
-        "to_test": [
+            "xbonus.net",
             "xml.fusionxml.com",
             "xml.searcherpro.net",
             "y.analytics.yahoo.com",
@@ -3769,6 +3767,7 @@
             "zdfsup.ivwbox.de",
             "zdnet.ivwbox.de",
             "zinzimo.info"
-        ]
+        ],
+        "to_test": []
     }
 }
