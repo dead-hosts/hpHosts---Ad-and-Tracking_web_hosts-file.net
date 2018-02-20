@@ -981,10 +981,9 @@
             "click.investopedia.com",
             "click.netpondcash.com",
             "click.whittlesbiz.info",
-            "clickbubbles.net"
-        ],
-        "to_test": [
+            "clickbubbles.net",
             "clickheat.elitedaily.com",
+            "clickhoofind.com",
             "clicknano.com",
             "clicks.ientrymail.com",
             "clicks.superpages.com",
@@ -1023,6 +1022,7 @@
             "collector.stats.webs.com",
             "colleen-kelso.us",
             "colline.science",
+            "com-magazin.de.adadapter.netzathleten-media.de",
             "comme.science",
             "commerce.cimedia.com",
             "compagnie.science",
@@ -1054,7 +1054,9 @@
             "corrosif.science",
             "coudre.ovh",
             "count.xhit.com",
-            "count.yourmusic.cc",
+            "count.yourmusic.cc"
+        ],
+        "to_test": [
             "counter.adultcheck.com",
             "counter.d.delivery51.com",
             "counter.eanalyzer.de",
