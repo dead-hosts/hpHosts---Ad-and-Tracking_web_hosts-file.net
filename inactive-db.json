@@ -2730,9 +2730,7 @@
             "vf9.soundsecuredredir.com",
             "vhi1.surf-town.net",
             "videos.cdn.puatraffic.com",
-            "videos.video-loader.com"
-        ],
-        "to_test": [
+            "videos.video-loader.com",
             "viewstffdater.com",
             "vincent-carnahan.us",
             "visitors.dooyoo.co.uk",
@@ -2760,7 +2758,9 @@
             "webcontrolling.net",
             "webhitsdirect.com",
             "weblogger01.data.disney.com",
-            "webmasterkai.sitetracker.com",
+            "webmasterkai.sitetracker.com"
+        ],
+        "to_test": [
             "webquickfind.com",
             "webservops.com",
             "websexy.mobi",
