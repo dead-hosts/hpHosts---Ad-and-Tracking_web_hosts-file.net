@@ -753,9 +753,7 @@
             "bob01.con.vmsn.de",
             "bob02.bob.vmsn.de",
             "bonnie-schrecengost.us",
-            "boom.udimg.com"
-        ],
-        "to_test": [
+            "boom.udimg.com",
             "boutique.telecharger.com",
             "bpmsza.com",
             "br.ecritel.bench.cedexis.com",
@@ -809,7 +807,9 @@
             "c1605.ic-live.com",
             "c2007.ic-live.com",
             "c2s-openrtb.liverail.com",
-            "c5.2-01-29be-0005.cdx.cedexis.net",
+            "c5.2-01-29be-0005.cdx.cedexis.net"
+        ],
+        "to_test": [
             "cache.bizrate.com",
             "cache.blogads.com",
             "cache.fashionista.com",
