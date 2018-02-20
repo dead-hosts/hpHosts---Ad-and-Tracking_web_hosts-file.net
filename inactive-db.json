@@ -2392,9 +2392,7 @@
             "sprinks-clicks.about.com",
             "sprinks.about.com",
             "spynettest.microsoft.com",
-            "srv.perf.overture.com"
-        ],
-        "to_test": [
+            "srv.perf.overture.com",
             "srv1.wa.marketingsolutions.yahoo.com",
             "srv2.wa.marketingsolutions.yahoo.com",
             "srv3.wa.marketingsolutions.yahoo.com",
@@ -2404,7 +2402,7 @@
             "ssl-default.2cnt.net",
             "ssl-error.2cnt.net",
             "ssl-hints.netflame.cc",
-            "ssl-stumbleupon-com-ded5f3.c-col.com",
+            "ssp.virool.com",
             "st1.surf-town.net",
             "st2.surf-town.net",
             "st3.surf-town.net",
@@ -2412,6 +2410,7 @@
             "stacia-jose.us",
             "stacia-ware.us",
             "stacie-hockett.us",
+            "stadt-bremerhaven.de.adadapter.netzathleten-media.de",
             "staging.iframe.sponsorpay.com",
             "starterdir.ru",
             "stat.active24stats.nl",
@@ -2502,7 +2501,9 @@
             "sw.static.planet49.com",
             "swappit.tapad.com",
             "sweepstakes.about.com",
-            "sweetim.sweetpacks.com",
+            "sweetim.sweetpacks.com"
+        ],
+        "to_test": [
             "sydney-steil.us",
             "sync.adjuggler.zenoviaexchange.com",
             "sync.apnx.zenoviaexchange.com",
