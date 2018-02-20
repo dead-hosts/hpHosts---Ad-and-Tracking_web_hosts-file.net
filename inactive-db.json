@@ -807,9 +807,7 @@
             "c1605.ic-live.com",
             "c2007.ic-live.com",
             "c2s-openrtb.liverail.com",
-            "c5.2-01-29be-0005.cdx.cedexis.net"
-        ],
-        "to_test": [
+            "c5.2-01-29be-0005.cdx.cedexis.net",
             "cache.bizrate.com",
             "cache.blogads.com",
             "cache.fashionista.com",
@@ -983,7 +981,9 @@
             "click.investopedia.com",
             "click.netpondcash.com",
             "click.whittlesbiz.info",
-            "clickbubbles.net",
+            "clickbubbles.net"
+        ],
+        "to_test": [
             "clickheat.elitedaily.com",
             "clicknano.com",
             "clicks.ientrymail.com",
