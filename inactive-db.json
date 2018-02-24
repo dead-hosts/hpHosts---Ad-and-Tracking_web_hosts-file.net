@@ -1055,9 +1055,7 @@
             "corrosif.science",
             "coudre.ovh",
             "count.xhit.com",
-            "count.yourmusic.cc"
-        ],
-        "to_test": [
+            "count.yourmusic.cc",
             "counter.adultcheck.com",
             "counter.d.delivery51.com",
             "counter.eanalyzer.de",
@@ -1110,7 +1108,9 @@
             "css.aliyun.com",
             "css.uvidi.com",
             "ct.buzzfeed.com",
-            "ct4.addthis.com",
+            "ct4.addthis.com"
+        ],
+        "to_test": [
             "cts-log.channelintelligence.com",
             "cts.adssend.net",
             "cts.channelintelligence.com",
