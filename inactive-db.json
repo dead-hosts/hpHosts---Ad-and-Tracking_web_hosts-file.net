@@ -1517,9 +1517,7 @@
             "jasmin-thaxton.us",
             "jasmine-beecham.us",
             "jasmine-wilner.us",
-            "jayme-cray.us"
-        ],
-        "to_test": [
+            "jayme-cray.us",
             "jbugk.com",
             "jeana-pedigo.us",
             "jeanette-cropper.us",
@@ -1789,7 +1787,9 @@
             "log.shipweb.jp",
             "log.sz-online.de",
             "log1.surf-town.net",
-            "logger.sociablelabs.com",
+            "logger.sociablelabs.com"
+        ],
+        "to_test": [
             "logging.windows.microsoft.com",
             "loggingservices.tribune.com",
             "logs.live.tudou.com",
