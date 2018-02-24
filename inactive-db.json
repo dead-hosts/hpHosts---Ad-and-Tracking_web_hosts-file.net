@@ -3450,10 +3450,7 @@
             "www.yesupweb.com",
             "www.youradslab.com",
             "www.zoe-labat.us",
-            "www1.fwarnr.us"
-        ],
-        "to_test": [
-            "static.directrev.com",
+            "www1.fwarnr.us",
             "www10.sitetracker.com",
             "www1flypeit.maynemyltf.netdna-cdn.com",
             "www2.burstnet.com",
@@ -3711,6 +3708,7 @@
             "spielfil.ivwbox.de",
             "sport1.ivwbox.de",
             "sshtunnel.at",
+            "static.directrev.com",
             "static.i47-safebrowse.com",
             "static.k73me-mobile.com",
             "static.o67-theguard.com",
@@ -3776,6 +3774,7 @@
             "zdfsup.ivwbox.de",
             "zdnet.ivwbox.de",
             "zinzimo.info"
-        ]
+        ],
+        "to_test": []
     }
 }
