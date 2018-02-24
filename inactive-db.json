@@ -2206,14 +2206,13 @@
             "rack-dfw.bench.cedexis.com",
             "rack-hkg.bench.cedexis.com",
             "rack-iad.bench.cedexis.com",
-            "randall-mccabe.us"
-        ],
-        "to_test": [
+            "randall-mccabe.us",
             "rankingscout.org",
             "raquel-freda.us",
             "ras.doubleclick.net",
             "rc10.overture.com",
             "rc12.overture.com",
+            "re.adroll.com",
             "realonlineshop.ugc.bazaarvoice.com",
             "realperson70.net",
             "rebecca-smythe.us",
@@ -2299,7 +2298,9 @@
             "scarlett-esser.us",
             "scie.ovh",
             "scout.lexisnexis.com",
-            "scp.adip.ly",
+            "scp.adip.ly"
+        ],
+        "to_test": [
             "scripts.gmtracker.com",
             "scrooge.thebostonchannel.com",
             "scrooge.thekansascitychannel.com",
