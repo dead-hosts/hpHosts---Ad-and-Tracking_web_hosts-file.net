@@ -354,12 +354,11 @@
             "ads.winvite.com",
             "ads.worldpages.com",
             "ads.wunderground.com",
-            "ads.xflogger.com"
-        ],
-        "to_test": [
+            "ads.xflogger.com",
             "ads.xxxfair.com",
             "ads.yazzle.net",
             "ads.youku.com",
+            "ads.yourfreedvds.com",
             "ads.zenotecnico.com",
             "ads1-fo.stickyadstv.com",
             "ads1.iweb.cortica.com",
@@ -406,7 +405,9 @@
             "adserver.gtxcash.com",
             "adserver.highspeedtesting.com",
             "adserver.itsfogo.com",
-            "adserver.plhb.com",
+            "adserver.plhb.com"
+        ],
+        "to_test": [
             "adserver.singnet.com",
             "adserver.synergetic.de",
             "adserver.todomobile.com.mx",
