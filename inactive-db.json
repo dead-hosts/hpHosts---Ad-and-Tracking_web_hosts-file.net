@@ -161,9 +161,7 @@
             "adgalax.com",
             "adimage.asiaone.com.sg",
             "adimages.4sure.com",
-            "adincl.gopher.com"
-        ],
-        "to_test": [
+            "adincl.gopher.com",
             "aditic.net",
             "adjourne.com",
             "adk2.adperium.com",
@@ -174,7 +172,6 @@
             "admestate.ru",
             "admicro2.vcmedia.vn",
             "admobtube.com",
-            "adnet.vn",
             "adnetwork.net.vn",
             "adotomy.com",
             "adparad.net",
@@ -265,7 +262,9 @@
             "ads.ezboard.com",
             "ads.fixlive.tech",
             "ads.foxkidseurope.net",
-            "ads.gameforgeads.de",
+            "ads.gameforgeads.de"
+        ],
+        "to_test": [
             "ads.ganzvielporno.com",
             "ads.geverads.com",
             "ads.globalmedianet.netdna-cdn.com",
