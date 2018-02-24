@@ -2298,9 +2298,7 @@
             "scarlett-esser.us",
             "scie.ovh",
             "scout.lexisnexis.com",
-            "scp.adip.ly"
-        ],
-        "to_test": [
+            "scp.adip.ly",
             "scripts.gmtracker.com",
             "scrooge.thebostonchannel.com",
             "scrooge.thekansascitychannel.com",
@@ -2391,7 +2389,9 @@
             "sonya-howland.us",
             "soundwave.mobile.yahoo.com",
             "sovereign.sitetracker.com",
-            "sp.udimg.com",
+            "sp.udimg.com"
+        ],
+        "to_test": [
             "sportsapp-com.maynemyltf.netdna-cdn.com",
             "sprfetch.about.com",
             "sprinks-clicks.about.com",
