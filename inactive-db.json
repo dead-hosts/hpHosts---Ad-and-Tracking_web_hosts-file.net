@@ -262,9 +262,7 @@
             "ads.ezboard.com",
             "ads.fixlive.tech",
             "ads.foxkidseurope.net",
-            "ads.gameforgeads.de"
-        ],
-        "to_test": [
+            "ads.gameforgeads.de",
             "ads.ganzvielporno.com",
             "ads.geverads.com",
             "ads.globalmedianet.netdna-cdn.com",
@@ -356,7 +354,9 @@
             "ads.winvite.com",
             "ads.worldpages.com",
             "ads.wunderground.com",
-            "ads.xflogger.com",
+            "ads.xflogger.com"
+        ],
+        "to_test": [
             "ads.xxxfair.com",
             "ads.yazzle.net",
             "ads.youku.com",
