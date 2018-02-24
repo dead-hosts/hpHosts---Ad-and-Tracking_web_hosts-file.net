@@ -1452,9 +1452,7 @@
             "i.total-media.net",
             "i.vizejs.info",
             "i.w.sandbox.inmobi.com",
-            "i2.crtcdn.net"
-        ],
-        "to_test": [
+            "i2.crtcdn.net",
             "iadtools.cimedia.com",
             "idvisitor.socialreader.com",
             "iframe.travel.yahoo.com",
@@ -1519,7 +1517,9 @@
             "jasmin-thaxton.us",
             "jasmine-beecham.us",
             "jasmine-wilner.us",
-            "jayme-cray.us",
+            "jayme-cray.us"
+        ],
+        "to_test": [
             "jbugk.com",
             "jeana-pedigo.us",
             "jeanette-cropper.us",
