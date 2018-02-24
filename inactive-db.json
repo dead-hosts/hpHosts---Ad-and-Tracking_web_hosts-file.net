@@ -2749,10 +2749,7 @@
             "vprmnwbskk.com",
             "vroll.net",
             "w.uimserv.net",
-            "w3.ime.net"
-        ],
-        "to_test": [
-            "static.directrev.com",
+            "w3.ime.net",
             "waiwidgets-1246822334.eu-west-1.elb.amazonaws.com",
             "wap.carmunity.de",
             "watch-free.stream-online.net",
@@ -2829,7 +2826,10 @@
             "www.adcarem.co",
             "www.adelina-ashman.us",
             "www.adfornepal.com",
-            "www.adgalax.com",
+            "www.adgalax.com"
+        ],
+        "to_test": [
+            "static.directrev.com",
             "www.admestate.ru",
             "www.adrian-patnode.us",
             "www.adrotator.se",
