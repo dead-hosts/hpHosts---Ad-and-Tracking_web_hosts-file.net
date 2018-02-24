@@ -803,9 +803,7 @@
             "c.sgbfjs.info",
             "c.tracking.gamigoads.com",
             "c.trffrcmrd.com",
-            "c02.smaato.net"
-        ],
-        "to_test": [
+            "c02.smaato.net",
             "c1605.ic-live.com",
             "c2007.ic-live.com",
             "c2s-openrtb.liverail.com",
@@ -841,7 +839,6 @@
             "carte.science",
             "casandra-zane.us",
             "casey-fifer.us",
-            "cash4popup.de",
             "casie-mcbryde.us",
             "casie-patterson.us",
             "cassandra-klima.us",
@@ -978,7 +975,9 @@
             "click-linking.com",
             "click.202trackingsoft.com",
             "click.admoda.com",
-            "click.buzzcity.net",
+            "click.buzzcity.net"
+        ],
+        "to_test": [
             "click.geopaysys.com",
             "click.investopedia.com",
             "click.netpondcash.com",
