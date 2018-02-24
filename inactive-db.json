@@ -1787,9 +1787,7 @@
             "log.shipweb.jp",
             "log.sz-online.de",
             "log1.surf-town.net",
-            "logger.sociablelabs.com"
-        ],
-        "to_test": [
+            "logger.sociablelabs.com",
             "logging.windows.microsoft.com",
             "loggingservices.tribune.com",
             "logs.live.tudou.com",
@@ -1942,7 +1940,9 @@
             "mitel.marketbright.com",
             "mkpri3fasq4cn5.ru",
             "mkto-c0059.com",
-            "mlogin.linksynergy.com",
+            "mlogin.linksynergy.com"
+        ],
+        "to_test": [
             "mmpstats.mirror-image.com",
             "mno1.hairg.biz",
             "mno2.hairg.biz",
