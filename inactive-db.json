@@ -2734,10 +2734,7 @@
             "vf9.soundsecuredredir.com",
             "vhi1.surf-town.net",
             "videos.cdn.puatraffic.com",
-            "videos.video-loader.com"
-        ],
-        "to_test": [
-            "static.directrev.com",
+            "videos.video-loader.com",
             "viewstffdater.com",
             "vincent-carnahan.us",
             "visitors.dooyoo.co.uk",
@@ -2752,7 +2749,10 @@
             "vprmnwbskk.com",
             "vroll.net",
             "w.uimserv.net",
-            "w3.ime.net",
+            "w3.ime.net"
+        ],
+        "to_test": [
+            "static.directrev.com",
             "waiwidgets-1246822334.eu-west-1.elb.amazonaws.com",
             "wap.carmunity.de",
             "watch-free.stream-online.net",
