@@ -20,9 +20,7 @@
             "a.affil.io",
             "a.analytics.yahoo.com",
             "a.clookie.net",
-            "a.collective-media.net"
-        ],
-        "to_test": [
+            "a.collective-media.net",
             "a.contentabc.net",
             "a.fashiocdn.com",
             "a.kat.cr",
@@ -74,7 +72,9 @@
             "ad.adsandads.net",
             "ad.adsv7.com",
             "ad.advantagemedia.dk",
-            "ad.agorer.com",
+            "ad.agorer.com"
+        ],
+        "to_test": [
             "ad.arbomedia.pl",
             "ad.axill.com",
             "ad.backtalkmedia.com",
