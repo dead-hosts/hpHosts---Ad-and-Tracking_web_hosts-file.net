@@ -975,9 +975,7 @@
             "click-linking.com",
             "click.202trackingsoft.com",
             "click.admoda.com",
-            "click.buzzcity.net"
-        ],
-        "to_test": [
+            "click.buzzcity.net",
             "click.geopaysys.com",
             "click.investopedia.com",
             "click.netpondcash.com",
@@ -998,6 +996,7 @@
             "clk.bcmtrk.com",
             "clk.integral-marketing.com",
             "clou.ovh",
+            "cloud.insightera.com",
             "cloudhot.net",
             "cls.assoc-amazon.de",
             "cltomedia.info",
@@ -1038,6 +1037,7 @@
             "consolefiles.info",
             "constance-polen.us",
             "content.dl-rms.com",
+            "content.liveuniverse.com",
             "content.wt.net",
             "convenir.science",
             "conversion-tracker.com",
@@ -1055,7 +1055,9 @@
             "corrosif.science",
             "coudre.ovh",
             "count.xhit.com",
-            "count.yourmusic.cc",
+            "count.yourmusic.cc"
+        ],
+        "to_test": [
             "counter.adultcheck.com",
             "counter.d.delivery51.com",
             "counter.eanalyzer.de",
