@@ -405,9 +405,7 @@
             "adserver.gtxcash.com",
             "adserver.highspeedtesting.com",
             "adserver.itsfogo.com",
-            "adserver.plhb.com"
-        ],
-        "to_test": [
+            "adserver.plhb.com",
             "adserver.singnet.com",
             "adserver.synergetic.de",
             "adserver.todomobile.com.mx",
@@ -482,7 +480,9 @@
             "affiliate.ab1trk.com",
             "affiliate.agstracker.com",
             "affiliate.cfdebt.com",
-            "affiliate.cpaftrck.com",
+            "affiliate.cpaftrck.com"
+        ],
+        "to_test": [
             "affiliate.tfntracker.com",
             "affiliate.unimall.de",
             "affiliates.about.com",
