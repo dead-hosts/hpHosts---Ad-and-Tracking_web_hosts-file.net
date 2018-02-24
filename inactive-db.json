@@ -2488,10 +2488,7 @@
             "suddenlyfind.com",
             "sue-headley.us",
             "sue-reale.us",
-            "suez-server.xpanama.net"
-        ],
-        "to_test": [
-            "static.directrev.com",
+            "suez-server.xpanama.net",
             "support.carmunity.de",
             "survey.burstmedia.com",
             "survey.questionmarket.com",
@@ -2625,7 +2622,10 @@
             "track-east.mobilepassback.com",
             "track.a.bsuiteads.com",
             "track.addedmonetize.info",
-            "track.adjal.com",
+            "track.adjal.com"
+        ],
+        "to_test": [
+            "static.directrev.com",
             "track.adultdialersolution.com",
             "track.bidtrk.com",
             "track.bluecompany.cl",
