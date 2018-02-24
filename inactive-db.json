@@ -2123,9 +2123,7 @@
             "perso.estat.com",
             "peter-wimbley.us",
             "pg.buzzfeed.com",
-            "pglb.buzzfed.com"
-        ],
-        "to_test": [
+            "pglb.buzzfed.com",
             "phy.cropspromotional.com",
             "pinceau.ovh",
             "ping.westley.crowdscience.com",
@@ -2208,7 +2206,9 @@
             "rack-dfw.bench.cedexis.com",
             "rack-hkg.bench.cedexis.com",
             "rack-iad.bench.cedexis.com",
-            "randall-mccabe.us",
+            "randall-mccabe.us"
+        ],
+        "to_test": [
             "rankingscout.org",
             "raquel-freda.us",
             "ras.doubleclick.net",
