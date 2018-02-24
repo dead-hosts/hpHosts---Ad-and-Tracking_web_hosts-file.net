@@ -1108,9 +1108,7 @@
             "css.aliyun.com",
             "css.uvidi.com",
             "ct.buzzfeed.com",
-            "ct4.addthis.com"
-        ],
-        "to_test": [
+            "ct4.addthis.com",
             "cts-log.channelintelligence.com",
             "cts.adssend.net",
             "cts.channelintelligence.com",
@@ -1158,6 +1156,7 @@
             "data.beyond.com",
             "data.fanfinityapp.com",
             "data.mb8e17f12.website",
+            "data.oileddaintiessunset.info",
             "data.permittingnorthlandseamen.info",
             "data.quithappenbetting.com",
             "data.retainguaninefluorite.info",
@@ -1216,7 +1215,6 @@
             "distribution.cimedia.com",
             "divicash.com",
             "djoy-dev.91.com",
-            "dl.adshooter.com",
             "dl.goreald.net",
             "dl.webprodcdn.com",
             "dlmagnetdl.maynemyltf.netdna-cdn.com",
@@ -1231,7 +1229,9 @@
             "dolores-vanallen.us",
             "donna-borst.us",
             "dorothy-carrero.us",
-            "dot.idealzip.com",
+            "dot.idealzip.com"
+        ],
+        "to_test": [
             "doubleclicks.me",
             "download.installnow.mobi",
             "download.trustworthydownload.com",
