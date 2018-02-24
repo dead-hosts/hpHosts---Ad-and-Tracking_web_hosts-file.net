@@ -72,9 +72,7 @@
             "ad.adsandads.net",
             "ad.adsv7.com",
             "ad.advantagemedia.dk",
-            "ad.agorer.com"
-        ],
-        "to_test": [
+            "ad.agorer.com",
             "ad.arbomedia.pl",
             "ad.axill.com",
             "ad.backtalkmedia.com",
@@ -84,7 +82,9 @@
             "ad.collective-media.net",
             "ad.coupons.com",
             "ad.cpvfeed.com",
-            "ad.cuasar.info",
+            "ad.cuasar.info"
+        ],
+        "to_test": [
             "ad.ero.ru",
             "ad.exigomedia.com",
             "ad.fnnews.com",
