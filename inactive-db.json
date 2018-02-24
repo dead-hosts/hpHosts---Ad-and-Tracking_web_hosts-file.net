@@ -752,9 +752,7 @@
             "bnw.xp1.ru4.com",
             "bob01.bob.vmsn.de",
             "bob01.con.vmsn.de",
-            "bob02.bob.vmsn.de"
-        ],
-        "to_test": [
+            "bob02.bob.vmsn.de",
             "bonnie-schrecengost.us",
             "boom.udimg.com",
             "boutique.telecharger.com",
@@ -791,7 +789,6 @@
             "buysellad.eu",
             "buzzbox.buzzfeed.com",
             "c.91wan.com",
-            "c.adroll.com",
             "c.allegrostatic.pl",
             "c.baidu.com",
             "c.commtimize.com",
@@ -806,7 +803,9 @@
             "c.sgbfjs.info",
             "c.tracking.gamigoads.com",
             "c.trffrcmrd.com",
-            "c02.smaato.net",
+            "c02.smaato.net"
+        ],
+        "to_test": [
             "c1605.ic-live.com",
             "c2007.ic-live.com",
             "c2s-openrtb.liverail.com",
