@@ -2038,9 +2038,7 @@
             "o_thus.ero-advertising.com",
             "oas.wwwheise.de",
             "oascentral.ggl.com",
-            "oascentral.nerve.com"
-        ],
-        "to_test": [
+            "oascentral.nerve.com",
             "oazzz.survey1.0236.info",
             "oazzz.survey10.0236.info",
             "oazzz.survey2.0236.info",
@@ -2069,6 +2067,7 @@
             "onedrive-onerm-events-primary-cus.servicebus.windows.net",
             "onlinerewards.xyz",
             "onyarysh.ru",
+            "openx.edf.com",
             "openx.ip.radio.de",
             "openx.xenium.pl",
             "orange-fr.adinfuse.com",
@@ -2124,7 +2123,9 @@
             "perso.estat.com",
             "peter-wimbley.us",
             "pg.buzzfeed.com",
-            "pglb.buzzfed.com",
+            "pglb.buzzfed.com"
+        ],
+        "to_test": [
             "phy.cropspromotional.com",
             "pinceau.ovh",
             "ping.westley.crowdscience.com",
