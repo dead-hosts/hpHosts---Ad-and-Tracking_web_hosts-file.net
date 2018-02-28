@@ -300,9 +300,7 @@
             "ads.mobidea.com",
             "ads.models.com",
             "ads.mweb.co.th",
-            "ads.myhobbystore.co.uk"
-        ],
-        "to_test": [
+            "ads.myhobbystore.co.uk",
             "ads.n-ws.org",
             "ads.netshaker.co.uk",
             "ads.network-server.net",
@@ -360,7 +358,6 @@
             "ads.xxxfair.com",
             "ads.yazzle.net",
             "ads.youku.com",
-            "ads.yourfreedvds.com",
             "ads.zenotecnico.com",
             "ads1-fo.stickyadstv.com",
             "ads1.iweb.cortica.com",
@@ -370,7 +367,9 @@
             "ads2.callwave.com",
             "ads2.collegeclub.com",
             "ads2.iweb.cortica.com",
-            "ads2.mediaarmor.com",
+            "ads2.mediaarmor.com"
+        ],
+        "to_test": [
             "ads2.playnet.com",
             "ads2.top500.org",
             "ads3-fo.stickyadstv.com",
