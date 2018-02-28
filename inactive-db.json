@@ -2748,9 +2748,7 @@
             "vf9.soundsecuredredir.com",
             "vhi1.surf-town.net",
             "videos.cdn.puatraffic.com",
-            "videos.video-loader.com"
-        ],
-        "to_test": [
+            "videos.video-loader.com",
             "viewstffdater.com",
             "vincent-carnahan.us",
             "visitors.dooyoo.co.uk",
@@ -2764,7 +2762,9 @@
             "vpn.carmunity.de",
             "vprmnwbskk.com",
             "vroll.net",
-            "w.uimserv.net",
+            "w.uimserv.net"
+        ],
+        "to_test": [
             "w3.ime.net",
             "waiwidgets-1246822334.eu-west-1.elb.amazonaws.com",
             "wap.carmunity.de",
