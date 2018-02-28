@@ -1270,12 +1270,9 @@
             "email.kissmetrics.com",
             "email.leadbolt.com",
             "embanet.vo.llnwd.net",
-            "embed.technorati.com"
-        ],
-        "to_test": [
+            "embed.technorati.com",
             "emily-wigington.us",
             "emma-gabbert.us",
-            "en.mywebzines.com",
             "en.oxosurf.eu",
             "engine.awaps.net",
             "engine.bottomdollar.com",
@@ -1283,6 +1280,7 @@
             "engine.gamerati.net",
             "engine.mapshup.info",
             "engine.mediamir.medialand.ru",
+            "engine.phptrader.com",
             "eprofile.uimserv.net",
             "ericka-riffle.us",
             "erika-winkle.us",
@@ -1322,6 +1320,7 @@
             "fastsexnow.net",
             "fbcdn-creative-a.akamaihd.net",
             "fbtrk.com",
+            "fe-au.imrworldwide.com",
             "feed2allnow.me",
             "ferrari1.info",
             "ficelle.ovh",
@@ -1343,7 +1342,9 @@
             "flex.atdmt.com",
             "flv.hs3dmr.com",
             "flvxplayer.maynemyltf.netdna-cdn.com",
-            "fmdwbsfxf0.com",
+            "fmdwbsfxf0.com"
+        ],
+        "to_test": [
             "foreverb.rxmedicalweb.netdna-cdn.com",
             "forum.openx.org",
             "fr.static.planet49.com",
