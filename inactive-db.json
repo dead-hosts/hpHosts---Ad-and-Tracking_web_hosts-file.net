@@ -1472,9 +1472,7 @@
             "images-geo.outbrain.com",
             "images.cenniche.com",
             "images.engine54.com",
-            "images.freeshop.com"
-        ],
-        "to_test": [
+            "images.freeshop.com",
             "images.shareaholic.com",
             "images.sitesense-oo.com",
             "images.specialnetoffer.com",
@@ -1640,7 +1638,9 @@
             "kimberley-chin.us",
             "kimberley-mackinnon.us",
             "kimberly-worsham.us",
-            "kimia.monetizerlink.com",
+            "kimia.monetizerlink.com"
+        ],
+        "to_test": [
             "kona.kontera.com",
             "kona32.kontera.com",
             "kori-stimson.us",
