@@ -666,9 +666,7 @@
             "avant.science",
             "aventure.science",
             "avoir.science",
-            "avouer.science"
-        ],
-        "to_test": [
+            "avouer.science",
             "axp.2-01-29be-0007.cdx.cedexis.net",
             "az.trackword.net",
             "b.collective-media.net",
@@ -721,7 +719,9 @@
             "banners.passeilimitado.com",
             "banners.spiceworks.com",
             "banners.teengush.com",
-            "banners.winanylotto.com",
+            "banners.winanylotto.com"
+        ],
+        "to_test": [
             "bannersandpopups.com",
             "barbara-seevers.us",
             "barbara-vasques.us",
