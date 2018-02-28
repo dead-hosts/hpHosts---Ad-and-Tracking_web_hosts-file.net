@@ -2072,9 +2072,7 @@
             "omni.finanzen100.de",
             "onedrive-onerm-events-primary-cus.servicebus.windows.net",
             "onlinerewards.xyz",
-            "onyarysh.ru"
-        ],
-        "to_test": [
+            "onyarysh.ru",
             "openx.edf.com",
             "openx.ip.radio.de",
             "openx.xenium.pl",
@@ -2157,7 +2155,9 @@
             "podcasts.screenrant.com",
             "podtrac.advertserve.com",
             "polly-hammack.us",
-            "poolnoodle.tech",
+            "poolnoodle.tech"
+        ],
+        "to_test": [
             "popstats.com.br",
             "popup.ahledl.ir",
             "pornaz.net",
