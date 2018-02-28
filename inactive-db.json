@@ -2405,9 +2405,7 @@
             "soundwave.mobile.yahoo.com",
             "sovereign.sitetracker.com",
             "sp.udimg.com",
-            "sportsapp-com.maynemyltf.netdna-cdn.com"
-        ],
-        "to_test": [
+            "sportsapp-com.maynemyltf.netdna-cdn.com",
             "sprfetch.about.com",
             "sprinks-clicks.about.com",
             "sprinks.about.com",
@@ -2471,7 +2469,6 @@
             "stats.businessol.com",
             "stats.cloxy.com",
             "stats.cnevids.com",
-            "stats.cts-bv.nl",
             "stats.cyscon.net",
             "stats.daserste.de",
             "stats.farfetch.com",
@@ -2498,8 +2495,9 @@
             "stephany-boris.us",
             "stephany-taylor.us",
             "stream-online.net",
-            "stream4u.me",
-            "streamate.doublepimp.com",
+            "streamate.doublepimp.com"
+        ],
+        "to_test": [
             "sub.hablum.info",
             "sub.uniust.info",
             "suddenlyfind.com",
