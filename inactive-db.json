@@ -102,9 +102,7 @@
             "ad.kixer.com",
             "ad.lazynerd.info",
             "ad.madvertise.de",
-            "ad.moboqo.com"
-        ],
-        "to_test": [
+            "ad.moboqo.com",
             "ad.novasol.com",
             "ad.opinionatedgamers.info",
             "ad.outerinfoads.com",
@@ -146,7 +144,9 @@
             "ad2387.com",
             "ad3.bonadza.com",
             "ad3.liverail.com",
-            "ad4.liverail.com",
+            "ad4.liverail.com"
+        ],
+        "to_test": [
             "ad5.liverail.com",
             "adam-rizer.us",
             "adbytes.buzzbytes.net",
