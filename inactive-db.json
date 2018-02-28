@@ -189,9 +189,7 @@
             "adrienne-neihoff.us",
             "ads-aa.wunderground.com",
             "ads-useast1n.yldbt.com",
-            "ads-uswest2n.yldbt.com"
-        ],
-        "to_test": [
+            "ads-uswest2n.yldbt.com",
             "ads.626apps.com",
             "ads.6arab.com",
             "ads.abwebnet.com",
@@ -261,6 +259,7 @@
             "ads.esmas.com",
             "ads.exhedra.com",
             "ads.ezboard.com",
+            "ads.filez.nl",
             "ads.fixlive.tech",
             "ads.foxkidseurope.net",
             "ads.gameforgeads.de",
@@ -301,7 +300,9 @@
             "ads.mobidea.com",
             "ads.models.com",
             "ads.mweb.co.th",
-            "ads.myhobbystore.co.uk",
+            "ads.myhobbystore.co.uk"
+        ],
+        "to_test": [
             "ads.n-ws.org",
             "ads.netshaker.co.uk",
             "ads.network-server.net",
