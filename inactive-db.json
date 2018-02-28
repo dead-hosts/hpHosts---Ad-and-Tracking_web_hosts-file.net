@@ -2762,9 +2762,7 @@
             "vpn.carmunity.de",
             "vprmnwbskk.com",
             "vroll.net",
-            "w.uimserv.net"
-        ],
-        "to_test": [
+            "w.uimserv.net",
             "w3.ime.net",
             "waiwidgets-1246822334.eu-west-1.elb.amazonaws.com",
             "wap.carmunity.de",
@@ -2824,7 +2822,9 @@
             "ww3.hstpnetwork.com",
             "ww4.hstpnetwork.com",
             "ww5.hstpnetwork.com",
-            "ww7.3redirect.com",
+            "ww7.3redirect.com"
+        ],
+        "to_test": [
             "www-cm.com",
             "www.123456.center",
             "www.123456.click",
