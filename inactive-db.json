@@ -3518,9 +3518,7 @@
             "yuiop.trade",
             "yuiout.online",
             "z.times.lv",
-            "zb.bitterstrawberry.org"
-        ],
-        "to_test": [
+            "zb.bitterstrawberry.org",
             "zn_0xssfnnsxmogd01-cbs.siteintercept.qualtrics.com",
             "zn_9nquvazst1xipkt-cbs.siteintercept.qualtrics.com",
             "zn_b4q1adq70amqdth-citrix.siteintercept.qualtrics.com",
@@ -3789,6 +3787,7 @@
             "zdfsup.ivwbox.de",
             "zdnet.ivwbox.de",
             "zinzimo.info"
-        ]
+        ],
+        "to_test": []
     }
 }
