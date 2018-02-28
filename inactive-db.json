@@ -367,9 +367,7 @@
             "ads2.callwave.com",
             "ads2.collegeclub.com",
             "ads2.iweb.cortica.com",
-            "ads2.mediaarmor.com"
-        ],
-        "to_test": [
+            "ads2.mediaarmor.com",
             "ads2.playnet.com",
             "ads2.top500.org",
             "ads3-fo.stickyadstv.com",
@@ -437,7 +435,9 @@
             "adsrv2.gainesvillesun.com",
             "adss.ad-maven.com",
             "adsserving.net",
-            "adsystem.tt-forums.net",
+            "adsystem.tt-forums.net"
+        ],
+        "to_test": [
             "adtest.aim4media.com",
             "adtology1.com",
             "adtrack.ministerial5.com",
