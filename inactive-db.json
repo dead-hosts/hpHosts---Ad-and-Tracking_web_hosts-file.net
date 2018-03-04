@@ -2762,9 +2762,7 @@
             "vprmnwbskk.com",
             "vroll.net",
             "w.mlv-cdn.com",
-            "w.uimserv.net"
-        ],
-        "to_test": [
+            "w.uimserv.net",
             "w3.ime.net",
             "waiwidgets-1246822334.eu-west-1.elb.amazonaws.com",
             "wap.carmunity.de",
@@ -2806,7 +2804,9 @@
             "ws.olmknp.space",
             "ws.pleasedontslaymy.download",
             "ws.poolnoodle.tech",
-            "ws.tgbvfr.website",
+            "ws.tgbvfr.website"
+        ],
+        "to_test": [
             "ws.yuiop.trade",
             "ws.yuiout.online",
             "ws.zxcvb.space",
