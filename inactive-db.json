@@ -2006,9 +2006,7 @@
             "natasha-custer.us",
             "natasha-marotta.us",
             "natasha-rentschler.us",
-            "navigon.vo.llnwd.net"
-        ],
-        "to_test": [
+            "navigon.vo.llnwd.net",
             "ndoverdrive.net",
             "neptune1.appads.com",
             "neptune2.appads.com",
@@ -2080,11 +2078,14 @@
             "onyarysh.ru",
             "openx.edf.com",
             "openx.ip.radio.de",
+            "openx.kasjauns.lv",
             "openx.xenium.pl",
             "orange-fr.adinfuse.com",
             "orangeuk-mc.adinfuse.com",
             "ornacorn.com",
-            "otter.topsy.com",
+            "otter.topsy.com"
+        ],
+        "to_test": [
             "ox-d.bstk.servedbyopenx.com",
             "ox-d.buyer.servedbyopenx.com",
             "ox-d.enveromedia.com",
