@@ -156,9 +156,7 @@
             "addebris.link",
             "adelina-ashman.us",
             "adelina-strode.us",
-            "adelogs.adobe.com"
-        ],
-        "to_test": [
+            "adelogs.adobe.com",
             "adfeed.pagefair.net",
             "adgalax.com",
             "adimage.asiaone.com.sg",
@@ -239,7 +237,9 @@
             "ads.chartbeat.com",
             "ads.christianity.com",
             "ads.cimedia.com",
-            "ads.clearbluemedia.com",
+            "ads.clearbluemedia.com"
+        ],
+        "to_test": [
             "ads.cnn.com",
             "ads.comicbookresources.com",
             "ads.communityserver.org",
