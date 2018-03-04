@@ -1895,9 +1895,7 @@
             "maureen-cady.us",
             "maureen-matheson.us",
             "mazetin.ru",
-            "mcl.girlsgothic.com"
-        ],
-        "to_test": [
+            "mcl.girlsgothic.com",
             "mcs.mlmwebtracker.com",
             "meagan-josephs.us",
             "meagan-scully.us",
@@ -1961,6 +1959,7 @@
             "mobad.ijinshan.com",
             "mobile.ad-tracker.ch",
             "mobile.adperium.com",
+            "mobile.traffic-tracker.net",
             "mobileads.todomobile.com.mx",
             "mobilegeeks.de.adadapter.netzathleten-media.de",
             "mobilewithsms.net",
@@ -2007,7 +2006,9 @@
             "natasha-custer.us",
             "natasha-marotta.us",
             "natasha-rentschler.us",
-            "navigon.vo.llnwd.net",
+            "navigon.vo.llnwd.net"
+        ],
+        "to_test": [
             "ndoverdrive.net",
             "neptune1.appads.com",
             "neptune2.appads.com",
