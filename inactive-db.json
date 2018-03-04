@@ -1063,9 +1063,7 @@
             "counter.eanalyzer.de",
             "counter.mgaserv.com",
             "counter.pax.com",
-            "counter.pcgames.de"
-        ],
-        "to_test": [
+            "counter.pcgames.de",
             "counter.scribblelive.net",
             "counter.times.lv",
             "counter4all.de",
@@ -1126,7 +1124,6 @@
             "cynthia-tomas.us",
             "cyprusads.info",
             "czproxy8.cz",
-            "d.appsdt.com",
             "d.cpsoft86.com",
             "d.hottraffic.com",
             "d.m3.net",
@@ -1187,7 +1184,9 @@
             "deirdre-rinker.us",
             "delia-comes.us",
             "delia-galvin.us",
-            "delilah-gearhart.us",
+            "delilah-gearhart.us"
+        ],
+        "to_test": [
             "delivery.d1.sv.omtrdc.net",
             "delivery.ipvertising.com",
             "delivery.reklamz.com",
