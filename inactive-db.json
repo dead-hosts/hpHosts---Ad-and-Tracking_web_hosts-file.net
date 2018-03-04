@@ -237,9 +237,7 @@
             "ads.chartbeat.com",
             "ads.christianity.com",
             "ads.cimedia.com",
-            "ads.clearbluemedia.com"
-        ],
-        "to_test": [
+            "ads.clearbluemedia.com",
             "ads.cnn.com",
             "ads.comicbookresources.com",
             "ads.communityserver.org",
@@ -283,6 +281,7 @@
             "ads.jacksonville.com",
             "ads.komli.com",
             "ads.lanetro.com",
+            "ads.lawnsite.com",
             "ads.lebenna.com",
             "ads.letemps.ch",
             "ads.locators.com",
@@ -330,7 +329,9 @@
             "ads.qadserve.com",
             "ads.qadservice.com",
             "ads.realposition.ru",
-            "ads.redegg.co",
+            "ads.redegg.co"
+        ],
+        "to_test": [
             "ads.reed-elsevier.com",
             "ads.rottentomatoes.com",
             "ads.securebanners.biz",
