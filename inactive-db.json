@@ -22,10 +22,7 @@
             "a.collective-media.net",
             "a.contentabc.net",
             "a.fashiocdn.com",
-            "a.kat.cr"
-        ],
-        "to_test": [
-            "a.oix.net",
+            "a.kat.cr",
             "a.rad.msn.com",
             "a.rdb.so",
             "a.sitemeter.com",
@@ -85,6 +82,9 @@
             "ad.coupons.com",
             "ad.cpvfeed.com",
             "ad.cuasar.info",
+            "ad.directrev.com"
+        ],
+        "to_test": [
             "ad.ero.ru",
             "ad.exigomedia.com",
             "ad.fnnews.com",
