@@ -581,9 +581,7 @@
             "antoinette-meisner.us",
             "aolsvc.aol.com",
             "ap.lookout.com",
-            "ap.xad.com"
-        ],
-        "to_test": [
+            "ap.xad.com",
             "apac.analytics.yahoo.com",
             "api.ad.ly",
             "api.burt.io",
@@ -684,10 +682,11 @@
             "b117f8da23446a91387efea0e428392a.pl",
             "b1d.org",
             "b36df47b3d.site.internapcdn.net",
-            "babes.picrush.com",
             "baiducdn.biz",
             "baisser.science",
-            "bandai.hs.llnwd.net",
+            "bandai.hs.llnwd.net"
+        ],
+        "to_test": [
             "banner.betwwts.com",
             "banner.bruteforcemarket.com",
             "banner.comtec.de",
