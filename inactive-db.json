@@ -329,9 +329,7 @@
             "ads.qadserve.com",
             "ads.qadservice.com",
             "ads.realposition.ru",
-            "ads.redegg.co"
-        ],
-        "to_test": [
+            "ads.redegg.co",
             "ads.reed-elsevier.com",
             "ads.rottentomatoes.com",
             "ads.securebanners.biz",
@@ -349,6 +347,7 @@
             "ads.tlvmedia.com",
             "ads.todomobile.co",
             "ads.top500.org",
+            "ads.topcities.com",
             "ads.tweetmeme.com",
             "ads.unlimitedbanners.com",
             "ads.uol.com.ar",
@@ -385,7 +384,9 @@
             "ads_ad_center.s3.amazonaws.com",
             "adsbrokermirror1.info",
             "adsbrokermirror3.info",
-            "adsbrokermirror4.info",
+            "adsbrokermirror4.info"
+        ],
+        "to_test": [
             "adserv.680180.net",
             "adserv.adscpm.com",
             "adserv.entriq.net",
