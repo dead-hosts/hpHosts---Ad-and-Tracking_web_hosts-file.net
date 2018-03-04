@@ -783,15 +783,12 @@
             "brook-durante.us",
             "brook-rosen.us",
             "brooke-sheahan.us",
-            "browntrkn.com"
-        ],
-        "to_test": [
+            "browntrkn.com",
             "btr.sharethis.com",
             "bumperich.ru",
             "buysellad.eu",
             "buzzbox.buzzfeed.com",
             "c.91wan.com",
-            "c.adroll.com",
             "c.allegrostatic.pl",
             "c.baidu.com",
             "c.commtimize.com",
@@ -866,10 +863,13 @@
             "cdn.castplatform.com",
             "cdn.chapewa.net",
             "cdn.cpsoft86.com",
+            "cdn.directrev.com",
             "cdn.erendri.com",
             "cdn.errantolo.com",
             "cdn.extensions.buzznet.com",
-            "cdn.eyewonder.com",
+            "cdn.eyewonder.com"
+        ],
+        "to_test": [
             "cdn.imrworldwide.com",
             "cdn.insights.gravity.com",
             "cdn.inskinmedia.com",
