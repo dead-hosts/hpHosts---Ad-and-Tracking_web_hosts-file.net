@@ -384,9 +384,7 @@
             "ads_ad_center.s3.amazonaws.com",
             "adsbrokermirror1.info",
             "adsbrokermirror3.info",
-            "adsbrokermirror4.info"
-        ],
-        "to_test": [
+            "adsbrokermirror4.info",
             "adserv.680180.net",
             "adserv.adscpm.com",
             "adserv.entriq.net",
@@ -457,7 +455,9 @@
             "advantech.vo.llnwd.net",
             "advert.trainingtools.com",
             "advertex.media-vertex.com",
-            "advertise.about.com",
+            "advertise.about.com"
+        ],
+        "to_test": [
             "advertiser.clicknety.com",
             "advertiser.microad.jp",
             "advertiserwanted.com",
