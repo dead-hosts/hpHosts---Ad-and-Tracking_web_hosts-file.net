@@ -867,9 +867,7 @@
             "cdn.erendri.com",
             "cdn.errantolo.com",
             "cdn.extensions.buzznet.com",
-            "cdn.eyewonder.com"
-        ],
-        "to_test": [
+            "cdn.eyewonder.com",
             "cdn.imrworldwide.com",
             "cdn.insights.gravity.com",
             "cdn.inskinmedia.com",
@@ -997,6 +995,7 @@
             "clients.tbo.com",
             "clk.about.com",
             "clk.bcmtrk.com",
+            "clk.directrev.com",
             "clk.integral-marketing.com",
             "clou.ovh",
             "cloudhot.net",
@@ -1008,7 +1007,9 @@
             "cm.npc-lee.overture.com",
             "cm.npc-mcclatchy.overture.com",
             "cml1234.com",
-            "cmltrk.info",
+            "cmltrk.info"
+        ],
+        "to_test": [
             "cmpsmarter-downloader.maynemyltf.netdna-cdn.com",
             "cn.api.vpon.com",
             "cnt.mastorage.net",
