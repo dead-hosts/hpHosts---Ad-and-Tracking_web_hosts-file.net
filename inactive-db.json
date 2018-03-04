@@ -2441,9 +2441,7 @@
             "stat.freemediastats.com",
             "stat.gmonitor.aliimg.com",
             "stat.sittiad.com",
-            "stat.webtool.it"
-        ],
-        "to_test": [
+            "stat.webtool.it",
             "static-goaheadtours.netdna-ssl.com",
             "static-ssl.exoclick.com",
             "static.cdn.puatraffic.com",
@@ -2530,7 +2528,6 @@
             "t.booksuper.info",
             "t.cttsrv.com",
             "t.medialytics.com",
-            "t.menepe.com",
             "t.offerx.co.uk",
             "t.planvip.fr",
             "t.tellapart.com",
@@ -2561,7 +2558,9 @@
             "tarkita.ru",
             "tasha-tatro.us",
             "tawny-joiner.us",
-            "tbtrack.zugo.com",
+            "tbtrack.zugo.com"
+        ],
+        "to_test": [
             "tcy.smartadserver.com",
             "tds.xlivevideo.ru",
             "te.kontera.com",
