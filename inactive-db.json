@@ -82,9 +82,7 @@
             "ad.coupons.com",
             "ad.cpvfeed.com",
             "ad.cuasar.info",
-            "ad.directrev.com"
-        ],
-        "to_test": [
+            "ad.directrev.com",
             "ad.ero.ru",
             "ad.exigomedia.com",
             "ad.fnnews.com",
@@ -134,7 +132,9 @@
             "ad1.adinfuse.com",
             "ad1.bonadza.com",
             "ad1.trafficx.com",
-            "ad1.zendmedia.com",
+            "ad1.zendmedia.com"
+        ],
+        "to_test": [
             "ad2.adinfuse.com",
             "ad2.advglobet.com",
             "ad2.bbmedia.cz",
