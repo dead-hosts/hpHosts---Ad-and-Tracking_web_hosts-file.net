@@ -455,9 +455,7 @@
             "advantech.vo.llnwd.net",
             "advert.trainingtools.com",
             "advertex.media-vertex.com",
-            "advertise.about.com"
-        ],
-        "to_test": [
+            "advertise.about.com",
             "advertiser.clicknety.com",
             "advertiser.microad.jp",
             "advertiserwanted.com",
@@ -523,6 +521,8 @@
             "alisa-green.us",
             "alisa-rake.us",
             "alissa-blanchard.us",
+            "alldcs-distinct.outbrain.com",
+            "alldcs.sphere.com",
             "alleyezonme-collection.buzzfeed.com",
             "allie-cunha.us",
             "allie-hobdy.us",
@@ -581,7 +581,9 @@
             "antoinette-meisner.us",
             "aolsvc.aol.com",
             "ap.lookout.com",
-            "ap.xad.com",
+            "ap.xad.com"
+        ],
+        "to_test": [
             "apac.analytics.yahoo.com",
             "api.ad.ly",
             "api.burt.io",
