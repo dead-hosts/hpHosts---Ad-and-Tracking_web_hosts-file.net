@@ -2558,9 +2558,7 @@
             "tarkita.ru",
             "tasha-tatro.us",
             "tawny-joiner.us",
-            "tbtrack.zugo.com"
-        ],
-        "to_test": [
+            "tbtrack.zugo.com",
             "tcy.smartadserver.com",
             "tds.xlivevideo.ru",
             "te.kontera.com",
@@ -2676,7 +2674,9 @@
             "tracking.euroads.es",
             "tracking.i-click.com.hk",
             "tracking.ientry.net",
-            "tracking.jithasoffers.com",
+            "tracking.jithasoffers.com"
+        ],
+        "to_test": [
             "tracking.muzu.tv",
             "tracking.nuasti.com",
             "tracking.promiflash.de",
