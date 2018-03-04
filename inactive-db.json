@@ -1007,9 +1007,7 @@
             "cm.npc-lee.overture.com",
             "cm.npc-mcclatchy.overture.com",
             "cml1234.com",
-            "cmltrk.info"
-        ],
-        "to_test": [
+            "cmltrk.info",
             "cmpsmarter-downloader.maynemyltf.netdna-cdn.com",
             "cn.api.vpon.com",
             "cnt.mastorage.net",
@@ -1058,7 +1056,9 @@
             "corrosif.science",
             "coudre.ovh",
             "count.xhit.com",
-            "count.yourmusic.cc",
+            "count.yourmusic.cc"
+        ],
+        "to_test": [
             "counted.de",
             "counter.adultcheck.com",
             "counter.d.delivery51.com",
