@@ -132,9 +132,7 @@
             "ad1.adinfuse.com",
             "ad1.bonadza.com",
             "ad1.trafficx.com",
-            "ad1.zendmedia.com"
-        ],
-        "to_test": [
+            "ad1.zendmedia.com",
             "ad2.adinfuse.com",
             "ad2.advglobet.com",
             "ad2.bbmedia.cz",
@@ -150,6 +148,7 @@
             "ad5.liverail.com",
             "adam-rizer.us",
             "adbytes.buzzbytes.net",
+            "adcarem.co",
             "adcode.optimatic.com",
             "adcount.in",
             "adcounter.globeandmail.com",
@@ -157,7 +156,9 @@
             "addebris.link",
             "adelina-ashman.us",
             "adelina-strode.us",
-            "adelogs.adobe.com",
+            "adelogs.adobe.com"
+        ],
+        "to_test": [
             "adfeed.pagefair.net",
             "adgalax.com",
             "adimage.asiaone.com.sg",
