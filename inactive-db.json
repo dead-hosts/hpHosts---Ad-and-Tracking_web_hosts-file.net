@@ -2256,9 +2256,7 @@
             "rma-api.gravity.com",
             "rmaiauth.ads.vip.bf1.yahoo.com",
             "roia.hutchmedia.com",
-            "rotator.adjuggler.com"
-        ],
-        "to_test": [
+            "rotator.adjuggler.com",
             "router.revmob.com",
             "router.tlvmedia.com",
             "rovio.appads.com",
@@ -2336,7 +2334,6 @@
             "secretgrowth-12198.us",
             "secretgrowth-53664.us",
             "sectracking.com",
-            "secure-nz.imrworldwide.com",
             "selena-corkery.us",
             "selina-krouse.us",
             "selina-scarlett.us",
@@ -2349,13 +2346,6 @@
             "serve.adhance.com",
             "servedby.keygamesnetwork.com",
             "servedby.revcontent.com",
-            "server-br.imrworldwide.com",
-            "server-de.imrworldwide.com",
-            "server-fi.imrworldwide.com",
-            "server-lt.imrworldwide.com",
-            "server-pl.imrworldwide.com",
-            "server-ru.imrworldwide.com",
-            "server-sg.imrworldwide.com",
             "services.carmunity.de",
             "services.picadmedia.com",
             "services.qualaroo.com",
@@ -2378,7 +2368,9 @@
             "sherrie-sepe.us",
             "sherrie-wherry.us",
             "sherry-klingbeil.us",
-            "shift.nuggad.net",
+            "shift.nuggad.net"
+        ],
+        "to_test": [
             "shinystat.lvlar.com",
             "shirley-rivet.us",
             "shonda-nowicki.us",
