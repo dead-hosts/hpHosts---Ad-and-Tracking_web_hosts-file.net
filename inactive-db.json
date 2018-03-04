@@ -1480,9 +1480,7 @@
             "images.sitesense-oo.com",
             "images.specialnetoffer.com",
             "imageserv.adtech.de",
-            "img.blogads.com"
-        ],
-        "to_test": [
+            "img.blogads.com",
             "img.hostmonster.com",
             "img.propellerads.com",
             "img.soft.mail.ru",
@@ -1654,7 +1652,6 @@
             "kuad.kusogi.com",
             "l.addthiscdn.com",
             "l.collective-media.net",
-            "la-chi.outbrain.com",
             "lacie-heberling.us",
             "lacy-dobson.us",
             "lacy-gauvin.us",
@@ -1667,7 +1664,9 @@
             "laura.dntrax.com",
             "lauren-kinsman.us",
             "laurie-boyles.us",
-            "laurie-slocumb.us",
+            "laurie-slocumb.us"
+        ],
+        "to_test": [
             "lea-danielson.us",
             "lea-riser.us",
             "leann-faulk.us",
