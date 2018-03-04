@@ -2674,9 +2674,7 @@
             "tracking.euroads.es",
             "tracking.i-click.com.hk",
             "tracking.ientry.net",
-            "tracking.jithasoffers.com"
-        ],
-        "to_test": [
+            "tracking.jithasoffers.com",
             "tracking.muzu.tv",
             "tracking.nuasti.com",
             "tracking.promiflash.de",
@@ -2693,7 +2691,6 @@
             "trafficlearn.com",
             "traffspot.com",
             "traficdom.com",
-            "traficdublu.ro",
             "trck.dlpo.jp",
             "trck.sixt.com",
             "tripod.postaffiliatepro.com",
@@ -2725,7 +2722,9 @@
             "uk-go.adinfuse.com",
             "uk.intellitxt.com",
             "uk.websearchnow.net",
-            "uno.wbrotator.biz",
+            "uno.wbrotator.biz"
+        ],
+        "to_test": [
             "us.intellitxt.com",
             "us.marketgid.com",
             "us.static.planet49.com",
