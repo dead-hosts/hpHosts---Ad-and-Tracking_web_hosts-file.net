@@ -2180,9 +2180,7 @@
             "printdirectoryinfo.com",
             "printdirectorylinks.com",
             "printdirectorylistings.com",
-            "priscilla-rush.us"
-        ],
-        "to_test": [
+            "priscilla-rush.us",
             "prochina.work",
             "profile.uimserv.net",
             "proxy.mobilecore.com",
@@ -2211,6 +2209,7 @@
             "qui.science",
             "r.369dl.com",
             "r.ads.zynga.com",
+            "r.coolmobile.biz",
             "r.letsw.com",
             "r.pixel.trafficmp.com",
             "r.trffrcmrd.com",
@@ -2228,6 +2227,7 @@
             "rc10.overture.com",
             "rc12.overture.com",
             "re.adroll.com",
+            "re.directrev.com",
             "realonlineshop.ugc.bazaarvoice.com",
             "realperson70.net",
             "rebecca-smythe.us",
@@ -2256,7 +2256,9 @@
             "rma-api.gravity.com",
             "rmaiauth.ads.vip.bf1.yahoo.com",
             "roia.hutchmedia.com",
-            "rotator.adjuggler.com",
+            "rotator.adjuggler.com"
+        ],
+        "to_test": [
             "router.revmob.com",
             "router.tlvmedia.com",
             "rovio.appads.com",
