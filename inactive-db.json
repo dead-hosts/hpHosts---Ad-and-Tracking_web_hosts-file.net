@@ -721,9 +721,7 @@
             "banners.passeilimitado.com",
             "banners.spiceworks.com",
             "banners.teengush.com",
-            "banners.winanylotto.com"
-        ],
-        "to_test": [
+            "banners.winanylotto.com",
             "bannersandpopups.com",
             "barbara-seevers.us",
             "barbara-vasques.us",
@@ -785,7 +783,9 @@
             "brook-durante.us",
             "brook-rosen.us",
             "brooke-sheahan.us",
-            "browntrkn.com",
+            "browntrkn.com"
+        ],
+        "to_test": [
             "btr.sharethis.com",
             "bumperich.ru",
             "buysellad.eu",
