@@ -1,7 +1,9 @@
 {
     "/home/travis/build/dead-hosts/hpHosts---Ad-and-Tracking_web_hosts-file.net/hpHosts---Ad-and-Tracking_web_hosts-file.net.list": {
-        "1520163566": [
-            "1.che-ka.com",
+        "0": [
+            "1.che-ka.com"
+        ],
+        "to_test": [
             "1986a44b12e.com",
             "2.che-ka.com",
             "202trackingsoft.com",
@@ -3790,7 +3792,6 @@
             "zdfsup.ivwbox.de",
             "zdnet.ivwbox.de",
             "zinzimo.info"
-        ],
-        "to_test": []
+        ]
     }
 }
