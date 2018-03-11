@@ -21,7 +21,6 @@
             "advertiser.ads.ec",
             "aeropostale.resultspage.com",
             "affiliate.gwmtracker.com",
-            "alldcs.sphere.com",
             "api.revcontent.com",
             "bidsystem.adknowledge.com",
             "cdn.directrev.com",
@@ -2715,7 +2714,8 @@
             "czproxy8.cz",
             "d.cpsoft86.com",
             "d.hottraffic.com",
-            "1.che-ka.com"
+            "1.che-ka.com",
+            "alldcs-distinct.outbrain.com"
         ],
         "to_test": [
             "l.addthiscdn.com",
