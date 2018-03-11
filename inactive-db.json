@@ -21,7 +21,8 @@
             "advertiser.ads.ec",
             "aeropostale.resultspage.com",
             "affiliate.gwmtracker.com",
-            "alldcs.sphere.com"
+            "alldcs.sphere.com",
+            "api.revcontent.com"
         ],
         "to_test": [
             "l.addthiscdn.com",
@@ -551,7 +552,6 @@
             "zdfsup.ivwbox.de",
             "zdnet.ivwbox.de",
             "zinzimo.info",
-            "api.revcontent.com",
             "cdn.directrev.com",
             "clk.directrev.com",
             "counted.de",
