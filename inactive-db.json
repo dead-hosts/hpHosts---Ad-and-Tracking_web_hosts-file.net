@@ -31,10 +31,11 @@
             "alldcs-distinct.outbrain.com",
             "api.revcontent.com",
             "banner.linktech.cn",
-            "bidsystem.adknowledge.com"
+            "bidsystem.adknowledge.com",
+            "cast.ra.icast.cn",
+            "cdn.directrev.com"
         ],
         "to_test": [
-            "cdn.directrev.com",
             "clk.directrev.com",
             "counted.de",
             "counter.adultrevenueservice.com",
