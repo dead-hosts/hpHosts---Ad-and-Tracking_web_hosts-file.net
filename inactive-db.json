@@ -27,10 +27,11 @@
             "advertiser.adknowledge.com",
             "advertiser.ads.ec",
             "aeropostale.resultspage.com",
-            "affiliate.gwmtracker.com"
+            "affiliate.gwmtracker.com",
+            "alldcs-distinct.outbrain.com",
+            "api.revcontent.com"
         ],
         "to_test": [
-            "api.revcontent.com",
             "bidsystem.adknowledge.com",
             "cdn.directrev.com",
             "clk.directrev.com",
@@ -2717,7 +2718,6 @@
             "czproxy8.cz",
             "d.cpsoft86.com",
             "d.hottraffic.com",
-            "alldcs-distinct.outbrain.com",
             "images-geo.outbrain.com",
             "re.adroll.com",
             "www.ojolink.com",
