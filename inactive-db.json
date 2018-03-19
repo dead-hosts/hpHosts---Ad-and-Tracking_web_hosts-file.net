@@ -1601,7 +1601,10 @@
             "tracking.directadsmedia.com",
             "urlcheck.hulu.com",
             "us0.adlibr.com",
-            "w.mlv-cdn.com"
+            "w.mlv-cdn.com",
+            "www.c2path.com",
+            "www.d16.net",
+            "www.dltags.com"
         ],
         "to_test": [
             "popstats.com.br",
@@ -2918,8 +2921,6 @@
             "zdfsup.ivwbox.de",
             "zdnet.ivwbox.de",
             "zinzimo.info",
-            "www.c2path.com",
-            "www.dltags.com",
             "finaonl.ivwbox.de",
             "find-fast-answers.com",
             "findaccurate.com",
@@ -3835,8 +3836,7 @@
             "podtrac.advertserve.com",
             "polly-hammack.us",
             "pons.ivwbox.de",
-            "poolnoodle.tech",
-            "www.d16.net"
+            "poolnoodle.tech"
         ]
     }
 }
