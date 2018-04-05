@@ -1,13 +1,16 @@
 {
-    "arguments": [],
+    "arguments": [
+        "--commit-autosave-message \"[Autosave] Test of hpHosts---Ad-and-Tracking_web_hosts-file.net\"",
+        "--commit-results-message \"[Results] Test of hpHosts---Ad-and-Tracking_web_hosts-file.net\""
+    ],
+    "clean_list_file": "clean.list",
+    "clean_original": "1",
     "commit_autosave_message": "Test of hpHosts---Ad-and-Tracking_web_hosts-file.net",
     "currently_under_test": "0",
     "days_until_next_test": "1",
-    "last_test": "1522181934",
+    "last_test": "1522966068",
     "list_name": "hpHosts---Ad-and-Tracking_web_hosts-file.net.list",
     "name": "hpHosts---Ad-and-Tracking_web_hosts-file.net",
     "raw_link": "https://hosts-file.net/ad_servers.txt",
-    "stable": "0",
-    "clean_original": "1",
-    "clean_list_file": "clean.list"
+    "stable": "0"
 }
