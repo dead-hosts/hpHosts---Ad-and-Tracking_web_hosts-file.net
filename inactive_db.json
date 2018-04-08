@@ -20,9 +20,7 @@
             "ads.deliads.com",
             "ads.filez.nl",
             "ads.gad-network.com",
-            "ads.gfy.com"
-        ],
-        "to_test": [
+            "ads.gfy.com",
             "ads.lawnsite.com",
             "ads.piramit.net",
             "ads.realitytraffic.com.s2.gvirabi.com",
@@ -32,7 +30,9 @@
             "ads.traffpartners.com",
             "ads.vintageporntubenet.com",
             "ads.whi.co.nz",
-            "ads_ad_center.s3.amazonaws.com",
+            "ads_ad_center.s3.amazonaws.com"
+        ],
+        "to_test": [
             "adserving.ads.ec",
             "advertiser.adknowledge.com",
             "advertiser.ads.ec",
