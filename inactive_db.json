@@ -39,9 +39,7 @@
             "affiliate.gwmtracker.com",
             "affiliate.key2link.com",
             "alldcs-distinct.outbrain.com",
-            "alldcs.sphere.com"
-        ],
-        "to_test": [
+            "alldcs.sphere.com",
             "alpha.bnex.com",
             "analytics-v2.anvato.com",
             "analytics.traidnt.net",
@@ -49,7 +47,10 @@
             "anet.c.appier.net",
             "api.bizographics.com",
             "api.revcontent.com",
-            "banner.blogranking.net",
+            "awarez.net",
+            "banner.blogranking.net"
+        ],
+        "to_test": [
             "banners.bebadasousadas.com",
             "bidsystem.adknowledge.com",
             "bist.ailsg.com",
