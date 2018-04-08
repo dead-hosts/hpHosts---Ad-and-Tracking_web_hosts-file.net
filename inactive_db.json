@@ -30,9 +30,7 @@
             "ads.traffpartners.com",
             "ads.vintageporntubenet.com",
             "ads.whi.co.nz",
-            "ads_ad_center.s3.amazonaws.com"
-        ],
-        "to_test": [
+            "ads_ad_center.s3.amazonaws.com",
             "adserving.ads.ec",
             "advertiser.adknowledge.com",
             "advertiser.ads.ec",
@@ -40,6 +38,10 @@
             "aff-jp.exshot.com",
             "affiliate.gwmtracker.com",
             "affiliate.key2link.com",
+            "alldcs-distinct.outbrain.com",
+            "alldcs.sphere.com"
+        ],
+        "to_test": [
             "alpha.bnex.com",
             "analytics-v2.anvato.com",
             "analytics.traidnt.net",
