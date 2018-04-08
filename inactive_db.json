@@ -189,9 +189,7 @@
             "www.lnkxfer8.com",
             "www.myforum365.com",
             "www.ojolink.com",
-            "www.pleasewaitlonger.com"
-        ],
-        "to_test": [
+            "www.pleasewaitlonger.com",
             "www.superfish.com",
             "www.swiftad.com",
             "www.web-controlling.com",
@@ -205,7 +203,9 @@
             "zn_0xssfnnsxmogd01-cbs.siteintercept.qualtrics.com",
             "zn_9nquvazst1xipkt-cbs.siteintercept.qualtrics.com",
             "zn_b4q1adq70amqdth-citrix.siteintercept.qualtrics.com",
-            "zn_brp7urzdaj4xmxn-edhealth.siteintercept.qualtrics.com",
+            "zn_brp7urzdaj4xmxn-edhealth.siteintercept.qualtrics.com"
+        ],
+        "to_test": [
             "20996-1061.popunder.loading-delivery1.com"
         ]
     }
