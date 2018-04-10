@@ -112,14 +112,13 @@
             "megastore.bnex.com",
             "mobile.traffic-tracker.net",
             "mosaic.bnex.com",
-            "mp.twitch.tv"
-        ],
-        "to_test": [
+            "mp.twitch.tv",
             "o_thus.ero-advertising.com",
             "okstrade.go2affise.com",
             "onyx.bnex.com",
             "openx.city-nav.com",
             "openx.kasjauns.lv",
+            "openx.tunisien.tn",
             "orion.bnex.com",
             "ox.mediabistro.com",
             "p.pxl2015x1.com",
@@ -135,7 +134,9 @@
             "posibilities_en.popunder.net",
             "preply.go2affise.com",
             "preview.bnex.com",
-            "prunemedia.go2affise.com",
+            "prunemedia.go2affise.com"
+        ],
+        "to_test": [
             "pub3.media-clic.com",
             "quartz.bnex.com",
             "r.coolmobile.biz",
