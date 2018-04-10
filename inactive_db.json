@@ -93,14 +93,11 @@
             "im.b2a2c700.e8cace3.ads.a4cdn.contentabc.com",
             "im.b2a2cd00.885d48e.ads.a4cdn.contentabc.com",
             "im.b2a2cd00.92bde07.ads.a4cdn.contentabc.com",
-            "images.enhance.com"
-        ],
-        "to_test": [
+            "images.enhance.com",
             "intarsia.bnex.com",
             "intranet.bnex.com",
             "jade.bnex.com",
             "js.dmtry.com",
-            "keywords.fmpub.net",
             "kontaktanzeigen-fotos.de",
             "kropka.tro.pl",
             "la-chi.outbrain.com",
@@ -108,7 +105,9 @@
             "livere.co.kr.cizion.ixcloud.net",
             "log.dmtry.com",
             "logs.infoaxe.com",
-            "m.trk44.mobi",
+            "m.trk44.mobi"
+        ],
+        "to_test": [
             "malachite.bnex.com",
             "marble.bnex.com",
             "media4.fc2.com",
