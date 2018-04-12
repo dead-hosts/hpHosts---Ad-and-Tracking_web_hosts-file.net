@@ -175,11 +175,12 @@
             "tracking.amazing-revenue.com",
             "tracking.directadsmedia.com",
             "tracking.smartclicksystem.com",
-            "trp.numergy.bench.cedexis.com"
+            "trp.numergy.bench.cedexis.com",
+            "urlcheck.hulu.com",
+            "us-east-1.profile-api.ads.linkedin.com",
+            "us0.adlibr.com"
         ],
         "to_test": [
-            "urlcheck.hulu.com",
-            "us0.adlibr.com",
             "vpos.bnex.com",
             "www.adti.me",
             "www.c2path.com",
