@@ -33,12 +33,11 @@
             "advertiser.adknowledge.com",
             "advertiser.ads.ec",
             "aeropostale.resultspage.com",
-            "aff-jp.exshot.com"
-        ],
-        "to_test": [
+            "aff-jp.exshot.com",
             "affiliate.gwmtracker.com",
             "affiliate.key2link.com",
             "alldcs-distinct.outbrain.com",
+            "alldcs.sphere.com",
             "alpha.bnex.com",
             "analytics-v2.anvato.com",
             "analytics.traidnt.net",
@@ -47,8 +46,9 @@
             "api.bizographics.com",
             "api.flicktweets.com",
             "api.revcontent.com",
-            "awarez.net",
-            "b4psads.com",
+            "b4psads.com"
+        ],
+        "to_test": [
             "banner.0catch.com",
             "banner.blogranking.net",
             "bannerimages.0catch.com",
