@@ -62,9 +62,7 @@
             "counted.de",
             "creative.ad135m.com",
             "creative.whi.co.nz",
-            "customer.bnex.com"
-        ],
-        "to_test": [
+            "customer.bnex.com",
             "data.adexda.com",
             "data.ppn-ad-cdn.populis.com",
             "db.bnex.com",
@@ -72,7 +70,9 @@
             "digdug.divxnetworks.com",
             "dl.adshooter.com",
             "dns1.schoffstall.com",
-            "do.you.uh.yahoo.at.bnex.com",
+            "do.you.uh.yahoo.at.bnex.com"
+        ],
+        "to_test": [
             "engine.fl-ads.com",
             "engine.phptrader.com",
             "fp.gad-network.com",
