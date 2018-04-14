@@ -45,12 +45,13 @@
             "anet.c.appier.net",
             "api.bizographics.com",
             "api.flicktweets.com",
-            "api.revcontent.com"
-        ],
-        "to_test": [
+            "api.revcontent.com",
+            "aws-ap-southeast-2a.bench.cedexis.com",
             "b4psads.com",
             "banner.blogranking.net",
-            "banners.bebadasousadas.com",
+            "banners.bebadasousadas.com"
+        ],
+        "to_test": [
             "bidsystem.adknowledge.com",
             "bist.ailsg.com",
             "c124830.conv.btrll.com",
