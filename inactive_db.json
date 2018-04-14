@@ -130,15 +130,15 @@
             "ox-d.hatena.servedbyopenx.com",
             "ox-d.ibt.servedbyopenx.com",
             "ox-d.mailonline.servedbyopenx.com",
-            "ox-d.merriamwebster.servedbyopenx.com"
-        ],
-        "to_test": [
+            "ox-d.merriamwebster.servedbyopenx.com",
             "ox.mediabistro.com",
+            "p.chartboost.com",
             "p.pxl2015x1.com",
             "p_en.popunder.net",
             "partner.topcities.com",
             "pba39.inethoster.org",
             "pebble.bnex.com",
+            "php.bisrv.com",
             "pix.btrll.com",
             "pixel.ad.mlnadvertising.com",
             "pixel.serviceleverage.com",
@@ -151,7 +151,9 @@
             "quartz.bnex.com",
             "r.coolmobile.biz",
             "re.adroll.com",
-            "re.directrev.com",
+            "re.directrev.com"
+        ],
+        "to_test": [
             "reporting.flymonarch.com",
             "rotatix.go2affise.com",
             "search.url.com",
