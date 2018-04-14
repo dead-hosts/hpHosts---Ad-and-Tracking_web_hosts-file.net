@@ -158,9 +158,7 @@
             "segs.btrll.com",
             "siteinfo.libero.it",
             "sk.connect2.ws",
-            "sma.punto.net"
-        ],
-        "to_test": [
+            "sma.punto.net",
             "ss.xxxnavy.com",
             "stat.ringier.cz",
             "static.traffe.eu",
@@ -170,7 +168,9 @@
             "swx.domob.cn",
             "syndication.loganmueller.info",
             "t.mtagmonetizationa.com",
-            "t.mtagmonetizationb.com",
+            "t.mtagmonetizationb.com"
+        ],
+        "to_test": [
             "terrazzo.bnex.com",
             "tidbit.co.in",
             "toolbar.aol.com",
