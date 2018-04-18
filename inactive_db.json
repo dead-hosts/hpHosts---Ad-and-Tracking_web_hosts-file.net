@@ -51,10 +51,14 @@
             "urlcheck.hulu.com",
             "us-east-1.profile-api.ads.linkedin.com",
             "us0.adlibr.com",
-            "v.wqsph.net"
+            "v.wqsph.net",
+            "vpos.bnex.com",
+            "vra.outbrain.com",
+            "vrp.outbrain.com",
+            "vrt-chidc2-only.outbrain.com",
+            "vrt.outbrain.com"
         ],
         "to_test": [
-            "vpos.bnex.com",
             "www.adti.me",
             "www.alltereg0.ru",
             "www.c2path.com",
