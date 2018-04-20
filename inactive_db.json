@@ -132,9 +132,7 @@
             "onyx.bnex.com",
             "openx.city-nav.com",
             "openx.kasjauns.lv",
-            "orion.bnex.com"
-        ],
-        "to_test": [
+            "orion.bnex.com",
             "ox-d.answers.servedbyopenx.com",
             "ox-d.boston.servedbyopenx.com",
             "ox-d.cargurus.servedbyopenx.com",
@@ -166,8 +164,9 @@
             "pub3.media-clic.com",
             "quartz.bnex.com",
             "r.coolmobile.biz",
-            "re.adroll.com",
-            "re.directrev.com",
+            "re.directrev.com"
+        ],
+        "to_test": [
             "reporting.flymonarch.com",
             "rotatix.go2affise.com",
             "search.url.com",
