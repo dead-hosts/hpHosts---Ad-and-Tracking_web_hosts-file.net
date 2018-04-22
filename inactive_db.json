@@ -33,9 +33,7 @@
             "adserving.ads.ec",
             "adtracker.inmobi.com",
             "advertiser.adknowledge.com",
-            "advertiser.ads.ec"
-        ],
-        "to_test": [
+            "advertiser.ads.ec",
             "aeropostale.resultspage.com",
             "aff-jp.exshot.com",
             "affiliate.gwmtracker.com",
@@ -50,7 +48,9 @@
             "anet.c.appier.net",
             "api.bizographics.com",
             "api.flicktweets.com",
-            "api.revcontent.com",
+            "api.revcontent.com"
+        ],
+        "to_test": [
             "aws-ap-southeast-2a.bench.cedexis.com",
             "b4psads.com",
             "banner.blogranking.net",
