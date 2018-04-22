@@ -147,15 +147,13 @@
             "p_en.popunder.net",
             "partner.topcities.com",
             "pba39.inethoster.org",
-            "pebble.bnex.com"
-        ],
-        "to_test": [
-            "php.bisrv.com",
+            "pebble.bnex.com",
             "pix.btrll.com",
             "pixel.ad.mlnadvertising.com",
             "pixel.intares.net",
             "pixel.serviceleverage.com",
             "pixel.staging.tree.com",
+            "popup.smusic.ir",
             "posibilities_en.popunder.net",
             "preply.go2affise.com",
             "preview.bnex.com",
@@ -165,7 +163,9 @@
             "r.coolmobile.biz",
             "re.directrev.com",
             "reporting.flymonarch.com",
-            "rotatix.go2affise.com",
+            "rotatix.go2affise.com"
+        ],
+        "to_test": [
             "search.url.com",
             "segs.btrll.com",
             "siteinfo.libero.it",
