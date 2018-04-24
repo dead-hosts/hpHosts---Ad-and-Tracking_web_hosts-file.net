@@ -80,9 +80,7 @@
             "ads.topcities.com",
             "ads.traffpartners.com",
             "ads.vintageporntubenet.com",
-            "ads.whi.co.nz"
-        ],
-        "to_test": [
+            "ads.whi.co.nz",
             "ads_ad_center.s3.amazonaws.com",
             "adserver.ngz-network.de",
             "adserving.ads.ec",
@@ -90,7 +88,9 @@
             "advertiser.adknowledge.com",
             "advertiser.ads.ec",
             "aeropostale.resultspage.com",
-            "aff-jp.exshot.com",
+            "aff-jp.exshot.com"
+        ],
+        "to_test": [
             "affiliate.gwmtracker.com",
             "affiliate.key2link.com",
             "alea.adam.ad.daum.net",
