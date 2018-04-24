@@ -88,14 +88,13 @@
             "advertiser.adknowledge.com",
             "advertiser.ads.ec",
             "aeropostale.resultspage.com",
-            "aff-jp.exshot.com"
-        ],
-        "to_test": [
+            "aff-jp.exshot.com",
             "affiliate.gwmtracker.com",
             "affiliate.key2link.com",
+            "affiliateprogram.keywordspy.com",
+            "aka.p80.net",
             "alea.adam.ad.daum.net",
             "alea.adam.daum.net",
-            "alldcs.sphere.com",
             "alpha.bnex.com",
             "analytics-v2.anvato.com",
             "analytics.traidnt.net",
@@ -105,7 +104,9 @@
             "api.flicktweets.com",
             "api.revcontent.com",
             "aws-ap-southeast-2a.bench.cedexis.com",
-            "b4psads.com",
+            "b4psads.com"
+        ],
+        "to_test": [
             "banner.blogranking.net",
             "banners.bebadasousadas.com",
             "bidsystem.adknowledge.com",
