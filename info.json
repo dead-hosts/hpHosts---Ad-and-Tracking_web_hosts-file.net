@@ -453,6 +453,8 @@
         "--commit-autosave-message \"[Autosave] Test of hpHosts---Ad-and-Tracking_web_hosts-file.net\"",
         "--commit-results-message \"[Results] Test of hpHosts---Ad-and-Tracking_web_hosts-file.net\"",
         "--commit-autosave-message \"[Autosave] Test of hpHosts---Ad-and-Tracking_web_hosts-file.net\"",
+        "--commit-results-message \"[Results] Test of hpHosts---Ad-and-Tracking_web_hosts-file.net\"",
+        "--commit-autosave-message \"[Autosave] Test of hpHosts---Ad-and-Tracking_web_hosts-file.net\"",
         "--commit-results-message \"[Results] Test of hpHosts---Ad-and-Tracking_web_hosts-file.net\""
     ],
     "clean_list_file": "clean.list",
@@ -460,7 +462,7 @@
     "commit_autosave_message": "Test of hpHosts---Ad-and-Tracking_web_hosts-file.net",
     "currently_under_test": "1",
     "days_until_next_test": "1",
-    "last_test": "1524571423",
+    "last_test": "1524572414",
     "list_name": "hpHosts---Ad-and-Tracking_web_hosts-file.net.list",
     "name": "hpHosts---Ad-and-Tracking_web_hosts-file.net",
     "raw_link": "https://hosts-file.net/ad_servers.txt",
