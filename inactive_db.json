@@ -64,9 +64,7 @@
             "adman_test.go2cloud.org",
             "ads.adrdgt.com",
             "ads.amarillo.com",
-            "ads.asia1.com.sg"
-        ],
-        "to_test": [
+            "ads.asia1.com.sg",
             "ads.deliads.com",
             "ads.filez.nl",
             "ads.gad-network.com",
@@ -82,7 +80,9 @@
             "ads.topcities.com",
             "ads.traffpartners.com",
             "ads.vintageporntubenet.com",
-            "ads.whi.co.nz",
+            "ads.whi.co.nz"
+        ],
+        "to_test": [
             "ads_ad_center.s3.amazonaws.com",
             "adserver.ngz-network.de",
             "adserving.ads.ec",
