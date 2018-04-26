@@ -62,13 +62,14 @@
             "anet.c.appier.net",
             "api.bizographics.com",
             "api.flicktweets.com",
-            "api.revcontent.com"
-        ],
-        "to_test": [
+            "api.revcontent.com",
             "aws-ap-southeast-2a.bench.cedexis.com",
             "b4psads.com",
             "banner.blogranking.net",
             "banners.bebadasousadas.com",
+            "beacon.richrelevance.com"
+        ],
+        "to_test": [
             "bidsystem.adknowledge.com",
             "bo.jumptap.com",
             "bos-tapreq01.jumptap.com",
