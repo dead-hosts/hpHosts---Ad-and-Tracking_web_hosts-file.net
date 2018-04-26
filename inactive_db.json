@@ -240,9 +240,7 @@
             "megastore.bnex.com",
             "mobile.traffic-tracker.net",
             "mosaic.bnex.com",
-            "mp.twitch.tv"
-        ],
-        "to_test": [
+            "mp.twitch.tv",
             "new.gtsads.com",
             "o_thus.ero-advertising.com",
             "okstrade.go2affise.com",
@@ -266,8 +264,11 @@
             "p.pxl2015x1.com",
             "p_en.popunder.net",
             "partner.topcities.com",
+            "partner.zooplus.de",
             "pba39.inethoster.org",
-            "pebble.bnex.com",
+            "pebble.bnex.com"
+        ],
+        "to_test": [
             "pix.btrll.com",
             "pix.gfycat.com",
             "pixel.ad.mlnadvertising.com",
