@@ -107,9 +107,7 @@
             "creative.whi.co.nz",
             "curate.nestedmedia.com",
             "customer.bnex.com",
-            "d.appsdt.com"
-        ],
-        "to_test": [
+            "d.appsdt.com",
             "d13czkep7ax7nj.cloudfront.net",
             "d17f2fxw547952.cloudfront.net",
             "d19972r8wdpby8.cloudfront.net",
@@ -187,7 +185,9 @@
             "dycpc40hvg4ki.cloudfront.net",
             "dyl3p6so5yozo.cloudfront.net",
             "e-ltvp.inmobi.com",
-            "e.ai.inmobi.com",
+            "e.ai.inmobi.com"
+        ],
+        "to_test": [
             "enetwork.ncbuy.com",
             "engine.fl-ads.com",
             "engine.phptrader.com",
