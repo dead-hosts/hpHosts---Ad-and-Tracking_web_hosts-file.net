@@ -266,9 +266,7 @@
             "partner.topcities.com",
             "partner.zooplus.de",
             "pba39.inethoster.org",
-            "pebble.bnex.com"
-        ],
-        "to_test": [
+            "pebble.bnex.com",
             "pix.btrll.com",
             "pix.gfycat.com",
             "pixel.ad.mlnadvertising.com",
@@ -283,10 +281,11 @@
             "pub3.media-clic.com",
             "quartz.bnex.com",
             "r.coolmobile.biz",
-            "re.adroll.com",
             "re.directrev.com",
             "reporting.flymonarch.com",
-            "rotatix.go2affise.com",
+            "rotatix.go2affise.com"
+        ],
+        "to_test": [
             "search.url.com",
             "segs.btrll.com",
             "siteinfo.libero.it",
