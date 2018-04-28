@@ -293,9 +293,7 @@
             "ox.mediabistro.com",
             "p.chartboost.com",
             "p.pxl2015x1.com",
-            "p_en.popunder.net"
-        ],
-        "to_test": [
+            "p_en.popunder.net",
             "partner.topcities.com",
             "partner.zooplus.de",
             "pba39.inethoster.org",
@@ -315,7 +313,9 @@
             "quartz.bnex.com",
             "r.coolmobile.biz",
             "re.directrev.com",
-            "reporting.flymonarch.com",
+            "reporting.flymonarch.com"
+        ],
+        "to_test": [
             "rotatix.go2affise.com",
             "search.url.com",
             "segs.btrll.com",
