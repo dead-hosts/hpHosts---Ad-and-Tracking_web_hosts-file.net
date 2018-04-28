@@ -348,9 +348,7 @@
             "urlcheck.hulu.com",
             "us-east-1.profile-api.ads.linkedin.com",
             "us0.adlibr.com",
-            "v.wqsph.net"
-        ],
-        "to_test": [
+            "v.wqsph.net",
             "vpos.bnex.com",
             "vra.outbrain.com",
             "vrp.outbrain.com",
@@ -360,7 +358,9 @@
             "web64.jumptap.com",
             "web65.jumptap.com",
             "webstats.seoinc.com",
-            "wrt.mtr-4uk.com",
+            "wrt.mtr-4uk.com"
+        ],
+        "to_test": [
             "www.adti.me",
             "www.alltereg0.ru",
             "www.c2path.com",
