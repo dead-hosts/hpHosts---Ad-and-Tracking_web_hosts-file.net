@@ -229,10 +229,7 @@
             "intarsia.bnex.com",
             "intranet.bnex.com",
             "jade.bnex.com",
-            "js.dmtry.com"
-        ],
-        "to_test": [
-            "la-chi.outbrain.com",
+            "js.dmtry.com",
             "landscaping.srv123.com",
             "link.belati.net",
             "livere.co.kr.cizion.ixcloud.net",
@@ -245,7 +242,9 @@
             "malachite.bnex.com",
             "marble.bnex.com",
             "media4.fc2.com",
-            "megastore.bnex.com",
+            "megastore.bnex.com"
+        ],
+        "to_test": [
             "mobile.traffic-tracker.net",
             "mosaic.bnex.com",
             "mp.twitch.tv",
