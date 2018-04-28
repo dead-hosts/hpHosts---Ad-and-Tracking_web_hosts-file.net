@@ -70,11 +70,10 @@
             "aws-ap-southeast-2a.bench.cedexis.com",
             "b4psads.com",
             "banner.blogranking.net",
-            "banners.bebadasousadas.com"
-        ],
-        "to_test": [
+            "banners.bebadasousadas.com",
             "beacon.richrelevance.com",
             "bidsystem.adknowledge.com",
+            "blog.chartboost.com",
             "bo.jumptap.com",
             "bos-tapreq01.jumptap.com",
             "bos-tapreq02.jumptap.com",
@@ -99,7 +98,9 @@
             "c124830.conv.btrll.com",
             "can.you.shut.the.fuck.up.at.bnex.com",
             "cdn.directrev.com",
-            "cdn.escalatenetwork.com",
+            "cdn.escalatenetwork.com"
+        ],
+        "to_test": [
             "chathu.apkmania.co",
             "click.safe-sender.co.uk",
             "clicktrade.net",
