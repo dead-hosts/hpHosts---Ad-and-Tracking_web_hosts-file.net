@@ -46,19 +46,19 @@
             "ads_ad_center.s3.amazonaws.com",
             "adserver.ngz-network.de",
             "adserving.ads.ec",
-            "adtracker.inmobi.com"
-        ],
-        "to_test": [
+            "adtracker.inmobi.com",
             "advertiser.adknowledge.com",
             "advertiser.ads.ec",
             "aeropostale.resultspage.com",
             "aff-jp.exshot.com",
+            "affiliate.drivotracker.com",
             "affiliate.gwmtracker.com",
             "affiliate.key2link.com",
             "affiliateprogram.keywordspy.com",
             "alea.adam.ad.daum.net",
             "alea.adam.daum.net",
             "alldcs-distinct.outbrain.com",
+            "alldcs.sphere.com",
             "alpha.bnex.com",
             "analytics-v2.anvato.com",
             "analytics.traidnt.net",
@@ -66,7 +66,9 @@
             "anet.c.appier.net",
             "api.bizographics.com",
             "api.flicktweets.com",
-            "api.revcontent.com",
+            "api.revcontent.com"
+        ],
+        "to_test": [
             "aws-ap-southeast-2a.bench.cedexis.com",
             "b4psads.com",
             "banner.blogranking.net",
