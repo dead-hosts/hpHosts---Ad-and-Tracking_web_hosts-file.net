@@ -23,9 +23,7 @@
             "ads.linuxjournal.com",
             "ads.mobilefuse.net",
             "ads.mocean.mobi",
-            "ads.netmechanic.com"
-        ],
-        "to_test": [
+            "ads.netmechanic.com",
             "ads.piramit.net",
             "ads.realitytraffic.com.s2.gvirabi.com",
             "ads.realitytraffic.com.s3.gvirabi.com",
@@ -46,7 +44,9 @@
             "ads8.mocean.mobi",
             "ads9.mocean.mobi",
             "ads_ad_center.s3.amazonaws.com",
-            "adserver.ngz-network.de",
+            "adserver.ngz-network.de"
+        ],
+        "to_test": [
             "adserving.ads.ec",
             "adtracker.inmobi.com",
             "advertiser.adknowledge.com",
