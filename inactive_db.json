@@ -330,9 +330,7 @@
             "swx.domob.cn",
             "syndication.loganmueller.info",
             "t.mtagmonetizationa.com",
-            "t.mtagmonetizationb.com"
-        ],
-        "to_test": [
+            "t.mtagmonetizationb.com",
             "terrazzo.bnex.com",
             "tminainc.go2affise.com",
             "toolbar.aol.com",
@@ -345,7 +343,9 @@
             "tracking.directadsmedia.com",
             "tracking.smartclicksystem.com",
             "triolit.go2affise.com",
-            "trp.numergy.bench.cedexis.com",
+            "trp.numergy.bench.cedexis.com"
+        ],
+        "to_test": [
             "u715381.sendgrid.org",
             "u899519.sendgrid.org",
             "urlcheck.hulu.com",
