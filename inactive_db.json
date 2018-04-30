@@ -60,9 +60,7 @@
             "alldcs-distinct.outbrain.com",
             "alpha.bnex.com",
             "analytics-v2.anvato.com",
-            "analytics.traidnt.net"
-        ],
-        "to_test": [
+            "analytics.traidnt.net",
             "anet.apx.appier.net",
             "anet.c.appier.net",
             "api.bizographics.com",
@@ -70,8 +68,9 @@
             "api.revcontent.com",
             "aws-ap-southeast-2a.bench.cedexis.com",
             "b4psads.com",
-            "banner.blogranking.net",
-            "banners.bebadasousadas.com",
+            "banner.blogranking.net"
+        ],
+        "to_test": [
             "beacon.richrelevance.com",
             "bidsystem.adknowledge.com",
             "blog.chartboost.com",
