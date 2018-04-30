@@ -68,9 +68,7 @@
             "api.revcontent.com",
             "aws-ap-southeast-2a.bench.cedexis.com",
             "b4psads.com",
-            "banner.blogranking.net"
-        ],
-        "to_test": [
+            "banner.blogranking.net",
             "beacon.richrelevance.com",
             "bidsystem.adknowledge.com",
             "blog.chartboost.com",
@@ -94,7 +92,9 @@
             "bos-tapreq17.jumptap.com",
             "bos-tapreq18.jumptap.com",
             "bos-tapreq19.jumptap.com",
-            "bos-tapreq20.jumptap.com",
+            "bos-tapreq20.jumptap.com"
+        ],
+        "to_test": [
             "c124830.conv.btrll.com",
             "can.you.shut.the.fuck.up.at.bnex.com",
             "cdn.directrev.com",
