@@ -362,9 +362,7 @@
             "stats.cts-bv.nl",
             "stats.ebay.com",
             "stats.ilius.net",
-            "stats.profileponds.com"
-        ],
-        "to_test": [
+            "stats.profileponds.com",
             "swx.domob.cn",
             "syndication.loganmueller.info",
             "t.mtagmonetizationa.com",
@@ -378,7 +376,9 @@
             "track.tracking85.com",
             "tracker.netmechanic.com",
             "tracking.amazing-revenue.com",
-            "tracking.directadsmedia.com",
+            "tracking.directadsmedia.com"
+        ],
+        "to_test": [
             "tracking.smartclicksystem.com",
             "triolit.go2affise.com",
             "trp.numergy.bench.cedexis.com",
