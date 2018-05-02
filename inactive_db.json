@@ -376,9 +376,7 @@
             "track.tracking85.com",
             "tracker.netmechanic.com",
             "tracking.amazing-revenue.com",
-            "tracking.directadsmedia.com"
-        ],
-        "to_test": [
+            "tracking.directadsmedia.com",
             "tracking.smartclicksystem.com",
             "triolit.go2affise.com",
             "trp.numergy.bench.cedexis.com",
@@ -387,7 +385,10 @@
             "urlcheck.hulu.com",
             "us-east-1.profile-api.ads.linkedin.com",
             "us0.adlibr.com",
-            "v.wqsph.net",
+            "uslbtest.cedexis.com",
+            "v.wqsph.net"
+        ],
+        "to_test": [
             "vpos.bnex.com",
             "vra.outbrain.com",
             "vrp.outbrain.com",
