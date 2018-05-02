@@ -258,9 +258,7 @@
             "logs.infoaxe.com",
             "lon.telefonica.bench.cedexis.com",
             "m.adtc.daum.net",
-            "m.trk44.mobi"
-        ],
-        "to_test": [
+            "m.trk44.mobi",
             "malachite.bnex.com",
             "marble.bnex.com",
             "media4.fc2.com",
@@ -269,7 +267,9 @@
             "mosaic.bnex.com",
             "mp.twitch.tv",
             "mytds.pr.vc",
-            "new.gtsads.com",
+            "new.gtsads.com"
+        ],
+        "to_test": [
             "o_thus.ero-advertising.com",
             "okstrade.go2affise.com",
             "onyx.bnex.com",
