@@ -245,9 +245,7 @@
             "img.ads3.mojiva.com",
             "img.ads4.mocean.mobi",
             "img.ads4.mojiva.com",
-            "img.ads5.mojiva.com"
-        ],
-        "to_test": [
+            "img.ads5.mojiva.com",
             "intarsia.bnex.com",
             "intranet.bnex.com",
             "jade.bnex.com",
@@ -260,7 +258,9 @@
             "logs.infoaxe.com",
             "lon.telefonica.bench.cedexis.com",
             "m.adtc.daum.net",
-            "m.trk44.mobi",
+            "m.trk44.mobi"
+        ],
+        "to_test": [
             "malachite.bnex.com",
             "marble.bnex.com",
             "media4.fc2.com",
