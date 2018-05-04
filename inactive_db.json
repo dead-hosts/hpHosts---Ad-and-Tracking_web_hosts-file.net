@@ -123,9 +123,7 @@
             "connect.appflood.com",
             "content.liveuniverse.com",
             "coretalk.co",
-            "counted.de"
-        ],
-        "to_test": [
+            "counted.de",
             "creative.ad135m.com",
             "creative.whi.co.nz",
             "curate.nestedmedia.com",
@@ -188,6 +186,7 @@
             "data.ppn-ad-cdn.populis.com",
             "db.bnex.com",
             "ddwht76d9jvfl.cloudfront.net",
+            "delivery.optimatic.com",
             "dev.bnex.com",
             "digdug.divxnetworks.com",
             "disy2s34euyqm.cloudfront.net",
@@ -200,14 +199,15 @@
             "dm8srf206hien.cloudfront.net",
             "dns1.schoffstall.com",
             "do.you.uh.yahoo.at.bnex.com",
-            "domainsteam.de",
             "dp51h10v6ggpa.cloudfront.net",
             "dq2tgxnc2knif.cloudfront.net",
             "dx5qvhwg92mjd.cloudfront.net",
             "dxq6c0tx3v6mm.cloudfront.net",
             "dxqd86uz345mg.cloudfront.net",
             "dycpc40hvg4ki.cloudfront.net",
-            "dyl3p6so5yozo.cloudfront.net",
+            "dyl3p6so5yozo.cloudfront.net"
+        ],
+        "to_test": [
             "e-ltvp.inmobi.com",
             "e.ai.inmobi.com",
             "ea.rueducommerce.fr",
