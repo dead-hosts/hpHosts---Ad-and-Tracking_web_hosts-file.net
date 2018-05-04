@@ -278,9 +278,7 @@
             "okstrade.go2affise.com",
             "onyx.bnex.com",
             "openx.city-nav.com",
-            "openx.kasjauns.lv"
-        ],
-        "to_test": [
+            "openx.kasjauns.lv",
             "orion.bnex.com",
             "ox-d.aa.com",
             "ox-d.ads.alliancehealth.com",
@@ -354,7 +352,9 @@
             "r3.plugrush.com",
             "r4.plugrush.com",
             "r5.plugrush.com",
-            "ramongroup.go2affise.com",
+            "ramongroup.go2affise.com"
+        ],
+        "to_test": [
             "re.directrev.com",
             "reporting.flymonarch.com",
             "req.mojiva.com",
