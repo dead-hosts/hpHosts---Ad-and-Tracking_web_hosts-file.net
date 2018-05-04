@@ -252,9 +252,7 @@
             "img.ads5.mojiva.com",
             "intarsia.bnex.com",
             "intranet.bnex.com",
-            "jade.bnex.com"
-        ],
-        "to_test": [
+            "jade.bnex.com",
             "js.dmtry.com",
             "landscaping.srv123.com",
             "link.belati.net",
@@ -268,7 +266,9 @@
             "malachite.bnex.com",
             "marble.bnex.com",
             "media4.fc2.com",
-            "megastore.bnex.com",
+            "megastore.bnex.com"
+        ],
+        "to_test": [
             "mobile.traffic-tracker.net",
             "mosaic.bnex.com",
             "mp.twitch.tv",
