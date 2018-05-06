@@ -399,9 +399,7 @@
             "vra.outbrain.com",
             "vrp.outbrain.com",
             "vrt-chidc2-only.outbrain.com",
-            "vrt.outbrain.com"
-        ],
-        "to_test": [
+            "vrt.outbrain.com",
             "web63.jumptap.com",
             "web64.jumptap.com",
             "web65.jumptap.com",
@@ -411,7 +409,9 @@
             "www.a6ba.com",
             "www.adti.me",
             "www.alltereg0.ru",
-            "www.c2path.com",
+            "www.chokoladsrv.net"
+        ],
+        "to_test": [
             "www.clicktracksolutions.com",
             "www.corolate.win",
             "www.cpm-plus.com",
