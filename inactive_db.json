@@ -51,9 +51,7 @@
             "ads9.mocean.mobi",
             "ads_ad_center.s3.amazonaws.com",
             "adserver.ngz-network.de",
-            "adserving.ads.ec"
-        ],
-        "to_test": [
+            "adserving.ads.ec",
             "adtracker.inmobi.com",
             "advertiser.adknowledge.com",
             "advertiser.ads.ec",
@@ -65,6 +63,7 @@
             "affiliateprogram.keywordspy.com",
             "alea.adam.ad.daum.net",
             "alea.adam.daum.net",
+            "alldcs-distinct.outbrain.com",
             "alldcs.sphere.com",
             "alpha.bnex.com",
             "analytics-v2.anvato.com",
@@ -72,7 +71,9 @@
             "anet.apx.appier.net",
             "anet.c.appier.net",
             "api.bizographics.com",
-            "api.flicktweets.com",
+            "api.flicktweets.com"
+        ],
+        "to_test": [
             "api.revcontent.com",
             "aws-ap-southeast-2a.bench.cedexis.com",
             "b3.toparcadehits.com",
