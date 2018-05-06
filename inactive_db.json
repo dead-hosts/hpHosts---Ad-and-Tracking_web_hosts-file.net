@@ -276,9 +276,7 @@
             "nwidget.networkedblogs.com",
             "o.sa.aol.com",
             "o_thus.ero-advertising.com",
-            "okstrade.go2affise.com"
-        ],
-        "to_test": [
+            "okstrade.go2affise.com",
             "onyx.bnex.com",
             "openx.city-nav.com",
             "openx.kasjauns.lv",
@@ -348,7 +346,9 @@
             "preply.go2affise.com",
             "preview.bnex.com",
             "prunemedia.go2affise.com",
-            "pub3.media-clic.com",
+            "pub3.media-clic.com"
+        ],
+        "to_test": [
             "quartz.bnex.com",
             "r1.plugrush.com",
             "r2.plugrush.com",
