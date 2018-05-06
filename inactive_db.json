@@ -265,9 +265,7 @@
             "m.adtc.daum.net",
             "m.trk44.mobi",
             "malachite.bnex.com",
-            "marble.bnex.com"
-        ],
-        "to_test": [
+            "marble.bnex.com",
             "media4.fc2.com",
             "megastore.bnex.com",
             "mobile.traffic-tracker.net",
@@ -278,7 +276,9 @@
             "nwidget.networkedblogs.com",
             "o.sa.aol.com",
             "o_thus.ero-advertising.com",
-            "okstrade.go2affise.com",
+            "okstrade.go2affise.com"
+        ],
+        "to_test": [
             "onyx.bnex.com",
             "openx.city-nav.com",
             "openx.kasjauns.lv",
