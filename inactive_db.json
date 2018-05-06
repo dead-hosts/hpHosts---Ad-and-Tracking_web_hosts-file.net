@@ -359,9 +359,7 @@
             "reporting.flymonarch.com",
             "req.mojiva.com",
             "rotatix.go2affise.com",
-            "segs.btrll.com"
-        ],
-        "to_test": [
+            "segs.btrll.com",
             "siteinfo.libero.it",
             "sk.connect2.ws",
             "sma.punto.net",
@@ -372,7 +370,9 @@
             "stats.cts-bv.nl",
             "stats.ebay.com",
             "stats.ilius.net",
-            "stats.profileponds.com",
+            "stats.profileponds.com"
+        ],
+        "to_test": [
             "swx.domob.cn",
             "syndication.loganmueller.info",
             "t.menepe.com",
