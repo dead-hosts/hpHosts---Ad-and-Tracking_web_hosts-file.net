@@ -76,9 +76,7 @@
             "aws-ap-southeast-2a.bench.cedexis.com",
             "b3.toparcadehits.com",
             "b4.toparcadehits.com",
-            "banner.blogranking.net"
-        ],
-        "to_test": [
+            "banner.blogranking.net",
             "beacon.richrelevance.com",
             "bidsystem.adknowledge.com",
             "blog.chartboost.com",
@@ -105,7 +103,9 @@
             "bos-tapreq20.jumptap.com",
             "c.ads.com",
             "c.cldlr.com",
-            "c124830.conv.btrll.com",
+            "c124830.conv.btrll.com"
+        ],
+        "to_test": [
             "can.you.shut.the.fuck.up.at.bnex.com",
             "cdn.c.try9.com",
             "cdn.directrev.com",
