@@ -62,12 +62,9 @@
             "affiliate.drivotracker.com",
             "affiliate.gwmtracker.com",
             "affiliate.key2link.com",
-            "affiliateprogram.keywordspy.com"
-        ],
-        "to_test": [
+            "affiliateprogram.keywordspy.com",
             "alea.adam.ad.daum.net",
             "alea.adam.daum.net",
-            "alldcs-distinct.outbrain.com",
             "alldcs.sphere.com",
             "alpha.bnex.com",
             "analytics-v2.anvato.com",
@@ -80,7 +77,9 @@
             "aws-ap-southeast-2a.bench.cedexis.com",
             "b3.toparcadehits.com",
             "b4.toparcadehits.com",
-            "banner.blogranking.net",
+            "banner.blogranking.net"
+        ],
+        "to_test": [
             "beacon.richrelevance.com",
             "bidsystem.adknowledge.com",
             "blog.chartboost.com",
