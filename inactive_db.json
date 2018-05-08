@@ -101,9 +101,7 @@
             "bos-tapreq17.jumptap.com",
             "bos-tapreq18.jumptap.com",
             "bos-tapreq19.jumptap.com",
-            "bos-tapreq20.jumptap.com"
-        ],
-        "to_test": [
+            "bos-tapreq20.jumptap.com",
             "c.ads.com",
             "c.cldlr.com",
             "c124830.conv.btrll.com",
@@ -117,7 +115,9 @@
             "cdn3-ref.landing.comcontent.net",
             "cdn4-ref.landing.comcontent.net",
             "cdn5-ref.landing.comcontent.net",
-            "chathu.apkmania.co",
+            "chathu.apkmania.co"
+        ],
+        "to_test": [
             "click.safe-sender.co.uk",
             "click1.performance-zone.com",
             "clicktrade.net",
