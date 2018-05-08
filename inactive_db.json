@@ -19,9 +19,7 @@
             "ads.e9china.com",
             "ads.filez.nl",
             "ads.gad-network.com",
-            "ads.gfy.com"
-        ],
-        "to_test": [
+            "ads.gfy.com",
             "ads.lawnsite.com",
             "ads.linuxjournal.com",
             "ads.mobilefuse.net",
@@ -37,6 +35,7 @@
             "ads.topcities.com",
             "ads.traffpartners.com",
             "ads.vintageporntubenet.com",
+            "ads.webads360.com",
             "ads.whi.co.nz",
             "ads1.mocean.mobi",
             "ads1.mojiva.com",
@@ -52,7 +51,9 @@
             "ads7.mocean.mobi",
             "ads8.mocean.mobi",
             "ads9.mocean.mobi",
-            "ads_ad_center.s3.amazonaws.com",
+            "ads_ad_center.s3.amazonaws.com"
+        ],
+        "to_test": [
             "adserver.ngz-network.de",
             "adserving.ads.ec",
             "adtracker.inmobi.com",
