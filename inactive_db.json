@@ -334,9 +334,7 @@
             "p_en.popunder.net",
             "partner.topcities.com",
             "partner.zooplus.de",
-            "pba39.inethoster.org"
-        ],
-        "to_test": [
+            "pba39.inethoster.org",
             "pebble.bnex.com",
             "pix.btrll.com",
             "pix.gfycat.com",
@@ -357,11 +355,12 @@
             "r4.plugrush.com",
             "r5.plugrush.com",
             "ramongroup.go2affise.com",
-            "re.adroll.com",
             "re.directrev.com",
             "reporting.flymonarch.com",
             "req.mojiva.com",
-            "rotatix.go2affise.com",
+            "rotatix.go2affise.com"
+        ],
+        "to_test": [
             "segs.btrll.com",
             "siteinfo.libero.it",
             "sk.connect2.ws",
