@@ -77,9 +77,7 @@
             "b3.toparcadehits.com",
             "b4.toparcadehits.com",
             "banner.69stream.com",
-            "banner.blogranking.net"
-        ],
-        "to_test": [
+            "banner.blogranking.net",
             "beacon.richrelevance.com",
             "bidsystem.adknowledge.com",
             "blog.chartboost.com",
@@ -103,7 +101,9 @@
             "bos-tapreq17.jumptap.com",
             "bos-tapreq18.jumptap.com",
             "bos-tapreq19.jumptap.com",
-            "bos-tapreq20.jumptap.com",
+            "bos-tapreq20.jumptap.com"
+        ],
+        "to_test": [
             "c.ads.com",
             "c.cldlr.com",
             "c124830.conv.btrll.com",
