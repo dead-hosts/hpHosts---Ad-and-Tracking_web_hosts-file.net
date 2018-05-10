@@ -8,9 +8,7 @@
             "ad.mlnadvertising.com",
             "ad.newmail.ru",
             "ad.sma.punto.net",
-            "ad01.adonspot.com"
-        ],
-        "to_test": [
+            "ad01.adonspot.com",
             "adcenter.mdf.se",
             "adimage.asia1.com.sg",
             "adman_test.go2cloud.org",
@@ -22,7 +20,9 @@
             "ads.e9china.com",
             "ads.filez.nl",
             "ads.gad-network.com",
-            "ads.gfy.com",
+            "ads.gfy.com"
+        ],
+        "to_test": [
             "ads.lawnsite.com",
             "ads.linuxjournal.com",
             "ads.mobilefuse.net",
