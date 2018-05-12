@@ -262,9 +262,7 @@
             "intarsia.bnex.com",
             "intranet.bnex.com",
             "jade.bnex.com",
-            "js.dmtry.com"
-        ],
-        "to_test": [
+            "js.dmtry.com",
             "la-chi.outbrain.com",
             "landscaping.srv123.com",
             "link.belati.net",
@@ -273,12 +271,15 @@
             "log.dmtry.com",
             "logs.infoaxe.com",
             "lon.telefonica.bench.cedexis.com",
+            "lprptestrouter2.website",
             "m.adtc.daum.net",
             "m.trk44.mobi",
             "malachite.bnex.com",
             "marble.bnex.com",
             "media4.fc2.com",
-            "megastore.bnex.com",
+            "megastore.bnex.com"
+        ],
+        "to_test": [
             "mobile.traffic-tracker.net",
             "mosaic.bnex.com",
             "mp.twitch.tv",
