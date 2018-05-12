@@ -421,9 +421,7 @@
             "web64.jumptap.com",
             "web65.jumptap.com",
             "webstats.seoinc.com",
-            "webtraffic.ttinet.com"
-        ],
-        "to_test": [
+            "webtraffic.ttinet.com",
             "wrt.mtr-4uk.com",
             "www.a6ba.com",
             "www.adti.me",
@@ -437,7 +435,9 @@
             "www.drivotracker.com",
             "www.dsply.com",
             "www.email-marketing.net",
-            "www.gprapps.com",
+            "www.gprapps.com"
+        ],
+        "to_test": [
             "www.highspeedtesting.com",
             "www.homeearthlink.net",
             "www.ilovecookies.co",
