@@ -10,9 +10,7 @@
             "ad01.adonspot.com",
             "adcenter.mdf.se",
             "adimage.asia1.com.sg",
-            "adman_test.go2cloud.org"
-        ],
-        "to_test": [
+            "adman_test.go2cloud.org",
             "ads.adrdgt.com",
             "ads.advance.uk.com",
             "ads.amarillo.com",
@@ -20,6 +18,7 @@
             "ads.deliads.com",
             "ads.e9china.com",
             "ads.filez.nl",
+            "ads.fool.com",
             "ads.gad-network.com",
             "ads.gfy.com",
             "ads.lawnsite.com",
@@ -32,7 +31,9 @@
             "ads.realitytraffic.com.s2.gvirabi.com",
             "ads.realitytraffic.com.s3.gvirabi.com",
             "ads.rte.ie",
-            "ads.savannahnow.com",
+            "ads.savannahnow.com"
+        ],
+        "to_test": [
             "ads.taptapnetworks.com",
             "ads.topcities.com",
             "ads.traffpartners.com",
