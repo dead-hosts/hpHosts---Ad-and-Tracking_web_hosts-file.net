@@ -287,9 +287,7 @@
             "okstrade.go2affise.com",
             "onyx.bnex.com",
             "openx.city-nav.com",
-            "openx.kasjauns.lv"
-        ],
-        "to_test": [
+            "openx.kasjauns.lv",
             "orion.bnex.com",
             "ox-d.aa.com",
             "ox-d.ads.alliancehealth.com",
@@ -355,7 +353,6 @@
             "posibilities_en.popunder.net",
             "preply.go2affise.com",
             "preview.bnex.com",
-            "proactive.base.de",
             "prunemedia.go2affise.com",
             "pub3.media-clic.com",
             "quartz.bnex.com",
@@ -365,7 +362,9 @@
             "r4.plugrush.com",
             "r5.plugrush.com",
             "ramongroup.go2affise.com",
-            "re.directrev.com",
+            "re.directrev.com"
+        ],
+        "to_test": [
             "reporting.flymonarch.com",
             "req.mojiva.com",
             "rotatix.go2affise.com",
