@@ -9,9 +9,7 @@
             "ad.sma.punto.net",
             "ad01.adonspot.com",
             "adcenter.mdf.se",
-            "adimage.asia1.com.sg"
-        ],
-        "to_test": [
+            "adimage.asia1.com.sg",
             "adman_test.go2cloud.org",
             "ads.adrdgt.com",
             "ads.advance.uk.com",
@@ -33,7 +31,9 @@
             "ads.realitytraffic.com.s2.gvirabi.com",
             "ads.realitytraffic.com.s3.gvirabi.com",
             "ads.rte.ie",
-            "ads.savannahnow.com",
+            "ads.savannahnow.com"
+        ],
+        "to_test": [
             "ads.taptapnetworks.com",
             "ads.topcities.com",
             "ads.traffpartners.com",
