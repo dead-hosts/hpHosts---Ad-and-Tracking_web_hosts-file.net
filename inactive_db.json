@@ -208,9 +208,7 @@
             "do.you.uh.yahoo.at.bnex.com",
             "dp51h10v6ggpa.cloudfront.net",
             "dq2tgxnc2knif.cloudfront.net",
-            "drive.richbanner.ru"
-        ],
-        "to_test": [
+            "drive.richbanner.ru",
             "dx5qvhwg92mjd.cloudfront.net",
             "dxq6c0tx3v6mm.cloudfront.net",
             "dxqd86uz345mg.cloudfront.net",
@@ -221,7 +219,9 @@
             "ea.rueducommerce.fr",
             "enetwork.ncbuy.com",
             "engine.fl-ads.com",
-            "engine.phptrader.com",
+            "engine.phptrader.com"
+        ],
+        "to_test": [
             "fp.gad-network.com",
             "gae.caspion.com",
             "gather.hankyung.com",
