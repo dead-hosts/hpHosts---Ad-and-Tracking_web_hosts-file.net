@@ -397,9 +397,7 @@
             "tracking.amazing-revenue.com",
             "tracking.directadsmedia.com",
             "tracking.smartclicksystem.com",
-            "triolit.go2affise.com"
-        ],
-        "to_test": [
+            "triolit.go2affise.com",
             "trp.numergy.bench.cedexis.com",
             "u.optorb.com",
             "u715381.sendgrid.org",
@@ -408,8 +406,9 @@
             "urlcheck.hulu.com",
             "us-east-1.profile-api.ads.linkedin.com",
             "us0.adlibr.com",
-            "uslbtest.cedexis.com",
-            "v.wqsph.net",
+            "v.wqsph.net"
+        ],
+        "to_test": [
             "vpos.bnex.com",
             "vra.outbrain.com",
             "vrp.outbrain.com",
