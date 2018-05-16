@@ -289,10 +289,9 @@
             "new.gtsads.com",
             "o.sa.aol.com",
             "o_thus.ero-advertising.com",
-            "offers.bycontext.com"
-        ],
-        "to_test": [
+            "offers.bycontext.com",
             "okstrade.go2affise.com",
+            "onedrive-collection.device.mobileengagement.windows.net",
             "onyx.bnex.com",
             "openx.city-nav.com",
             "openx.kasjauns.lv",
@@ -313,6 +312,7 @@
             "ox-d.ezoic.servedbyopenx.com",
             "ox-d.forbesbidder.servedbyopenx.com",
             "ox-d.futurenet.servedbyopenx.com",
+            "ox-d.fwmedia.com",
             "ox-d.gatewaymedia.servedbyopenx.com",
             "ox-d.hatena.servedbyopenx.com",
             "ox-d.hearstmagazines.servedbyopenx.com",
@@ -340,6 +340,7 @@
             "ox-d.tunein.servedbyopenx.com",
             "ox-d.warnerbros.servedbyopenx.com",
             "ox-d.weatherus.servedbyopenx.com",
+            "ox-d.wetransfer.com",
             "ox-d.wikia.servedbyopenx.com",
             "ox-d.wikihow.servedbyopenx.com",
             "ox-d.zergnet.servedbyopenx.com",
@@ -361,7 +362,9 @@
             "posibilities_en.popunder.net",
             "preply.go2affise.com",
             "preview.bnex.com",
-            "prunemedia.go2affise.com",
+            "prunemedia.go2affise.com"
+        ],
+        "to_test": [
             "pub3.media-clic.com",
             "quartz.bnex.com",
             "r1.plugrush.com",
