@@ -223,9 +223,7 @@
             "ea.rueducommerce.fr",
             "enetwork.ncbuy.com",
             "engine.fl-ads.com",
-            "engine.phptrader.com"
-        ],
-        "to_test": [
+            "engine.phptrader.com",
             "fp.gad-network.com",
             "gae.caspion.com",
             "gather.hankyung.com",
@@ -234,7 +232,9 @@
             "ghost.in.the.shell.at.bnex.com",
             "go.mobilix.eu",
             "granite.bnex.com",
-            "harvester.piano-media.com",
+            "harvester.piano-media.com"
+        ],
+        "to_test": [
             "homeearthlink.net",
             "housead.umeng.com",
             "i.flowgo.com",
