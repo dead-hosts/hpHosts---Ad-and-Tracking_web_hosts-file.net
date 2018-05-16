@@ -51,10 +51,9 @@
             "ads8.mocean.mobi",
             "ads9.mocean.mobi",
             "ads_ad_center.s3.amazonaws.com",
-            "adserver.ngz-network.de"
-        ],
-        "to_test": [
+            "adserver.ngz-network.de",
             "adserving.ads.ec",
+            "adti.me",
             "adtracker.inmobi.com",
             "advertiser.adknowledge.com",
             "advertiser.ads.ec",
@@ -68,7 +67,9 @@
             "alea.adam.daum.net",
             "alldcs.sphere.com",
             "alpha.bnex.com",
-            "analytics-v2.anvato.com",
+            "analytics-v2.anvato.com"
+        ],
+        "to_test": [
             "analytics.traidnt.net",
             "anet.apx.appier.net",
             "anet.c.appier.net",
