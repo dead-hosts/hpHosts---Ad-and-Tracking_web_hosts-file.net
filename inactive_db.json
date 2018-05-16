@@ -8,9 +8,7 @@
             "ad.mlnadvertising.com",
             "ad.sma.punto.net",
             "ad01.adonspot.com",
-            "adcenter.mdf.se"
-        ],
-        "to_test": [
+            "adcenter.mdf.se",
             "adimage.asia1.com.sg",
             "adman_test.go2cloud.org",
             "ads.adrdgt.com",
@@ -20,7 +18,6 @@
             "ads.deliads.com",
             "ads.e9china.com",
             "ads.filez.nl",
-            "ads.fool.com",
             "ads.gad-network.com",
             "ads.gfy.com",
             "ads.lawnsite.com",
@@ -28,7 +25,9 @@
             "ads.mobilefuse.net",
             "ads.mocean.mobi",
             "ads.mojiva.com",
-            "ads.netmechanic.com",
+            "ads.netmechanic.com"
+        ],
+        "to_test": [
             "ads.piramit.net",
             "ads.realitytraffic.com.s2.gvirabi.com",
             "ads.realitytraffic.com.s3.gvirabi.com",
