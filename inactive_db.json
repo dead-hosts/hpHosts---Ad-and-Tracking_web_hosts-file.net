@@ -113,14 +113,10 @@
             "c.ads.com",
             "c.cldlr.com",
             "c124830.conv.btrll.com",
-            "can.you.shut.the.fuck.up.at.bnex.com"
-        ],
-        "to_test": [
-            "xmpie.vo.llnwd.net",
+            "can.you.shut.the.fuck.up.at.bnex.com",
             "cdn.adplxmd.com",
             "cdn.c.try9.com",
             "cdn.directrev.com",
-            "cdn.escalatenetwork.com",
             "cdn.trafficforce.com",
             "cdn1-ref.landing.comcontent.net",
             "cdn2-ref.landing.comcontent.net",
@@ -132,7 +128,10 @@
             "click.safe-sender.co.uk",
             "click1.performance-zone.com",
             "clicktrade.net",
-            "clk.directrev.com",
+            "clk.directrev.com"
+        ],
+        "to_test": [
+            "xmpie.vo.llnwd.net",
             "cnt.likealaugh.org",
             "collector-test.staging.mb-internal.com",
             "companydeep.go2affise.com",
