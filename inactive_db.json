@@ -65,13 +65,11 @@
             "affiliate.drivotracker.com",
             "affiliate.gwmtracker.com",
             "affiliate.key2link.com",
-            "affiliateprogram.keywordspy.com"
-        ],
-        "to_test": [
-            "xmpie.vo.llnwd.net",
+            "affiliateprogram.keywordspy.com",
             "alea.adam.ad.daum.net",
             "alea.adam.daum.net",
             "alldcs.sphere.com",
+            "alltereg0.ru",
             "alpha.bnex.com",
             "analytics-v2.anvato.com",
             "analytics.traidnt.net",
@@ -79,7 +77,12 @@
             "anet.c.appier.net",
             "api.bizographics.com",
             "api.flicktweets.com",
-            "api.revcontent.com",
+            "api.fyreball.com",
+            "api.omniata.com",
+            "api.revcontent.com"
+        ],
+        "to_test": [
+            "xmpie.vo.llnwd.net",
             "aws-ap-southeast-2a.bench.cedexis.com",
             "b3.toparcadehits.com",
             "b4.toparcadehits.com",
