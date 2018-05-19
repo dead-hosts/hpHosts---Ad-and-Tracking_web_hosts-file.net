@@ -54,10 +54,7 @@
             "ads8.mocean.mobi",
             "ads9.mocean.mobi",
             "ads_ad_center.s3.amazonaws.com",
-            "adserver.ngz-network.de"
-        ],
-        "to_test": [
-            "xmpie.vo.llnwd.net",
+            "adserver.ngz-network.de",
             "adserving.ads.ec",
             "adti.me",
             "adtracker.inmobi.com",
@@ -68,7 +65,10 @@
             "affiliate.drivotracker.com",
             "affiliate.gwmtracker.com",
             "affiliate.key2link.com",
-            "affiliateprogram.keywordspy.com",
+            "affiliateprogram.keywordspy.com"
+        ],
+        "to_test": [
+            "xmpie.vo.llnwd.net",
             "alea.adam.ad.daum.net",
             "alea.adam.daum.net",
             "alldcs.sphere.com",
