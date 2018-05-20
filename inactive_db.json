@@ -327,10 +327,7 @@
             "ox-d.m-market.servedbyopenx.com",
             "ox-d.mailonline.servedbyopenx.com",
             "ox-d.medianet.servedbyopenx.com",
-            "ox-d.merriamwebster.servedbyopenx.com"
-        ],
-        "to_test": [
-            "xmpie.vo.llnwd.net",
+            "ox-d.merriamwebster.servedbyopenx.com",
             "ox-d.nydailynews.servedbyopenx.com",
             "ox-d.pbhmedia.servedbyopenx.com",
             "ox-d.philly.servedbyopenx.com",
@@ -365,7 +362,10 @@
             "pixel.staging.tree.com",
             "posibilities_en.popunder.net",
             "preply.go2affise.com",
-            "preview.bnex.com",
+            "preview.bnex.com"
+        ],
+        "to_test": [
+            "xmpie.vo.llnwd.net",
             "prunemedia.go2affise.com",
             "pub3.media-clic.com",
             "quartz.bnex.com",
