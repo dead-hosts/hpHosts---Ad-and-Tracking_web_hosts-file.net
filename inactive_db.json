@@ -425,10 +425,7 @@
             "vra.outbrain.com",
             "vrp.outbrain.com",
             "vrt-chidc2-only.outbrain.com",
-            "vrt.outbrain.com"
-        ],
-        "to_test": [
-            "xmpie.vo.llnwd.net",
+            "vrt.outbrain.com",
             "web63.jumptap.com",
             "web64.jumptap.com",
             "web65.jumptap.com",
@@ -436,14 +433,10 @@
             "webtraffic.ttinet.com",
             "wrt.mtr-4uk.com",
             "www.a.volvelle.tech",
-            "www.a6ba.com",
-            "www.ad-agent.com",
-            "www.ad-board.com",
-            "www.ad-guru.com",
-            "www.ad-listings.com",
-            "www.ad-lite.com",
-            "www.ad-search.com",
-            "www.ad-solutions.com",
+            "www.a6ba.com"
+        ],
+        "to_test": [
+            "xmpie.vo.llnwd.net",
             "www.adspinner.com",
             "www.adsuperstar.com",
             "www.adsview.com",
