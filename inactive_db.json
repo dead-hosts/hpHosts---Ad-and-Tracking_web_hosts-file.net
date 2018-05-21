@@ -398,9 +398,7 @@
             "stats.cts-bv.nl",
             "stats.ebay.com",
             "stats.ilius.net",
-            "stats.profileponds.com"
-        ],
-        "to_test": [
+            "stats.profileponds.com",
             "swx.domob.cn",
             "syndicate.powerofads.com",
             "syndication.loganmueller.info",
@@ -410,7 +408,9 @@
             "terrazzo.bnex.com",
             "tminainc.go2affise.com",
             "toolbar.aol.com",
-            "topbinaryaffiliates.ck-cdn.com",
+            "topbinaryaffiliates.ck-cdn.com"
+        ],
+        "to_test": [
             "track.ballerft.site",
             "track.cliqrr.com",
             "track.ft.com",
