@@ -133,9 +133,7 @@
             "connect.appflood.com",
             "content.liveuniverse.com",
             "coretalk.co",
-            "counted.de"
-        ],
-        "to_test": [
+            "counted.de",
             "cp.intl.match.com",
             "creative.ad135m.com",
             "creative.whi.co.nz",
@@ -177,6 +175,7 @@
             "d2vt6q0n0iy66w.cloudfront.net",
             "d2yhukq7vldf1u.cloudfront.net",
             "d2z1smm3i01tnr.cloudfront.net",
+            "d3.sina.com.cn",
             "d32pxqbknuxsuy.cloudfront.net",
             "d34obr29voew8l.cloudfront.net",
             "d37kzqe5knnh6t.cloudfront.net",
@@ -199,7 +198,10 @@
             "data.ppn-ad-cdn.populis.com",
             "db.bnex.com",
             "ddwht76d9jvfl.cloudfront.net",
-            "delivery.optimatic.com",
+            "de2.ipinkvisualpass.com",
+            "delivery.optimatic.com"
+        ],
+        "to_test": [
             "dev.bnex.com",
             "digdug.divxnetworks.com",
             "disy2s34euyqm.cloudfront.net",
