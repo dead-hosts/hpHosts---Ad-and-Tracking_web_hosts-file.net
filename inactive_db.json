@@ -199,9 +199,7 @@
             "db.bnex.com",
             "ddwht76d9jvfl.cloudfront.net",
             "de2.ipinkvisualpass.com",
-            "delivery.optimatic.com"
-        ],
-        "to_test": [
+            "delivery.optimatic.com",
             "dev.bnex.com",
             "digdug.divxnetworks.com",
             "disy2s34euyqm.cloudfront.net",
@@ -224,7 +222,9 @@
             "dyl3p6so5yozo.cloudfront.net",
             "e-ltvp.inmobi.com",
             "e.ai.inmobi.com",
-            "ea.rueducommerce.fr",
+            "ea.rueducommerce.fr"
+        ],
+        "to_test": [
             "enetwork.ncbuy.com",
             "engine.fl-ads.com",
             "engine.phptrader.com",
