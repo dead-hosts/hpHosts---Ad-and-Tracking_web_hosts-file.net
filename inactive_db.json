@@ -196,14 +196,11 @@
             "d3vc1nm9xbncz5.cloudfront.net",
             "d5pvnbpawsaav.cloudfront.net",
             "d6bdy3eto8fyu.cloudfront.net",
-            "d8qy7md4cj3gz.cloudfront.net"
-        ],
-        "to_test": [
+            "d8qy7md4cj3gz.cloudfront.net",
             "data.appflood.com",
             "data.ppn-ad-cdn.populis.com",
             "db.bnex.com",
             "ddwht76d9jvfl.cloudfront.net",
-            "de2.ipinkvisualpass.com",
             "delivery.optimatic.com",
             "dev.bnex.com",
             "digdug.divxnetworks.com",
@@ -224,7 +221,9 @@
             "dxq6c0tx3v6mm.cloudfront.net",
             "dxqd86uz345mg.cloudfront.net",
             "dycpc40hvg4ki.cloudfront.net",
-            "dyl3p6so5yozo.cloudfront.net",
+            "dyl3p6so5yozo.cloudfront.net"
+        ],
+        "to_test": [
             "e-ltvp.inmobi.com",
             "e.ai.inmobi.com",
             "ea.rueducommerce.fr",
