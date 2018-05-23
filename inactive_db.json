@@ -328,9 +328,7 @@
             "ox-d.futurenet.servedbyopenx.com",
             "ox-d.fwmedia.com",
             "ox-d.gatewaymedia.servedbyopenx.com",
-            "ox-d.hatena.servedbyopenx.com"
-        ],
-        "to_test": [
+            "ox-d.hatena.servedbyopenx.com",
             "ox-d.hearstmagazines.servedbyopenx.com",
             "ox-d.ibt.servedbyopenx.com",
             "ox-d.imgur.servedbyopenx.com",
@@ -375,9 +373,12 @@
             "pixel.jumptap.com",
             "pixel.serviceleverage.com",
             "pixel.staging.tree.com",
+            "plug.plugerr.com",
             "posibilities_en.popunder.net",
             "preply.go2affise.com",
-            "preview.bnex.com",
+            "preview.bnex.com"
+        ],
+        "to_test": [
             "prunemedia.go2affise.com",
             "pub3.media-clic.com",
             "quartz.bnex.com",
