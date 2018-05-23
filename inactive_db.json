@@ -442,14 +442,14 @@
             "us-east-1.profile-api.ads.linkedin.com",
             "us0.adlibr.com",
             "uslbtest.cedexis.com",
-            "v.wqsph.net"
-        ],
-        "to_test": [
+            "v.wqsph.net",
             "vpos.bnex.com",
             "vra.outbrain.com",
             "vrp.outbrain.com",
             "vrt-chidc2-only.outbrain.com",
-            "vrt.outbrain.com",
+            "vrt.outbrain.com"
+        ],
+        "to_test": [
             "web63.jumptap.com",
             "web64.jumptap.com",
             "web65.jumptap.com",
