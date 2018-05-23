@@ -53,13 +53,13 @@
             "ads7.mocean.mobi",
             "ads8.mocean.mobi",
             "ads9.mocean.mobi",
-            "ads_ad_center.s3.amazonaws.com"
-        ],
-        "to_test": [
+            "ads_ad_center.s3.amazonaws.com",
             "adserver.ngz-network.de",
             "adserving.ads.ec",
             "adti.me",
-            "adtracker.inmobi.com",
+            "adtracker.inmobi.com"
+        ],
+        "to_test": [
             "advertiser.adknowledge.com",
             "advertiser.ads.ec",
             "aeropostale.resultspage.com",
