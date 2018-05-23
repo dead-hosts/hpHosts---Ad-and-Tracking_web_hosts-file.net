@@ -228,9 +228,7 @@
             "en.mywebzines.com",
             "enetwork.ncbuy.com",
             "engine.fl-ads.com",
-            "engine.phptrader.com"
-        ],
-        "to_test": [
+            "engine.phptrader.com",
             "fp.gad-network.com",
             "gae.caspion.com",
             "gather.hankyung.com",
@@ -238,7 +236,10 @@
             "gfx3.avn.com",
             "ggo.directrev.com",
             "ghost.in.the.shell.at.bnex.com",
-            "go.mobilix.eu",
+            "go.kissmetrics.com",
+            "go.mobilix.eu"
+        ],
+        "to_test": [
             "granite.bnex.com",
             "harvester.piano-media.com",
             "homeearthlink.net",
