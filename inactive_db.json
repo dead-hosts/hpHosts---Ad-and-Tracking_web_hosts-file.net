@@ -134,11 +134,11 @@
             "collector-test.staging.mb-internal.com",
             "companydeep.go2affise.com",
             "connect.appflood.com",
-            "coretalk.co"
-        ],
-        "to_test": [
+            "coretalk.co",
             "counted.de",
+            "counter.pagesview.com",
             "cp.intl.match.com",
+            "cpm.bazoto.com",
             "creative.ad135m.com",
             "creative.whi.co.nz",
             "curate.nestedmedia.com",
@@ -179,7 +179,6 @@
             "d2vt6q0n0iy66w.cloudfront.net",
             "d2yhukq7vldf1u.cloudfront.net",
             "d2z1smm3i01tnr.cloudfront.net",
-            "d3.sina.com.cn",
             "d32pxqbknuxsuy.cloudfront.net",
             "d34obr29voew8l.cloudfront.net",
             "d37kzqe5knnh6t.cloudfront.net",
@@ -197,7 +196,9 @@
             "d3vc1nm9xbncz5.cloudfront.net",
             "d5pvnbpawsaav.cloudfront.net",
             "d6bdy3eto8fyu.cloudfront.net",
-            "d8qy7md4cj3gz.cloudfront.net",
+            "d8qy7md4cj3gz.cloudfront.net"
+        ],
+        "to_test": [
             "data.appflood.com",
             "data.ppn-ad-cdn.populis.com",
             "db.bnex.com",
