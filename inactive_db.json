@@ -237,9 +237,7 @@
             "ggo.directrev.com",
             "ghost.in.the.shell.at.bnex.com",
             "go.kissmetrics.com",
-            "go.mobilix.eu"
-        ],
-        "to_test": [
+            "go.mobilix.eu",
             "granite.bnex.com",
             "harvester.piano-media.com",
             "homeearthlink.net",
@@ -254,7 +252,9 @@
             "im.b2a2c700.e8cace3.ads.a4cdn.contentabc.com",
             "im.b2a2cd00.885d48e.ads.a4cdn.contentabc.com",
             "im.b2a2cd00.92bde07.ads.a4cdn.contentabc.com",
-            "image.safe-sender.co.uk",
+            "image.safe-sender.co.uk"
+        ],
+        "to_test": [
             "images.enhance.com",
             "images.vantage-media.net",
             "img.ads.huntmad.com",
