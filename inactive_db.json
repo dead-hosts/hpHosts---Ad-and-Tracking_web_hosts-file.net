@@ -60,9 +60,7 @@
             "adti.me",
             "adtracker.inmobi.com",
             "advertiser.adknowledge.com",
-            "advertiser.ads.ec"
-        ],
-        "to_test": [
+            "advertiser.ads.ec",
             "aeropostale.resultspage.com",
             "aff-jp.exshot.com",
             "affiliate.drivotracker.com",
@@ -71,7 +69,7 @@
             "affiliateprogram.keywordspy.com",
             "alea.adam.ad.daum.net",
             "alea.adam.daum.net",
-            "alldcs-distinct.outbrain.com",
+            "alldcs.sphere.com",
             "alltereg0.ru",
             "alpha.bnex.com",
             "analytics-v2.anvato.com",
@@ -82,7 +80,9 @@
             "api.flicktweets.com",
             "api.fyreball.com",
             "api.omniata.com",
-            "api.revcontent.com",
+            "api.revcontent.com"
+        ],
+        "to_test": [
             "aws-ap-southeast-2a.bench.cedexis.com",
             "b3.toparcadehits.com",
             "b4.toparcadehits.com",
