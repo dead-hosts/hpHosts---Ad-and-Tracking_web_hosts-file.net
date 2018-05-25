@@ -80,13 +80,14 @@
             "api.flicktweets.com",
             "api.fyreball.com",
             "api.omniata.com",
-            "api.revcontent.com"
-        ],
-        "to_test": [
+            "api.revcontent.com",
             "aws-ap-southeast-2a.bench.cedexis.com",
             "b3.toparcadehits.com",
             "b4.toparcadehits.com",
             "banner.blogranking.net",
+            "banner.listinus.de"
+        ],
+        "to_test": [
             "banners.no1free.com",
             "banners.sextracker.de",
             "bar.piano-media.com",
