@@ -202,10 +202,9 @@
             "data.appflood.com",
             "data.ppn-ad-cdn.populis.com",
             "db.bnex.com",
-            "ddwht76d9jvfl.cloudfront.net"
-        ],
-        "to_test": [
+            "ddwht76d9jvfl.cloudfront.net",
             "delivery.optimatic.com",
+            "demo.advertising.com",
             "dev.bnex.com",
             "digdug.divxnetworks.com",
             "disy2s34euyqm.cloudfront.net",
@@ -228,7 +227,9 @@
             "dyl3p6so5yozo.cloudfront.net",
             "e-ltvp.inmobi.com",
             "e.ai.inmobi.com",
-            "ea.rueducommerce.fr",
+            "ea.rueducommerce.fr"
+        ],
+        "to_test": [
             "en.mywebzines.com",
             "enetwork.ncbuy.com",
             "engine.fl-ads.com",
