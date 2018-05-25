@@ -411,14 +411,10 @@
             "stats.cts-bv.nl",
             "stats.ebay.com",
             "stats.ilius.net",
-            "stats.profileponds.com"
-        ],
-        "to_test": [
+            "stats.profileponds.com",
             "swx.domob.cn",
             "syndicate.powerofads.com",
             "syndication.loganmueller.info",
-            "t.frtyi.com",
-            "t.irtya.com",
             "t.mtagmonetizationa.com",
             "t.mtagmonetizationb.com",
             "tag.email-attitude.com",
@@ -426,7 +422,9 @@
             "tminainc.go2affise.com",
             "toolbar.aol.com",
             "topbinaryaffiliates.ck-cdn.com",
-            "track.ballerft.site",
+            "track.ballerft.site"
+        ],
+        "to_test": [
             "track.cliqrr.com",
             "track.ft.com",
             "track.scanmyphones.com",
