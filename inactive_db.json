@@ -16,14 +16,13 @@
             "ads.advance.uk.com",
             "ads.amarillo.com",
             "ads.amdmb.com",
-            "ads.asia1.com.sg"
-        ],
-        "to_test": [
+            "ads.asia1.com.sg",
             "ads.deliads.com",
             "ads.e9china.com",
             "ads.filez.nl",
             "ads.gad-network.com",
             "ads.gfy.com",
+            "ads.inet1.com",
             "ads.isat-tech.com",
             "ads.lawnsite.com",
             "ads.linuxjournal.com",
@@ -32,11 +31,12 @@
             "ads.mojiva.com",
             "ads.netmechanic.com",
             "ads.piramit.net",
-            "ads.poptarts.me",
             "ads.realitytraffic.com.s2.gvirabi.com",
             "ads.realitytraffic.com.s3.gvirabi.com",
             "ads.rte.ie",
-            "ads.savannahnow.com",
+            "ads.savannahnow.com"
+        ],
+        "to_test": [
             "ads.taptapnetworks.com",
             "ads.topcities.com",
             "ads.traffpartners.com",
