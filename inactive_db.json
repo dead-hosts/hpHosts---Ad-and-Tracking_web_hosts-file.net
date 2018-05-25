@@ -92,9 +92,7 @@
             "beacon.richrelevance.com",
             "bi-three.wooga.com",
             "bidsystem.adknowledge.com",
-            "blog.chartboost.com"
-        ],
-        "to_test": [
+            "blog.chartboost.com",
             "bo.jumptap.com",
             "bos-tapreq01.jumptap.com",
             "bos-tapreq02.jumptap.com",
@@ -118,7 +116,9 @@
             "bos-tapreq20.jumptap.com",
             "c.ads.com",
             "c.cldlr.com",
-            "c124830.conv.btrll.com",
+            "c124830.conv.btrll.com"
+        ],
+        "to_test": [
             "can.you.shut.the.fuck.up.at.bnex.com",
             "cdn.adplxmd.com",
             "cdn.c.try9.com",
