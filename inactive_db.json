@@ -405,9 +405,7 @@
             "stat.cybermonitor.com",
             "stat.ringier.cz",
             "stat2.cybermonitor.com",
-            "stat3.cybermonitor.com"
-        ],
-        "to_test": [
+            "stat3.cybermonitor.com",
             "static.traffe.eu",
             "stats.cts-bv.nl",
             "stats.ebay.com",
@@ -418,7 +416,9 @@
             "syndication.loganmueller.info",
             "t.mtagmonetizationa.com",
             "t.mtagmonetizationb.com",
-            "tag.email-attitude.com",
+            "tag.email-attitude.com"
+        ],
+        "to_test": [
             "terrazzo.bnex.com",
             "tminainc.go2affise.com",
             "toolbar.aol.com",
