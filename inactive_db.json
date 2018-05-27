@@ -275,9 +275,8 @@
             "intranet.bnex.com",
             "jade.bnex.com",
             "js.cybermonitor.com",
-            "js.dmtry.com"
-        ],
-        "to_test": [
+            "js.dmtry.com",
+            "la-chi.outbrain.com",
             "landscaping.srv123.com",
             "livere.co.kr.cizion.ixcloud.net",
             "log.data.disney.com",
@@ -286,7 +285,9 @@
             "lon.telefonica.bench.cedexis.com",
             "lprptestrouter2.website",
             "m.adtc.daum.net",
-            "m.trk44.mobi",
+            "m.trk44.mobi"
+        ],
+        "to_test": [
             "malachite.bnex.com",
             "marble.bnex.com",
             "media4.fc2.com",
