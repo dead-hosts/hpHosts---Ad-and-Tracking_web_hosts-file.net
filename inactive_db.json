@@ -428,9 +428,7 @@
             "track.tracking85.com",
             "tracker.netmechanic.com",
             "tracking.amazing-revenue.com",
-            "tracking.directadsmedia.com"
-        ],
-        "to_test": [
+            "tracking.directadsmedia.com",
             "tracking.smartclicksystem.com",
             "trackpromotion.net",
             "triolit.go2affise.com",
@@ -440,7 +438,9 @@
             "u899519.sendgrid.org",
             "upstream.where.com",
             "urlcheck.hulu.com",
-            "us-east-1.profile-api.ads.linkedin.com",
+            "us-east-1.profile-api.ads.linkedin.com"
+        ],
+        "to_test": [
             "us0.adlibr.com",
             "v.wqsph.net",
             "vpos.bnex.com",
