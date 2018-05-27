@@ -307,9 +307,7 @@
             "onyx.bnex.com",
             "open.vmdb.se",
             "openx.city-nav.com",
-            "openx.kasjauns.lv"
-        ],
-        "to_test": [
+            "openx.kasjauns.lv",
             "orion.bnex.com",
             "ox-d.aa.com",
             "ox-d.ads.alliancehealth.com",
@@ -368,7 +366,6 @@
             "p_en.popunder.net",
             "partner.topcities.com",
             "partner.zooplus.de",
-            "pba39.inethoster.org",
             "pebble.bnex.com",
             "pix.btrll.com",
             "pix.gfycat.com",
@@ -379,7 +376,9 @@
             "pixel.staging.tree.com",
             "posibilities_en.popunder.net",
             "preply.go2affise.com",
-            "preview.bnex.com",
+            "preview.bnex.com"
+        ],
+        "to_test": [
             "prunemedia.go2affise.com",
             "pub3.media-clic.com",
             "quartz.bnex.com",
