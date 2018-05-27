@@ -438,11 +438,11 @@
             "u899519.sendgrid.org",
             "upstream.where.com",
             "urlcheck.hulu.com",
-            "us-east-1.profile-api.ads.linkedin.com"
+            "us-east-1.profile-api.ads.linkedin.com",
+            "us0.adlibr.com",
+            "v.wqsph.net"
         ],
         "to_test": [
-            "us0.adlibr.com",
-            "v.wqsph.net",
             "vpos.bnex.com",
             "vra.outbrain.com",
             "vrp.outbrain.com",
