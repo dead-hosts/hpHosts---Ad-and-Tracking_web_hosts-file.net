@@ -285,9 +285,7 @@
             "lon.telefonica.bench.cedexis.com",
             "lprptestrouter2.website",
             "m.adtc.daum.net",
-            "m.trk44.mobi"
-        ],
-        "to_test": [
+            "m.trk44.mobi",
             "malachite.bnex.com",
             "marble.bnex.com",
             "media4.fc2.com",
@@ -299,7 +297,9 @@
             "mp.twitch.tv",
             "munaluchibridal.munaluchibridema.netdna-cdn.com",
             "my-etracker.com",
-            "mytds.pr.vc",
+            "mytds.pr.vc"
+        ],
+        "to_test": [
             "new.gtsads.com",
             "o.sa.aol.com",
             "o_thus.ero-advertising.com",
