@@ -145,9 +145,7 @@
             "curate.nestedmedia.com",
             "customer.bnex.com",
             "d.appsdt.com",
-            "d.jazzedcdn.com"
-        ],
-        "to_test": [
+            "d.jazzedcdn.com",
             "d13czkep7ax7nj.cloudfront.net",
             "d17f2fxw547952.cloudfront.net",
             "d19972r8wdpby8.cloudfront.net",
@@ -220,7 +218,9 @@
             "do.you.uh.yahoo.at.bnex.com",
             "dp51h10v6ggpa.cloudfront.net",
             "dq2tgxnc2knif.cloudfront.net",
-            "drive.richbanner.ru",
+            "drive.richbanner.ru"
+        ],
+        "to_test": [
             "dx5qvhwg92mjd.cloudfront.net",
             "dxq6c0tx3v6mm.cloudfront.net",
             "dxqd86uz345mg.cloudfront.net",
