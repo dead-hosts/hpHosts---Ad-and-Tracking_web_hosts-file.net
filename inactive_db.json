@@ -451,9 +451,7 @@
             "web65.jumptap.com",
             "webstats.seoinc.com",
             "webtraffic.ttinet.com",
-            "wrt.mtr-4uk.com"
-        ],
-        "to_test": [
+            "wrt.mtr-4uk.com",
             "www.a.volvelle.tech",
             "www.a6ba.com",
             "www.adti.me",
@@ -462,7 +460,9 @@
             "www.chokoladsrv.net",
             "www.clicktracksolutions.com",
             "www.clkmon.com",
-            "www.corolate.win",
+            "www.corolate.win"
+        ],
+        "to_test": [
             "www.cpm-plus.com",
             "www.cuccu.me",
             "www.digits.com",
