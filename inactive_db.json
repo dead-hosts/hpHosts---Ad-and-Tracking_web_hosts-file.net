@@ -81,16 +81,16 @@
             "api.fyreball.com",
             "api.omniata.com",
             "api.revcontent.com",
-            "app.lfstmedia.com"
-        ],
-        "to_test": [
+            "app.lfstmedia.com",
             "aws-ap-southeast-2a.bench.cedexis.com",
             "b3.toparcadehits.com",
             "b4.toparcadehits.com",
             "banner.blogranking.net",
             "banner.listinus.de",
             "banners.no1free.com",
-            "banners.sextracker.de",
+            "banners.sextracker.de"
+        ],
+        "to_test": [
             "bar.piano-media.com",
             "beacon.richrelevance.com",
             "bi-three.wooga.com",
