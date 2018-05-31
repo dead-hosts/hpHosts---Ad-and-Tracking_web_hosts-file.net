@@ -161,9 +161,7 @@
             "mytds.pr.vc",
             "new.gtsads.com",
             "o.sa.aol.com",
-            "o_thus.ero-advertising.com"
-        ],
-        "to_test": [
+            "o_thus.ero-advertising.com",
             "okstrade.go2affise.com",
             "onedrive-collection.device.mobileengagement.windows.net",
             "onyx.bnex.com",
@@ -183,7 +181,6 @@
             "ox-d.coolmath.servedbyopenx.com",
             "ox-d.curse.servedbyopenx.com",
             "ox-d.cyberagent.servedbyopenx.com",
-            "ox-d.datacenterdynamics.com",
             "ox-d.ebayde.servedbyopenx.com",
             "ox-d.ebaydeb.servedbyopenx.com",
             "ox-d.evolvemedia.servedbyopenx.com",
@@ -228,7 +225,9 @@
             "p_en.popunder.net",
             "partner.topcities.com",
             "partner.zooplus.de",
-            "pebble.bnex.com",
+            "pebble.bnex.com"
+        ],
+        "to_test": [
             "pix.btrll.com",
             "pix.gfycat.com",
             "pixel.ad.mlnadvertising.com",
