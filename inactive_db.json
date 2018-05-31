@@ -225,9 +225,7 @@
             "p_en.popunder.net",
             "partner.topcities.com",
             "partner.zooplus.de",
-            "pebble.bnex.com"
-        ],
-        "to_test": [
+            "pebble.bnex.com",
             "pix.btrll.com",
             "pix.gfycat.com",
             "pixel.ad.mlnadvertising.com",
@@ -246,7 +244,9 @@
             "r3.plugrush.com",
             "r4.plugrush.com",
             "r5.plugrush.com",
-            "ramongroup.go2affise.com",
+            "ramongroup.go2affise.com"
+        ],
+        "to_test": [
             "re.adroll.com",
             "re.directrev.com",
             "reporting.flymonarch.com",
