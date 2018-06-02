@@ -52,16 +52,15 @@
             "ads7.mocean.mobi",
             "ads8.mocean.mobi",
             "ads9.mocean.mobi",
-            "ads_ad_center.s3.amazonaws.com"
-        ],
-        "to_test": [
+            "ads_ad_center.s3.amazonaws.com",
             "adserver.ngz-network.de",
             "adserving.ads.ec",
             "adti.me",
             "adtracker.inmobi.com",
-            "adv2.absoluteagency.com",
             "advertiser.adknowledge.com",
-            "advertiser.ads.ec",
+            "advertiser.ads.ec"
+        ],
+        "to_test": [
             "aeropostale.resultspage.com",
             "aff-jp.exshot.com",
             "affiliate.drivotracker.com",
