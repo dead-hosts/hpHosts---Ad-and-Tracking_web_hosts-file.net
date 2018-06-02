@@ -413,9 +413,7 @@
             "stats.cts-bv.nl",
             "stats.ebay.com",
             "stats.ilius.net",
-            "stats.profileponds.com"
-        ],
-        "to_test": [
+            "stats.profileponds.com",
             "swx.domob.cn",
             "syndicate.powerofads.com",
             "syndication.loganmueller.info",
@@ -429,7 +427,9 @@
             "topbinaryaffiliates.ck-cdn.com",
             "trace.jdtracker.com",
             "track.ballerft.site",
-            "track.cliqrr.com",
+            "track.cliqrr.com"
+        ],
+        "to_test": [
             "track.ft.com",
             "track.lfstmedia.com",
             "track.scanmyphones.com",
