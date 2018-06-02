@@ -251,9 +251,7 @@
             "homeearthlink.net",
             "housead.umeng.com",
             "i.flowgo.com",
-            "i.jumptap.com"
-        ],
-        "to_test": [
+            "i.jumptap.com",
             "ih.f2.constantcontact.com",
             "im.405d5700.1ff6a9b.ads.a4cdn.contentabc.com",
             "im.405d5700.8d9937e.ads.a4cdn.contentabc.com",
@@ -280,7 +278,9 @@
             "img.ads4.mojiva.com",
             "img.ads5.mojiva.com",
             "intarsia.bnex.com",
-            "intranet.bnex.com",
+            "intranet.bnex.com"
+        ],
+        "to_test": [
             "jade.bnex.com",
             "js.cybermonitor.com",
             "js.dmtry.com",
