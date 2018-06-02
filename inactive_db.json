@@ -32,9 +32,7 @@
             "ads.realitytraffic.com.s2.gvirabi.com",
             "ads.realitytraffic.com.s3.gvirabi.com",
             "ads.rte.ie",
-            "ads.savannahnow.com"
-        ],
-        "to_test": [
+            "ads.savannahnow.com",
             "ads.taptapnetworks.com",
             "ads.topcities.com",
             "ads.traffpartners.com",
@@ -54,7 +52,9 @@
             "ads7.mocean.mobi",
             "ads8.mocean.mobi",
             "ads9.mocean.mobi",
-            "ads_ad_center.s3.amazonaws.com",
+            "ads_ad_center.s3.amazonaws.com"
+        ],
+        "to_test": [
             "adserver.ngz-network.de",
             "adserving.ads.ec",
             "adti.me",
