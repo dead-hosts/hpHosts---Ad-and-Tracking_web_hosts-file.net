@@ -24,9 +24,7 @@
             "adb.nikkei.co.jp",
             "adcenter.mdf.se",
             "adimage.asia1.com.sg",
-            "adman_test.go2cloud.org"
-        ],
-        "to_test": [
+            "adman_test.go2cloud.org",
             "ads.adrdgt.com",
             "ads.advance.uk.com",
             "ads.amarillo.com",
@@ -34,11 +32,14 @@
             "ads.deliads.com",
             "ads.e9china.com",
             "ads.filez.nl",
+            "ads.friendtest.com",
             "ads.gad-network.com",
             "ads.gfy.com",
             "ads.isat-tech.com",
             "ads.lawnsite.com",
-            "ads.linuxjournal.com",
+            "ads.linuxjournal.com"
+        ],
+        "to_test": [
             "ads.mobilefuse.net",
             "ads.mocean.mobi",
             "ads.mojiva.com",
