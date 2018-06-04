@@ -250,9 +250,7 @@
             "engine.fl-ads.com",
             "engine.phptrader.com",
             "exad.mmo1vn.com",
-            "f1.ilivlite.com"
-        ],
-        "to_test": [
+            "f1.ilivlite.com",
             "fp.gad-network.com",
             "gae.caspion.com",
             "gather.hankyung.com",
@@ -262,7 +260,9 @@
             "ghost.in.the.shell.at.bnex.com",
             "go.kissmetrics.com",
             "go.mobilix.eu",
-            "granite.bnex.com",
+            "granite.bnex.com"
+        ],
+        "to_test": [
             "harvester.piano-media.com",
             "homeearthlink.net",
             "housead.umeng.com",
