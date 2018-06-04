@@ -397,9 +397,7 @@
             "preply.go2affise.com",
             "preview.bnex.com",
             "prunemedia.go2affise.com",
-            "pub3.media-clic.com"
-        ],
-        "to_test": [
+            "pub3.media-clic.com",
             "quartz.bnex.com",
             "r1.plugrush.com",
             "r2.plugrush.com",
@@ -412,7 +410,9 @@
             "req.mojiva.com",
             "rotatix.go2affise.com",
             "s.vgsgaming-ads.com",
-            "s1.trafficmaxx.de",
+            "s1.trafficmaxx.de"
+        ],
+        "to_test": [
             "s4.trafficmaxx.de",
             "segs.btrll.com",
             "serv.powerofads.com",
