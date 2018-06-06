@@ -304,9 +304,7 @@
             "mp.piano-media.com",
             "mp.twitch.tv",
             "munaluchibridal.munaluchibridema.netdna-cdn.com",
-            "my-etracker.com"
-        ],
-        "to_test": [
+            "my-etracker.com",
             "mytds.pr.vc",
             "new.gtsads.com",
             "o.sa.aol.com",
@@ -316,7 +314,9 @@
             "onyx.bnex.com",
             "open.vmdb.se",
             "openx.city-nav.com",
-            "openx.kasjauns.lv",
+            "openx.kasjauns.lv"
+        ],
+        "to_test": [
             "opt-n.net",
             "orion.bnex.com",
             "ox-d.aa.com",
