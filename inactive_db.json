@@ -56,9 +56,7 @@
             "ads9.mocean.mobi",
             "ads_ad_center.s3.amazonaws.com",
             "adserver.ngz-network.de",
-            "adserving.ads.ec"
-        ],
-        "to_test": [
+            "adserving.ads.ec",
             "adti.me",
             "adtracker.inmobi.com",
             "adv2.absoluteagency.com",
@@ -66,12 +64,11 @@
             "advertiser.ads.ec",
             "aeropostale.resultspage.com",
             "aff-jp.exshot.com",
-            "affiliate.drivotracker.com",
-            "affiliate.gwmtracker.com",
             "affiliate.key2link.com",
-            "affiliateprogram.keywordspy.com",
             "alea.adam.ad.daum.net",
-            "alea.adam.daum.net",
+            "alea.adam.daum.net"
+        ],
+        "to_test": [
             "alldcs.sphere.com",
             "alltereg0.ru",
             "alpha.bnex.com",
