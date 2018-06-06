@@ -87,9 +87,7 @@
             "api6.thesearchagency.net",
             "api7.thesearchagency.net",
             "api8.thesearchagency.net",
-            "api9.thesearchagency.net"
-        ],
-        "to_test": [
+            "api9.thesearchagency.net",
             "aws-ap-southeast-2a.bench.cedexis.com",
             "b.photobucket.com",
             "b3.toparcadehits.com",
@@ -97,7 +95,9 @@
             "banner.blogranking.net",
             "banner.listinus.de",
             "banners.no1free.com",
-            "banners.sextracker.de",
+            "banners.sextracker.de"
+        ],
+        "to_test": [
             "bar.piano-media.com",
             "beacon.richrelevance.com",
             "betaffs.com",
