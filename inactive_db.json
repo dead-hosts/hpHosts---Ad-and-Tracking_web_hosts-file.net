@@ -143,10 +143,9 @@
             "connect.appflood.com",
             "content.liveuniverse.com",
             "content.zemanta.com",
-            "coretalk.co"
-        ],
-        "to_test": [
+            "coretalk.co",
             "counted.de",
+            "counter.hitslinks.com",
             "cp.intl.match.com",
             "cpm-plus.com",
             "cpm.bazoto.com",
@@ -210,7 +209,9 @@
             "d8qy7md4cj3gz.cloudfront.net",
             "data.appflood.com",
             "data.ppn-ad-cdn.populis.com",
-            "db.bnex.com",
+            "db.bnex.com"
+        ],
+        "to_test": [
             "ddwht76d9jvfl.cloudfront.net",
             "delivery.optimatic.com",
             "demo.advertising.com",
