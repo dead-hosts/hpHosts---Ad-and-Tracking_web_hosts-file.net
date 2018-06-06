@@ -432,9 +432,7 @@
             "track.livestat.com",
             "track.scanmyphones.com",
             "track.tracking85.com",
-            "tracker.netmechanic.com"
-        ],
-        "to_test": [
+            "tracker.netmechanic.com",
             "tracking.amazing-revenue.com",
             "tracking.directadsmedia.com",
             "tracking.smartclicksystem.com",
@@ -442,7 +440,9 @@
             "trackpromotion.net",
             "triolit.go2affise.com",
             "trp.numergy.bench.cedexis.com",
-            "u.optorb.com",
+            "u.optorb.com"
+        ],
+        "to_test": [
             "u715381.sendgrid.org",
             "u899519.sendgrid.org",
             "upstream.where.com",
