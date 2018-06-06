@@ -66,9 +66,7 @@
             "aff-jp.exshot.com",
             "affiliate.key2link.com",
             "alea.adam.ad.daum.net",
-            "alea.adam.daum.net"
-        ],
-        "to_test": [
+            "alea.adam.daum.net",
             "alldcs.sphere.com",
             "alltereg0.ru",
             "alpha.bnex.com",
@@ -81,6 +79,17 @@
             "api.fyreball.com",
             "api.omniata.com",
             "api.revcontent.com",
+            "api1.thesearchagency.net",
+            "api2.thesearchagency.net",
+            "api3.thesearchagency.net",
+            "api4.thesearchagency.net",
+            "api5.thesearchagency.net",
+            "api6.thesearchagency.net",
+            "api7.thesearchagency.net",
+            "api8.thesearchagency.net",
+            "api9.thesearchagency.net"
+        ],
+        "to_test": [
             "aws-ap-southeast-2a.bench.cedexis.com",
             "b.photobucket.com",
             "b3.toparcadehits.com",
