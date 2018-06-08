@@ -63,12 +63,10 @@
             "advertiser.ads.ec",
             "aeropostale.resultspage.com",
             "aff-jp.exshot.com",
-            "affiliate.key2link.com"
-        ],
-        "to_test": [
+            "affiliate.key2link.com",
             "alea.adam.ad.daum.net",
             "alea.adam.daum.net",
-            "alldcs.sphere.com",
+            "alldcs-distinct.outbrain.com",
             "alltereg0.ru",
             "alpha.bnex.com",
             "analytics-v2.anvato.com",
@@ -88,7 +86,9 @@
             "api6.thesearchagency.net",
             "api7.thesearchagency.net",
             "api8.thesearchagency.net",
-            "api9.thesearchagency.net",
+            "api9.thesearchagency.net"
+        ],
+        "to_test": [
             "aws-ap-southeast-2a.bench.cedexis.com",
             "b.photobucket.com",
             "b3.toparcadehits.com",
