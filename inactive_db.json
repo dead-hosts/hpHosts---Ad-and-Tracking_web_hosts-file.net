@@ -310,9 +310,7 @@
             "mp.twitch.tv",
             "munaluchibridal.munaluchibridema.netdna-cdn.com",
             "my-etracker.com",
-            "mytds.pr.vc"
-        ],
-        "to_test": [
+            "mytds.pr.vc",
             "new.gtsads.com",
             "o.sa.aol.com",
             "o_thus.ero-advertising.com",
@@ -322,7 +320,9 @@
             "open.vmdb.se",
             "openx.city-nav.com",
             "openx.kasjauns.lv",
-            "orion.bnex.com",
+            "orion.bnex.com"
+        ],
+        "to_test": [
             "ox-d.aa.com",
             "ox-d.ads.alliancehealth.com",
             "ox-d.answers.servedbyopenx.com",
