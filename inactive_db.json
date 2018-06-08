@@ -10,9 +10,7 @@
             "ad.where.com",
             "ad01.adonspot.com",
             "adb.nikkei.co.jp",
-            "adimage.asia1.com.sg"
-        ],
-        "to_test": [
+            "adimage.asia1.com.sg",
             "adman_test.go2cloud.org",
             "ads.adrdgt.com",
             "ads.advance.uk.com",
@@ -22,7 +20,9 @@
             "ads.e9china.com",
             "ads.filez.nl",
             "ads.friendtest.com",
-            "ads.gad-network.com",
+            "ads.gad-network.com"
+        ],
+        "to_test": [
             "ads.gfy.com",
             "ads.inet1.com",
             "ads.isat-tech.com",
