@@ -469,9 +469,7 @@
             "web65.jumptap.com",
             "webstats.seoinc.com",
             "webtracker.educationconnection.com",
-            "webtraffic.ttinet.com"
-        ],
-        "to_test": [
+            "webtraffic.ttinet.com",
             "wrt.mtr-4uk.com",
             "www.863c4c0c521.se",
             "www.a.volvelle.tech",
@@ -480,7 +478,9 @@
             "www.adti.me",
             "www.agnstaging.com",
             "www.alltereg0.ru",
-            "www.appfoxes.com",
+            "www.appfoxes.com"
+        ],
+        "to_test": [
             "www.celebrity-image.com",
             "www.chokoladsrv.net",
             "www.clicktracksolutions.com",
