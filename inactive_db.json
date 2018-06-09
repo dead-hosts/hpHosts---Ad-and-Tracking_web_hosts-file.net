@@ -458,9 +458,7 @@
             "us-east-1.profile-api.ads.linkedin.com",
             "us0.adlibr.com",
             "v.wqsph.net",
-            "voluum.redirecting.site"
-        ],
-        "to_test": [
+            "voluum.redirecting.site",
             "vpos.bnex.com",
             "vra.outbrain.com",
             "vrp.outbrain.com",
@@ -471,7 +469,9 @@
             "web65.jumptap.com",
             "webstats.seoinc.com",
             "webtracker.educationconnection.com",
-            "webtraffic.ttinet.com",
+            "webtraffic.ttinet.com"
+        ],
+        "to_test": [
             "wrt.mtr-4uk.com",
             "www.863c4c0c521.se",
             "www.a.volvelle.tech",
