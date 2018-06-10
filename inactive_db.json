@@ -472,9 +472,7 @@
             "vrt.outbrain.com",
             "web63.jumptap.com",
             "web64.jumptap.com",
-            "web65.jumptap.com"
-        ],
-        "to_test": [
+            "web65.jumptap.com",
             "webstats.seoinc.com",
             "webtracker.educationconnection.com",
             "webtraffic.ttinet.com",
@@ -486,7 +484,9 @@
             "www.adti.me",
             "www.agnstaging.com",
             "www.alltereg0.ru",
-            "www.appfoxes.com",
+            "www.appfoxes.com"
+        ],
+        "to_test": [
             "www.celebrity-image.com",
             "www.chokoladsrv.net",
             "www.clicktracksolutions.com",
