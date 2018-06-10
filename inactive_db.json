@@ -394,9 +394,7 @@
             "pixel.intares.net",
             "pixel.jumptap.com",
             "pixel.serviceleverage.com",
-            "pixel.staging.tree.com"
-        ],
-        "to_test": [
+            "pixel.staging.tree.com",
             "posibilities_en.popunder.net",
             "preply.go2affise.com",
             "preview.bnex.com",
@@ -404,7 +402,9 @@
             "pub3.media-clic.com",
             "quartz.bnex.com",
             "ramongroup.go2affise.com",
-            "re.directrev.com",
+            "re.directrev.com"
+        ],
+        "to_test": [
             "reporting.flymonarch.com",
             "req.mojiva.com",
             "rotatix.go2affise.com",
