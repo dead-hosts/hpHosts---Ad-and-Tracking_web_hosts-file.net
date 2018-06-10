@@ -427,9 +427,7 @@
             "stats.ebay.com",
             "stats.ilius.net",
             "stats.profileponds.com",
-            "support.publicrand.org"
-        ],
-        "to_test": [
+            "support.publicrand.org",
             "swx.domob.cn",
             "syndicate.powerofads.com",
             "syndication.loganmueller.info",
@@ -441,7 +439,9 @@
             "tminainc.go2affise.com",
             "toolbar.aol.com",
             "topbinaryaffiliates.ck-cdn.com",
-            "trace.jdtracker.com",
+            "trace.jdtracker.com"
+        ],
+        "to_test": [
             "track.ballerft.site",
             "track.cliqrr.com",
             "track.ft.com",
