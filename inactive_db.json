@@ -54,16 +54,18 @@
             "ads5.mojiva.com",
             "ads6.mocean.mobi",
             "ads7.mocean.mobi",
-            "ads8.mocean.mobi"
-        ],
-        "to_test": [
+            "ads8.mocean.mobi",
             "ads9.mocean.mobi",
             "ads_ad_center.s3.amazonaws.com",
+            "adserver.coreads.net",
             "adserver.ngz-network.de",
             "adserving.ads.ec",
             "adti.me",
             "adtracker.inmobi.com",
-            "advancemobile.go2affise.com",
+            "adv2.absoluteagency.com",
+            "advancemobile.go2affise.com"
+        ],
+        "to_test": [
             "advertiser.adknowledge.com",
             "advertiser.ads.ec",
             "aeropostale.resultspage.com",
