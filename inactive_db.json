@@ -77,9 +77,7 @@
             "analytics-v2.anvato.com",
             "analytics.traidnt.net",
             "anet.apx.appier.net",
-            "anet.c.appier.net"
-        ],
-        "to_test": [
+            "anet.c.appier.net",
             "api.bizographics.com",
             "api.flicktweets.com",
             "api.fyreball.com",
@@ -98,8 +96,9 @@
             "b.photobucket.com",
             "b3.toparcadehits.com",
             "b4.toparcadehits.com",
-            "banner.0catch.com",
-            "banner.blogranking.net",
+            "banner.blogranking.net"
+        ],
+        "to_test": [
             "banner.listinus.de",
             "banners.no1free.com",
             "banners.sextracker.de",
