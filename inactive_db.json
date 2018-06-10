@@ -462,9 +462,8 @@
             "us-east-1.profile-api.ads.linkedin.com",
             "us0.adlibr.com",
             "uslbtest.cedexis.com",
-            "v.wqsph.net"
-        ],
-        "to_test": [
+            "v.wqsph.net",
+            "vipadshares.com",
             "voluum.redirecting.site",
             "vpos.bnex.com",
             "vra.outbrain.com",
@@ -473,7 +472,9 @@
             "vrt.outbrain.com",
             "web63.jumptap.com",
             "web64.jumptap.com",
-            "web65.jumptap.com",
+            "web65.jumptap.com"
+        ],
+        "to_test": [
             "webstats.seoinc.com",
             "webtracker.educationconnection.com",
             "webtraffic.ttinet.com",
