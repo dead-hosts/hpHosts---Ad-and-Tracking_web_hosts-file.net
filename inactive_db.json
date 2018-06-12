@@ -98,16 +98,17 @@
             "api8.thesearchagency.net",
             "api9.thesearchagency.net",
             "app.lfstmedia.com",
-            "aws-ap-southeast-2a.bench.cedexis.com"
-        ],
-        "to_test": [
+            "aws-ap-southeast-2a.bench.cedexis.com",
             "b.photobucket.com",
             "b3.toparcadehits.com",
             "b4.toparcadehits.com",
             "banner.blogranking.net",
             "banner.listinus.de",
+            "banners.chare.ir",
             "banners.no1free.com",
-            "banners.sextracker.de",
+            "banners.sextracker.de"
+        ],
+        "to_test": [
             "bar.piano-media.com",
             "beacon.richrelevance.com",
             "betaffs.com",
