@@ -78,9 +78,7 @@
             "alldcs-distinct.outbrain.com",
             "alldcs.sphere.com",
             "alltereg0.ru",
-            "alpha.bnex.com"
-        ],
-        "to_test": [
+            "alpha.bnex.com",
             "analytics-v2.anvato.com",
             "analytics.traidnt.net",
             "anet.apx.appier.net",
@@ -99,7 +97,10 @@
             "api7.thesearchagency.net",
             "api8.thesearchagency.net",
             "api9.thesearchagency.net",
-            "aws-ap-southeast-2a.bench.cedexis.com",
+            "app.lfstmedia.com",
+            "aws-ap-southeast-2a.bench.cedexis.com"
+        ],
+        "to_test": [
             "b.photobucket.com",
             "b3.toparcadehits.com",
             "b4.toparcadehits.com",
