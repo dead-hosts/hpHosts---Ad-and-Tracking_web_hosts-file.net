@@ -142,9 +142,7 @@
             "cdn.adbrau.com",
             "cdn.adplxmd.com",
             "cdn.directrev.com",
-            "cdn.escalatenetwork.com"
-        ],
-        "to_test": [
+            "cdn.escalatenetwork.com",
             "cdn2.adbrau.com",
             "chathu.apkmania.co",
             "click.findthewebsiteyouneed.com",
@@ -154,7 +152,9 @@
             "clicktrade.net",
             "clk.directrev.com",
             "collector-test.staging.mb-internal.com",
-            "companydeep.go2affise.com",
+            "companydeep.go2affise.com"
+        ],
+        "to_test": [
             "connect.appflood.com",
             "content.liveuniverse.com",
             "content.zemanta.com",
