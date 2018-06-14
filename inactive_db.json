@@ -20,14 +20,14 @@
             "adman_test.go2cloud.org",
             "ads.adrdgt.com",
             "ads.adtegrity.net",
-            "ads.advance.uk.com"
-        ],
-        "to_test": [
+            "ads.advance.uk.com",
             "ads.amarillo.com",
             "ads.asia1.com.sg",
+            "ads.clubphoto.com",
             "ads.deliads.com",
             "ads.e9china.com",
             "ads.filez.nl",
+            "ads.flooble.com",
             "ads.friendtest.com",
             "ads.gad-network.com",
             "ads.gfy.com",
@@ -38,7 +38,9 @@
             "ads.mocean.mobi",
             "ads.mojiva.com",
             "ads.netmechanic.com",
-            "ads.piramit.net",
+            "ads.piramit.net"
+        ],
+        "to_test": [
             "ads.realitytraffic.com.s2.gvirabi.com",
             "ads.realitytraffic.com.s3.gvirabi.com",
             "ads.rte.ie",
