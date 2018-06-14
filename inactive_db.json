@@ -429,9 +429,8 @@
             "sk.connect2.ws",
             "sma.punto.net",
             "spiegel.rce.veeseo.com",
-            "spoods.rce.veeseo.com"
-        ],
-        "to_test": [
+            "spoods.rce.veeseo.com",
+            "srv6.admedit.me",
             "ss.xxxnavy.com",
             "st.listrak.com",
             "stat.cybermonitor.com",
@@ -442,7 +441,9 @@
             "stats.cts-bv.nl",
             "stats.ebay.com",
             "stats.ilius.net",
-            "stats.profileponds.com",
+            "stats.profileponds.com"
+        ],
+        "to_test": [
             "support.publicrand.org",
             "swx.domob.cn",
             "syndicate.powerofads.com",
