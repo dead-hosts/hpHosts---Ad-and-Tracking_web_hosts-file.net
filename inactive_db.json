@@ -45,9 +45,7 @@
             "ads.taptapnetworks.com",
             "ads.topcities.com",
             "ads.traffpartners.com",
-            "ads.vintageporntubenet.com"
-        ],
-        "to_test": [
+            "ads.vintageporntubenet.com",
             "ads.whi.co.nz",
             "ads1.mocean.mobi",
             "ads1.mojiva.com",
@@ -65,7 +63,9 @@
             "ads9.mocean.mobi",
             "ads_ad_center.s3.amazonaws.com",
             "adserver.coreads.net",
-            "adserver.ngz-network.de",
+            "adserver.ngz-network.de"
+        ],
+        "to_test": [
             "adserving.ads.ec",
             "adti.me",
             "adtracker.inmobi.com",
