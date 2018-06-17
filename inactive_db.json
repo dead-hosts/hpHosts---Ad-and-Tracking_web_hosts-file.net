@@ -63,18 +63,17 @@
             "ads9.mocean.mobi",
             "ads_ad_center.s3.amazonaws.com",
             "adserver.coreads.net",
-            "adserver.ngz-network.de"
-        ],
-        "to_test": [
+            "adserver.ngz-network.de",
             "adserving.ads.ec",
             "adti.me",
             "adtracker.inmobi.com",
-            "adv2.absoluteagency.com",
             "advancemobile.go2affise.com",
             "advertiser.adknowledge.com",
             "advertiser.ads.ec",
             "aeropostale.resultspage.com",
-            "aff-jp.exshot.com",
+            "aff-jp.exshot.com"
+        ],
+        "to_test": [
             "affiliate.key2link.com",
             "alea.adam.ad.daum.net",
             "alea.adam.daum.net",
