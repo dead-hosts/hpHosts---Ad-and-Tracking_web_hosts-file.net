@@ -149,12 +149,11 @@
             "content.liveuniverse.com",
             "content.zemanta.com",
             "coretalk.co",
-            "counted.de"
-        ],
-        "to_test": [
+            "counted.de",
             "cp.intl.match.com",
             "cpm-plus.com",
             "cpm.bazoto.com",
+            "cpmtrip.com",
             "creative.ad121m.com",
             "creative.ad135m.com",
             "creative.whi.co.nz",
@@ -215,7 +214,9 @@
             "data.appflood.com",
             "data.ppn-ad-cdn.populis.com",
             "db.bnex.com",
-            "ddwht76d9jvfl.cloudfront.net",
+            "ddwht76d9jvfl.cloudfront.net"
+        ],
+        "to_test": [
             "delivery.optimatic.com",
             "deloo.de",
             "demo.advertising.com",
