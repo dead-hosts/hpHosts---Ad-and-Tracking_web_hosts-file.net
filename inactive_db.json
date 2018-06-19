@@ -460,9 +460,7 @@
             "track.ballerft.site",
             "track.cliqrr.com",
             "track.ft.com",
-            "track.livestat.com"
-        ],
-        "to_test": [
+            "track.livestat.com",
             "track.tracking85.com",
             "tracker.netmechanic.com",
             "tracking.amazing-revenue.com",
@@ -473,7 +471,9 @@
             "trackpromotion.net",
             "triolit.go2affise.com",
             "trp.numergy.bench.cedexis.com",
-            "u.optorb.com",
+            "u.optorb.com"
+        ],
+        "to_test": [
             "u715381.sendgrid.org",
             "u899519.sendgrid.org",
             "upstream.where.com",
