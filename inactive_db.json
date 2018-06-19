@@ -314,9 +314,7 @@
             "megastore.bnex.com",
             "mobile.traffic-tracker.net",
             "mosaic.bnex.com",
-            "mp.twitch.tv"
-        ],
-        "to_test": [
+            "mp.twitch.tv",
             "msn.rce.veeseo.com",
             "munaluchibridal.munaluchibridema.netdna-cdn.com",
             "my-etracker.com",
@@ -325,7 +323,9 @@
             "new.gtsads.com",
             "o.sa.aol.com",
             "o_thus.ero-advertising.com",
-            "okstrade.go2affise.com",
+            "okstrade.go2affise.com"
+        ],
+        "to_test": [
             "onedrive-collection.device.mobileengagement.windows.net",
             "onyx.bnex.com",
             "open.vmdb.se",
