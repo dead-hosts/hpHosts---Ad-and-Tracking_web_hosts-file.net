@@ -18,9 +18,7 @@
             "ad01.adonspot.com",
             "adb.nikkei.co.jp",
             "adimage.asia1.com.sg",
-            "adman_test.go2cloud.org"
-        ],
-        "to_test": [
+            "adman_test.go2cloud.org",
             "ads.adrdgt.com",
             "ads.advance.uk.com",
             "ads.amarillo.com",
@@ -38,7 +36,9 @@
             "ads.mocean.mobi",
             "ads.mojiva.com",
             "ads.netmechanic.com",
-            "ads.piramit.net",
+            "ads.piramit.net"
+        ],
+        "to_test": [
             "ads.poptarts.me",
             "ads.prnt.sc",
             "ads.realitytraffic.com.s2.gvirabi.com",
