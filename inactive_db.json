@@ -78,9 +78,7 @@
             "advertraf.go2affise.com",
             "aeropostale.resultspage.com",
             "aff-jp.exshot.com",
-            "affiliate.key2link.com"
-        ],
-        "to_test": [
+            "affiliate.key2link.com",
             "alea.adam.ad.daum.net",
             "alea.adam.daum.net",
             "alldcs-distinct.outbrain.com",
@@ -97,6 +95,9 @@
             "api.omniata.com",
             "api.revcontent.com",
             "app.insightgrit.com",
+            "au.umeng.com"
+        ],
+        "to_test": [
             "aws-ap-southeast-2a.bench.cedexis.com",
             "b.ifmnwi.club",
             "b.photobucket.com",
