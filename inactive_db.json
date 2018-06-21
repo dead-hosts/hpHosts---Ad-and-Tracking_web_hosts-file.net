@@ -95,9 +95,7 @@
             "api.omniata.com",
             "api.revcontent.com",
             "app.insightgrit.com",
-            "au.umeng.com"
-        ],
-        "to_test": [
+            "au.umeng.com",
             "aws-ap-southeast-2a.bench.cedexis.com",
             "b.ifmnwi.club",
             "b.photobucket.com",
@@ -105,7 +103,9 @@
             "b4.toparcadehits.com",
             "banner.blogranking.net",
             "banner.listinus.de",
-            "banners.chicashumedas.com",
+            "banners.chicashumedas.com"
+        ],
+        "to_test": [
             "banners.no1free.com",
             "banners.sextracker.de",
             "beacon.richrelevance.com",
