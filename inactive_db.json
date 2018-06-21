@@ -422,9 +422,7 @@
             "quartz.bnex.com",
             "ramongroup.go2affise.com",
             "rce.veeseo.com",
-            "re.directrev.com"
-        ],
-        "to_test": [
+            "re.directrev.com",
             "reporting.flymonarch.com",
             "req.mojiva.com",
             "rotatix.go2affise.com",
@@ -432,7 +430,9 @@
             "s.vgsgaming-ads.com",
             "s1.trafficmaxx.de",
             "s4.trafficmaxx.de",
-            "scrooge.click10.com",
+            "scrooge.click10.com"
+        ],
+        "to_test": [
             "serv.powerofads.com",
             "serve.adplxmd.com",
             "siteinfo.libero.it",
