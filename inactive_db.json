@@ -327,9 +327,7 @@
             "n.targetdtracker.com",
             "new.gtsads.com",
             "o.sa.aol.com",
-            "o_thus.ero-advertising.com"
-        ],
-        "to_test": [
+            "o_thus.ero-advertising.com",
             "okstrade.go2affise.com",
             "onedrive-collection.device.mobileengagement.windows.net",
             "onyx.bnex.com",
@@ -413,7 +411,9 @@
             "pixel.intares.net",
             "pixel.jumptap.com",
             "pixel.serviceleverage.com",
-            "pixel.staging.tree.com",
+            "pixel.staging.tree.com"
+        ],
+        "to_test": [
             "posibilities_en.popunder.net",
             "pptrk.com",
             "preply.go2affise.com",
