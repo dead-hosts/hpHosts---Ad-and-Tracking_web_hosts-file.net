@@ -156,9 +156,7 @@
             "content.liveuniverse.com",
             "content.zemanta.com",
             "core.naturalmotion.com",
-            "coretalk.co"
-        ],
-        "to_test": [
+            "coretalk.co",
             "counted.de",
             "cp.intl.match.com",
             "cpm-plus.com",
@@ -220,7 +218,9 @@
             "d3vc1nm9xbncz5.cloudfront.net",
             "d5pvnbpawsaav.cloudfront.net",
             "d6bdy3eto8fyu.cloudfront.net",
-            "d8qy7md4cj3gz.cloudfront.net",
+            "d8qy7md4cj3gz.cloudfront.net"
+        ],
+        "to_test": [
             "data.appflood.com",
             "data.ppn-ad-cdn.populis.com",
             "db.bnex.com",
