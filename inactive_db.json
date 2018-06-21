@@ -68,9 +68,7 @@
             "adserver.cz.cc",
             "adserver.ngz-network.de",
             "adserving.ads.ec",
-            "adsmarket.es"
-        ],
-        "to_test": [
+            "adsmarket.es",
             "adti.me",
             "adtracker.inmobi.com",
             "adv2.absoluteagency.com",
@@ -80,7 +78,9 @@
             "advertraf.go2affise.com",
             "aeropostale.resultspage.com",
             "aff-jp.exshot.com",
-            "affiliate.key2link.com",
+            "affiliate.key2link.com"
+        ],
+        "to_test": [
             "alea.adam.ad.daum.net",
             "alea.adam.daum.net",
             "alldcs-distinct.outbrain.com",
