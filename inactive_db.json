@@ -35,9 +35,7 @@
             "ads.linuxjournal.com",
             "ads.mobilefuse.net",
             "ads.mocean.mobi",
-            "ads.mojiva.com"
-        ],
-        "to_test": [
+            "ads.mojiva.com",
             "ads.netmechanic.com",
             "ads.piramit.net",
             "ads.poptarts.me",
@@ -52,7 +50,9 @@
             "ads.whi.co.nz",
             "ads1.mb.datingadzone.com",
             "ads1.mocean.mobi",
-            "ads1.mojiva.com",
+            "ads1.mojiva.com"
+        ],
+        "to_test": [
             "ads2.mocean.mobi",
             "ads2.mojiva.com",
             "ads3.mocean.mobi",
