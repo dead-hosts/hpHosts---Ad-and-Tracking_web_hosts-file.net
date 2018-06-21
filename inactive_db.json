@@ -316,9 +316,7 @@
             "media4.fc2.com",
             "mediasheva.com",
             "mediaxds.go2affise.com",
-            "megastore.bnex.com"
-        ],
-        "to_test": [
+            "megastore.bnex.com",
             "mobile.traffic-tracker.net",
             "mosaic.bnex.com",
             "mp.twitch.tv",
@@ -329,7 +327,9 @@
             "n.targetdtracker.com",
             "new.gtsads.com",
             "o.sa.aol.com",
-            "o_thus.ero-advertising.com",
+            "o_thus.ero-advertising.com"
+        ],
+        "to_test": [
             "okstrade.go2affise.com",
             "onedrive-collection.device.mobileengagement.windows.net",
             "onyx.bnex.com",
