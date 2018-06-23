@@ -269,9 +269,7 @@
             "go.kissmetrics.com",
             "go.mobilix.eu",
             "go.wastedpushdevelop.info",
-            "granite.bnex.com"
-        ],
-        "to_test": [
+            "granite.bnex.com",
             "homeearthlink.net",
             "housead.umeng.com",
             "i.flowgo.com",
@@ -285,7 +283,6 @@
             "im.b2a2cd00.885d48e.ads.a4cdn.contentabc.com",
             "im.b2a2cd00.92bde07.ads.a4cdn.contentabc.com",
             "image.safe-sender.co.uk",
-            "images-geo.outbrain.com",
             "images.vantage-media.net",
             "img.ads.huntmad.com",
             "img.ads.mobilefuse.net",
@@ -300,7 +297,9 @@
             "img.ads3.mojiva.com",
             "img.ads4.mocean.mobi",
             "img.ads4.mojiva.com",
-            "img.ads5.mojiva.com",
+            "img.ads5.mojiva.com"
+        ],
+        "to_test": [
             "intarsia.bnex.com",
             "intranet.bnex.com",
             "jade.bnex.com",
