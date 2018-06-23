@@ -413,11 +413,10 @@
             "p.chartboost.com",
             "p.pxl2015x1.com",
             "p_en.popunder.net",
-            "pa.advertising.veeseo.com"
-        ],
-        "to_test": [
+            "pa.advertising.veeseo.com",
             "partner.topcities.com",
             "partner.zooplus.de",
+            "partners.trafficz.com",
             "pebble.bnex.com",
             "pix.gfycat.com",
             "pixel.ad.mlnadvertising.com",
@@ -429,7 +428,9 @@
             "pptrk.com",
             "preply.go2affise.com",
             "preview.bnex.com",
-            "prunemedia.go2affise.com",
+            "prunemedia.go2affise.com"
+        ],
+        "to_test": [
             "pub3.media-clic.com",
             "qq.m.cn.miaozhen.com",
             "quartz.bnex.com",
