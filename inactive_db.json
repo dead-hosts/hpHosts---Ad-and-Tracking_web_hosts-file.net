@@ -259,9 +259,7 @@
             "engine.phptrader.com",
             "enrichment.moportals.com",
             "f1.ilivlite.com",
-            "fp.gad-network.com"
-        ],
-        "to_test": [
+            "fp.gad-network.com",
             "gae.caspion.com",
             "gather.hankyung.com",
             "get.rubyroyal.com",
@@ -271,7 +269,9 @@
             "go.kissmetrics.com",
             "go.mobilix.eu",
             "go.wastedpushdevelop.info",
-            "granite.bnex.com",
+            "granite.bnex.com"
+        ],
+        "to_test": [
             "homeearthlink.net",
             "housead.umeng.com",
             "i.flowgo.com",
