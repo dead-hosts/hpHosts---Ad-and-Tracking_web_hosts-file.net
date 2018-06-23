@@ -458,9 +458,7 @@
             "stat.ringier.cz",
             "stat2.cybermonitor.com",
             "stat3.cybermonitor.com",
-            "static.traffe.eu"
-        ],
-        "to_test": [
+            "static.traffe.eu",
             "stats.cts-bv.nl",
             "stats.ebay.com",
             "stats.ilius.net",
@@ -471,7 +469,9 @@
             "syndication.loganmueller.info",
             "tag.email-attitude.com",
             "tagx.nytimes.com",
-            "terrazzo.bnex.com",
+            "terrazzo.bnex.com"
+        ],
+        "to_test": [
             "tminainc.go2affise.com",
             "toolbar.aol.com",
             "topbinaryaffiliates.ck-cdn.com",
