@@ -96,9 +96,8 @@
             "api.omniata.com",
             "api.revcontent.com",
             "app.insightgrit.com",
-            "au.umeng.com"
-        ],
-        "to_test": [
+            "au.umeng.com",
+            "austria1.adverserve.net",
             "aws-ap-southeast-2a.bench.cedexis.com",
             "b.ifmnwi.club",
             "b.photobucket.com",
@@ -108,7 +107,9 @@
             "banner.listinus.de",
             "banners.chicashumedas.com",
             "banners.no1free.com",
-            "banners.sextracker.de",
+            "banners.sextracker.de"
+        ],
+        "to_test": [
             "beacon.richrelevance.com",
             "betaffs.com",
             "bi-three.wooga.com",
