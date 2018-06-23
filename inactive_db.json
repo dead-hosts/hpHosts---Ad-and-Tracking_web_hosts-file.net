@@ -52,9 +52,7 @@
             "ads.whi.co.nz",
             "ads1.mb.datingadzone.com",
             "ads1.mocean.mobi",
-            "ads1.mojiva.com"
-        ],
-        "to_test": [
+            "ads1.mojiva.com",
             "ads2.mocean.mobi",
             "ads2.mojiva.com",
             "ads3.mocean.mobi",
@@ -70,8 +68,9 @@
             "ads_ad_center.s3.amazonaws.com",
             "adserver.coreads.net",
             "adserver.cz.cc",
-            "adserver.ngz-network.de",
-            "adserving.ads.ec",
+            "adserving.ads.ec"
+        ],
+        "to_test": [
             "adsmarket.es",
             "adti.me",
             "adtracker.inmobi.com",
