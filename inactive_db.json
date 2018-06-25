@@ -143,9 +143,7 @@
             "adsmarket.es",
             "adti.me",
             "adtracker.inmobi.com",
-            "advancemobile.go2affise.com"
-        ],
-        "to_test": [
+            "advancemobile.go2affise.com",
             "advertiser.adknowledge.com",
             "advertiser.ads.ec",
             "advertraf.go2affise.com",
@@ -155,13 +153,14 @@
             "alea.adam.ad.daum.net",
             "alea.adam.daum.net",
             "alldcs-distinct.outbrain.com",
-            "alldcs.sphere.com",
             "alltereg0.ru",
             "alpha.bnex.com",
             "analytics-v2.anvato.com",
             "analytics.traidnt.net",
             "anet.apx.appier.net",
-            "anet.c.appier.net",
+            "anet.c.appier.net"
+        ],
+        "to_test": [
             "api.bizographics.com",
             "api.flicktweets.com",
             "api.fyreball.com",
