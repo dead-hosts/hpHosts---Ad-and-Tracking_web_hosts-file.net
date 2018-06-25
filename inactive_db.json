@@ -414,9 +414,7 @@
             "o.sa.aol.com",
             "o_thus.ero-advertising.com",
             "okstrade.go2affise.com",
-            "onedrive-collection.device.mobileengagement.windows.net"
-        ],
-        "to_test": [
+            "onedrive-collection.device.mobileengagement.windows.net",
             "onyx.bnex.com",
             "open.vmdb.se",
             "openad.tf1.fr",
@@ -497,14 +495,15 @@
             "pa.advertising.veeseo.com",
             "partner.topcities.com",
             "partner.zooplus.de",
-            "partners.trafficz.com",
             "pebble.bnex.com",
             "pix.gfycat.com",
             "pixel.ad.mlnadvertising.com",
             "pixel.intares.net",
             "pixel.jumptap.com",
             "pixel.serviceleverage.com",
-            "pixel.staging.tree.com",
+            "pixel.staging.tree.com"
+        ],
+        "to_test": [
             "posibilities_en.popunder.net",
             "pptrk.com",
             "preply.go2affise.com",
