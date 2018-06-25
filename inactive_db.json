@@ -557,9 +557,7 @@
             "track.tracking85.com",
             "tracker.netmechanic.com",
             "tracking.amazing-revenue.com",
-            "tracking.directadsmedia.com"
-        ],
-        "to_test": [
+            "tracking.directadsmedia.com",
             "tracking.smartclicksystem.com",
             "tracking.wfnetwork.com",
             "tracking999.com",
@@ -569,7 +567,9 @@
             "u.optorb.com",
             "u715381.sendgrid.org",
             "u899519.sendgrid.org",
-            "upstream.where.com",
+            "upstream.where.com"
+        ],
+        "to_test": [
             "urlcheck.hulu.com",
             "us-east-1.profile-api.ads.linkedin.com",
             "us0.adlibr.com",
