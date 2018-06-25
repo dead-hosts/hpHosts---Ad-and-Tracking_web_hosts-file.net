@@ -531,9 +531,7 @@
             "srv6.admedit.me",
             "ss.xxxnavy.com",
             "st.listrak.com",
-            "stat.cybermonitor.com"
-        ],
-        "to_test": [
+            "stat.cybermonitor.com",
             "stat.ringier.cz",
             "stat2.cybermonitor.com",
             "stat3.cybermonitor.com",
@@ -545,9 +543,10 @@
             "support.publicrand.org",
             "swx.domob.cn",
             "syndicate.powerofads.com",
-            "syndication.loganmueller.info",
             "tag.email-attitude.com",
-            "tagx.nytimes.com",
+            "tagx.nytimes.com"
+        ],
+        "to_test": [
             "terrazzo.bnex.com",
             "tminainc.go2affise.com",
             "toolbar.aol.com",
