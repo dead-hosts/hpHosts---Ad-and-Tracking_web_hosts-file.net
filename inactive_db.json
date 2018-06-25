@@ -220,9 +220,7 @@
             "cdn.adbrau.com",
             "cdn.directrev.com",
             "cdn.escalatenetwork.com",
-            "cdn2.adbrau.com"
-        ],
-        "to_test": [
+            "cdn2.adbrau.com",
             "chathu.apkmania.co",
             "click.findthewebsiteyouneed.com",
             "click.readme.ru",
@@ -232,8 +230,9 @@
             "clk.directrev.com",
             "collector-test.staging.mb-internal.com",
             "companydeep.go2affise.com",
-            "computingcentral.com",
-            "connect.appflood.com",
+            "connect.appflood.com"
+        ],
+        "to_test": [
             "content.liveuniverse.com",
             "content.zemanta.com",
             "core.naturalmotion.com",
