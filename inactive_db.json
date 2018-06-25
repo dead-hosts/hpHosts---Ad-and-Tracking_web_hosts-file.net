@@ -357,9 +357,8 @@
             "im.b2a2c700.e8cace3.ads.a4cdn.contentabc.com",
             "im.b2a2cd00.885d48e.ads.a4cdn.contentabc.com",
             "im.b2a2cd00.92bde07.ads.a4cdn.contentabc.com",
-            "image.safe-sender.co.uk"
-        ],
-        "to_test": [
+            "image.safe-sender.co.uk",
+            "images-geo.outbrain.com",
             "images.vantage-media.net",
             "img.ads.huntmad.com",
             "img.ads.mobilefuse.net",
@@ -377,7 +376,9 @@
             "img.ads5.mojiva.com",
             "intarsia.bnex.com",
             "intranet.bnex.com",
-            "jade.bnex.com",
+            "jade.bnex.com"
+        ],
+        "to_test": [
             "jmm.livestat.com",
             "js.cybermonitor.com",
             "js.dmtry.com",
