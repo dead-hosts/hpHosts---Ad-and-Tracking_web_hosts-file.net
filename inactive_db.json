@@ -501,9 +501,7 @@
             "pixel.intares.net",
             "pixel.jumptap.com",
             "pixel.serviceleverage.com",
-            "pixel.staging.tree.com"
-        ],
-        "to_test": [
+            "pixel.staging.tree.com",
             "posibilities_en.popunder.net",
             "pptrk.com",
             "preply.go2affise.com",
@@ -514,7 +512,9 @@
             "quartz.bnex.com",
             "ramongroup.go2affise.com",
             "rce.veeseo.com",
-            "re.directrev.com",
+            "re.directrev.com"
+        ],
+        "to_test": [
             "reporting.flymonarch.com",
             "req.mojiva.com",
             "rotatix.go2affise.com",
