@@ -586,9 +586,7 @@
             "webstats.seoinc.com",
             "webtracker.educationconnection.com",
             "webtraffic.ttinet.com",
-            "wrt.mtr-4uk.com"
-        ],
-        "to_test": [
+            "wrt.mtr-4uk.com",
             "www.863c4c0c521.se",
             "www.a.volvelle.tech",
             "www.adexm.com",
@@ -603,7 +601,9 @@
             "www.clicktracksolutions.com",
             "www.clkmon.com",
             "www.corolate.win",
-            "www.cpm-plus.com",
+            "www.cpm-plus.com"
+        ],
+        "to_test": [
             "www.dsply.com",
             "www.ercva.com",
             "www.f8350e7c1.se",
