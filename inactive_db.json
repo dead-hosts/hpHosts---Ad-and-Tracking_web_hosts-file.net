@@ -457,9 +457,7 @@
             "s1.trafficmaxx.de",
             "s4.trafficmaxx.de",
             "scrooge.click10.com",
-            "serv.powerofads.com"
-        ],
-        "to_test": [
+            "serv.powerofads.com",
             "siteinfo.libero.it",
             "sk.connect2.ws",
             "sma.punto.net",
@@ -473,7 +471,9 @@
             "stat.ringier.cz",
             "stat2.cybermonitor.com",
             "stat3.cybermonitor.com",
-            "static.traffe.eu",
+            "static.traffe.eu"
+        ],
+        "to_test": [
             "stats.cts-bv.nl",
             "stats.ebay.com",
             "stats.ilius.net",
