@@ -165,9 +165,7 @@
             "content.zemanta.com",
             "core.naturalmotion.com",
             "coretalk.co",
-            "counted.de"
-        ],
-        "to_test": [
+            "counted.de",
             "cp.intl.match.com",
             "cpm-plus.com",
             "cpm.bazoto.com",
@@ -236,7 +234,9 @@
             "ddwht76d9jvfl.cloudfront.net",
             "delivery.optimatic.com",
             "deloo.de",
-            "demo.advertising.com",
+            "demo.advertising.com"
+        ],
+        "to_test": [
             "dev.bnex.com",
             "digdug.divxnetworks.com",
             "disy2s34euyqm.cloudfront.net",
