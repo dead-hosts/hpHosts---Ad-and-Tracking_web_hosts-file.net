@@ -234,9 +234,7 @@
             "ddwht76d9jvfl.cloudfront.net",
             "delivery.optimatic.com",
             "deloo.de",
-            "demo.advertising.com"
-        ],
-        "to_test": [
+            "demo.advertising.com",
             "dev.bnex.com",
             "digdug.divxnetworks.com",
             "disy2s34euyqm.cloudfront.net",
@@ -259,7 +257,9 @@
             "dyl3p6so5yozo.cloudfront.net",
             "e-ltvp.inmobi.com",
             "e.ai.inmobi.com",
-            "ea.rueducommerce.fr",
+            "ea.rueducommerce.fr"
+        ],
+        "to_test": [
             "enetwork.ncbuy.com",
             "engine.adverserve.net",
             "engine.fl-ads.com",
