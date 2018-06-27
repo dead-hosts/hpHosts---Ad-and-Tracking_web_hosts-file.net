@@ -86,9 +86,7 @@
             "alldcs.sphere.com",
             "alltereg0.ru",
             "alpha.bnex.com",
-            "analytics-v2.anvato.com"
-        ],
-        "to_test": [
+            "analytics-v2.anvato.com",
             "analytics.traidnt.net",
             "anet.apx.appier.net",
             "anet.c.appier.net",
@@ -110,7 +108,9 @@
             "b.photobucket.com",
             "b.the-nextlevel.com",
             "b3.toparcadehits.com",
-            "b4.toparcadehits.com",
+            "b4.toparcadehits.com"
+        ],
+        "to_test": [
             "banner.blogranking.net",
             "banner.listinus.de",
             "banners.chicashumedas.com",
