@@ -342,9 +342,7 @@
             "n.targetdtracker.com",
             "ned.itv.com",
             "network.adbullion.com",
-            "new.gtsads.com"
-        ],
-        "to_test": [
+            "new.gtsads.com",
             "o.sa.aol.com",
             "o_thus.ero-advertising.com",
             "okstrade.go2affise.com",
@@ -390,6 +388,7 @@
             "ox-d.interweave.com",
             "ox-d.journatic.com",
             "ox-d.ksl.servedbyopenx.com",
+            "ox-d.kwick.servedbyopenx.com",
             "ox-d.leessp.servedbyopenx.com",
             "ox-d.m-market.servedbyopenx.com",
             "ox-d.mailonline.servedbyopenx.com",
@@ -398,6 +397,7 @@
             "ox-d.mods.pch.com",
             "ox-d.monetizationservices.servedbyopenx.com",
             "ox-d.mst.servedbyopenx.com",
+            "ox-d.nasdaq.servedbyopenx.com",
             "ox-d.nydailynews.servedbyopenx.com",
             "ox-d.pbhmedia.servedbyopenx.com",
             "ox-d.philly.servedbyopenx.com",
@@ -425,8 +425,11 @@
             "ox.mediabistro.com",
             "p.chartboost.com",
             "p.pxl2015x1.com",
+            "p96582.adskape.ru",
             "p_en.popunder.net",
-            "pa.advertising.veeseo.com",
+            "pa.advertising.veeseo.com"
+        ],
+        "to_test": [
             "partner.topcities.com",
             "partner.zooplus.de",
             "pebble.bnex.com",
