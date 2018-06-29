@@ -473,9 +473,7 @@
             "ss.xxxnavy.com",
             "sscdn.banners.advidi.com",
             "st.listrak.com",
-            "stat.cybermonitor.com"
-        ],
-        "to_test": [
+            "stat.cybermonitor.com",
             "stat.ringier.cz",
             "stat2.cybermonitor.com",
             "stat3.cybermonitor.com",
@@ -488,7 +486,9 @@
             "swx.domob.cn",
             "syndicate.powerofads.com",
             "syndication.loganmueller.info",
-            "tag.email-attitude.com",
+            "tag.email-attitude.com"
+        ],
+        "to_test": [
             "tagx.nytimes.com",
             "terrazzo.bnex.com",
             "tminainc.go2affise.com",
