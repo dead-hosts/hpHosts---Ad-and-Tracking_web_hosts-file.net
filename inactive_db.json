@@ -100,9 +100,7 @@
             "app.insightgrit.com",
             "au.umeng.com",
             "austria1.adverserve.net",
-            "avatar.truongton.net"
-        ],
-        "to_test": [
+            "avatar.truongton.net",
             "aws-ap-southeast-2a.bench.cedexis.com",
             "b.aol.com",
             "b.aol.de",
@@ -118,7 +116,9 @@
             "banner.listinus.de",
             "banners.chicashumedas.com",
             "banners.no1free.com",
-            "banners.sextracker.de",
+            "banners.sextracker.de"
+        ],
+        "to_test": [
             "beacon.richrelevance.com",
             "betaffs.com",
             "bi-three.wooga.com",
