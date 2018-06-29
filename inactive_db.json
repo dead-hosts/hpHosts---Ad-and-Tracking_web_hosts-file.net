@@ -499,9 +499,7 @@
             "track.livestat.com",
             "track.tracking85.com",
             "tracker.netmechanic.com",
-            "tracking.amazing-revenue.com"
-        ],
-        "to_test": [
+            "tracking.amazing-revenue.com",
             "tracking.directadsmedia.com",
             "tracking.smartclicksystem.com",
             "tracking.wfnetwork.com",
@@ -509,7 +507,9 @@
             "trackpromotion.net",
             "triolit.go2affise.com",
             "trp.numergy.bench.cedexis.com",
-            "u.optorb.com",
+            "u.optorb.com"
+        ],
+        "to_test": [
             "u715381.sendgrid.org",
             "u899519.sendgrid.org",
             "upstream.where.com",
