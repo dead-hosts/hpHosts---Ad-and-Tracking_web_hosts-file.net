@@ -84,10 +84,8 @@
             "aff-jp.exshot.com",
             "affiliate.key2link.com",
             "alea.adam.ad.daum.net",
-            "alea.adam.daum.net"
-        ],
-        "to_test": [
-            "alldcs.sphere.com",
+            "alea.adam.daum.net",
+            "alldcs-distinct.outbrain.com",
             "alltereg0.ru",
             "alpha.bnex.com",
             "analytics-v2.anvato.com",
@@ -102,6 +100,9 @@
             "app.insightgrit.com",
             "au.umeng.com",
             "austria1.adverserve.net",
+            "avatar.truongton.net"
+        ],
+        "to_test": [
             "aws-ap-southeast-2a.bench.cedexis.com",
             "b.aol.com",
             "b.aol.de",
