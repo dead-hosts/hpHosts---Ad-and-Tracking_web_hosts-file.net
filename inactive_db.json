@@ -153,9 +153,7 @@
             "can.you.shut.the.fuck.up.at.bnex.com",
             "cdn.adbrau.com",
             "cdn.directrev.com",
-            "cdn.escalatenetwork.com"
-        ],
-        "to_test": [
+            "cdn.escalatenetwork.com",
             "cdn2.adbrau.com",
             "chathu.apkmania.co",
             "click.findthewebsiteyouneed.com",
@@ -165,7 +163,9 @@
             "clicktrade.net",
             "clk.directrev.com",
             "collector-test.staging.mb-internal.com",
-            "companydeep.go2affise.com",
+            "companydeep.go2affise.com"
+        ],
+        "to_test": [
             "connect.appflood.com",
             "content.zemanta.com",
             "core.naturalmotion.com",
