@@ -143,9 +143,7 @@
             "bos-tapreq17.jumptap.com",
             "bos-tapreq18.jumptap.com",
             "bos-tapreq19.jumptap.com",
-            "bos-tapreq20.jumptap.com"
-        ],
-        "to_test": [
+            "bos-tapreq20.jumptap.com",
             "c.ads.com",
             "c.cldlr.com",
             "c.microsoft.com",
@@ -155,7 +153,9 @@
             "can.you.shut.the.fuck.up.at.bnex.com",
             "cdn.adbrau.com",
             "cdn.directrev.com",
-            "cdn.escalatenetwork.com",
+            "cdn.escalatenetwork.com"
+        ],
+        "to_test": [
             "cdn2.adbrau.com",
             "chathu.apkmania.co",
             "click.findthewebsiteyouneed.com",
