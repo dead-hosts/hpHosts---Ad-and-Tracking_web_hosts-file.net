@@ -325,9 +325,7 @@
             "logs.infoaxe.com",
             "lon.telefonica.bench.cedexis.com",
             "lprptestrouter2.website",
-            "m.adtc.daum.net"
-        ],
-        "to_test": [
+            "m.adtc.daum.net",
             "m.trk44.mobi",
             "magicads.nl",
             "mail.adsender.us",
@@ -343,7 +341,9 @@
             "mosaic.bnex.com",
             "mp.twitch.tv",
             "msn.rce.veeseo.com",
-            "munaluchibridal.munaluchibridema.netdna-cdn.com",
+            "munaluchibridal.munaluchibridema.netdna-cdn.com"
+        ],
+        "to_test": [
             "my-etracker.com",
             "mytds.pr.vc",
             "n.targetdtracker.com",
