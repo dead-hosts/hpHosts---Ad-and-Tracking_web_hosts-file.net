@@ -356,9 +356,7 @@
             "open.vmdb.se",
             "openad.tf1.fr",
             "openx.city-nav.com",
-            "openx.kasjauns.lv"
-        ],
-        "to_test": [
+            "openx.kasjauns.lv",
             "orders.webpower.com",
             "orion.bnex.com",
             "ox-d.aa.com",
@@ -444,7 +442,9 @@
             "pixel.jumptap.com",
             "pixel.serviceleverage.com",
             "pixel.staging.tree.com",
-            "posibilities_en.popunder.net",
+            "posibilities_en.popunder.net"
+        ],
+        "to_test": [
             "pptrk.com",
             "preply.go2affise.com",
             "preview.bnex.com",
