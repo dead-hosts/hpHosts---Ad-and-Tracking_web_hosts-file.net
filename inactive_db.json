@@ -341,9 +341,7 @@
             "mosaic.bnex.com",
             "mp.twitch.tv",
             "msn.rce.veeseo.com",
-            "munaluchibridal.munaluchibridema.netdna-cdn.com"
-        ],
-        "to_test": [
+            "munaluchibridal.munaluchibridema.netdna-cdn.com",
             "my-etracker.com",
             "mytds.pr.vc",
             "n.targetdtracker.com",
@@ -358,7 +356,9 @@
             "open.vmdb.se",
             "openad.tf1.fr",
             "openx.city-nav.com",
-            "openx.kasjauns.lv",
+            "openx.kasjauns.lv"
+        ],
+        "to_test": [
             "orders.webpower.com",
             "orion.bnex.com",
             "ox-d.aa.com",
