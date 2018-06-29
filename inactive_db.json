@@ -528,12 +528,11 @@
             "web65.jumptap.com",
             "webstats.seoinc.com",
             "webtracker.educationconnection.com",
-            "webtraffic.ttinet.com"
-        ],
-        "to_test": [
+            "webtraffic.ttinet.com",
             "wrt.mtr-4uk.com",
             "www.863c4c0c521.se",
             "www.a.volvelle.tech",
+            "www.adexcite.com",
             "www.adexm.com",
             "www.adlock.in",
             "www.adserver.cz.cc",
@@ -544,7 +543,9 @@
             "www.blog-hits.com",
             "www.chokoladsrv.net",
             "www.clicktracksolutions.com",
-            "www.clkmon.com",
+            "www.clkmon.com"
+        ],
+        "to_test": [
             "www.corolate.win",
             "www.cpm-plus.com",
             "www.dsply.com",
