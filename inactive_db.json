@@ -486,9 +486,7 @@
             "swx.domob.cn",
             "syndicate.powerofads.com",
             "syndication.loganmueller.info",
-            "tag.email-attitude.com"
-        ],
-        "to_test": [
+            "tag.email-attitude.com",
             "tagx.nytimes.com",
             "terrazzo.bnex.com",
             "tminainc.go2affise.com",
@@ -501,7 +499,9 @@
             "track.livestat.com",
             "track.tracking85.com",
             "tracker.netmechanic.com",
-            "tracking.amazing-revenue.com",
+            "tracking.amazing-revenue.com"
+        ],
+        "to_test": [
             "tracking.directadsmedia.com",
             "tracking.smartclicksystem.com",
             "tracking.wfnetwork.com",
