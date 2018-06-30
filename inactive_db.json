@@ -123,10 +123,12 @@
             "api.omniata.com",
             "api.revcontent.com",
             "api.sharedcount.com",
-            "api.taplytics.com"
-        ],
-        "to_test": [
+            "api.taplytics.com",
+            "app.hubspot.com",
             "app.insightgrit.com",
+            "app.mlcampaignru.com",
+            "app.mlnewsletterru.com",
+            "app.sgizmo.com",
             "au.umeng.com",
             "austria1.adverserve.net",
             "avatar.truongton.net",
@@ -142,7 +144,9 @@
             "b3.toparcadehits.com",
             "b4.toparcadehits.com",
             "banner.blogranking.net",
-            "banner.listinus.de",
+            "banner.listinus.de"
+        ],
+        "to_test": [
             "banners.chicashumedas.com",
             "banners.no1free.com",
             "banners.sextracker.de",
