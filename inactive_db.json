@@ -582,9 +582,7 @@
             "stats.cts-bv.nl",
             "stats.ebay.com",
             "stats.ilius.net",
-            "stats.profileponds.com"
-        ],
-        "to_test": [
+            "stats.profileponds.com",
             "support.publicrand.org",
             "swx.domob.cn",
             "syndicate.powerofads.com",
@@ -593,7 +591,9 @@
             "tagx.nytimes.com",
             "terrazzo.bnex.com",
             "tminainc.go2affise.com",
-            "toolbar.aol.com",
+            "toolbar.aol.com"
+        ],
+        "to_test": [
             "topbinaryaffiliates.ck-cdn.com",
             "trace.jdtracker.com",
             "track.ballerft.site",
