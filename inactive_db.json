@@ -32,9 +32,7 @@
             "ads.filez.nl",
             "ads.friendtest.com",
             "ads.gad-network.com",
-            "ads.gfy.com"
-        ],
-        "to_test": [
+            "ads.gfy.com",
             "ads.isat-tech.com",
             "ads.lawnsite.com",
             "ads.linuxjournal.com",
@@ -58,7 +56,9 @@
             "ads.zchat.no",
             "ads1.mb.datingadzone.com",
             "ads1.mocean.mobi",
-            "ads1.mojiva.com",
+            "ads1.mojiva.com"
+        ],
+        "to_test": [
             "ads2.mocean.mobi",
             "ads2.mojiva.com",
             "ads3.mocean.mobi",
