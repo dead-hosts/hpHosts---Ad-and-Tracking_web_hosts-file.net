@@ -446,13 +446,12 @@
             "ned.itv.com",
             "network.adbullion.com",
             "network.nocreditcard.net",
-            "new.gtsads.com"
-        ],
-        "to_test": [
+            "new.gtsads.com",
             "o.sa.aol.com",
             "o_thus.ero-advertising.com",
             "okstrade.go2affise.com",
             "onedrive-collection.device.mobileengagement.windows.net",
+            "onlinetraffic.info",
             "onyx.bnex.com",
             "open.vmdb.se",
             "openad.tf1.fr",
@@ -533,7 +532,9 @@
             "p.pxl2015x1.com",
             "p96582.adskape.ru",
             "p_en.popunder.net",
-            "pa.advertising.veeseo.com",
+            "pa.advertising.veeseo.com"
+        ],
+        "to_test": [
             "partner.topcities.com",
             "partner.zooplus.de",
             "pebble.bnex.com",
