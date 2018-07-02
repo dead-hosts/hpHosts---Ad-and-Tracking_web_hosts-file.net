@@ -363,9 +363,7 @@
             "network.nocreditcard.net",
             "new.gtsads.com",
             "o.sa.aol.com",
-            "o_thus.ero-advertising.com"
-        ],
-        "to_test": [
+            "o_thus.ero-advertising.com",
             "okstrade.go2affise.com",
             "onedrive-collection.device.mobileengagement.windows.net",
             "onlinetraffic.info",
@@ -456,7 +454,9 @@
             "pix.gfycat.com",
             "pixel.ad.mlnadvertising.com",
             "pixel.intares.net",
-            "pixel.jumptap.com",
+            "pixel.jumptap.com"
+        ],
+        "to_test": [
             "pixel.serviceleverage.com",
             "pixel.staging.tree.com",
             "posibilities_en.popunder.net",
