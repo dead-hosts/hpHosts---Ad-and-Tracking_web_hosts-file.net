@@ -488,9 +488,7 @@
             "softcash.biz",
             "spiegel.rce.veeseo.com",
             "spoods.rce.veeseo.com",
-            "srv6.admedit.me"
-        ],
-        "to_test": [
+            "srv6.admedit.me",
             "ss.xxxnavy.com",
             "st.listrak.com",
             "stat.cybermonitor.com",
@@ -503,7 +501,9 @@
             "stats.ilius.net",
             "stats.profileponds.com",
             "support.publicrand.org",
-            "swx.domob.cn",
+            "swx.domob.cn"
+        ],
+        "to_test": [
             "syndicate.powerofads.com",
             "syndication.loganmueller.info",
             "tag.email-attitude.com",
