@@ -470,9 +470,7 @@
             "ranking-charts.de",
             "rce.veeseo.com",
             "re.adroll.com",
-            "re.directrev.com"
-        ],
-        "to_test": [
+            "re.directrev.com",
             "remarketing.doubleclick.net",
             "reporting.flymonarch.com",
             "req.mojiva.com",
@@ -481,7 +479,9 @@
             "s.vgsgaming-ads.com",
             "s1.trafficmaxx.de",
             "s4.trafficmaxx.de",
-            "scrooge.click10.com",
+            "scrooge.click10.com"
+        ],
+        "to_test": [
             "serv.powerofads.com",
             "siteinfo.libero.it",
             "sk.connect2.ws",
