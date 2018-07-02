@@ -350,9 +350,7 @@
             "mediaxds.go2affise.com",
             "megastore.bnex.com",
             "milesaway.oracle.cpa.clicksure.com",
-            "mobile.traffic-tracker.net"
-        ],
-        "to_test": [
+            "mobile.traffic-tracker.net",
             "mosaic.bnex.com",
             "mp.twitch.tv",
             "msn.rce.veeseo.com",
@@ -365,7 +363,9 @@
             "network.nocreditcard.net",
             "new.gtsads.com",
             "o.sa.aol.com",
-            "o_thus.ero-advertising.com",
+            "o_thus.ero-advertising.com"
+        ],
+        "to_test": [
             "okstrade.go2affise.com",
             "onedrive-collection.device.mobileengagement.windows.net",
             "onlinetraffic.info",
