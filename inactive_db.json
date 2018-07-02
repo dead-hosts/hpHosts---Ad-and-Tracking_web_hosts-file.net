@@ -332,9 +332,7 @@
             "link4u.de",
             "livere.co.kr.cizion.ixcloud.net",
             "log.data.disney.com",
-            "log.dmtry.com"
-        ],
-        "to_test": [
+            "log.dmtry.com",
             "logs.infoaxe.com",
             "lon.telefonica.bench.cedexis.com",
             "lprptestrouter2.website",
@@ -352,7 +350,9 @@
             "mediaxds.go2affise.com",
             "megastore.bnex.com",
             "milesaway.oracle.cpa.clicksure.com",
-            "mobile.traffic-tracker.net",
+            "mobile.traffic-tracker.net"
+        ],
+        "to_test": [
             "mosaic.bnex.com",
             "mp.twitch.tv",
             "msn.rce.veeseo.com",
