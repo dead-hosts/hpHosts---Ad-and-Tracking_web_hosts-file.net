@@ -175,9 +175,7 @@
             "content.liveuniverse.com",
             "content.zemanta.com",
             "core.naturalmotion.com",
-            "coretalk.co"
-        ],
-        "to_test": [
+            "coretalk.co",
             "counted.de",
             "cp.intl.match.com",
             "cpm-plus.com",
@@ -187,7 +185,9 @@
             "creative.ad135m.com",
             "creative.whi.co.nz",
             "cu.genesismedia.com",
-            "customer.bnex.com",
+            "customer.bnex.com"
+        ],
+        "to_test": [
             "d.appsdt.com",
             "d13czkep7ax7nj.cloudfront.net",
             "d17f2fxw547952.cloudfront.net",
