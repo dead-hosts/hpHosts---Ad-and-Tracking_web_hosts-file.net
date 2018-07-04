@@ -322,14 +322,11 @@
             "jade.bnex.com",
             "jmm.livestat.com",
             "js.cybermonitor.com",
-            "js.dmtry.com"
-        ],
-        "to_test": [
+            "js.dmtry.com",
             "kka.agitos.de",
             "kka.idg.de",
             "kunal3291.ibprofits.cpa.clicksure.com",
             "l.5min.com",
-            "la-chi.outbrain.com",
             "link.huffingtonpost.com",
             "link4u.de",
             "livere.co.kr.cizion.ixcloud.net",
@@ -339,7 +336,9 @@
             "lon.telefonica.bench.cedexis.com",
             "lprptestrouter2.website",
             "m.adtc.daum.net",
-            "m.trk44.mobi",
+            "m.trk44.mobi"
+        ],
+        "to_test": [
             "madmax53.stellar.cpa.clicksure.com",
             "magicads.nl",
             "mail.adsender.us",
