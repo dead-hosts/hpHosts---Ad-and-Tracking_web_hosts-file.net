@@ -369,9 +369,7 @@
             "open.vmdb.se",
             "openad.tf1.fr",
             "openx.city-nav.com",
-            "openx.kasjauns.lv"
-        ],
-        "to_test": [
+            "openx.kasjauns.lv",
             "orders.webpower.com",
             "orion.bnex.com",
             "ox-d.aa.com",
@@ -398,7 +396,6 @@
             "ox-d.ezoic.servedbyopenx.com",
             "ox-d.forbesbidder.servedbyopenx.com",
             "ox-d.futurenet.servedbyopenx.com",
-            "ox-d.fwmedia.com",
             "ox-d.gatewaymedia.servedbyopenx.com",
             "ox-d.hatena.servedbyopenx.com",
             "ox-d.hearstmagazines.servedbyopenx.com",
@@ -460,7 +457,9 @@
             "posibilities_en.popunder.net",
             "pptrk.com",
             "preply.go2affise.com",
-            "preview.bnex.com",
+            "preview.bnex.com"
+        ],
+        "to_test": [
             "prunemedia.go2affise.com",
             "pub3.media-clic.com",
             "qq.m.cn.miaozhen.com",
