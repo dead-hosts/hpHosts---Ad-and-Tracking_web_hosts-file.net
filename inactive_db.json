@@ -109,9 +109,7 @@
             "b.ifmnwi.club",
             "b.netscape.com",
             "b.photobucket.com",
-            "b.the-nextlevel.com"
-        ],
-        "to_test": [
+            "b.the-nextlevel.com",
             "b3.toparcadehits.com",
             "b4.toparcadehits.com",
             "banner.blogranking.net",
@@ -123,7 +121,9 @@
             "banners.unibet.co.uk",
             "banners.unibet.de",
             "banners.unibet.dk",
-            "banners.unibet.it",
+            "banners.unibet.it"
+        ],
+        "to_test": [
             "beacon.richrelevance.com",
             "betaffs.com",
             "bi-three.wooga.com",
