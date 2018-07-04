@@ -518,9 +518,7 @@
             "tracking.amazing-revenue.com",
             "tracking.directadsmedia.com",
             "tracking.smartclicksystem.com",
-            "tracking.wfnetwork.com"
-        ],
-        "to_test": [
+            "tracking.wfnetwork.com",
             "tracking999.com",
             "trackpromotion.net",
             "triolit.go2affise.com",
@@ -531,7 +529,9 @@
             "upstream.where.com",
             "urlcheck.hulu.com",
             "us-east-1.profile-api.ads.linkedin.com",
-            "us0.adlibr.com",
+            "us0.adlibr.com"
+        ],
+        "to_test": [
             "v.wqsph.net",
             "v2.popupsky.ir",
             "vipadshares.com",
