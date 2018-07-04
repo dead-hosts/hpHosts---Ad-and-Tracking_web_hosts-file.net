@@ -87,9 +87,7 @@
             "alea.adam.daum.net",
             "alldcs.sphere.com",
             "alltereg0.ru",
-            "alpha.bnex.com"
-        ],
-        "to_test": [
+            "alpha.bnex.com",
             "analytics-v2.anvato.com",
             "analytics.traidnt.net",
             "anet.apx.appier.net",
@@ -111,7 +109,9 @@
             "b.ifmnwi.club",
             "b.netscape.com",
             "b.photobucket.com",
-            "b.the-nextlevel.com",
+            "b.the-nextlevel.com"
+        ],
+        "to_test": [
             "b3.toparcadehits.com",
             "b4.toparcadehits.com",
             "banner.blogranking.net",
