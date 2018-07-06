@@ -326,9 +326,7 @@
             "jade.bnex.com",
             "jmm.livestat.com",
             "js.cybermonitor.com",
-            "js.dmtry.com"
-        ],
-        "to_test": [
+            "js.dmtry.com",
             "kka.agitos.de",
             "kka.idg.de",
             "kunal3291.ibprofits.cpa.clicksure.com",
@@ -345,7 +343,9 @@
             "m.trk44.mobi",
             "madmax53.stellar.cpa.clicksure.com",
             "magicads.nl",
-            "mail.adsender.us",
+            "mail.adsender.us"
+        ],
+        "to_test": [
             "malachite.bnex.com",
             "marble.bnex.com",
             "market.trafficpimps.com",
