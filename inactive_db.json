@@ -303,10 +303,9 @@
             "im.b2a2c700.a80886f.ads.a4cdn.contentabc.com",
             "im.b2a2c700.e8cace3.ads.a4cdn.contentabc.com",
             "im.b2a2cd00.885d48e.ads.a4cdn.contentabc.com",
-            "im.b2a2cd00.92bde07.ads.a4cdn.contentabc.com"
-        ],
-        "to_test": [
+            "im.b2a2cd00.92bde07.ads.a4cdn.contentabc.com",
             "image.safe-sender.co.uk",
+            "images-geo.outbrain.com",
             "images.vantage-media.net",
             "img.ads.huntmad.com",
             "img.ads.mobilefuse.net",
@@ -327,7 +326,9 @@
             "jade.bnex.com",
             "jmm.livestat.com",
             "js.cybermonitor.com",
-            "js.dmtry.com",
+            "js.dmtry.com"
+        ],
+        "to_test": [
             "kka.agitos.de",
             "kka.idg.de",
             "kunal3291.ibprofits.cpa.clicksure.com",
