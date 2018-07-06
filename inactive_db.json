@@ -26,9 +26,7 @@
             "ads.advance.uk.com",
             "ads.amarillo.com",
             "ads.asia1.com.sg",
-            "ads.deliads.com"
-        ],
-        "to_test": [
+            "ads.deliads.com",
             "ads.e9china.com",
             "ads.filez.nl",
             "ads.friendtest.com",
@@ -48,7 +46,9 @@
             "ads.realitytraffic.com.s3.gvirabi.com",
             "ads.rte.ie",
             "ads.savannahnow.com",
-            "ads.taptapnetworks.com",
+            "ads.taptapnetworks.com"
+        ],
+        "to_test": [
             "ads.topcities.com",
             "ads.traffpartners.com",
             "ads.truongton.net",
