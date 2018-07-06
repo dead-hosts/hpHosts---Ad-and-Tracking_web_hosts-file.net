@@ -287,9 +287,7 @@
             "ggo.directrev.com",
             "ghost.in.the.shell.at.bnex.com",
             "go.kissmetrics.com",
-            "go.mobilix.eu"
-        ],
-        "to_test": [
+            "go.mobilix.eu",
             "go.wastedpushdevelop.info",
             "gomovies.track.clicksure.com",
             "granite.bnex.com",
@@ -305,7 +303,9 @@
             "im.b2a2c700.a80886f.ads.a4cdn.contentabc.com",
             "im.b2a2c700.e8cace3.ads.a4cdn.contentabc.com",
             "im.b2a2cd00.885d48e.ads.a4cdn.contentabc.com",
-            "im.b2a2cd00.92bde07.ads.a4cdn.contentabc.com",
+            "im.b2a2cd00.92bde07.ads.a4cdn.contentabc.com"
+        ],
+        "to_test": [
             "image.safe-sender.co.uk",
             "images.vantage-media.net",
             "img.ads.huntmad.com",
