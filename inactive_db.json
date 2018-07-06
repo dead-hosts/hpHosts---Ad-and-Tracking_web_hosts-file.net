@@ -343,9 +343,7 @@
             "m.trk44.mobi",
             "madmax53.stellar.cpa.clicksure.com",
             "magicads.nl",
-            "mail.adsender.us"
-        ],
-        "to_test": [
+            "mail.adsender.us",
             "malachite.bnex.com",
             "marble.bnex.com",
             "market.trafficpimps.com",
@@ -362,7 +360,9 @@
             "munaluchibridal.munaluchibridema.netdna-cdn.com",
             "my-etracker.com",
             "mytds.pr.vc",
-            "n.targetdtracker.com",
+            "n.targetdtracker.com"
+        ],
+        "to_test": [
             "ned.itv.com",
             "network.adbullion.com",
             "network.nocreditcard.net",
