@@ -376,9 +376,7 @@
             "openx.city-nav.com",
             "openx.kasjauns.lv",
             "orders.webpower.com",
-            "orion.bnex.com"
-        ],
-        "to_test": [
+            "orion.bnex.com",
             "ox-d.aa.com",
             "ox-d.adobe.com",
             "ox-d.ads.alliancehealth.com",
@@ -464,7 +462,9 @@
             "posibilities_en.popunder.net",
             "pptrk.com",
             "preply.go2affise.com",
-            "preview.bnex.com",
+            "preview.bnex.com"
+        ],
+        "to_test": [
             "prunemedia.go2affise.com",
             "pub3.media-clic.com",
             "qq.m.cn.miaozhen.com",
