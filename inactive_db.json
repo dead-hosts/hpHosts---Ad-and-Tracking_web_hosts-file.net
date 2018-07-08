@@ -71,9 +71,7 @@
             "ads9.mocean.mobi",
             "ads_ad_center.s3.amazonaws.com",
             "adserver.coreads.net",
-            "adserver.cz.cc"
-        ],
-        "to_test": [
+            "adserver.cz.cc",
             "adserving.ads.ec",
             "adsmarket.es",
             "adstrack.co",
@@ -83,7 +81,9 @@
             "advancemobile.go2affise.com",
             "advertiser.adknowledge.com",
             "advertiser.ads.ec",
-            "advertraf.go2affise.com",
+            "advertraf.go2affise.com"
+        ],
+        "to_test": [
             "aeropostale.resultspage.com",
             "aff-jp.exshot.com",
             "affiliate.key2link.com",
