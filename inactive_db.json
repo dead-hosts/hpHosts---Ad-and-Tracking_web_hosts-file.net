@@ -281,12 +281,9 @@
             "engine.phptrader.com",
             "enrichment.moportals.com",
             "etonovosti.net",
-            "fp.gad-network.com"
-        ],
-        "to_test": [
+            "fp.gad-network.com",
             "gae.caspion.com",
             "gather.hankyung.com",
-            "geo.api.qualaroo.com",
             "get2buynow.com",
             "gfx3.avn.com",
             "ggo.directrev.com",
@@ -296,7 +293,9 @@
             "go.wastedpushdevelop.info",
             "gomovies.track.clicksure.com",
             "granite.bnex.com",
-            "groupritm.go2affise.com",
+            "groupritm.go2affise.com"
+        ],
+        "to_test": [
             "homeearthlink.net",
             "housead.umeng.com",
             "i.flowgo.com",
