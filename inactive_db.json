@@ -553,9 +553,7 @@
             "web64.jumptap.com",
             "web65.jumptap.com",
             "webstats.seoinc.com",
-            "webtracker.educationconnection.com"
-        ],
-        "to_test": [
+            "webtracker.educationconnection.com",
             "wrt.mtr-4uk.com",
             "wtpn.twenga.co.uk",
             "wtpn.twenga.de",
@@ -570,6 +568,9 @@
             "www.alltereg0.ru",
             "www.appfoxes.com",
             "www.blog-hits.com",
+            "www.blumi.to"
+        ],
+        "to_test": [
             "www.chokoladsrv.net",
             "www.clicktracksolutions.com",
             "www.clkmon.com",
