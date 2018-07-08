@@ -506,9 +506,7 @@
             "stats.cts-bv.nl",
             "stats.ebay.com",
             "stats.ilius.net",
-            "stats.profileponds.com"
-        ],
-        "to_test": [
+            "stats.profileponds.com",
             "support.publicrand.org",
             "swx.domob.cn",
             "syndicate.powerofads.com",
@@ -521,7 +519,9 @@
             "toolbar.aol.com",
             "topbinaryaffiliates.ck-cdn.com",
             "trace.jdtracker.com",
-            "track.ballerft.site",
+            "track.ballerft.site"
+        ],
+        "to_test": [
             "track.cliqrr.com",
             "track.ft.com",
             "track.livestat.com",
