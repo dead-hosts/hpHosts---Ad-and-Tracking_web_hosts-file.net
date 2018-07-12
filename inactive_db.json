@@ -376,9 +376,7 @@
             "mosaic.bnex.com",
             "moviepulp.eu",
             "mp.twitch.tv",
-            "msn.rce.veeseo.com"
-        ],
-        "to_test": [
+            "msn.rce.veeseo.com",
             "munaluchibridal.munaluchibridema.netdna-cdn.com",
             "my-etracker.com",
             "mytds.pr.vc",
@@ -394,7 +392,9 @@
             "onyx.bnex.com",
             "open.vmdb.se",
             "openad.tf1.fr",
-            "openx.city-nav.com",
+            "openx.city-nav.com"
+        ],
+        "to_test": [
             "openx.kasjauns.lv",
             "orders.webpower.com",
             "orion.bnex.com",
