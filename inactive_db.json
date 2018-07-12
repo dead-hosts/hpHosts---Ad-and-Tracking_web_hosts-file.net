@@ -85,9 +85,7 @@
             "ads7.mocean.mobi",
             "ads8.mocean.mobi",
             "ads9.mocean.mobi",
-            "ads_ad_center.s3.amazonaws.com"
-        ],
-        "to_test": [
+            "ads_ad_center.s3.amazonaws.com",
             "adserver.coreads.net",
             "adserver.cz.cc",
             "adserving.ads.ec",
@@ -95,7 +93,9 @@
             "adstrack.co",
             "adti.me",
             "adtracker.inmobi.com",
-            "advancemobile.go2affise.com",
+            "advancemobile.go2affise.com"
+        ],
+        "to_test": [
             "advertiser.adknowledge.com",
             "advertiser.ads.ec",
             "advertraf.go2affise.com",
