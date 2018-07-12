@@ -495,9 +495,7 @@
             "re.directrev.com",
             "remarketing.doubleclick.net",
             "reporting.flymonarch.com",
-            "reporting.wilkinsonplus.com"
-        ],
-        "to_test": [
+            "reporting.wilkinsonplus.com",
             "req.mojiva.com",
             "rotatix.go2affise.com",
             "s.ad121m.com",
@@ -505,7 +503,9 @@
             "s1.trafficmaxx.de",
             "s4.trafficmaxx.de",
             "scrooge.click10.com",
-            "serv.powerofads.com",
+            "serv.powerofads.com"
+        ],
+        "to_test": [
             "silversol.go2affise.com",
             "siteinfo.libero.it",
             "sk.connect2.ws",
