@@ -356,9 +356,7 @@
             "log.dmtry.com",
             "logs.infoaxe.com",
             "lon.telefonica.bench.cedexis.com",
-            "lprptestrouter2.website"
-        ],
-        "to_test": [
+            "lprptestrouter2.website",
             "m.adtc.daum.net",
             "m.trk44.mobi",
             "madmax53.stellar.cpa.clicksure.com",
@@ -376,8 +374,11 @@
             "mobile.traffic-tracker.net",
             "monetisevideo.com",
             "mosaic.bnex.com",
+            "moviepulp.eu",
             "mp.twitch.tv",
-            "msn.rce.veeseo.com",
+            "msn.rce.veeseo.com"
+        ],
+        "to_test": [
             "munaluchibridal.munaluchibridema.netdna-cdn.com",
             "my-etracker.com",
             "mytds.pr.vc",
