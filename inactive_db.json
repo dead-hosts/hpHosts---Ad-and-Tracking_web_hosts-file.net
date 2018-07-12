@@ -392,9 +392,7 @@
             "onyx.bnex.com",
             "open.vmdb.se",
             "openad.tf1.fr",
-            "openx.city-nav.com"
-        ],
-        "to_test": [
+            "openx.city-nav.com",
             "openx.kasjauns.lv",
             "orders.webpower.com",
             "orion.bnex.com",
@@ -480,7 +478,9 @@
             "pixel.intares.net",
             "pixel.jumptap.com",
             "pixel.serviceleverage.com",
-            "pixel.staging.tree.com",
+            "pixel.staging.tree.com"
+        ],
+        "to_test": [
             "posibilities_en.popunder.net",
             "pptrk.com",
             "preply.go2affise.com",
