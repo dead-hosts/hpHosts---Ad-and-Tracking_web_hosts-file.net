@@ -530,9 +530,7 @@
             "support.publicrand.org",
             "swx.domob.cn",
             "syndicate.powerofads.com",
-            "syndication.loganmueller.info"
-        ],
-        "to_test": [
+            "syndication.loganmueller.info",
             "tag.email-attitude.com",
             "tagx.nytimes.com",
             "tarsan.go2affise.com",
@@ -546,7 +544,9 @@
             "track.ft.com",
             "track.livestat.com",
             "track.tracking85.com",
-            "tracker.netmechanic.com",
+            "tracker.netmechanic.com"
+        ],
+        "to_test": [
             "tracking.amazing-revenue.com",
             "tracking.directadsmedia.com",
             "tracking.netbank.de",
