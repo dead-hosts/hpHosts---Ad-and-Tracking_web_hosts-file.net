@@ -41,9 +41,7 @@
             "ads.adrdgt.com",
             "ads.advance.uk.com",
             "ads.amarillo.com",
-            "ads.asia1.com.sg"
-        ],
-        "to_test": [
+            "ads.asia1.com.sg",
             "ads.clickad.com",
             "ads.deliads.com",
             "ads.e9china.com",
@@ -63,7 +61,9 @@
             "ads.poptarts.me",
             "ads.realitytraffic.com.s2.gvirabi.com",
             "ads.realitytraffic.com.s3.gvirabi.com",
-            "ads.rte.ie",
+            "ads.rte.ie"
+        ],
+        "to_test": [
             "ads.savannahnow.com",
             "ads.taptapnetworks.com",
             "ads.topcities.com",
