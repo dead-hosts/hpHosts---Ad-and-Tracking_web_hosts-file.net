@@ -574,9 +574,7 @@
             "web64.jumptap.com",
             "web65.jumptap.com",
             "webstats.seoinc.com",
-            "webtracker.educationconnection.com"
-        ],
-        "to_test": [
+            "webtracker.educationconnection.com",
             "wrt.mtr-4uk.com",
             "wtpn.twenga.co.uk",
             "wtpn.twenga.de",
@@ -584,7 +582,6 @@
             "www.a.volvelle.tech",
             "www.adexcite.com",
             "www.adexm.com",
-            "www.adopshost1.com",
             "www.adroz.com",
             "www.adserver.cz.cc",
             "www.adti.me",
@@ -593,7 +590,9 @@
             "www.appfoxes.com",
             "www.blog-hits.com",
             "www.blumi.to",
-            "www.chokoladsrv.net",
+            "www.chokoladsrv.net"
+        ],
+        "to_test": [
             "www.clicktracksolutions.com",
             "www.clkmon.com",
             "www.corolate.win",
