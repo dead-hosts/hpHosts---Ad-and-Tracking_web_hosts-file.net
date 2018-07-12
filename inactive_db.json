@@ -342,16 +342,13 @@
             "intarsia.bnex.com",
             "intranet.bnex.com",
             "jade.bnex.com",
-            "jmm.livestat.com"
-        ],
-        "to_test": [
+            "jmm.livestat.com",
             "js.cybermonitor.com",
             "js.dmtry.com",
             "kka.agitos.de",
             "kka.idg.de",
             "kunal3291.ibprofits.cpa.clicksure.com",
             "l.5min.com",
-            "la-chi.outbrain.com",
             "link.huffingtonpost.com",
             "link4u.de",
             "livere.co.kr.cizion.ixcloud.net",
@@ -359,7 +356,9 @@
             "log.dmtry.com",
             "logs.infoaxe.com",
             "lon.telefonica.bench.cedexis.com",
-            "lprptestrouter2.website",
+            "lprptestrouter2.website"
+        ],
+        "to_test": [
             "m.adtc.daum.net",
             "m.trk44.mobi",
             "madmax53.stellar.cpa.clicksure.com",
