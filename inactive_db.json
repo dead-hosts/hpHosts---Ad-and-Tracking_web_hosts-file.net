@@ -586,15 +586,17 @@
             "prunemedia.go2affise.com",
             "pub3.media-clic.com",
             "qq.m.cn.miaozhen.com",
-            "quartz.bnex.com"
-        ],
-        "to_test": [
+            "quartz.bnex.com",
             "r.af-share.jp",
+            "r.mobpartner.mobi",
             "rainbow-de.mythings.com",
+            "rainbow.mythings.com",
             "ramongroup.go2affise.com",
             "ranking-charts.de",
             "rce.veeseo.com",
+            "re.adroll.com",
             "re.directrev.com",
+            "redirect.mobpartner.mobi",
             "remarketing.doubleclick.net",
             "reporting.flymonarch.com",
             "reporting.wilkinsonplus.com",
@@ -603,7 +605,9 @@
             "s.ad121m.com",
             "s.vgsgaming-ads.com",
             "s1.trafficmaxx.de",
-            "s4.trafficmaxx.de",
+            "s4.trafficmaxx.de"
+        ],
+        "to_test": [
             "scrooge.click10.com",
             "serv.powerofads.com",
             "siteinfo.libero.it",
