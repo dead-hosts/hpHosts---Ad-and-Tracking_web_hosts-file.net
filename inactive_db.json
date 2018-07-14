@@ -430,10 +430,10 @@
             "img.ads4.mojiva.com",
             "img.ads5.mojiva.com",
             "img.mobpartner.mobi",
-            "intarsia.bnex.com"
-        ],
-        "to_test": [
+            "intarsia.bnex.com",
             "intranet.bnex.com",
+            "iphone.mobpartner.mobi",
+            "itunes.mobpartner.mobi",
             "jade.bnex.com",
             "jmm.livestat.com",
             "js.cybermonitor.com",
@@ -442,9 +442,12 @@
             "kka.idg.de",
             "kunal3291.ibprofits.cpa.clicksure.com",
             "l.5min.com",
+            "la-chi.outbrain.com",
             "link.huffingtonpost.com",
             "link4u.de",
-            "livere.co.kr.cizion.ixcloud.net",
+            "livere.co.kr.cizion.ixcloud.net"
+        ],
+        "to_test": [
             "log.data.disney.com",
             "log.dmtry.com",
             "logs.infoaxe.com",
