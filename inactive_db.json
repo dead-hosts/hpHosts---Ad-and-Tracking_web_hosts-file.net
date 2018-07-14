@@ -253,12 +253,11 @@
             "bos-tapreq17.jumptap.com",
             "bos-tapreq18.jumptap.com",
             "bos-tapreq19.jumptap.com",
-            "bos-tapreq20.jumptap.com"
-        ],
-        "to_test": [
+            "bos-tapreq20.jumptap.com",
             "c.ads.com",
             "c.cldlr.com",
             "c.microsoft.com",
+            "c.mobpartner.mobi",
             "c124830.conv.btrll.com",
             "ca.livestat.com",
             "cache.btrll.com",
@@ -267,7 +266,9 @@
             "cdn.directrev.com",
             "cdn.escalatenetwork.com",
             "cdn.innity.com",
-            "cdn2.adbrau.com",
+            "cdn2.adbrau.com"
+        ],
+        "to_test": [
             "chathu.apkmania.co",
             "click.findthewebsiteyouneed.com",
             "click.readme.ru",
