@@ -116,9 +116,7 @@
             "ad.where.com",
             "ad01.adonspot.com",
             "adb.nikkei.co.jp",
-            "adelogs.wip4.adobe.com"
-        ],
-        "to_test": [
+            "adelogs.wip4.adobe.com",
             "adimage.asia1.com.sg",
             "adman_test.go2cloud.org",
             "ads.adrdgt.com",
@@ -129,7 +127,9 @@
             "ads.deliads.com",
             "ads.e9china.com",
             "ads.filez.nl",
-            "ads.friendtest.com",
+            "ads.friendtest.com"
+        ],
+        "to_test": [
             "ads.gad-network.com",
             "ads.gfy.com",
             "ads.lawnsite.com",
