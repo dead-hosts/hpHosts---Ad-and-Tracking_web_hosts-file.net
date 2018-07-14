@@ -198,9 +198,7 @@
             "api.mobpartner.mobi",
             "api.omniata.com",
             "api.revcontent.com",
-            "app.insightgrit.com"
-        ],
-        "to_test": [
+            "app.insightgrit.com",
             "au.umeng.com",
             "audience.powerlinks.com",
             "austria1.adverserve.net",
@@ -215,7 +213,9 @@
             "b.photobucket.com",
             "b.the-nextlevel.com",
             "b3.toparcadehits.com",
-            "b4.toparcadehits.com",
+            "b4.toparcadehits.com"
+        ],
+        "to_test": [
             "banner.blogranking.net",
             "banner.indiocasino.com",
             "banner.listinus.de",
