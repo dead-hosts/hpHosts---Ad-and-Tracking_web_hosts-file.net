@@ -672,9 +672,7 @@
             "vra.outbrain.com",
             "vrp.outbrain.com",
             "vrt-chidc2-only.outbrain.com",
-            "vrt.outbrain.com"
-        ],
-        "to_test": [
+            "vrt.outbrain.com",
             "web63.jumptap.com",
             "web64.jumptap.com",
             "web65.jumptap.com",
@@ -687,7 +685,9 @@
             "www.a.volvelle.tech",
             "www.adexcite.com",
             "www.adexm.com",
-            "www.adroz.com",
+            "www.adroz.com"
+        ],
+        "to_test": [
             "www.adserver.cz.cc",
             "www.adti.me",
             "www.agnstaging.com",
