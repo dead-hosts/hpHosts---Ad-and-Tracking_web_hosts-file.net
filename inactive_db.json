@@ -213,9 +213,7 @@
             "b.photobucket.com",
             "b.the-nextlevel.com",
             "b3.toparcadehits.com",
-            "b4.toparcadehits.com"
-        ],
-        "to_test": [
+            "b4.toparcadehits.com",
             "banner.blogranking.net",
             "banner.indiocasino.com",
             "banner.listinus.de",
@@ -227,7 +225,9 @@
             "banners.unibet.co.uk",
             "banners.unibet.de",
             "banners.unibet.dk",
-            "banners.unibet.it",
+            "banners.unibet.it"
+        ],
+        "to_test": [
             "bannersolutions.de",
             "beacon.richrelevance.com",
             "betaffs.com",
