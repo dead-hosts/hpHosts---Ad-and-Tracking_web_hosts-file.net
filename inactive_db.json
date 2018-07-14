@@ -569,9 +569,7 @@
             "pa.advertising.veeseo.com",
             "partner.topcities.com",
             "partner.zooplus.de",
-            "partners.sportingbet.com.au"
-        ],
-        "to_test": [
+            "partners.sportingbet.com.au",
             "pebble.bnex.com",
             "pix.gfycat.com",
             "pixel.ad.mlnadvertising.com",
@@ -579,6 +577,8 @@
             "pixel.jumptap.com",
             "pixel.serviceleverage.com",
             "pixel.staging.tree.com",
+            "pop.mobpartner.mobi",
+            "popup.smusic.ir",
             "posibilities_en.popunder.net",
             "pptrk.com",
             "preply.go2affise.com",
@@ -586,7 +586,9 @@
             "prunemedia.go2affise.com",
             "pub3.media-clic.com",
             "qq.m.cn.miaozhen.com",
-            "quartz.bnex.com",
+            "quartz.bnex.com"
+        ],
+        "to_test": [
             "r.af-share.jp",
             "rainbow-de.mythings.com",
             "ramongroup.go2affise.com",
