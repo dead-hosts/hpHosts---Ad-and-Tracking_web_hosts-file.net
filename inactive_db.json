@@ -75,9 +75,7 @@
             "ads9.mocean.mobi",
             "ads_ad_center.s3.amazonaws.com",
             "adserver.coreads.net",
-            "adserver.cz.cc"
-        ],
-        "to_test": [
+            "adserver.cz.cc",
             "adserving.ads.ec",
             "adsmarket.es",
             "adstrack.co",
@@ -89,7 +87,9 @@
             "advertraf.go2affise.com",
             "aeropostale.resultspage.com",
             "aff-jp.exshot.com",
-            "affiliate.key2link.com",
+            "affiliate.key2link.com"
+        ],
+        "to_test": [
             "alea.adam.ad.daum.net",
             "alea.adam.daum.net",
             "alldcs-distinct.outbrain.com",
