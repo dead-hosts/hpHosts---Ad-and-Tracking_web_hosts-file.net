@@ -293,9 +293,7 @@
             "engine.phptrader.com",
             "enrichment.moportals.com",
             "error.mobpartner.mobi",
-            "etonovosti.net"
-        ],
-        "to_test": [
+            "etonovosti.net",
             "fp.gad-network.com",
             "gae.caspion.com",
             "gather.hankyung.com",
@@ -307,7 +305,9 @@
             "go.mobpartner.mobi",
             "go.wastedpushdevelop.info",
             "gomovies.track.clicksure.com",
-            "granite.bnex.com",
+            "granite.bnex.com"
+        ],
+        "to_test": [
             "groupritm.go2affise.com",
             "homeearthlink.net",
             "housead.umeng.com",
