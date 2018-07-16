@@ -189,9 +189,8 @@
             "content.zemanta.com",
             "core.naturalmotion.com",
             "coretalk.co",
-            "counted.de"
-        ],
-        "to_test": [
+            "counted.de",
+            "counter.zeit.de",
             "cp.intl.match.com",
             "cpm-plus.com",
             "cpm.bazoto.com",
@@ -258,7 +257,9 @@
             "d8qy7md4cj3gz.cloudfront.net",
             "data.appflood.com",
             "data.ppn-ad-cdn.populis.com",
-            "db.bnex.com",
+            "db.bnex.com"
+        ],
+        "to_test": [
             "ddwht76d9jvfl.cloudfront.net",
             "delivery.optimatic.com",
             "deloo.de",
