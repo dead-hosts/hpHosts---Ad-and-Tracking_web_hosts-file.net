@@ -168,9 +168,7 @@
             "c124830.conv.btrll.com",
             "ca.livestat.com",
             "cache.btrll.com",
-            "can.you.shut.the.fuck.up.at.bnex.com"
-        ],
-        "to_test": [
+            "can.you.shut.the.fuck.up.at.bnex.com",
             "cdn.adbrau.com",
             "cdn.directrev.com",
             "cdn.escalatenetwork.com",
@@ -183,7 +181,9 @@
             "click.safe-sender.co.uk",
             "click.solocpm.com",
             "clicktrade.net",
-            "clk.directrev.com",
+            "clk.directrev.com"
+        ],
+        "to_test": [
             "collector-test.staging.mb-internal.com",
             "companydeep.go2affise.com",
             "connect.appflood.com",
