@@ -75,9 +75,7 @@
             "my-etracker.com",
             "mytds.pr.vc",
             "n.targetdtracker.com",
-            "ned.itv.com"
-        ],
-        "to_test": [
+            "ned.itv.com",
             "network.adbullion.com",
             "network.nocreditcard.net",
             "o.sa.aol.com",
@@ -90,6 +88,7 @@
             "openad.tf1.fr",
             "openx.city-nav.com",
             "openx.kasjauns.lv",
+            "openx.pw",
             "orders.webpower.com",
             "orion.bnex.com",
             "ox-d.aa.com",
@@ -160,7 +159,9 @@
             "ox-d.wuv.servedbyopenx.com",
             "ox-d.yp.com",
             "ox-d.zergnet.servedbyopenx.com",
-            "ox.mediabistro.com",
+            "ox.mediabistro.com"
+        ],
+        "to_test": [
             "p.chartboost.com",
             "p.pxl2015x1.com",
             "p96582.adskape.ru",
