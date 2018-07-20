@@ -291,9 +291,7 @@
             "ero-advertising.eu",
             "eroadvertising.eu",
             "etonovosti.net",
-            "fcmads.go2affise.com"
-        ],
-        "to_test": [
+            "fcmads.go2affise.com",
             "fp.gad-network.com",
             "gae.caspion.com",
             "gather.hankyung.com",
@@ -302,9 +300,10 @@
             "ggo.directrev.com",
             "ghost.in.the.shell.at.bnex.com",
             "go.kissmetrics.com",
-            "go.mobpartner.mobi",
             "go.wastedpushdevelop.info",
-            "gomovies.track.clicksure.com",
+            "gomovies.track.clicksure.com"
+        ],
+        "to_test": [
             "granite.bnex.com",
             "groupritm.go2affise.com",
             "homeearthlink.net",
