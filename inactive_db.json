@@ -526,9 +526,7 @@
             "stat.cybermonitor.com",
             "stat.ringier.cz",
             "stat2.cybermonitor.com",
-            "stat3.cybermonitor.com"
-        ],
-        "to_test": [
+            "stat3.cybermonitor.com",
             "static.traffe.eu",
             "statistics.infowap.info",
             "stats.cts-bv.nl",
@@ -541,7 +539,9 @@
             "syndication.loganmueller.info",
             "tag.email-attitude.com",
             "tagx.nytimes.com",
-            "tarsan.go2affise.com",
+            "tarsan.go2affise.com"
+        ],
+        "to_test": [
             "terrazzo.bnex.com",
             "tminainc.go2affise.com",
             "toolbar.aol.com",
