@@ -623,9 +623,7 @@
             "www.magicads.nl",
             "www.mediasheva.com",
             "www.milesaway.oracle.cpa.clicksure.com",
-            "www.ml8m.com"
-        ],
-        "to_test": [
+            "www.ml8m.com",
             "www.mojiva.com",
             "www.monetisevideo.com",
             "www.moviepulp.eu",
@@ -650,7 +648,9 @@
             "www.traffe.eu",
             "www.truongton.net",
             "www.vipadshares.com",
-            "www.visitorprofiler.com",
+            "www.visitorprofiler.com"
+        ],
+        "to_test": [
             "www.vviii.ru",
             "www.web-controlling.com",
             "www.web-counter.5u.com",
