@@ -380,9 +380,7 @@
             "my-etracker.com",
             "mytds.pr.vc",
             "n.targetdtracker.com",
-            "ned.itv.com"
-        ],
-        "to_test": [
+            "ned.itv.com",
             "network.adbullion.com",
             "network.nocreditcard.net",
             "o.sa.aol.com",
@@ -430,7 +428,9 @@
             "ox-d.imgur.servedbyopenx.com",
             "ox-d.internetbrands.servedbyopenx.com",
             "ox-d.interweave.com",
-            "ox-d.journatic.com",
+            "ox-d.journatic.com"
+        ],
+        "to_test": [
             "ox-d.ksl.servedbyopenx.com",
             "ox-d.kwick.servedbyopenx.com",
             "ox-d.leessp.servedbyopenx.com",
