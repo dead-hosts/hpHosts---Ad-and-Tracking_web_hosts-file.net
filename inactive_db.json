@@ -49,9 +49,7 @@
             "ads.poptarts.me",
             "ads.realitytraffic.com.s2.gvirabi.com",
             "ads.realitytraffic.com.s3.gvirabi.com",
-            "ads.rte.ie"
-        ],
-        "to_test": [
+            "ads.rte.ie",
             "ads.savannahnow.com",
             "ads.taptapnetworks.com",
             "ads.topcities.com",
@@ -75,7 +73,9 @@
             "ads7.mocean.mobi",
             "ads8.mocean.mobi",
             "ads9.mocean.mobi",
-            "ads_ad_center.s3.amazonaws.com",
+            "ads_ad_center.s3.amazonaws.com"
+        ],
+        "to_test": [
             "adserver.coreads.net",
             "adserver.cz.cc",
             "adserving.ads.ec",
