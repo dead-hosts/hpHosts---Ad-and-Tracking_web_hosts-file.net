@@ -185,9 +185,7 @@
             "content.zemanta.com",
             "core.naturalmotion.com",
             "coreads.net",
-            "coretalk.co"
-        ],
-        "to_test": [
+            "coretalk.co",
             "counted.de",
             "counter.zeit.de",
             "cp.intl.match.com",
@@ -198,10 +196,8 @@
             "creative.ad135m.com",
             "creative.whi.co.nz",
             "cu.genesismedia.com",
-            "custom.mobpartner.mobi",
             "customer.bnex.com",
             "d.appsdt.com",
-            "d.mobpartner.mobi",
             "d13czkep7ax7nj.cloudfront.net",
             "d17f2fxw547952.cloudfront.net",
             "d19972r8wdpby8.cloudfront.net",
@@ -255,7 +251,9 @@
             "d6bdy3eto8fyu.cloudfront.net",
             "d8qy7md4cj3gz.cloudfront.net",
             "data.appflood.com",
-            "data.ppn-ad-cdn.populis.com",
+            "data.ppn-ad-cdn.populis.com"
+        ],
+        "to_test": [
             "db.bnex.com",
             "ddwht76d9jvfl.cloudfront.net",
             "delivery.optimatic.com",
