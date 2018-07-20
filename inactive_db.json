@@ -428,9 +428,7 @@
             "ox-d.imgur.servedbyopenx.com",
             "ox-d.internetbrands.servedbyopenx.com",
             "ox-d.interweave.com",
-            "ox-d.journatic.com"
-        ],
-        "to_test": [
+            "ox-d.journatic.com",
             "ox-d.ksl.servedbyopenx.com",
             "ox-d.kwick.servedbyopenx.com",
             "ox-d.leessp.servedbyopenx.com",
@@ -487,7 +485,9 @@
             "pptrk.com",
             "preply.go2affise.com",
             "preview.bnex.com",
-            "prunemedia.go2affise.com",
+            "prunemedia.go2affise.com"
+        ],
+        "to_test": [
             "pub3.media-clic.com",
             "qq.m.cn.miaozhen.com",
             "quartz.bnex.com",
