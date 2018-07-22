@@ -186,9 +186,7 @@
             "coreads.net",
             "coretalk.co",
             "counted.de",
-            "counter.zeit.de"
-        ],
-        "to_test": [
+            "counter.zeit.de",
             "cp.intl.match.com",
             "cpm-plus.com",
             "cpm.bazoto.com",
@@ -255,7 +253,9 @@
             "data.ppn-ad-cdn.populis.com",
             "db.bnex.com",
             "ddwht76d9jvfl.cloudfront.net",
-            "delivery.optimatic.com",
+            "delivery.optimatic.com"
+        ],
+        "to_test": [
             "demo.advertising.com",
             "dev.bnex.com",
             "digdug.divxnetworks.com",
