@@ -556,9 +556,7 @@
             "tracking.smartclicksystem.com",
             "tracking.wfnetwork.com",
             "tracking999.com",
-            "trackpromotion.net"
-        ],
-        "to_test": [
+            "trackpromotion.net",
             "triolit.go2affise.com",
             "trp.numergy.bench.cedexis.com",
             "u.optorb.com",
@@ -568,9 +566,10 @@
             "urlcheck.hulu.com",
             "us-east-1.profile-api.ads.linkedin.com",
             "us0.adlibr.com",
-            "uslbtest.cedexis.com",
             "v.wqsph.net",
-            "v2.popupsky.ir",
+            "v2.popupsky.ir"
+        ],
+        "to_test": [
             "vipadshares.com",
             "voluum.redirecting.site",
             "vpos.bnex.com",
