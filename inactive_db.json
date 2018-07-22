@@ -377,9 +377,7 @@
             "n.targetdtracker.com",
             "ned.itv.com",
             "network.adbullion.com",
-            "network.nocreditcard.net"
-        ],
-        "to_test": [
+            "network.nocreditcard.net",
             "o.sa.aol.com",
             "o_thus.ero-advertising.com",
             "okstrade.go2affise.com",
@@ -463,7 +461,9 @@
             "ox-d.zergnet.servedbyopenx.com",
             "ox.mediabistro.com",
             "p.chartboost.com",
-            "p.pxl2015x1.com",
+            "p.pxl2015x1.com"
+        ],
+        "to_test": [
             "p96582.adskape.ru",
             "p_en.popunder.net",
             "pa.advertising.veeseo.com",
