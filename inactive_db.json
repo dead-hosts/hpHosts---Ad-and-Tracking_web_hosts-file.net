@@ -290,9 +290,7 @@
             "eroadvertising.eu",
             "etonovosti.net",
             "fcmads.go2affise.com",
-            "fp.gad-network.com"
-        ],
-        "to_test": [
+            "fp.gad-network.com",
             "gae.caspion.com",
             "gather.hankyung.com",
             "get2buynow.com",
@@ -303,7 +301,9 @@
             "go.wastedpushdevelop.info",
             "gomovies.track.clicksure.com",
             "granite.bnex.com",
-            "groupritm.go2affise.com",
+            "groupritm.go2affise.com"
+        ],
+        "to_test": [
             "homeearthlink.net",
             "housead.umeng.com",
             "hyperion.adtech.fr",
