@@ -253,9 +253,7 @@
             "data.ppn-ad-cdn.populis.com",
             "db.bnex.com",
             "ddwht76d9jvfl.cloudfront.net",
-            "delivery.optimatic.com"
-        ],
-        "to_test": [
+            "delivery.optimatic.com",
             "demo.advertising.com",
             "dev.bnex.com",
             "digdug.divxnetworks.com",
@@ -279,8 +277,9 @@
             "dyl3p6so5yozo.cloudfront.net",
             "e-ltvp.inmobi.com",
             "e.ai.inmobi.com",
-            "e.digitalnectar.co.uk",
-            "ea.rueducommerce.fr",
+            "ea.rueducommerce.fr"
+        ],
+        "to_test": [
             "eezy.plxserve.com",
             "en.mywebzines.com",
             "enetwork.ncbuy.com",
