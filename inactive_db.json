@@ -536,9 +536,7 @@
             "tag.email-attitude.com",
             "tagx.nytimes.com",
             "tarsan.go2affise.com",
-            "terrazzo.bnex.com"
-        ],
-        "to_test": [
+            "terrazzo.bnex.com",
             "tinytracker.onion.com",
             "tminainc.go2affise.com",
             "toolbar.aol.com",
@@ -553,11 +551,14 @@
             "tracker.netmechanic.com",
             "tracking.amazing-revenue.com",
             "tracking.directadsmedia.com",
+            "tracking.icotrack.com",
             "tracking.netbank.de",
             "tracking.smartclicksystem.com",
             "tracking.wfnetwork.com",
             "tracking999.com",
-            "trackpromotion.net",
+            "trackpromotion.net"
+        ],
+        "to_test": [
             "triolit.go2affise.com",
             "trp.numergy.bench.cedexis.com",
             "u.optorb.com",
