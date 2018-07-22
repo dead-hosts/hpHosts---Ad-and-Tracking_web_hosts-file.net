@@ -524,9 +524,7 @@
             "stat2.cybermonitor.com",
             "stat3.cybermonitor.com",
             "static.traffe.eu",
-            "statistics.infowap.info"
-        ],
-        "to_test": [
+            "statistics.infowap.info",
             "stats.cts-bv.nl",
             "stats.ebay.com",
             "stats.ilius.net",
@@ -538,7 +536,9 @@
             "tag.email-attitude.com",
             "tagx.nytimes.com",
             "tarsan.go2affise.com",
-            "terrazzo.bnex.com",
+            "terrazzo.bnex.com"
+        ],
+        "to_test": [
             "tinytracker.onion.com",
             "tminainc.go2affise.com",
             "toolbar.aol.com",
