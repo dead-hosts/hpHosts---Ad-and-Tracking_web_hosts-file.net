@@ -85,12 +85,11 @@
             "advertiser.ads.ec",
             "advertraf.go2affise.com",
             "aeropostale.resultspage.com",
-            "aff-jp.exshot.com"
-        ],
-        "to_test": [
+            "aff-jp.exshot.com",
             "affiliate.key2link.com",
             "alea.adam.ad.daum.net",
             "alea.adam.daum.net",
+            "alldcs.sphere.com",
             "alltereg0.ru",
             "alpha.bnex.com",
             "analytics-v2.anvato.com",
@@ -103,7 +102,9 @@
             "api.fyreball.com",
             "api.omniata.com",
             "api.revcontent.com",
-            "app.insightgrit.com",
+            "app.insightgrit.com"
+        ],
+        "to_test": [
             "au.umeng.com",
             "audience.powerlinks.com",
             "austria1.adverserve.net",
