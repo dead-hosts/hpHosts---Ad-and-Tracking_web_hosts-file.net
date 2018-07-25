@@ -85,9 +85,7 @@
             "advertraf.go2affise.com",
             "aeropostale.resultspage.com",
             "aff-jp.exshot.com",
-            "affiliate.key2link.com"
-        ],
-        "to_test": [
+            "affiliate.key2link.com",
             "alea.adam.ad.daum.net",
             "alea.adam.daum.net",
             "alldcs.sphere.com",
@@ -105,7 +103,9 @@
             "api.revcontent.com",
             "app.insightgrit.com",
             "au.umeng.com",
-            "audience.powerlinks.com",
+            "audience.powerlinks.com"
+        ],
+        "to_test": [
             "austria1.adverserve.net",
             "avatar.truongton.net",
             "aws-ap-southeast-2a.bench.cedexis.com",
