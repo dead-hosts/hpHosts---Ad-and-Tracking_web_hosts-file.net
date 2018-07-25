@@ -166,9 +166,7 @@
             "cache.btrll.com",
             "can.you.shut.the.fuck.up.at.bnex.com",
             "cdn.adbrau.com",
-            "cdn.directrev.com"
-        ],
-        "to_test": [
+            "cdn.directrev.com",
             "cdn.escalatenetwork.com",
             "cdn.innity.com",
             "cdn2.adbrau.com",
@@ -180,7 +178,9 @@
             "click.solocpm.com",
             "clicktrade.net",
             "clk.directrev.com",
-            "cms-skin.com",
+            "cms-skin.com"
+        ],
+        "to_test": [
             "collector-test.staging.mb-internal.com",
             "companydeep.go2affise.com",
             "connect.appflood.com",
