@@ -489,9 +489,7 @@
             "prunemedia.go2affise.com",
             "pub3.media-clic.com",
             "px.excitedigitalmedia.com",
-            "qq.m.cn.miaozhen.com"
-        ],
-        "to_test": [
+            "qq.m.cn.miaozhen.com",
             "quartz.bnex.com",
             "r.af-share.jp",
             "rainbow-de.mythings.com",
@@ -499,6 +497,7 @@
             "ramongroup.go2affise.com",
             "ranking-charts.de",
             "rce.veeseo.com",
+            "rd.advertising.com",
             "re.directrev.com",
             "redirector.themobilehub.net",
             "remarketing.doubleclick.net",
@@ -509,7 +508,9 @@
             "s.ad121m.com",
             "s.uadx.com",
             "s.vgsgaming-ads.com",
-            "s1.trafficmaxx.de",
+            "s1.trafficmaxx.de"
+        ],
+        "to_test": [
             "s4.trafficmaxx.de",
             "scripts.cgispy.com",
             "scrooge.click10.com",
