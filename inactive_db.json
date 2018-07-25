@@ -284,9 +284,7 @@
             "ee02gws.advertising.com",
             "ee02hmq.advertising.com",
             "ee12gp4.advertising.com",
-            "eezy.plxserve.com"
-        ],
-        "to_test": [
+            "eezy.plxserve.com",
             "en.mywebzines.com",
             "enetwork.ncbuy.com",
             "engine.a.redditmedia.com",
@@ -296,7 +294,9 @@
             "enrichment.moportals.com",
             "ero-advertising.eu",
             "eroadvertising.eu",
-            "etonovosti.net",
+            "etonovosti.net"
+        ],
+        "to_test": [
             "fcmads.go2affise.com",
             "fp.gad-network.com",
             "gae.caspion.com",
