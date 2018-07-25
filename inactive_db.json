@@ -61,9 +61,7 @@
             "ads1.mocean.mobi",
             "ads1.mojiva.com",
             "ads2.mocean.mobi",
-            "ads2.mojiva.com"
-        ],
-        "to_test": [
+            "ads2.mojiva.com",
             "ads3.mocean.mobi",
             "ads3.mojiva.com",
             "ads4.mocean.mobi",
@@ -74,10 +72,12 @@
             "ads7.mocean.mobi",
             "ads8.mocean.mobi",
             "ads9.mocean.mobi",
-            "ads_ad_center.s3.amazonaws.com",
+            "adserve.advertising.com",
             "adserver.coreads.net",
             "adserver.cz.cc",
-            "adserving.ads.ec",
+            "adserving.ads.ec"
+        ],
+        "to_test": [
             "adstrack.co",
             "adti.me",
             "adtracker.inmobi.com",
