@@ -186,9 +186,7 @@
             "core.naturalmotion.com",
             "coreads.net",
             "counted.de",
-            "counter.zeit.de"
-        ],
-        "to_test": [
+            "counter.zeit.de",
             "cp.intl.match.com",
             "cpm-plus.com",
             "cpm.bazoto.com",
@@ -256,7 +254,9 @@
             "db.bnex.com",
             "ddwht76d9jvfl.cloudfront.net",
             "delivery.optimatic.com",
-            "demo.advertising.com",
+            "demo.advertising.com"
+        ],
+        "to_test": [
             "dev.bnex.com",
             "digdug.divxnetworks.com",
             "disy2s34euyqm.cloudfront.net",
