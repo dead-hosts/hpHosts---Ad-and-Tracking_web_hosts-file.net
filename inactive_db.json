@@ -17,9 +17,7 @@
             "vrp.outbrain.com",
             "vrt-chidc2-only.outbrain.com",
             "vrt.outbrain.com",
-            "vviii.ru"
-        ],
-        "to_test": [
+            "vviii.ru",
             "wap.advertising.com",
             "web63.jumptap.com",
             "web64.jumptap.com",
@@ -30,7 +28,9 @@
             "wtpn.twenga.co.uk",
             "wtpn.twenga.de",
             "www.863c4c0c521.se",
-            "www.a.volvelle.tech",
+            "www.a.volvelle.tech"
+        ],
+        "to_test": [
             "www.adexcite.com",
             "www.adroz.com",
             "www.adserver.cz.cc",
