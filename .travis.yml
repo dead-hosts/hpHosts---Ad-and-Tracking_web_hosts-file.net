@@ -1,6 +1,6 @@
 env:
   global:
-    - secure: LY34A2a2wk4aZnWhR/8ZaVuxrOCcXa0RFGjecHjgPx33CzCNBsKr3fcuERgUGE0gLKRVhj5C16BDGl2ObJ09vH+O3eqd/Svjn0vqfZT1l4XMLINtZzR4hTcnA7JNoedFYn/HvSgC69AGS6gxlAWKTuzQ4Hwp12E+y2e0wfj7/Xk6Trc5lZjqruPQWEspjRQ/BWM1+NwsmGtZ/143mD+IcwclSfAly5R9wGyPsDCaMRL3ZuLhZAKmS399zSe2R8SjR7S2H7Pn9L7MKJBlcLauQYc+SDA48JHcNewDue1tPYnGQDc8jM00bXUQj+vbFl8wp+0i6JyNbxT2Zmueyf4VPavt5M7abxA/lYWaz4IIiLHkt/OnaibdUIHl9xzq0lo9umXRDZcrq3Hgtv525cz5uEkox4evrn/LD6fOLQjsEZT3Q8It+vnmaFnG9HFS0t0zfMoLshJZVw6R8q22Hb/WvQsJdfEs54IwnTjWEto6omGT5DesSZinNg5IK5QCtXGf+kGgqz8EXU5j2z5+/EOntJJudYK0VpDw6wO6/jiULbdaeNWPDUgswrM6EXrZQM+C988hZOPI+h1SBNsLVuwbflRxr7ehX4Ov+Xj7WcpKLYLg5E3bS4N8cin96F9KXqGMUqvd1aR9GW0SaMkUe6vDi8Jf/ofiAzEb8q0WLlbS0lY=
+    - secure: NbtVbR1HN+QhQ9DI17h8X5xjDtUNCEeQGwTdbBLq/fioufyGH+f1tZ69biIkFFvHHoZwPXo0A8pm2Eydj2RsC0OkSrF3nQ8buD28Y0ydXBR7g7wZxFC9V4fm6+VodXCvHN4wQCb0Wbuubg9AbxaQLNrkvUmilVm/moZFmb9V2yEozVahnETgoIB5l6HocfVD0bN6You9UfvB4R9N4Zm1584FWkQ8lFzqdVHpB2lWWAy9wccW6NG72l5SoTHGi2KCyoKinAvBvoKsd2cmp4KmZfvVqU9VV+8F3EVcCa+Mnj+7NMBsXU/6oblu5GFimo+v/BL8/bBBOpDW086sl9fzdlva06c0GGe8U9CceutaKET2wUot3GRUZoZj25VWCTpaX+b0vrgmkHSawNWIDwJnNaP1ZENN6JmDYQQJt6XKqdHPTGEF/1yNo7Lzgx7K2BqqnReeTJ490ypNiFpef+xpNQXXn9/mT1tkRz5CHUEiBpvZqYRZqC95pJ2FGFjb/kvV0zQIVrBQXCCozOZAnKOJTSDgmPjKu1rWTXPMbfaats7pDit7JAGZ4/wTmGv/LUuOdJl3nc65d6UTmNP0FGIpcz6IU9wMwkfxvtDWzUtcLU+Ma9K80hiIm4a5lWYHBh7lqwZE+MdCZcxPy0N3NPOmful7DPuZlVme4eYdtJ4y3sQ=
     - GIT_NAME: Travis CI
     - GIT_EMAIL: dead-hosts@funilrys.com
     - TRAVIS_REPO_SLUG: dead-hosts/hpHosts---Ad-and-Tracking_web_hosts-file.net
@@ -15,14 +15,17 @@ matrix:
   fast_finish: true
 
 cache:
-  - apt
   - pip
 
 sudo: required
 
+addons:
+  apt:
+    packages:
+      - dos2unix
+
 install:
   - pip3 install pyfunceble-dev
-  - sudo apt-get -y install dos2unix
 
 script:
   - python3 ./update_me.py
