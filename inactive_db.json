@@ -572,16 +572,16 @@
             "stats.ilius.net",
             "stats.profileponds.com",
             "stats.remoteserver.pw",
-            "support.publicrand.org"
-        ],
-        "to_test": [
+            "support.publicrand.org",
             "swx.domob.cn",
             "syndication.loganmueller.info",
+            "t.adonly.com",
             "t.ymlp275.net",
             "tag.email-attitude.com",
             "tagx.nytimes.com",
             "tarsan.go2affise.com",
             "terrazzo.bnex.com",
+            "thebugs.ws",
             "tinytracker.onion.com",
             "tminainc.go2affise.com",
             "toolbar.aol.com",
@@ -591,8 +591,9 @@
             "track.ballerft.site",
             "track.cliqrr.com",
             "track.ft.com",
-            "track.livestat.com",
-            "track.netshelter.net",
+            "track.netshelter.net"
+        ],
+        "to_test": [
             "track.tracking85.com",
             "tracker.netmechanic.com",
             "tracking.amazing-revenue.com",
