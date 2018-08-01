@@ -199,9 +199,7 @@
             "click.icetraffic.com",
             "click.readme.ru",
             "click.safe-sender.co.uk",
-            "click.solocpm.com"
-        ],
-        "to_test": [
+            "click.solocpm.com",
             "clicktrade.net",
             "clk.directrev.com",
             "cms-skin.com",
@@ -210,7 +208,9 @@
             "connect.appflood.com",
             "content.zemanta.com",
             "core.naturalmotion.com",
-            "coreads.net",
+            "coreads.net"
+        ],
+        "to_test": [
             "counted.de",
             "counter.zeit.de",
             "cp.intl.match.com",
