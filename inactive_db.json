@@ -546,9 +546,7 @@
             "sc.rvtlife.com",
             "scripts.cgispy.com",
             "scrooge.click10.com",
-            "search.vertoz.com"
-        ],
-        "to_test": [
+            "search.vertoz.com",
             "secure.advertising.com",
             "shoppingpartners2.futurenet.com",
             "siteinfo.libero.it",
@@ -557,7 +555,9 @@
             "sms-mmm.com",
             "softcash.biz",
             "spiegel.rce.veeseo.com",
-            "spoods.rce.veeseo.com",
+            "spoods.rce.veeseo.com"
+        ],
+        "to_test": [
             "srv6.admedit.me",
             "ss.xxxnavy.com",
             "st.listrak.com",
