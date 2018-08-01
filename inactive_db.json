@@ -401,9 +401,7 @@
             "megastore.bnex.com",
             "milesaway.oracle.cpa.clicksure.com",
             "mintake.com",
-            "mobile.traffic-tracker.net"
-        ],
-        "to_test": [
+            "mobile.traffic-tracker.net",
             "monetisevideo.com",
             "mosaic.bnex.com",
             "moviepulp.eu",
@@ -413,11 +411,14 @@
             "my-etracker.com",
             "mytds.pr.vc",
             "n.targetdtracker.com",
+            "navlog.channel4.com",
             "ned.itv.com",
             "netezines.advertising.com",
             "network.adbullion.com",
             "network.nocreditcard.net",
-            "o.sa.aol.com",
+            "o.sa.aol.com"
+        ],
+        "to_test": [
             "okstrade.go2affise.com",
             "onedrive-collection.device.mobileengagement.windows.net",
             "onlinetraffic.info",
