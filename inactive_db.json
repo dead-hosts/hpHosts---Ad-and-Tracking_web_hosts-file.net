@@ -34,9 +34,8 @@
             "adb.nikkei.co.jp",
             "adelogs.wip4.adobe.com",
             "adg.bzgint.com",
-            "adimage.asia1.com.sg"
-        ],
-        "to_test": [
+            "adimage.asia1.com.sg",
+            "adplace.adsame.com",
             "ads.adrdgt.com",
             "ads.advance.uk.com",
             "ads.amarillo.com",
@@ -44,9 +43,12 @@
             "ads.clickad.com",
             "ads.deliads.com",
             "ads.e9china.com",
+            "ads.ewebse.com",
             "ads.filez.nl",
             "ads.friendtest.com",
-            "ads.gad-network.com",
+            "ads.gad-network.com"
+        ],
+        "to_test": [
             "ads.gfy.com",
             "ads.lawnsite.com",
             "ads.linuxjournal.com",
