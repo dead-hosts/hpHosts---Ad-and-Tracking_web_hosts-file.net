@@ -157,9 +157,7 @@
             "bist.ailsg.com",
             "bleua.ecefibwja.xyz",
             "blog.chartboost.com",
-            "bo.jumptap.com"
-        ],
-        "to_test": [
+            "bo.jumptap.com",
             "bos-tapreq01.jumptap.com",
             "bos-tapreq02.jumptap.com",
             "bos-tapreq03.jumptap.com",
@@ -184,7 +182,9 @@
             "c.ads.com",
             "c.cldlr.com",
             "c.microsoft.com",
-            "c124830.conv.btrll.com",
+            "c124830.conv.btrll.com"
+        ],
+        "to_test": [
             "ca.livestat.com",
             "cache.btrll.com",
             "can.you.shut.the.fuck.up.at.bnex.com",
