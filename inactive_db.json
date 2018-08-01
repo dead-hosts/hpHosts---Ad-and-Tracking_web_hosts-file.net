@@ -416,10 +416,9 @@
             "netezines.advertising.com",
             "network.adbullion.com",
             "network.nocreditcard.net",
-            "o.sa.aol.com"
-        ],
-        "to_test": [
+            "o.sa.aol.com",
             "okstrade.go2affise.com",
+            "oms.digitaledienste.web.de",
             "onedrive-collection.device.mobileengagement.windows.net",
             "onlinetraffic.info",
             "onyx.bnex.com",
@@ -508,12 +507,15 @@
             "partner.zooplus.de",
             "partners.sportingbet.com.au",
             "pebble.bnex.com",
+            "pix.btrll.com",
             "pix.gfycat.com",
             "pixel.ad.mlnadvertising.com",
             "pixel.intares.net",
             "pixel.jumptap.com",
             "pixel.serviceleverage.com",
-            "pixel.staging.tree.com",
+            "pixel.staging.tree.com"
+        ],
+        "to_test": [
             "popup.smusic.ir",
             "pptrk.com",
             "preply.go2affise.com",
