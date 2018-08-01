@@ -555,9 +555,7 @@
             "sms-mmm.com",
             "softcash.biz",
             "spiegel.rce.veeseo.com",
-            "spoods.rce.veeseo.com"
-        ],
-        "to_test": [
+            "spoods.rce.veeseo.com",
             "srv6.admedit.me",
             "ss.xxxnavy.com",
             "st.listrak.com",
@@ -573,7 +571,10 @@
             "stats.ebay.com",
             "stats.ilius.net",
             "stats.profileponds.com",
-            "support.publicrand.org",
+            "stats.remoteserver.pw",
+            "support.publicrand.org"
+        ],
+        "to_test": [
             "swx.domob.cn",
             "syndication.loganmueller.info",
             "t.ymlp275.net",
