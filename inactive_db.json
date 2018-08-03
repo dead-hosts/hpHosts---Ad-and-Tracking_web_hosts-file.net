@@ -174,9 +174,7 @@
             "bos-tapreq17.jumptap.com",
             "bos-tapreq18.jumptap.com",
             "bos-tapreq19.jumptap.com",
-            "bos-tapreq20.jumptap.com"
-        ],
-        "to_test": [
+            "bos-tapreq20.jumptap.com",
             "by.advertising.com",
             "c.ads.com",
             "c.cldlr.com",
@@ -187,7 +185,9 @@
             "cdn.adbrau.com",
             "cdn.complexmedianetwork.com",
             "cdn.directrev.com",
-            "cdn.escalatenetwork.com",
+            "cdn.escalatenetwork.com"
+        ],
+        "to_test": [
             "cdn.innity.com",
             "cdn11.00zasdf.pw",
             "cdn11.plmokn.pw",
