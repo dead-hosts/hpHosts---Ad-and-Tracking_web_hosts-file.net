@@ -296,11 +296,10 @@
             "dxq6c0tx3v6mm.cloudfront.net",
             "dxqd86uz345mg.cloudfront.net",
             "dycpc40hvg4ki.cloudfront.net",
-            "dyl3p6so5yozo.cloudfront.net"
-        ],
-        "to_test": [
+            "dyl3p6so5yozo.cloudfront.net",
             "e-ltvp.inmobi.com",
             "e.ai.inmobi.com",
+            "e.digitalnectar.co.uk",
             "e97527f0.se",
             "ea.rueducommerce.fr",
             "ee01gws.advertising.com",
@@ -311,7 +310,9 @@
             "ee12gp4.advertising.com",
             "eezy.plxserve.com",
             "email666.com",
-            "en.mywebzines.com",
+            "en.mywebzines.com"
+        ],
+        "to_test": [
             "enetwork.ncbuy.com",
             "engine.a.redditmedia.com",
             "engine.adverserve.net",
