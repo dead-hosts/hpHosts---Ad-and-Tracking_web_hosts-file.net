@@ -5,9 +5,7 @@
             "web64.jumptap.com",
             "web65.jumptap.com",
             "webstats.seoinc.com",
-            "webtracker.educationconnection.com"
-        ],
-        "to_test": [
+            "webtracker.educationconnection.com",
             "wrt.mtr-4uk.com",
             "ws.00zasdf.pw",
             "ws.plmokn.pw",
@@ -25,7 +23,9 @@
             "www.blumi.to",
             "www.chokoladsrv.net",
             "www.clicktracksolutions.com",
-            "www.clkmon.com",
+            "www.clkmon.com"
+        ],
+        "to_test": [
             "www.corolate.win",
             "www.counting4free.com",
             "www.cpm-plus.com",
