@@ -424,9 +424,7 @@
             "onyx.bnex.com",
             "open.vmdb.se",
             "openad.tf1.fr",
-            "openx.city-nav.com"
-        ],
-        "to_test": [
+            "openx.city-nav.com",
             "openx.kasjauns.lv",
             "openx.pw",
             "opera1-servedby.advertising.com",
@@ -516,7 +514,10 @@
             "pixel.jumptap.com",
             "pixel.serviceleverage.com",
             "pixel.staging.tree.com",
-            "plmokn.pw",
+            "platform.stumbleupon.com",
+            "plmokn.pw"
+        ],
+        "to_test": [
             "popup.smusic.ir",
             "pptrk.com",
             "preply.go2affise.com",
