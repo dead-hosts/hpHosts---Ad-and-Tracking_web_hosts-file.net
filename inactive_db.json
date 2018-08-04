@@ -409,9 +409,7 @@
             "mp.twitch.tv",
             "msn.rce.veeseo.com",
             "munaluchibridal.munaluchibridema.netdna-cdn.com",
-            "my-etracker.com"
-        ],
-        "to_test": [
+            "my-etracker.com",
             "mytds.pr.vc",
             "n.targetdtracker.com",
             "navlog.channel4.com",
@@ -423,11 +421,12 @@
             "okstrade.go2affise.com",
             "oms.digitaledienste.web.de",
             "onedrive-collection.device.mobileengagement.windows.net",
-            "onlinetraffic.info",
             "onyx.bnex.com",
             "open.vmdb.se",
             "openad.tf1.fr",
-            "openx.city-nav.com",
+            "openx.city-nav.com"
+        ],
+        "to_test": [
             "openx.kasjauns.lv",
             "openx.pw",
             "opera1-servedby.advertising.com",
