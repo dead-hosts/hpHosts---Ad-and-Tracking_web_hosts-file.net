@@ -563,9 +563,7 @@
             "sscdn.banners.advidi.com",
             "st.listrak.com",
             "st1.freeonlineusers.com",
-            "sta.ifeng.com"
-        ],
-        "to_test": [
+            "sta.ifeng.com",
             "stat.cybermonitor.com",
             "stat.ringier.cz",
             "stat2.cybermonitor.com",
@@ -581,7 +579,9 @@
             "swx.domob.cn",
             "syndication.loganmueller.info",
             "t.adonly.com",
-            "t.ymlp275.net",
+            "t.ymlp275.net"
+        ],
+        "to_test": [
             "tag.email-attitude.com",
             "tagx.nytimes.com",
             "tarsan.go2affise.com",
