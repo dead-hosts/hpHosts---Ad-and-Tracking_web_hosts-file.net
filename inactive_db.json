@@ -616,9 +616,7 @@
             "us-east-1.profile-api.ads.linkedin.com",
             "us0.adlibr.com",
             "v.wqsph.net",
-            "v2.popupsky.ir"
-        ],
-        "to_test": [
+            "v2.popupsky.ir",
             "vipadshares.com",
             "voluum.redirecting.site",
             "vpos.bnex.com",
@@ -626,7 +624,9 @@
             "vrp.outbrain.com",
             "vrt-chidc2-only.outbrain.com",
             "vrt.outbrain.com",
-            "vviii.ru",
+            "vviii.ru"
+        ],
+        "to_test": [
             "wap.advertising.com",
             "web63.jumptap.com",
             "web64.jumptap.com",
