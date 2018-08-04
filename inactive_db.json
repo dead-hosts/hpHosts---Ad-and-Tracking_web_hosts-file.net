@@ -579,9 +579,7 @@
             "swx.domob.cn",
             "syndication.loganmueller.info",
             "t.adonly.com",
-            "t.ymlp275.net"
-        ],
-        "to_test": [
+            "t.ymlp275.net",
             "tag.email-attitude.com",
             "tagx.nytimes.com",
             "tarsan.go2affise.com",
@@ -599,7 +597,9 @@
             "track.netshelter.net",
             "track.tracking85.com",
             "tracker.netmechanic.com",
-            "tracking.amazing-revenue.com",
+            "tracking.amazing-revenue.com"
+        ],
+        "to_test": [
             "tracking.directadsmedia.com",
             "tracking.icotrack.com",
             "tracking.netbank.de",
