@@ -597,9 +597,7 @@
             "track.netshelter.net",
             "track.tracking85.com",
             "tracker.netmechanic.com",
-            "tracking.amazing-revenue.com"
-        ],
-        "to_test": [
+            "tracking.amazing-revenue.com",
             "tracking.directadsmedia.com",
             "tracking.icotrack.com",
             "tracking.netbank.de",
@@ -612,7 +610,9 @@
             "trp.numergy.bench.cedexis.com",
             "u.optorb.com",
             "u715381.sendgrid.org",
-            "u899519.sendgrid.org",
+            "u899519.sendgrid.org"
+        ],
+        "to_test": [
             "upstream.where.com",
             "urlcheck.hulu.com",
             "us-east-1.profile-api.ads.linkedin.com",
