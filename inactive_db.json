@@ -360,9 +360,8 @@
             "img.ads5.mojiva.com",
             "00zasdf.pw",
             "badge.stumbleupon.com",
-            "content.liveuniverse.com"
-        ],
-        "to_test": [
+            "content.liveuniverse.com",
+            "images-geo.outbrain.com",
             "insights.gravity.com",
             "intarsia.bnex.com",
             "intranet.bnex.com",
@@ -370,7 +369,9 @@
             "jade.bnex.com",
             "jammyads.go2affise.com",
             "js.cybermonitor.com",
-            "js.dmtry.com",
+            "js.dmtry.com"
+        ],
+        "to_test": [
             "kka.agitos.de",
             "kka.idg.de",
             "kunal3291.ibprofits.cpa.clicksure.com",
