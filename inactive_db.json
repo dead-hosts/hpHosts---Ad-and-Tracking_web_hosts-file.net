@@ -145,10 +145,7 @@
             "banners.unibet.dk",
             "banners.unibet.it",
             "bannersolutions.de",
-            "beacon.richrelevance.com"
-        ],
-        "to_test": [
-            "www.magicads.nl",
+            "beacon.richrelevance.com",
             "betaffs.com",
             "bi-three.wooga.com",
             "bidsystem.adknowledge.com",
@@ -175,7 +172,10 @@
             "bos-tapreq17.jumptap.com",
             "bos-tapreq18.jumptap.com",
             "bos-tapreq19.jumptap.com",
-            "bos-tapreq20.jumptap.com",
+            "bos-tapreq20.jumptap.com"
+        ],
+        "to_test": [
+            "www.magicads.nl",
             "by.advertising.com",
             "c.ads.com",
             "c.cldlr.com",
