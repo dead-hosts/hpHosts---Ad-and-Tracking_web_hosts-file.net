@@ -405,10 +405,7 @@
             "mobile.traffic-tracker.net",
             "monetisevideo.com",
             "mosaic.bnex.com",
-            "moviepulp.eu"
-        ],
-        "to_test": [
-            "www.magicads.nl",
+            "moviepulp.eu",
             "mp.twitch.tv",
             "msn.rce.veeseo.com",
             "munaluchibridal.munaluchibridema.netdna-cdn.com",
@@ -420,7 +417,10 @@
             "netezines.advertising.com",
             "network.adbullion.com",
             "network.nocreditcard.net",
-            "o.sa.aol.com",
+            "o.sa.aol.com"
+        ],
+        "to_test": [
+            "www.magicads.nl",
             "okstrade.go2affise.com",
             "oms.digitaledienste.web.de",
             "onedrive-collection.device.mobileengagement.windows.net",
