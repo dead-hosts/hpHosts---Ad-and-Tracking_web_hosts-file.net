@@ -627,10 +627,7 @@
             "wap.advertising.com",
             "web63.jumptap.com",
             "web64.jumptap.com",
-            "web65.jumptap.com"
-        ],
-        "to_test": [
-            "www.magicads.nl",
+            "web65.jumptap.com",
             "webstats.seoinc.com",
             "webtracker.educationconnection.com",
             "wrt.mtr-4uk.com",
@@ -644,7 +641,10 @@
             "www.adexcite.com",
             "www.adroz.com",
             "www.adserver.cz.cc",
-            "www.adti.me",
+            "www.adti.me"
+        ],
+        "to_test": [
+            "www.magicads.nl",
             "www.alltereg0.ru",
             "www.appfoxes.com",
             "www.blumi.to",
