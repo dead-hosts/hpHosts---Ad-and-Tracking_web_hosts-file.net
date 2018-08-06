@@ -548,10 +548,7 @@
             "scripts.cgispy.com",
             "scrooge.click10.com",
             "search.vertoz.com",
-            "secure.advertising.com"
-        ],
-        "to_test": [
-            "www.magicads.nl",
+            "secure.advertising.com",
             "shoppingpartners2.futurenet.com",
             "siteinfo.libero.it",
             "sk.connect2.ws",
@@ -559,7 +556,10 @@
             "sms-mmm.com",
             "softcash.biz",
             "spiegel.rce.veeseo.com",
-            "spoods.rce.veeseo.com",
+            "spoods.rce.veeseo.com"
+        ],
+        "to_test": [
+            "www.magicads.nl",
             "srv6.admedit.me",
             "ss.xxxnavy.com",
             "sscdn.banners.advidi.com",
