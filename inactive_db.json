@@ -573,10 +573,7 @@
             "stats.ebay.com",
             "stats.ilius.net",
             "stats.profileponds.com",
-            "stats.remoteserver.pw"
-        ],
-        "to_test": [
-            "www.magicads.nl",
+            "stats.remoteserver.pw",
             "support.publicrand.org",
             "swx.domob.cn",
             "syndication.loganmueller.info",
@@ -593,7 +590,10 @@
             "topbinaryaffiliates.ck-cdn.com",
             "tr.etrxc.com",
             "trace.jdtracker.com",
-            "track.ballerft.site",
+            "track.ballerft.site"
+        ],
+        "to_test": [
+            "www.magicads.nl",
             "track.cliqrr.com",
             "track.ft.com",
             "track.netshelter.net",
