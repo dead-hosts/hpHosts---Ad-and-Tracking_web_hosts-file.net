@@ -556,10 +556,7 @@
             "sms-mmm.com",
             "softcash.biz",
             "spiegel.rce.veeseo.com",
-            "spoods.rce.veeseo.com"
-        ],
-        "to_test": [
-            "www.magicads.nl",
+            "spoods.rce.veeseo.com",
             "srv6.admedit.me",
             "ss.xxxnavy.com",
             "sscdn.banners.advidi.com",
@@ -576,7 +573,10 @@
             "stats.ebay.com",
             "stats.ilius.net",
             "stats.profileponds.com",
-            "stats.remoteserver.pw",
+            "stats.remoteserver.pw"
+        ],
+        "to_test": [
+            "www.magicads.nl",
             "support.publicrand.org",
             "swx.domob.cn",
             "syndication.loganmueller.info",
