@@ -532,10 +532,7 @@
             "ramongroup.go2affise.com",
             "rce.veeseo.com",
             "rd.advertising.com",
-            "re.directrev.com"
-        ],
-        "to_test": [
-            "www.magicads.nl",
+            "re.directrev.com",
             "redirector.themobilehub.net",
             "remarketing.doubleclick.net",
             "reporting.flymonarch.com",
@@ -551,7 +548,10 @@
             "scripts.cgispy.com",
             "scrooge.click10.com",
             "search.vertoz.com",
-            "secure.advertising.com",
+            "secure.advertising.com"
+        ],
+        "to_test": [
+            "www.magicads.nl",
             "shoppingpartners2.futurenet.com",
             "siteinfo.libero.it",
             "sk.connect2.ws",
