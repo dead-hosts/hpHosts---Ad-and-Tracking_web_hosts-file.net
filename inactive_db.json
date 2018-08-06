@@ -60,10 +60,7 @@
             "ads.poptarts.me",
             "ads.realitytraffic.com.s2.gvirabi.com",
             "ads.realitytraffic.com.s3.gvirabi.com",
-            "ads.rte.ie"
-        ],
-        "to_test": [
-            "www.magicads.nl",
+            "ads.rte.ie",
             "ads.savannahnow.com",
             "ads.taptapnetworks.com",
             "ads.telegraph.co.uk",
@@ -87,7 +84,10 @@
             "ads6.mocean.mobi",
             "ads7.mocean.mobi",
             "ads8.mocean.mobi",
-            "ads9.mocean.mobi",
+            "ads9.mocean.mobi"
+        ],
+        "to_test": [
+            "www.magicads.nl",
             "adserve.advertising.com",
             "adserver.coreads.net",
             "adserver.cz.cc",
