@@ -381,10 +381,7 @@
             "livere.co.kr.cizion.ixcloud.net",
             "log.data.disney.com",
             "log.dmtry.com",
-            "logs.infoaxe.com"
-        ],
-        "to_test": [
-            "www.magicads.nl",
+            "logs.infoaxe.com",
             "lon.telefonica.bench.cedexis.com",
             "lprptestrouter2.website",
             "m.adsymptotic.com",
@@ -408,7 +405,10 @@
             "mobile.traffic-tracker.net",
             "monetisevideo.com",
             "mosaic.bnex.com",
-            "moviepulp.eu",
+            "moviepulp.eu"
+        ],
+        "to_test": [
+            "www.magicads.nl",
             "mp.twitch.tv",
             "msn.rce.veeseo.com",
             "munaluchibridal.munaluchibridema.netdna-cdn.com",
