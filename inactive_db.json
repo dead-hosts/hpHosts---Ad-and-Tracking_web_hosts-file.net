@@ -91,10 +91,7 @@
             "adserving.ads.ec",
             "adti.me",
             "adtracker.inmobi.com",
-            "advancemobile.go2affise.com"
-        ],
-        "to_test": [
-            "www.magicads.nl",
+            "advancemobile.go2affise.com",
             "advertiser.adknowledge.com",
             "advertiser.ads.ec",
             "advertraf.go2affise.com",
@@ -104,7 +101,7 @@
             "affiliate.zap.co.il",
             "alea.adam.ad.daum.net",
             "alea.adam.daum.net",
-            "alldcs-distinct.outbrain.com",
+            "alldcs.sphere.com",
             "alltereg0.ru",
             "alpha.bnex.com",
             "analytics-v2.anvato.com",
@@ -114,7 +111,10 @@
             "anet.c.appier.net",
             "api.bizographics.com",
             "api.flicktweets.com",
-            "api.fyreball.com",
+            "api.fyreball.com"
+        ],
+        "to_test": [
+            "www.magicads.nl",
             "api.omniata.com",
             "api.revcontent.com",
             "app.insightgrit.com",
