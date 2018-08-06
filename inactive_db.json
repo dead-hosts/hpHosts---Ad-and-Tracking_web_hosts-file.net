@@ -417,10 +417,7 @@
             "netezines.advertising.com",
             "network.adbullion.com",
             "network.nocreditcard.net",
-            "o.sa.aol.com"
-        ],
-        "to_test": [
-            "www.magicads.nl",
+            "o.sa.aol.com",
             "okstrade.go2affise.com",
             "oms.digitaledienste.web.de",
             "onedrive-collection.device.mobileengagement.windows.net",
@@ -514,7 +511,10 @@
             "pix.gfycat.com",
             "pixel.ad.mlnadvertising.com",
             "pixel.intares.net",
-            "pixel.jumptap.com",
+            "pixel.jumptap.com"
+        ],
+        "to_test": [
+            "www.magicads.nl",
             "pixel.serviceleverage.com",
             "pixel.staging.tree.com",
             "platform.stumbleupon.com",
