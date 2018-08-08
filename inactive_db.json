@@ -20,9 +20,7 @@
             "ad.adlantis.jp",
             "ad.alldanzradio.com",
             "ad.bol.bg",
-            "ad.directrev.com"
-        ],
-        "to_test": [
+            "ad.directrev.com",
             "ad.e-kolay.net",
             "ad.eurosport.com",
             "ad.main-netz.de",
@@ -31,7 +29,9 @@
             "ad.valuecommerce.ne.jp",
             "ad.where.com",
             "ad.yieldpartners.com",
-            "ad01.adonspot.com",
+            "ad01.adonspot.com"
+        ],
+        "to_test": [
             "adb.nikkei.co.jp",
             "adelogs.wip4.adobe.com",
             "adg.bzgint.com",
