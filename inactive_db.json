@@ -206,11 +206,8 @@
             "content.liveuniverse.com",
             "content.zemanta.com",
             "core.naturalmotion.com",
-            "coreads.net"
-        ],
-        "to_test": [
+            "coreads.net",
             "counted.de",
-            "counter.hitslinks.com",
             "counter.zeit.de",
             "cp.intl.match.com",
             "cpm-plus.com",
@@ -244,7 +241,9 @@
             "d2gtlljtkeiyzd.cloudfront.net",
             "d2gz6iop9uxobu.cloudfront.net",
             "d2hap2bsh1k9lw.cloudfront.net",
-            "d2mq0uzafv8ytp.cloudfront.net",
+            "d2mq0uzafv8ytp.cloudfront.net"
+        ],
+        "to_test": [
             "d2oallm7wrqvmi.cloudfront.net",
             "d2pgy8h4i30on1.cloudfront.net",
             "d2plxos94peuwp.cloudfront.net",
