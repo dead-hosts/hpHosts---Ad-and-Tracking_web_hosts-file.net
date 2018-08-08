@@ -365,10 +365,7 @@
             "intranet.bnex.com",
             "iranpopup.ir",
             "jade.bnex.com",
-            "jammyads.go2affise.com"
-        ],
-        "to_test": [
-            "d2oallm7wrqvmi.cloudfront.net",
+            "jammyads.go2affise.com",
             "js.cybermonitor.com",
             "js.dmtry.com",
             "kka.agitos.de",
@@ -379,10 +376,14 @@
             "link.huffingtonpost.com",
             "link4u.de",
             "livere.co.kr.cizion.ixcloud.net",
+            "log.chartbeat.com",
             "log.data.disney.com",
             "log.dmtry.com",
             "logs.infoaxe.com",
-            "lon.telefonica.bench.cedexis.com",
+            "lon.telefonica.bench.cedexis.com"
+        ],
+        "to_test": [
+            "d2oallm7wrqvmi.cloudfront.net",
             "lprptestrouter2.website",
             "m.adsymptotic.com",
             "m.adtc.daum.net",
