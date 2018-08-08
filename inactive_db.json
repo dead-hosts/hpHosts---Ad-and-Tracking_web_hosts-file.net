@@ -624,10 +624,7 @@
             "vrt-chidc2-only.outbrain.com",
             "vrt.outbrain.com",
             "vviii.ru",
-            "wap.advertising.com"
-        ],
-        "to_test": [
-            "d2oallm7wrqvmi.cloudfront.net",
+            "wap.advertising.com",
             "web63.jumptap.com",
             "web64.jumptap.com",
             "web65.jumptap.com",
@@ -642,7 +639,10 @@
             "www.a.volvelle.tech",
             "www.adcron.com",
             "www.adexcite.com",
-            "www.adroz.com",
+            "www.adroz.com"
+        ],
+        "to_test": [
+            "d2oallm7wrqvmi.cloudfront.net",
             "www.adserver.cz.cc",
             "www.adti.me",
             "www.agnstaging.com",
