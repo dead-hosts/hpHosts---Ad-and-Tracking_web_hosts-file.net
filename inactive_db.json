@@ -404,10 +404,7 @@
             "monetisevideo.com",
             "mosaic.bnex.com",
             "moviepulp.eu",
-            "mp.twitch.tv"
-        ],
-        "to_test": [
-            "d2oallm7wrqvmi.cloudfront.net",
+            "mp.twitch.tv",
             "msn.rce.veeseo.com",
             "munaluchibridal.munaluchibridema.netdna-cdn.com",
             "my-etracker.com",
@@ -418,7 +415,10 @@
             "netezines.advertising.com",
             "network.adbullion.com",
             "network.nocreditcard.net",
-            "o.sa.aol.com",
+            "o.sa.aol.com"
+        ],
+        "to_test": [
+            "d2oallm7wrqvmi.cloudfront.net",
             "okstrade.go2affise.com",
             "oms.digitaledienste.web.de",
             "onedrive-collection.device.mobileengagement.windows.net",
