@@ -654,10 +654,7 @@
             "www.counting4free.com",
             "www.cpm-plus.com",
             "www.dsply.com",
-            "www.email666.com"
-        ],
-        "to_test": [
-            "d2oallm7wrqvmi.cloudfront.net",
+            "www.email666.com",
             "www.f8350e7c1.se",
             "www.gamescpc.com",
             "www.gprapps.com",
@@ -684,7 +681,10 @@
             "www.mytds.pr.vc",
             "www.n60adserv.com",
             "www.n63adserv.com",
-            "www.ojolink.com",
+            "www.ojolink.com"
+        ],
+        "to_test": [
+            "d2oallm7wrqvmi.cloudfront.net",
             "www.optimum-hits.com",
             "www.paidclick.ro",
             "www.paymonsters.biz",
