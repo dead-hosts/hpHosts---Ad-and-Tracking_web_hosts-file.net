@@ -92,12 +92,11 @@
             "adserving.ads.ec",
             "adti.me",
             "adtracker.inmobi.com",
-            "advancemobile.go2affise.com"
-        ],
-        "to_test": [
+            "advancemobile.go2affise.com",
             "advertiser.adknowledge.com",
             "advertiser.ads.ec",
             "advertraf.go2affise.com",
+            "aen.belugaboost.com",
             "aeropostale.resultspage.com",
             "aff-jp.exshot.com",
             "affiliate.key2link.com",
@@ -112,7 +111,9 @@
             "analytics.traidnt.net",
             "anet.apx.appier.net",
             "anet.c.appier.net",
-            "api.bizographics.com",
+            "api.bizographics.com"
+        ],
+        "to_test": [
             "api.flicktweets.com",
             "api.fyreball.com",
             "api.omniata.com",
