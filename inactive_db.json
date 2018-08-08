@@ -380,12 +380,8 @@
             "log.data.disney.com",
             "log.dmtry.com",
             "logs.infoaxe.com",
-            "lon.telefonica.bench.cedexis.com"
-        ],
-        "to_test": [
-            "d2oallm7wrqvmi.cloudfront.net",
+            "lon.telefonica.bench.cedexis.com",
             "lprptestrouter2.website",
-            "m.adsymptotic.com",
             "m.adtc.daum.net",
             "m.trk44.mobi",
             "m4n.nl",
@@ -404,10 +400,14 @@
             "milesaway.oracle.cpa.clicksure.com",
             "mintake.com",
             "mobile.traffic-tracker.net",
+            "mobileads.mobilebanner.net",
             "monetisevideo.com",
             "mosaic.bnex.com",
             "moviepulp.eu",
-            "mp.twitch.tv",
+            "mp.twitch.tv"
+        ],
+        "to_test": [
+            "d2oallm7wrqvmi.cloudfront.net",
             "msn.rce.veeseo.com",
             "munaluchibridal.munaluchibridema.netdna-cdn.com",
             "my-etracker.com",
