@@ -146,9 +146,7 @@
             "banners.unibet.dk",
             "banners.unibet.it",
             "bannersolutions.de",
-            "beacon.richrelevance.com"
-        ],
-        "to_test": [
+            "beacon.richrelevance.com",
             "betaffs.com",
             "bi-three.wooga.com",
             "bidsystem.adknowledge.com",
@@ -178,7 +176,9 @@
             "bos-tapreq20.jumptap.com",
             "by.advertising.com",
             "c.ads.com",
-            "c.cldlr.com",
+            "c.cldlr.com"
+        ],
+        "to_test": [
             "c.microsoft.com",
             "c124830.conv.btrll.com",
             "cache.btrll.com",
