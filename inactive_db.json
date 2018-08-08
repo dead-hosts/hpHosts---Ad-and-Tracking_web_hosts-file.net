@@ -547,10 +547,7 @@
             "scripts.cgispy.com",
             "scrooge.click10.com",
             "search.vertoz.com",
-            "secure.advertising.com"
-        ],
-        "to_test": [
-            "d2oallm7wrqvmi.cloudfront.net",
+            "secure.advertising.com",
             "shoppingpartners2.futurenet.com",
             "siteinfo.libero.it",
             "sk.connect2.ws",
@@ -558,7 +555,10 @@
             "sms-mmm.com",
             "softcash.biz",
             "spiegel.rce.veeseo.com",
-            "spoods.rce.veeseo.com",
+            "spoods.rce.veeseo.com"
+        ],
+        "to_test": [
+            "d2oallm7wrqvmi.cloudfront.net",
             "srv6.admedit.me",
             "ss.xxxnavy.com",
             "sscdn.banners.advidi.com",
