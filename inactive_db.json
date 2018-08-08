@@ -572,10 +572,7 @@
             "stats.ebay.com",
             "stats.ilius.net",
             "stats.profileponds.com",
-            "stats.remoteserver.pw"
-        ],
-        "to_test": [
-            "d2oallm7wrqvmi.cloudfront.net",
+            "stats.remoteserver.pw",
             "support.publicrand.org",
             "swx.domob.cn",
             "syndication.loganmueller.info",
@@ -585,14 +582,16 @@
             "tagx.nytimes.com",
             "tarsan.go2affise.com",
             "terrazzo.bnex.com",
-            "thebugs.ws",
             "tinytracker.onion.com",
             "tminainc.go2affise.com",
             "toolbar.aol.com",
             "topbinaryaffiliates.ck-cdn.com",
             "tr.etrxc.com",
             "trace.jdtracker.com",
-            "track.ballerft.site",
+            "track.ballerft.site"
+        ],
+        "to_test": [
+            "d2oallm7wrqvmi.cloudfront.net",
             "track.cliqrr.com",
             "track.ft.com",
             "track.netshelter.net",
