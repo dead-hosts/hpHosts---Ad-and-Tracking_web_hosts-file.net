@@ -532,10 +532,7 @@
             "rce.veeseo.com",
             "rd.advertising.com",
             "re.directrev.com",
-            "redirector.themobilehub.net"
-        ],
-        "to_test": [
-            "d2oallm7wrqvmi.cloudfront.net",
+            "redirector.themobilehub.net",
             "remarketing.doubleclick.net",
             "reporting.flymonarch.com",
             "reporting.wilkinsonplus.com",
@@ -550,7 +547,10 @@
             "scripts.cgispy.com",
             "scrooge.click10.com",
             "search.vertoz.com",
-            "secure.advertising.com",
+            "secure.advertising.com"
+        ],
+        "to_test": [
+            "d2oallm7wrqvmi.cloudfront.net",
             "shoppingpartners2.futurenet.com",
             "siteinfo.libero.it",
             "sk.connect2.ws",
