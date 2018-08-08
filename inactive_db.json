@@ -514,10 +514,7 @@
             "pixel.serviceleverage.com",
             "pixel.staging.tree.com",
             "platform.stumbleupon.com",
-            "plmokn.pw"
-        ],
-        "to_test": [
-            "d2oallm7wrqvmi.cloudfront.net",
+            "plmokn.pw",
             "popup.smusic.ir",
             "pptrk.com",
             "preply.go2affise.com",
@@ -535,7 +532,10 @@
             "rce.veeseo.com",
             "rd.advertising.com",
             "re.directrev.com",
-            "redirector.themobilehub.net",
+            "redirector.themobilehub.net"
+        ],
+        "to_test": [
+            "d2oallm7wrqvmi.cloudfront.net",
             "remarketing.doubleclick.net",
             "reporting.flymonarch.com",
             "reporting.wilkinsonplus.com",
