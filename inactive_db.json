@@ -111,9 +111,7 @@
             "analytics.traidnt.net",
             "anet.apx.appier.net",
             "anet.c.appier.net",
-            "api.bizographics.com"
-        ],
-        "to_test": [
+            "api.bizographics.com",
             "api.flicktweets.com",
             "api.fyreball.com",
             "api.omniata.com",
@@ -137,7 +135,9 @@
             "ba2b687.se",
             "banner.blogranking.net",
             "banner.cityclubcasino.com",
-            "banner.indiocasino.com",
+            "banner.indiocasino.com"
+        ],
+        "to_test": [
             "banner.listinus.de",
             "banners.largecash.com",
             "banners.nbcupromotes.com",
