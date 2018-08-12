@@ -41,10 +41,7 @@
             "adelogs.wip4.adobe.com",
             "adg.bzgint.com",
             "adimage.asia1.com.sg",
-            "adplace.adsame.com"
-        ],
-        "to_test": [
-            "d2oallm7wrqvmi.cloudfront.net",
+            "adplace.adsame.com",
             "ads.adrdgt.com",
             "ads.advance.uk.com",
             "ads.amarillo.com",
@@ -57,6 +54,7 @@
             "ads.friendtest.com",
             "ads.gad-network.com",
             "ads.gfy.com",
+            "ads.incmd09.com",
             "ads.iol.co.il",
             "ads.lawnsite.com",
             "ads.linuxjournal.com",
@@ -66,7 +64,10 @@
             "ads.myopen.vipshop.com",
             "ads.netmechanic.com",
             "ads.newsgeek.co.il",
-            "ads.nobuffer.info",
+            "ads.nobuffer.info"
+        ],
+        "to_test": [
+            "d2oallm7wrqvmi.cloudfront.net",
             "ads.piramit.net",
             "ads.poptarts.me",
             "ads.realitytraffic.com.s2.gvirabi.com",
