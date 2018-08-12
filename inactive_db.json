@@ -34,15 +34,17 @@
             "ad.valuecommerce.ne.jp",
             "ad.where.com",
             "ad.yieldpartners.com",
-            "ad01.adonspot.com"
-        ],
-        "to_test": [
-            "d2oallm7wrqvmi.cloudfront.net",
+            "ad01.adonspot.com",
             "adb.nikkei.co.jp",
+            "adclick.de",
+            "addynamics.eu",
             "adelogs.wip4.adobe.com",
             "adg.bzgint.com",
             "adimage.asia1.com.sg",
-            "adplace.adsame.com",
+            "adplace.adsame.com"
+        ],
+        "to_test": [
+            "d2oallm7wrqvmi.cloudfront.net",
             "ads.adrdgt.com",
             "ads.advance.uk.com",
             "ads.amarillo.com",
