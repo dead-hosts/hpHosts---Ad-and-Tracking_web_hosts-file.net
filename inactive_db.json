@@ -64,16 +64,16 @@
             "ads.myopen.vipshop.com",
             "ads.netmechanic.com",
             "ads.newsgeek.co.il",
-            "ads.nobuffer.info"
-        ],
-        "to_test": [
-            "d2oallm7wrqvmi.cloudfront.net",
+            "ads.nobuffer.info",
             "ads.piramit.net",
             "ads.poptarts.me",
             "ads.realitytraffic.com.s2.gvirabi.com",
             "ads.realitytraffic.com.s3.gvirabi.com",
             "ads.rte.ie",
-            "ads.savannahnow.com",
+            "ads.savannahnow.com"
+        ],
+        "to_test": [
+            "d2oallm7wrqvmi.cloudfront.net",
             "ads.taptapnetworks.com",
             "ads.telegraph.co.uk",
             "ads.topcities.com",
