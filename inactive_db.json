@@ -374,9 +374,7 @@
             "ox-d.medianet.servedbyopenx.com",
             "ox-d.merriamwebster.servedbyopenx.com",
             "ox-d.mods.pch.com",
-            "ox-d.monetizationservices.servedbyopenx.com"
-        ],
-        "to_test": [
+            "ox-d.monetizationservices.servedbyopenx.com",
             "ox-d.mst.servedbyopenx.com",
             "ox-d.nasdaq.servedbyopenx.com",
             "ox-d.nydailynews.servedbyopenx.com",
@@ -408,6 +406,7 @@
             "p.pxl2015x1.com",
             "p96582.adskape.ru",
             "pa.advertising.veeseo.com",
+            "pan.conanpartners.com",
             "partner.topcities.com",
             "partner.zooplus.de",
             "partners.sportingbet.com.au",
@@ -425,7 +424,9 @@
             "popup.smusic.ir",
             "pptrk.com",
             "preply.go2affise.com",
-            "preview.bnex.com",
+            "preview.bnex.com"
+        ],
+        "to_test": [
             "prunemedia.go2affise.com",
             "pub3.media-clic.com",
             "px.excitedigitalmedia.com",
