@@ -442,9 +442,7 @@
             "remarketing.doubleclick.net",
             "reporting.flymonarch.com",
             "reporting.wilkinsonplus.com",
-            "req.mojiva.com"
-        ],
-        "to_test": [
+            "req.mojiva.com",
             "rotatix.go2affise.com",
             "s.ad121m.com",
             "s.uadx.com",
@@ -455,7 +453,9 @@
             "scripts.cgispy.com",
             "scrooge.click10.com",
             "search.vertoz.com",
-            "secure.advertising.com",
+            "secure.advertising.com"
+        ],
+        "to_test": [
             "shoppingpartners2.futurenet.com",
             "siteinfo.libero.it",
             "sk.connect2.ws",
