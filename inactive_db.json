@@ -535,9 +535,7 @@
             "web64.jumptap.com",
             "web65.jumptap.com",
             "webstats.seoinc.com",
-            "webtracker.educationconnection.com"
-        ],
-        "to_test": [
+            "webtracker.educationconnection.com",
             "wrt.mtr-4uk.com",
             "ws.00zasdf.pw",
             "ws.plmokn.pw",
@@ -554,7 +552,9 @@
             "www.agnstaging.com",
             "www.alltereg0.ru",
             "www.appfoxes.com",
-            "www.blumi.to",
+            "www.blumi.to"
+        ],
+        "to_test": [
             "www.chokoladsrv.net",
             "www.clicktracksolutions.com",
             "www.clkmon.com",
