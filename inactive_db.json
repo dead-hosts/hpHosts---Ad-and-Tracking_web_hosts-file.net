@@ -523,9 +523,7 @@
             "userlog.synapseip.tv",
             "v.wqsph.net",
             "vipadshares.com",
-            "voluum.redirecting.site"
-        ],
-        "to_test": [
+            "voluum.redirecting.site",
             "vpos.bnex.com",
             "vra.outbrain.com",
             "vrp.outbrain.com",
@@ -537,7 +535,9 @@
             "web64.jumptap.com",
             "web65.jumptap.com",
             "webstats.seoinc.com",
-            "webtracker.educationconnection.com",
+            "webtracker.educationconnection.com"
+        ],
+        "to_test": [
             "wrt.mtr-4uk.com",
             "ws.00zasdf.pw",
             "ws.plmokn.pw",
