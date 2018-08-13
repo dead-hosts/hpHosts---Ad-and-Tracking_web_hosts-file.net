@@ -39,10 +39,7 @@
             "banners.unibet.co.uk",
             "banners.unibet.de",
             "banners.unibet.dk",
-            "banners.unibet.it"
-        ],
-        "to_test": [
-            "d2oallm7wrqvmi.cloudfront.net",
+            "banners.unibet.it",
             "bannersolutions.de",
             "beacon.richrelevance.com",
             "betaffs.com",
@@ -71,7 +68,10 @@
             "bos-tapreq17.jumptap.com",
             "bos-tapreq18.jumptap.com",
             "bos-tapreq19.jumptap.com",
-            "bos-tapreq20.jumptap.com",
+            "bos-tapreq20.jumptap.com"
+        ],
+        "to_test": [
+            "d2oallm7wrqvmi.cloudfront.net",
             "by.advertising.com",
             "c.ads.com",
             "c.cldlr.com",
