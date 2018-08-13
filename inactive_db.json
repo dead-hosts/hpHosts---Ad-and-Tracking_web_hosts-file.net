@@ -319,14 +319,11 @@
             "navlog.channel4.com",
             "ned.itv.com",
             "netezines.advertising.com",
-            "network.adbullion.com"
-        ],
-        "to_test": [
+            "network.adbullion.com",
             "network.nocreditcard.net",
             "o.sa.aol.com",
             "okstrade.go2affise.com",
             "oms.digitaledienste.web.de",
-            "onedrive-collection.device.mobileengagement.windows.net",
             "onyx.bnex.com",
             "open.vmdb.se",
             "openad.tf1.fr",
@@ -377,7 +374,9 @@
             "ox-d.medianet.servedbyopenx.com",
             "ox-d.merriamwebster.servedbyopenx.com",
             "ox-d.mods.pch.com",
-            "ox-d.monetizationservices.servedbyopenx.com",
+            "ox-d.monetizationservices.servedbyopenx.com"
+        ],
+        "to_test": [
             "ox-d.mst.servedbyopenx.com",
             "ox-d.nasdaq.servedbyopenx.com",
             "ox-d.nydailynews.servedbyopenx.com",
