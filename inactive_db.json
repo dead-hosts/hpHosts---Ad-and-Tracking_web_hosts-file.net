@@ -453,9 +453,7 @@
             "scripts.cgispy.com",
             "scrooge.click10.com",
             "search.vertoz.com",
-            "secure.advertising.com"
-        ],
-        "to_test": [
+            "secure.advertising.com",
             "shoppingpartners2.futurenet.com",
             "siteinfo.libero.it",
             "sk.connect2.ws",
@@ -466,11 +464,12 @@
             "spoods.rce.veeseo.com",
             "srv6.admedit.me",
             "ss.xxxnavy.com",
-            "sscdn.banners.advidi.com",
             "st.listrak.com",
             "st1.freeonlineusers.com",
             "sta.ifeng.com",
-            "stat.cybermonitor.com",
+            "stat.cybermonitor.com"
+        ],
+        "to_test": [
             "stat.ringier.cz",
             "stat2.cybermonitor.com",
             "stat3.cybermonitor.com",
