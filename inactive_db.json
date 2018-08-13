@@ -467,9 +467,7 @@
             "st.listrak.com",
             "st1.freeonlineusers.com",
             "sta.ifeng.com",
-            "stat.cybermonitor.com"
-        ],
-        "to_test": [
+            "stat.cybermonitor.com",
             "stat.ringier.cz",
             "stat2.cybermonitor.com",
             "stat3.cybermonitor.com",
@@ -480,13 +478,16 @@
             "stats.ilius.net",
             "stats.profileponds.com",
             "stats.remoteserver.pw",
+            "stats.storify.com",
             "support.publicrand.org",
             "swx.domob.cn",
             "syndication.loganmueller.info",
             "t.adonly.com",
             "t.ymlp275.net",
             "tag.email-attitude.com",
-            "tagx.nytimes.com",
+            "tagx.nytimes.com"
+        ],
+        "to_test": [
             "tarsan.go2affise.com",
             "terrazzo.bnex.com",
             "tinytracker.onion.com",
