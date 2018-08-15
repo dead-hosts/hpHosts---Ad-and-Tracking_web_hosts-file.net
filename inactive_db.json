@@ -121,11 +121,7 @@
             "analytics.mozzi.com",
             "analytics.traidnt.net",
             "anet.apx.appier.net",
-            "anet.c.appier.net"
-        ],
-        "to_test": [
-            "ads.advance.uk.com",
-            "ads7.mocean.mobi",
+            "anet.c.appier.net",
             "api.bizographics.com",
             "api.flicktweets.com",
             "api.fyreball.com",
@@ -149,7 +145,11 @@
             "b4.toparcadehits.com",
             "ba2b687.se",
             "banner.blogranking.net",
-            "banner.cityclubcasino.com",
+            "banner.cityclubcasino.com"
+        ],
+        "to_test": [
+            "ads.advance.uk.com",
+            "ads7.mocean.mobi",
             "banner.indiocasino.com",
             "banner.listinus.de",
             "banners.largecash.com",
