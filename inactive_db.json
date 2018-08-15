@@ -218,12 +218,7 @@
             "connect.appflood.com",
             "content.zemanta.com",
             "core.naturalmotion.com",
-            "coreads.net"
-        ],
-        "to_test": [
-            "ads.advance.uk.com",
-            "ads7.mocean.mobi",
-            "beacon.richrelevance.com",
+            "coreads.net",
             "counted.de",
             "counter.zeit.de",
             "cp.intl.match.com",
@@ -232,7 +227,12 @@
             "cpmtrip.com",
             "creative.ad121m.com",
             "creative.ad135m.com",
-            "creative.whi.co.nz",
+            "creative.whi.co.nz"
+        ],
+        "to_test": [
+            "ads.advance.uk.com",
+            "ads7.mocean.mobi",
+            "beacon.richrelevance.com",
             "cu.genesismedia.com",
             "customer.bnex.com",
             "d.appsdt.com",
