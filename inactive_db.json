@@ -46,10 +46,7 @@
             "adimage.asia1.com.sg",
             "adplace.adsame.com",
             "adrd.taxuan.net",
-            "ads.adrdgt.com"
-        ],
-        "to_test": [
-            "ads.advance.uk.com",
+            "ads.adrdgt.com",
             "ads.amarillo.com",
             "ads.asia1.com.sg",
             "ads.clickad.com",
@@ -71,7 +68,10 @@
             "ads.netmechanic.com",
             "ads.newsgeek.co.il",
             "ads.nobuffer.info",
-            "ads.piramit.net",
+            "ads.piramit.net"
+        ],
+        "to_test": [
+            "ads.advance.uk.com",
             "ads.poptarts.me",
             "ads.realitytraffic.com.s2.gvirabi.com",
             "ads.realitytraffic.com.s3.gvirabi.com",
