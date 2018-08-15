@@ -182,12 +182,7 @@
             "bos-tapreq17.jumptap.com",
             "bos-tapreq18.jumptap.com",
             "bos-tapreq19.jumptap.com",
-            "bos-tapreq20.jumptap.com"
-        ],
-        "to_test": [
-            "ads.advance.uk.com",
-            "ads7.mocean.mobi",
-            "beacon.richrelevance.com",
+            "bos-tapreq20.jumptap.com",
             "by.advertising.com",
             "c.ads.com",
             "c.cldlr.com",
@@ -195,6 +190,7 @@
             "c124830.conv.btrll.com",
             "cache.btrll.com",
             "can.you.shut.the.fuck.up.at.bnex.com",
+            "cbx.net",
             "cdn.adbrau.com",
             "cdn.complexmedianetwork.com",
             "cdn.directrev.com",
@@ -204,7 +200,12 @@
             "cdn11.00zasdf.pw",
             "cdn11.plmokn.pw",
             "cdn2.adbrau.com",
-            "chathu.apkmania.co",
+            "chathu.apkmania.co"
+        ],
+        "to_test": [
+            "ads.advance.uk.com",
+            "ads7.mocean.mobi",
+            "beacon.richrelevance.com",
             "click.ewebse.com",
             "click.findthewebsiteyouneed.com",
             "click.icetraffic.com",
