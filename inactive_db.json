@@ -101,13 +101,7 @@
             "ads9.mocean.mobi",
             "adserve.advertising.com",
             "adserver.coreads.net",
-            "adserver.cz.cc"
-        ],
-        "to_test": [
-            "adg.bzgint.com",
-            "ads.torrentco.com",
-            "ads.traffpartners.com",
-            "ads.truongton.net",
+            "adserver.cz.cc",
             "adserving.ads.ec",
             "adti.me",
             "adtracker.inmobi.com",
@@ -117,7 +111,13 @@
             "advertraf.go2affise.com",
             "aen.belugaboost.com",
             "aeropostale.resultspage.com",
-            "aff-jp.exshot.com",
+            "aff-jp.exshot.com"
+        ],
+        "to_test": [
+            "adg.bzgint.com",
+            "ads.torrentco.com",
+            "ads.traffpartners.com",
+            "ads.truongton.net",
             "affiliate.key2link.com",
             "affiliate.zap.co.il",
             "alea.adam.ad.daum.net",
