@@ -42,10 +42,7 @@
             "adb.nikkei.co.jp",
             "adclick.de",
             "addynamics.eu",
-            "adelogs.wip4.adobe.com"
-        ],
-        "to_test": [
-            "adg.bzgint.com",
+            "adelogs.wip4.adobe.com",
             "adimage.asia1.com.sg",
             "adplace.adsame.com",
             "ads.adrdgt.com",
@@ -53,9 +50,11 @@
             "ads.amarillo.com",
             "ads.asia1.com.sg",
             "ads.clickad.com",
-            "ads.cobrad.com",
             "ads.deliads.com",
-            "ads.e9china.com",
+            "ads.e9china.com"
+        ],
+        "to_test": [
+            "adg.bzgint.com",
             "ads.ewebse.com",
             "ads.filez.nl",
             "ads.friendtest.com",
