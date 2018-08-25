@@ -51,10 +51,7 @@
             "ads.asia1.com.sg",
             "ads.clickad.com",
             "ads.deliads.com",
-            "ads.e9china.com"
-        ],
-        "to_test": [
-            "adg.bzgint.com",
+            "ads.e9china.com",
             "ads.ewebse.com",
             "ads.filez.nl",
             "ads.friendtest.com",
@@ -82,7 +79,10 @@
             "ads.sitemeter.com",
             "ads.taptapnetworks.com",
             "ads.telegraph.co.uk",
-            "ads.topcities.com",
+            "ads.topcities.com"
+        ],
+        "to_test": [
+            "adg.bzgint.com",
             "ads.torrentco.com",
             "ads.traffpartners.com",
             "ads.truongton.net",
