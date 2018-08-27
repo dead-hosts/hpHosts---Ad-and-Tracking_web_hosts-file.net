@@ -221,14 +221,7 @@
             "connect.appflood.com",
             "content.zemanta.com",
             "core.naturalmotion.com",
-            "coreads.net"
-        ],
-        "to_test": [
-            "ads.asia1.com.sg",
-            "ads9.mocean.mobi",
-            "banner.indiocasino.com",
-            "c.ads.com",
-            "c.cldlr.com",
+            "coreads.net",
             "counted.de",
             "counter.zeit.de",
             "cp.intl.match.com",
@@ -238,7 +231,14 @@
             "creative.ad121m.com",
             "creative.ad135m.com",
             "creative.whi.co.nz",
-            "cu.genesismedia.com",
+            "cu.genesismedia.com"
+        ],
+        "to_test": [
+            "ads.asia1.com.sg",
+            "ads9.mocean.mobi",
+            "banner.indiocasino.com",
+            "c.ads.com",
+            "c.cldlr.com",
             "customer.bnex.com",
             "d.appsdt.com",
             "d1110e4.se",
