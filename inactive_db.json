@@ -70,10 +70,7 @@
             "ads.newsgeek.co.il",
             "ads.nobuffer.info",
             "ads.okitspace.com",
-            "ads.piramit.net"
-        ],
-        "to_test": [
-            "ads.asia1.com.sg",
+            "ads.piramit.net",
             "ads.poptarts.me",
             "ads.realitytraffic.com.s2.gvirabi.com",
             "ads.realitytraffic.com.s3.gvirabi.com",
@@ -103,7 +100,10 @@
             "ads6.mocean.mobi",
             "ads61153.hotwords.com",
             "ads7.mocean.mobi",
-            "ads8.mocean.mobi",
+            "ads8.mocean.mobi"
+        ],
+        "to_test": [
+            "ads.asia1.com.sg",
             "ads9.mocean.mobi",
             "adserve.advertising.com",
             "adserver.coreads.net",
