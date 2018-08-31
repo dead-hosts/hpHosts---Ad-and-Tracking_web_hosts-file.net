@@ -70,11 +70,7 @@
             "ads.nobuffer.info",
             "ads.odigo.com",
             "ads.okitspace.com",
-            "ads.piramit.net"
-        ],
-        "to_test": [
-            "ad.valuecommerce.ne.jp",
-            "ads.advance.uk.com",
+            "ads.piramit.net",
             "ads.poptarts.me",
             "ads.realitytraffic.com.s2.gvirabi.com",
             "ads.realitytraffic.com.s3.gvirabi.com",
@@ -100,7 +96,11 @@
             "ads4.mocean.mobi",
             "ads4.mojiva.com",
             "ads5.mocean.mobi",
-            "ads5.mojiva.com",
+            "ads5.mojiva.com"
+        ],
+        "to_test": [
+            "ad.valuecommerce.ne.jp",
+            "ads.advance.uk.com",
             "ads6.mocean.mobi",
             "ads61153.hotwords.com",
             "ads7.mocean.mobi",
