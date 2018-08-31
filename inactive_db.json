@@ -37,10 +37,7 @@
             "ad.main-netz.de",
             "ad.mlnadvertising.com",
             "ad.sma.punto.net",
-            "ad01.adonspot.com"
-        ],
-        "to_test": [
-            "ad.valuecommerce.ne.jp",
+            "ad01.adonspot.com",
             "adb.nikkei.co.jp",
             "adclick.de",
             "addynamics.eu",
@@ -48,7 +45,10 @@
             "adg.bzgint.com",
             "adimage.asia1.com.sg",
             "adplace.adsame.com",
-            "ads.adrdgt.com",
+            "ads.adrdgt.com"
+        ],
+        "to_test": [
+            "ad.valuecommerce.ne.jp",
             "ads.advance.uk.com",
             "ads.amarillo.com",
             "ads.asia1.com.sg",
