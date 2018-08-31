@@ -45,11 +45,7 @@
             "adg.bzgint.com",
             "adimage.asia1.com.sg",
             "adplace.adsame.com",
-            "ads.adrdgt.com"
-        ],
-        "to_test": [
-            "ad.valuecommerce.ne.jp",
-            "ads.advance.uk.com",
+            "ads.adrdgt.com",
             "ads.amarillo.com",
             "ads.asia1.com.sg",
             "ads.clickad.com",
@@ -72,8 +68,13 @@
             "ads.netmechanic.com",
             "ads.newsgeek.co.il",
             "ads.nobuffer.info",
+            "ads.odigo.com",
             "ads.okitspace.com",
-            "ads.piramit.net",
+            "ads.piramit.net"
+        ],
+        "to_test": [
+            "ad.valuecommerce.ne.jp",
+            "ads.advance.uk.com",
             "ads.poptarts.me",
             "ads.realitytraffic.com.s2.gvirabi.com",
             "ads.realitytraffic.com.s3.gvirabi.com",
