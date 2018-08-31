@@ -107,13 +107,7 @@
             "adti.me",
             "adtracker.inmobi.com",
             "adv2.absoluteagency.com",
-            "advancemobile.go2affise.com"
-        ],
-        "to_test": [
-            "ad.valuecommerce.ne.jp",
-            "ads.advance.uk.com",
-            "ads6.mocean.mobi",
-            "ads61153.hotwords.com",
+            "advancemobile.go2affise.com",
             "advertiser.adknowledge.com",
             "advertiser.ads.ec",
             "advertraf.go2affise.com",
@@ -130,7 +124,13 @@
             "analytics.mozzi.com",
             "analytics.traidnt.net",
             "anet.apx.appier.net",
-            "anet.c.appier.net",
+            "anet.c.appier.net"
+        ],
+        "to_test": [
+            "ad.valuecommerce.ne.jp",
+            "ads.advance.uk.com",
+            "ads6.mocean.mobi",
+            "ads61153.hotwords.com",
             "api.bizographics.com",
             "api.flicktweets.com",
             "api.fyreball.com",
