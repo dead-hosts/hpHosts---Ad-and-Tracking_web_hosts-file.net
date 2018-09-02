@@ -148,13 +148,7 @@
             "b.ifmnwi.club",
             "b.netscape.com",
             "b.photobucket.com",
-            "b.the-nextlevel.com"
-        ],
-        "to_test": [
-            "ads.imdb.nl",
-            "alpha.bnex.com",
-            "b12.sitemeter.com",
-            "b2.sitemeter.com",
+            "b.the-nextlevel.com",
             "b3.toparcadehits.com",
             "b4.toparcadehits.com",
             "b7.sitemeter.com",
@@ -174,7 +168,13 @@
             "banners.unibet.co.uk",
             "banners.unibet.de",
             "banners.unibet.dk",
-            "banners.unibet.it",
+            "banners.unibet.it"
+        ],
+        "to_test": [
+            "ads.imdb.nl",
+            "alpha.bnex.com",
+            "b12.sitemeter.com",
+            "b2.sitemeter.com",
             "beacon-1.newrelic.com",
             "beacon-2.newrelic.com",
             "beacon-3.newrelic.com",
