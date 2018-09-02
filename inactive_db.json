@@ -124,11 +124,7 @@
             "alea.adam.ad.daum.net",
             "alea.adam.daum.net",
             "alldcs.sphere.com",
-            "alltereg0.ru"
-        ],
-        "to_test": [
-            "ads.imdb.nl",
-            "alpha.bnex.com",
+            "alltereg0.ru",
             "analytics-v2.anvato.com",
             "analytics.mozzi.com",
             "analytics.traidnt.net",
@@ -152,7 +148,11 @@
             "b.ifmnwi.club",
             "b.netscape.com",
             "b.photobucket.com",
-            "b.the-nextlevel.com",
+            "b.the-nextlevel.com"
+        ],
+        "to_test": [
+            "ads.imdb.nl",
+            "alpha.bnex.com",
             "b12.sitemeter.com",
             "b2.sitemeter.com",
             "b3.toparcadehits.com",
