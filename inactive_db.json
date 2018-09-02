@@ -57,10 +57,7 @@
             "ads.filez.nl",
             "ads.friendtest.com",
             "ads.gad-network.com",
-            "ads.gfy.com"
-        ],
-        "to_test": [
-            "ads.imdb.nl",
+            "ads.gfy.com",
             "ads.incmd09.com",
             "ads.iol.co.il",
             "ads.lawnsite.com",
@@ -78,6 +75,7 @@
             "ads.poptarts.me",
             "ads.realitytraffic.com.s2.gvirabi.com",
             "ads.realitytraffic.com.s3.gvirabi.com",
+            "ads.reward.rakuten.jp",
             "ads.rte.ie",
             "ads.savannahnow.com",
             "ads.sitemeter.com",
@@ -91,7 +89,10 @@
             "ads.whi.co.nz",
             "ads.zchat.no",
             "ads1.mocean.mobi",
-            "ads1.mojiva.com",
+            "ads1.mojiva.com"
+        ],
+        "to_test": [
+            "ads.imdb.nl",
             "ads16811.hotwords.es",
             "ads2.mocean.mobi",
             "ads2.mojiva.com",
