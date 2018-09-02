@@ -29,9 +29,7 @@
             "ad.aboutit.de",
             "ad.adlantis.jp",
             "ad.alldanzradio.com",
-            "ad.directrev.com"
-        ],
-        "to_test": [
+            "ad.directrev.com",
             "ad.e-kolay.net",
             "ad.eurosport.com",
             "ad.ezmob.com",
@@ -39,7 +37,9 @@
             "ad.mlnadvertising.com",
             "ad.sma.punto.net",
             "ad.valuecommerce.ne.jp",
-            "ad01.adonspot.com",
+            "ad01.adonspot.com"
+        ],
+        "to_test": [
             "adb.nikkei.co.jp",
             "adclick.de",
             "addynamics.eu",
