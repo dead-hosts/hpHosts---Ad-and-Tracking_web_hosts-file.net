@@ -129,11 +129,7 @@
             "analytics.mozzi.com",
             "analytics.traidnt.net",
             "anet.apx.appier.net",
-            "anet.c.appier.net"
-        ],
-        "to_test": [
-            "ad.valuecommerce.ne.jp",
-            "ads9.mocean.mobi",
+            "anet.c.appier.net",
             "api.bizographics.com",
             "api.flicktweets.com",
             "api.fyreball.com",
@@ -165,7 +161,11 @@
             "bam-4.nr-data.net",
             "bam-5.nr-data.net",
             "banner.blogranking.net",
-            "banner.cityclubcasino.com",
+            "banner.cityclubcasino.com"
+        ],
+        "to_test": [
+            "ad.valuecommerce.ne.jp",
+            "ads9.mocean.mobi",
             "banner.indiocasino.com",
             "banner.listinus.de",
             "banners.no1free.com",
