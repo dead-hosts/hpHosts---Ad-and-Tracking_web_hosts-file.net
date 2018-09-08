@@ -173,14 +173,7 @@
             "beacon-2.newrelic.com",
             "beacon-3.newrelic.com",
             "beacon-5.newrelic.com",
-            "beacon-6.newrelic.com"
-        ],
-        "to_test": [
-            "ad.valuecommerce.ne.jp",
-            "ads9.mocean.mobi",
-            "banner.indiocasino.com",
-            "banner.listinus.de",
-            "beacon.richrelevance.com",
+            "beacon-6.newrelic.com",
             "betaffs.com",
             "bi-three.wooga.com",
             "bi.softservers.net",
@@ -210,7 +203,14 @@
             "bos-tapreq18.jumptap.com",
             "bos-tapreq19.jumptap.com",
             "bos-tapreq20.jumptap.com",
-            "bright.bncnt.com",
+            "bright.bncnt.com"
+        ],
+        "to_test": [
+            "ad.valuecommerce.ne.jp",
+            "ads9.mocean.mobi",
+            "banner.indiocasino.com",
+            "banner.listinus.de",
+            "beacon.richrelevance.com",
             "by.advertising.com",
             "c.ads.com",
             "c.cblevt.com",
