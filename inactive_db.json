@@ -161,13 +161,7 @@
             "bam-4.nr-data.net",
             "bam-5.nr-data.net",
             "banner.blogranking.net",
-            "banner.cityclubcasino.com"
-        ],
-        "to_test": [
-            "ad.valuecommerce.ne.jp",
-            "ads9.mocean.mobi",
-            "banner.indiocasino.com",
-            "banner.listinus.de",
+            "banner.cityclubcasino.com",
             "banners.no1free.com",
             "banners.sextracker.de",
             "banners.unibet.be",
@@ -179,7 +173,13 @@
             "beacon-2.newrelic.com",
             "beacon-3.newrelic.com",
             "beacon-5.newrelic.com",
-            "beacon-6.newrelic.com",
+            "beacon-6.newrelic.com"
+        ],
+        "to_test": [
+            "ad.valuecommerce.ne.jp",
+            "ads9.mocean.mobi",
+            "banner.indiocasino.com",
+            "banner.listinus.de",
             "beacon.richrelevance.com",
             "betaffs.com",
             "bi-three.wooga.com",
