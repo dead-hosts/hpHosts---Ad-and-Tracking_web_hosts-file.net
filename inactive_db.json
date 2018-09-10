@@ -118,11 +118,7 @@
             "aeropostale.resultspage.com",
             "aff-jp.exshot.com",
             "affiliate.key2link.com",
-            "affiliate.zap.co.il"
-        ],
-        "to_test": [
-            "ads.gad-network.com",
-            "ads.zchat.no",
+            "affiliate.zap.co.il",
             "alea.adam.ad.daum.net",
             "alea.adam.daum.net",
             "alldcs-distinct.outbrain.com",
@@ -139,7 +135,11 @@
             "api.fyreball.com",
             "api.omniata.com",
             "api.revcontent.com",
-            "app.insightgrit.com",
+            "app.insightgrit.com"
+        ],
+        "to_test": [
+            "ads.gad-network.com",
+            "ads.zchat.no",
             "au.umeng.com",
             "audience.powerlinks.com",
             "austria1.adverserve.net",
