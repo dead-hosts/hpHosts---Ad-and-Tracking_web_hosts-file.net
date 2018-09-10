@@ -85,11 +85,7 @@
             "ads.traffpartners.com",
             "ads.truongton.net",
             "ads.vintageporntubenet.com",
-            "ads.whi.co.nz"
-        ],
-        "to_test": [
-            "ads.gad-network.com",
-            "ads.zchat.no",
+            "ads.whi.co.nz",
             "ads1.mocean.mobi",
             "ads1.mojiva.com",
             "ads16811.hotwords.es",
@@ -108,7 +104,11 @@
             "ads9.mocean.mobi",
             "adserve.advertising.com",
             "adserver.coreads.net",
-            "adserver.cz.cc",
+            "adserver.cz.cc"
+        ],
+        "to_test": [
+            "ads.gad-network.com",
+            "ads.zchat.no",
             "adserving.ads.ec",
             "adti.me",
             "adtracker.inmobi.com",
