@@ -135,11 +135,7 @@
             "api.fyreball.com",
             "api.omniata.com",
             "api.revcontent.com",
-            "app.insightgrit.com"
-        ],
-        "to_test": [
-            "ads.gad-network.com",
-            "ads.zchat.no",
+            "app.insightgrit.com",
             "au.umeng.com",
             "audience.powerlinks.com",
             "austria1.adverserve.net",
@@ -167,7 +163,11 @@
             "banner.blogranking.net",
             "banner.cityclubcasino.com",
             "banner.indiocasino.com",
-            "banner.listinus.de",
+            "banner.listinus.de"
+        ],
+        "to_test": [
+            "ads.gad-network.com",
+            "ads.zchat.no",
             "banners.no1free.com",
             "banners.sextracker.de",
             "banners.unibet.be",
