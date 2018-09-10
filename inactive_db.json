@@ -43,9 +43,7 @@
             "addynamics.eu",
             "adelogs.wip4.adobe.com",
             "adg.bzgint.com",
-            "adimage.asia1.com.sg"
-        ],
-        "to_test": [
+            "adimage.asia1.com.sg",
             "adplace.adsame.com",
             "ads.adrdgt.com",
             "ads.advance.uk.com",
@@ -55,7 +53,9 @@
             "ads.deliads.com",
             "ads.e9china.com",
             "ads.filez.nl",
-            "ads.friendtest.com",
+            "ads.friendtest.com"
+        ],
+        "to_test": [
             "ads.gad-network.com",
             "ads.gfy.com",
             "ads.imdb.nl",
