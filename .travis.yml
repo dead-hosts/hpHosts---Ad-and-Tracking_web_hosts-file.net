@@ -1,6 +1,6 @@
 env:
   global:
-    - secure: AryLns8nJuiXEHVepUsV884nqcqGgoLavmG6U3z8NxiiRp8+ae4s+RnUa9QhX3NNqNZJymJQrcUIUMsMuGxsEVXvh/RY/ikQnR7pZef+0vUZKxrhhTFDX1nJxVJKcrg2e8SmShTgO9HF1nbH9BKr/1m/VgYP8d2y7Ooryqr8GHhc4uyycdEtcZqfjrC5AYFtuFSUBG4M7elza4/ijkXRVMXn2NFJtn15YveKKvx7fHQcob95IQobjpZr7JD4+fdJQTYZh0oPJDgNKw0vfqqci/Ae0nMG/JCrFVFhMidbEVzFHCSVxazsL4YrbarUiG3Wkh/c3cA7LlP8rLljYypKnYywrM6UpQhcDBIzcLQ3K46D1Vx1bDWu6r9V9LeelvgbnB5+TrjXToOxd/ZL1mMhOLmXPE0POsPO68KkOlDZGCN1Hdtp7ZxRGBy/YQOvRoMxnz1QcP2hXrfY4BPLiPtGQUkXQEpLYE6vltZR8WCKiiXPfOwaaOLeqyMwYRq5nc6au4BlkUcMOIr9F9tqPXaLQjz/XYc24HEU6FwNXB813GjxM1b3aCKxrR401Qi87mDRK0EWc2mXZ1I1hrlaDAVoPSonDkENUzhY/nft07Nq7AK0/azKKP3slyPxVzRx4/j6NWt8NgACLUwAJ/jQhk0l4r7h4Ca9OJci9iOQo60sLJw=
+    - secure: H178pr3Vhq+J3C1az2CMWR3plGTl1rfMJF7QiD6TWDoA1rSoFkq5NFy/nVinONzSsV+OGh/M9f6RFoLi7XFICJsadSC29GOM7KeXaVsVBNR6AoBxubn2br6Q5ybkRdtDmUaSZ+RPM7YEVYyGT/8NPPaolnq0FKvoWgdhcxGig45gtRHeAmdl67OCYiKcpA9gssMoYeYKGNyuqZwidswsFkbAkgRuQZPoc8DW/SXDbwRTGM+HvP+S8t5LUUBMphQ1PHHaDTdn86LvDu+ABi0FWZPIxu4B8Gt3j0sM54e58k7tmwqjv3hpE+SxzbsEZDHuhmXflprsKVkWXki2Nzt4DtIcXGAo9iL9lZVZrXcIkJPBGw1HK+wT0F1Z6Qd/qvYutBZ3M09SNqOjv687oj2E1pUu0gso5Tx2fmyr8qrH3GidiI7J3syKcCVTYJzDYg2HLPGqXTKB20IRonKPnn2pQwJda28bIbDLReZuTVzvg7RBrsmF3n1wYPWE+uZV16ZgWwMpVI2sKAoqSsZ1mw4Pg637S5uOzrrAOEfXL4T2wvFYqGz6No0esZZHxQxyd49rRQ5/oVGyhOvSjLQy2H47K6mWJY6yZoIN0+LREQ2juHZT4MBWzDyprfE0q505T6bpiY1fbxEji4Kh/Vw9Gdluob5Ah0Obi8NIAPDC9+Vzef0=
     - GIT_NAME: Travis CI
     - GIT_EMAIL: dead-hosts@funilrys.com
     - TRAVIS_REPO_SLUG: dead-hosts/hpHosts---Ad-and-Tracking_web_hosts-file.net
@@ -9,7 +9,7 @@ env:
 language: python
 
 python:
-  - "3.6"
+  - "3.6.6"
 
 matrix:
   fast_finish: true
