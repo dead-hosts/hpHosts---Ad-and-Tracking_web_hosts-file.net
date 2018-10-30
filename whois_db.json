@@ -15320,6 +15320,11 @@
             "expiration_date": "29-aug-2019",
             "state": "future"
         },
+        "rcsmetrics.it": {
+            "epoch": "1539993600",
+            "expiration_date": "20-oct-2018",
+            "state": "past"
+        },
         "rddywd.com": {
             "epoch": "1557705600",
             "expiration_date": "13-may-2019",
@@ -15533,6 +15538,61 @@
         "retail-affiliates.com": {
             "epoch": "1600387200",
             "expiration_date": "18-sep-2020",
+            "state": "future"
+        },
+        "retargetpro.net": {
+            "epoch": "1548547200",
+            "expiration_date": "27-jan-2019",
+            "state": "future"
+        },
+        "retentionscience.com": {
+            "epoch": "1545264000",
+            "expiration_date": "20-dec-2018",
+            "state": "future"
+        },
+        "retrostats.com": {
+            "epoch": "1552435200",
+            "expiration_date": "13-mar-2019",
+            "state": "future"
+        },
+        "revadstrk.com": {
+            "epoch": "1652140800",
+            "expiration_date": "10-may-2022",
+            "state": "future"
+        },
+        "revdepo.com": {
+            "epoch": "1566777600",
+            "expiration_date": "26-aug-2019",
+            "state": "future"
+        },
+        "revenue.net": {
+            "epoch": "1542067200",
+            "expiration_date": "13-nov-2018",
+            "state": "future"
+        },
+        "revenueservice.com": {
+            "epoch": "1555718400",
+            "expiration_date": "20-apr-2019",
+            "state": "future"
+        },
+        "revmob.com": {
+            "epoch": "1576713600",
+            "expiration_date": "19-dec-2019",
+            "state": "future"
+        },
+        "revmobmobileadnetwork.com": {
+            "epoch": "1701561600",
+            "expiration_date": "03-dec-2023",
+            "state": "future"
+        },
+        "revsci.net": {
+            "epoch": "1576195200",
+            "expiration_date": "13-dec-2019",
+            "state": "future"
+        },
+        "rewardsflow.com": {
+            "epoch": "1598227200",
+            "expiration_date": "24-aug-2020",
             "state": "future"
         },
         "rewardster.com": {
