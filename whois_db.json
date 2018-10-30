@@ -17705,6 +17705,11 @@
             "expiration_date": "30-apr-2019",
             "state": "future"
         },
+        "top-ro.ro": {
+            "epoch": "1568246400",
+            "expiration_date": "12-sep-2019",
+            "state": "future"
+        },
         "top20.com": {
             "epoch": "1642896000",
             "expiration_date": "23-jan-2022",
@@ -17790,6 +17795,11 @@
             "expiration_date": "11-jul-2019",
             "state": "future"
         },
+        "towableohrhz.download": {
+            "epoch": "1535068800",
+            "expiration_date": "24-aug-2018",
+            "state": "past"
+        },
         "tppintext.com": {
             "epoch": "1562284800",
             "expiration_date": "05-jul-2019",
@@ -17838,6 +17848,16 @@
         "trackbacksecure.com": {
             "epoch": "1561248000",
             "expiration_date": "23-jun-2019",
+            "state": "future"
+        },
+        "trackedclicks.com": {
+            "epoch": "1556150400",
+            "expiration_date": "25-apr-2019",
+            "state": "future"
+        },
+        "tracker.com": {
+            "epoch": "1564790400",
+            "expiration_date": "03-aug-2019",
             "state": "future"
         },
         "trackermodules.com": {
