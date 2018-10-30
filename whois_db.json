@@ -19285,6 +19285,11 @@
             "expiration_date": "08-nov-2019",
             "state": "future"
         },
+        "wct.link": {
+            "epoch": "1545091200",
+            "expiration_date": "18-dec-2018",
+            "state": "future"
+        },
         "wda.com": {
             "epoch": "1746921600",
             "expiration_date": "11-may-2025",
@@ -19343,6 +19348,61 @@
         "webhitcounter.com": {
             "epoch": "1544054400",
             "expiration_date": "06-dec-2018",
+            "state": "future"
+        },
+        "weblemon.pl": {
+            "epoch": "1568851200",
+            "expiration_date": "19-sep-2019",
+            "state": "future"
+        },
+        "webmedia.pl": {
+            "epoch": "1546214400",
+            "expiration_date": "31-dec-2018",
+            "state": "future"
+        },
+        "webnooze.com": {
+            "epoch": "1559001600",
+            "expiration_date": "28-may-2019",
+            "state": "future"
+        },
+        "webodu.com": {
+            "epoch": "1553817600",
+            "expiration_date": "29-mar-2019",
+            "state": "future"
+        },
+        "weborama.fr": {
+            "epoch": "1572393600",
+            "expiration_date": "30-oct-2019",
+            "state": "future"
+        },
+        "webpagescripts.net": {
+            "epoch": "1564617600",
+            "expiration_date": "01-aug-2019",
+            "state": "future"
+        },
+        "webperformance.it": {
+            "epoch": "1547942400",
+            "expiration_date": "20-jan-2019",
+            "state": "future"
+        },
+        "webpower.com": {
+            "epoch": "1659052800",
+            "expiration_date": "29-jul-2022",
+            "state": "future"
+        },
+        "webprovider.com": {
+            "epoch": "1556150400",
+            "expiration_date": "25-apr-2019",
+            "state": "future"
+        },
+        "webprowire.com": {
+            "epoch": "1546646400",
+            "expiration_date": "05-jan-2019",
+            "state": "future"
+        },
+        "webproworld.com": {
+            "epoch": "1545782400",
+            "expiration_date": "26-dec-2018",
             "state": "future"
         },
         "website-designs.com": {
@@ -19444,6 +19504,11 @@
             "epoch": "1536883200",
             "expiration_date": "14-sep-2018",
             "state": "past"
+        },
+        "wetrack.it": {
+            "epoch": "1545868800",
+            "expiration_date": "27-dec-2018",
+            "state": "future"
         },
         "whatseek.com": {
             "epoch": "1564790400",
