@@ -1060,6 +1060,16 @@
             "expiration_date": "20-jul-2019",
             "state": "future"
         },
+        "adelement.com": {
+            "epoch": "1636416000",
+            "expiration_date": "09-nov-2021",
+            "state": "future"
+        },
+        "ademails.com": {
+            "epoch": "1564358400",
+            "expiration_date": "29-jul-2019",
+            "state": "future"
+        },
         "adengage.com": {
             "epoch": "1552953600",
             "expiration_date": "19-mar-2019",
@@ -1478,6 +1488,16 @@
         "adlock.in": {
             "epoch": "1562284800",
             "expiration_date": "05-jul-2019",
+            "state": "future"
+        },
+        "adlogix.net": {
+            "epoch": "1543536000",
+            "expiration_date": "30-nov-2018",
+            "state": "future"
+        },
+        "adlooxtracking.com": {
+            "epoch": "1566086400",
+            "expiration_date": "18-aug-2019",
             "state": "future"
         },
         "admagnet.net": {
