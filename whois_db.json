@@ -5055,6 +5055,11 @@
             "expiration_date": "16-feb-2019",
             "state": "future"
         },
+        "c-on-text.com": {
+            "epoch": "1571788800",
+            "expiration_date": "23-oct-2019",
+            "state": "future"
+        },
         "c2path.com": {
             "epoch": "1556496000",
             "expiration_date": "29-apr-2019",
@@ -5880,6 +5885,11 @@
             "expiration_date": "20-oct-2019",
             "state": "future"
         },
+        "clickmedia.ro": {
+            "epoch": "1539820800",
+            "expiration_date": "18-oct-2018",
+            "state": "past"
+        },
         "clickmonsters.com": {
             "epoch": "1556841600",
             "expiration_date": "03-may-2019",
@@ -6483,6 +6493,16 @@
         "contentlockingnetworks.com": {
             "epoch": "1557446400",
             "expiration_date": "10-may-2019",
+            "state": "future"
+        },
+        "contextuads.com": {
+            "epoch": "1546128000",
+            "expiration_date": "30-dec-2018",
+            "state": "future"
+        },
+        "conversionruler.com": {
+            "epoch": "1568332800",
+            "expiration_date": "13-sep-2019",
             "state": "future"
         },
         "cookieanalyze.info": {
