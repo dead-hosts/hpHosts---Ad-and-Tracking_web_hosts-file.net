@@ -13563,7 +13563,7 @@
         "nettown.com": {
             "epoch": "1541030400",
             "expiration_date": "01-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "network22.com": {
             "epoch": "1569369600",
@@ -13628,7 +13628,7 @@
         "newworldiq.com": {
             "epoch": "1541030400",
             "expiration_date": "01-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "nexage.com": {
             "epoch": "1637193600",
