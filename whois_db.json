@@ -6198,7 +6198,7 @@
         "cms2.net": {
             "epoch": "1541376000",
             "expiration_date": "05-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "cntdy.mobi": {
             "epoch": "1547337600",
@@ -6316,9 +6316,9 @@
             "state": "past"
         },
         "compareyourclicks.com": {
-            "epoch": "1541030400",
-            "expiration_date": "01-nov-2018",
-            "state": "past"
+            "epoch": "1572566400",
+            "expiration_date": "01-nov-2019",
+            "state": "future"
         },
         "compete.com": {
             "epoch": "1582329600",
