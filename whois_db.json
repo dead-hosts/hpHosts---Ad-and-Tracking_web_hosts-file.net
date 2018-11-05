@@ -18606,8 +18606,8 @@
             "state": "future"
         },
         "ukbanners.com": {
-            "epoch": "1541289600",
-            "expiration_date": "04-nov-2018",
+            "epoch": "1572825600",
+            "expiration_date": "04-nov-2019",
             "state": "future"
         },
         "ulock.it": {
@@ -19111,9 +19111,9 @@
             "state": "future"
         },
         "videofun.me": {
-            "epoch": "1541203200",
-            "expiration_date": "03-nov-2018",
-            "state": "past"
+            "epoch": "1572739200",
+            "expiration_date": "03-nov-2019",
+            "state": "future"
         },
         "vidzur.com": {
             "epoch": "1565395200",
