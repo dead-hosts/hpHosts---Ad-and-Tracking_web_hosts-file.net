@@ -12951,8 +12951,8 @@
             "state": "future"
         },
         "mobl-apps.com": {
-            "epoch": "1541462400",
-            "expiration_date": "06-nov-2018",
+            "epoch": "1572998400",
+            "expiration_date": "06-nov-2019",
             "state": "future"
         },
         "mobpartner.com": {
@@ -13103,7 +13103,7 @@
         "mp-success.com": {
             "epoch": "1541721600",
             "expiration_date": "09-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "mprptrk.com": {
             "epoch": "1565654400",
@@ -13203,7 +13203,7 @@
         "my-linker.com": {
             "epoch": "1541721600",
             "expiration_date": "09-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "myadmarket.com": {
             "epoch": "1567987200",
