@@ -8281,9 +8281,9 @@
             "state": "past"
         },
         "evidencecleanergold.com": {
-            "epoch": "1542240000",
-            "expiration_date": "15-nov-2018",
-            "state": "past"
+            "epoch": "1573776000",
+            "expiration_date": "15-nov-2019",
+            "state": "future"
         },
         "ewordofmouth.com": {
             "epoch": "1602633600",
@@ -8488,7 +8488,7 @@
         "fasteasytraffic.com": {
             "epoch": "1542412800",
             "expiration_date": "17-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "fastlinkfinder.com": {
             "epoch": "1574899200",
