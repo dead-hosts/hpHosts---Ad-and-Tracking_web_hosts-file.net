@@ -8486,9 +8486,9 @@
             "state": "future"
         },
         "fasteasytraffic.com": {
-            "epoch": "1542412800",
-            "expiration_date": "17-nov-2018",
-            "state": "past"
+            "epoch": "1573948800",
+            "expiration_date": "17-nov-2019",
+            "state": "future"
         },
         "fastlinkfinder.com": {
             "epoch": "1574899200",
@@ -8523,7 +8523,7 @@
         "fbgdc.com": {
             "epoch": "1542585600",
             "expiration_date": "19-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "fcvjhuzdcached.review": {
             "epoch": "1537315200",
