@@ -16158,7 +16158,7 @@
         "searchswitch.com": {
             "epoch": "1542585600",
             "expiration_date": "19-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "searchwebresults.com": {
             "epoch": "1544140800",
@@ -16318,7 +16318,7 @@
         "senseiproducts.com": {
             "epoch": "1542585600",
             "expiration_date": "19-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "seotoolscentral.com": {
             "epoch": "1555200000",
@@ -16756,9 +16756,9 @@
             "state": "past"
         },
         "smoothscrollapp.com": {
-            "epoch": "1535068800",
-            "expiration_date": "24-aug-2018",
-            "state": "past"
+            "epoch": "1573430400",
+            "expiration_date": "11-nov-2019",
+            "state": "future"
         },
         "smurringdimmv.download": {
             "epoch": "1536883200",
