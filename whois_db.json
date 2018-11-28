@@ -12361,8 +12361,8 @@
             "state": "future"
         },
         "matomymax.com": {
-            "epoch": "1543276800",
-            "expiration_date": "27-nov-2018",
+            "epoch": "1574812800",
+            "expiration_date": "27-nov-2019",
             "state": "future"
         },
         "matomymedia.com": {
@@ -13548,7 +13548,7 @@
         "netprefs.com": {
             "epoch": "1543363200",
             "expiration_date": "28-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "netreflector.com": {
             "epoch": "1555804800",
