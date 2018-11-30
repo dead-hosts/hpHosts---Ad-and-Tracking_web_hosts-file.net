@@ -6108,7 +6108,7 @@
         "clkmg.com": {
             "epoch": "1543536000",
             "expiration_date": "30-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "clkmon.com": {
             "epoch": "1544313600",
@@ -6118,7 +6118,7 @@
         "clkmr.com": {
             "epoch": "1543536000",
             "expiration_date": "30-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "clkrev.com": {
             "epoch": "1551657600",
