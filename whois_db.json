@@ -15238,7 +15238,7 @@
         "qqc.co": {
             "epoch": "1543708800",
             "expiration_date": "02-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "quakemarketing.com": {
             "epoch": "1584230400",
@@ -15421,8 +15421,8 @@
             "state": "future"
         },
         "realtechnetwork.com": {
-            "epoch": "1543708800",
-            "expiration_date": "02-dec-2018",
+            "epoch": "1575244800",
+            "expiration_date": "02-dec-2019",
             "state": "future"
         },
         "realtracker.com": {
