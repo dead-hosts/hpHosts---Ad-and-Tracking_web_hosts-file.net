@@ -5643,7 +5643,7 @@
         "clic-exchange.com": {
             "epoch": "1545004800",
             "expiration_date": "17-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "click-123.com": {
             "epoch": "1563667200",
@@ -5841,8 +5841,8 @@
             "state": "future"
         },
         "clickey.com": {
-            "epoch": "1545004800",
-            "expiration_date": "17-dec-2018",
+            "epoch": "1576540800",
+            "expiration_date": "17-dec-2019",
             "state": "future"
         },
         "clickflow.com": {
