@@ -10333,7 +10333,7 @@
         "humandemand.com": {
             "epoch": "1545436800",
             "expiration_date": "22-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "humaniq.com": {
             "epoch": "1545609600",
