@@ -5180,6 +5180,11 @@
             "expiration_date": "26-jun-2019",
             "state": "future"
         },
+        "carbontraffic.com": {
+            "epoch": "1558224000",
+            "expiration_date": "19-may-2019",
+            "state": "future"
+        },
         "carhopyewiqzlmz.download": {
             "epoch": "1537228800",
             "expiration_date": "18-sep-2018",
@@ -5498,7 +5503,7 @@
         "chippingswbhhaxf.download": {
             "epoch": "1545696000",
             "expiration_date": "25-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "chokoladsrv.net": {
             "epoch": "1548201600",
