@@ -17571,8 +17571,8 @@
             "state": "future"
         },
         "thecounter.com": {
-            "epoch": "1545782400",
-            "expiration_date": "26-dec-2018",
+            "epoch": "1577318400",
+            "expiration_date": "26-dec-2019",
             "state": "future"
         },
         "thehitsusa.com": {
@@ -17858,7 +17858,7 @@
         "torerovdmsbvg.download": {
             "epoch": "1545782400",
             "expiration_date": "26-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "toroadvertisingmedia.com": {
             "epoch": "1584489600",
