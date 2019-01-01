@@ -4868,27 +4868,27 @@
         "btdirectnav.com": {
             "epoch": "1546300800",
             "expiration_date": "01-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "btnativedirect.com": {
             "epoch": "1546300800",
             "expiration_date": "01-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "btnativenav.com": {
             "epoch": "1546300800",
             "expiration_date": "01-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "btprmnav.com": {
             "epoch": "1546300800",
             "expiration_date": "01-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "bttrack.com": {
             "epoch": "1546300800",
             "expiration_date": "01-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "btttag.com": {
             "epoch": "1609200000",
@@ -5276,9 +5276,9 @@
             "state": "future"
         },
         "cashpartner.net": {
-            "epoch": "1546128000",
-            "expiration_date": "30-dec-2018",
-            "state": "past"
+            "epoch": "1577664000",
+            "expiration_date": "30-dec-2019",
+            "state": "future"
         },
         "cashprom.ru": {
             "epoch": "1575849600",
