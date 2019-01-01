@@ -19393,7 +19393,7 @@
         "weakentipjxv.download": {
             "epoch": "1546300800",
             "expiration_date": "01-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "web-stat.com": {
             "epoch": "1612742400",
@@ -19451,8 +19451,8 @@
             "state": "future"
         },
         "webmedia.pl": {
-            "epoch": "1546214400",
-            "expiration_date": "31-dec-2018",
+            "epoch": "1577750400",
+            "expiration_date": "31-dec-2019",
             "state": "future"
         },
         "webnooze.com": {
