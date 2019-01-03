@@ -7578,7 +7578,7 @@
         "dogcustom-works.com": {
             "epoch": "1546473600",
             "expiration_date": "03-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "dohillright.com": {
             "epoch": "1557446400",
@@ -7671,9 +7671,9 @@
             "state": "future"
         },
         "dprtb.com": {
-            "epoch": "1546300800",
-            "expiration_date": "01-jan-2019",
-            "state": "past"
+            "epoch": "1577836800",
+            "expiration_date": "01-jan-2020",
+            "state": "future"
         },
         "drabbersgpauijt.download": {
             "epoch": "1537228800",
