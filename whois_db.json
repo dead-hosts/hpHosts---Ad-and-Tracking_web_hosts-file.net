@@ -12803,7 +12803,7 @@
         "ml8m.com": {
             "epoch": "1546646400",
             "expiration_date": "05-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "mlinktracker.com": {
             "epoch": "1556755200",
@@ -12816,8 +12816,8 @@
             "state": "future"
         },
         "mmnetwork.mobi": {
-            "epoch": "1546560000",
-            "expiration_date": "04-jan-2019",
+            "epoch": "1609718400",
+            "expiration_date": "04-jan-2021",
             "state": "future"
         },
         "mmotraffic.com": {
@@ -13031,9 +13031,9 @@
             "state": "future"
         },
         "mojiva.com": {
-            "epoch": "1546473600",
-            "expiration_date": "03-jan-2019",
-            "state": "past"
+            "epoch": "1609632000",
+            "expiration_date": "03-jan-2021",
+            "state": "future"
         },
         "mokono.com": {
             "epoch": "1605139200",
@@ -13263,6 +13263,11 @@
         "mydas.mobi": {
             "epoch": "1632096000",
             "expiration_date": "20-sep-2021",
+            "state": "future"
+        },
+        "myetracker.com": {
+            "epoch": "1609718400",
+            "expiration_date": "04-jan-2021",
             "state": "future"
         },
         "myfamilysurvival.net": {
