@@ -12158,7 +12158,7 @@
         "lunarads.com": {
             "epoch": "1546819200",
             "expiration_date": "07-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "lunho.com": {
             "epoch": "1556236800",
@@ -12286,9 +12286,9 @@
             "state": "future"
         },
         "marketing-issue.com": {
-            "epoch": "1546646400",
-            "expiration_date": "05-jan-2019",
-            "state": "past"
+            "epoch": "1578182400",
+            "expiration_date": "05-jan-2020",
+            "state": "future"
         },
         "marketing.com": {
             "epoch": "1575331200",
