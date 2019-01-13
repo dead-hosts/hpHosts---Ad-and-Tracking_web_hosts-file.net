@@ -14021,13 +14021,13 @@
             "state": "future"
         },
         "openstat.net": {
-            "epoch": "1547078400",
-            "expiration_date": "10-jan-2019",
+            "epoch": "1578614400",
+            "expiration_date": "10-jan-2020",
             "state": "future"
         },
         "openstat.ru": {
-            "epoch": "1547164800",
-            "expiration_date": "11-jan-2019",
+            "epoch": "1578700800",
+            "expiration_date": "11-jan-2020",
             "state": "future"
         },
         "opentracker.net": {
@@ -14063,7 +14063,7 @@
         "operationfabulous.com": {
             "epoch": "1547337600",
             "expiration_date": "13-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "opinionlab.com": {
             "epoch": "1603843200",
@@ -14071,8 +14071,8 @@
             "state": "future"
         },
         "opportunity-tracking.com": {
-            "epoch": "1547078400",
-            "expiration_date": "10-jan-2019",
+            "epoch": "1578614400",
+            "expiration_date": "10-jan-2020",
             "state": "future"
         },
         "opt-media.com": {
@@ -14573,7 +14573,7 @@
         "planetactive.com": {
             "epoch": "1547337600",
             "expiration_date": "13-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "planetluck.com": {
             "epoch": "1560297600",
