@@ -7186,8 +7186,8 @@
             "state": "future"
         },
         "daz.com": {
-            "epoch": "1547337600",
-            "expiration_date": "13-jan-2019",
+            "epoch": "1642032000",
+            "expiration_date": "13-jan-2022",
             "state": "future"
         },
         "dazeurbht.download": {
@@ -7683,7 +7683,7 @@
         "dragonballzhomeland.com": {
             "epoch": "1547510400",
             "expiration_date": "15-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "drinkmy.com": {
             "epoch": "1551484800",
