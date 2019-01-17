@@ -2943,7 +2943,7 @@
         "affiliate-robot.com": {
             "epoch": "1547683200",
             "expiration_date": "17-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "affiliatebot.com": {
             "epoch": "1551052800",
@@ -3006,8 +3006,8 @@
             "state": "future"
         },
         "affiliatesuccess.net": {
-            "epoch": "1547596800",
-            "expiration_date": "16-jan-2019",
+            "epoch": "1579132800",
+            "expiration_date": "16-jan-2020",
             "state": "future"
         },
         "affiliatetarget.com": {
