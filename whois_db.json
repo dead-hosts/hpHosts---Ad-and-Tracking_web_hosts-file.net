@@ -1473,7 +1473,7 @@
         "adlermode.com": {
             "epoch": "1547683200",
             "expiration_date": "17-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "adlibr.com": {
             "epoch": "1554336000",
@@ -1718,7 +1718,7 @@
         "adonion.com": {
             "epoch": "1547683200",
             "expiration_date": "17-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "adonweb.ru": {
             "epoch": "1565481600",
