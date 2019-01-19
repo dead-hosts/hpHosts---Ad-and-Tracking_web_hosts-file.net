@@ -8158,7 +8158,7 @@
         "ero-advertising.biz": {
             "epoch": "1547856000",
             "expiration_date": "19-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "ero-advertising.com": {
             "epoch": "1639958400",
@@ -8216,8 +8216,8 @@
             "state": "future"
         },
         "esomniture.com": {
-            "epoch": "1547856000",
-            "expiration_date": "19-jan-2019",
+            "epoch": "1579392000",
+            "expiration_date": "19-jan-2020",
             "state": "future"
         },
         "espotting.com": {
