@@ -4596,8 +4596,8 @@
             "state": "future"
         },
         "blueconic.net": {
-            "epoch": "1548547200",
-            "expiration_date": "27-jan-2019",
+            "epoch": "1580083200",
+            "expiration_date": "27-jan-2020",
             "state": "future"
         },
         "bluehavenmedia.com": {
@@ -4728,7 +4728,7 @@
         "boomingsbzboqfg.download": {
             "epoch": "1548547200",
             "expiration_date": "27-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "boostads.net": {
             "epoch": "1562284800",
