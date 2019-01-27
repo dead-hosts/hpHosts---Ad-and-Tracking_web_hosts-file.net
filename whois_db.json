@@ -8001,9 +8001,9 @@
             "state": "past"
         },
         "emediate.se": {
-            "epoch": "1547683200",
-            "expiration_date": "17-jan-2019",
-            "state": "past"
+            "epoch": "1579219200",
+            "expiration_date": "17-jan-2020",
+            "state": "future"
         },
         "employeestnmsy.download": {
             "epoch": "1537228800",
@@ -8156,9 +8156,9 @@
             "state": "future"
         },
         "ero-advertising.biz": {
-            "epoch": "1547856000",
-            "expiration_date": "19-jan-2019",
-            "state": "past"
+            "epoch": "1579392000",
+            "expiration_date": "19-jan-2020",
+            "state": "future"
         },
         "ero-advertising.com": {
             "epoch": "1639958400",
@@ -8171,8 +8171,8 @@
             "state": "future"
         },
         "ero-advertising.org": {
-            "epoch": "1547942400",
-            "expiration_date": "20-jan-2019",
+            "epoch": "1579478400",
+            "expiration_date": "20-jan-2020",
             "state": "future"
         },
         "eroadvertising.biz": {
@@ -8588,7 +8588,7 @@
         "felicityofxmgzq.download": {
             "epoch": "1548547200",
             "expiration_date": "27-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "felliesgrlzafjb.download": {
             "epoch": "1537228800",
@@ -8608,7 +8608,7 @@
         "festoonedkyskjtmxv.download": {
             "epoch": "1548460800",
             "expiration_date": "26-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "fhserve.com": {
             "epoch": "1578355200",
