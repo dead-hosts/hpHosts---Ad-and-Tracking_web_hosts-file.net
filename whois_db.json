@@ -3693,7 +3693,7 @@
         "ashiestsdznwfbsd.download": {
             "epoch": "1548201600",
             "expiration_date": "23-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "asooda.com": {
             "epoch": "1558224000",
@@ -3783,7 +3783,7 @@
         "atmospherebfrufumzi.download": {
             "epoch": "1548115200",
             "expiration_date": "22-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "atropismlsuttxa.download": {
             "epoch": "1548633600",
@@ -4001,8 +4001,8 @@
             "state": "future"
         },
         "baleron.com": {
-            "epoch": "1548288000",
-            "expiration_date": "24-jan-2019",
+            "epoch": "1579824000",
+            "expiration_date": "24-jan-2020",
             "state": "future"
         },
         "banex.cz": {
