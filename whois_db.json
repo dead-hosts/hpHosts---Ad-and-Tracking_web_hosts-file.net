@@ -4468,7 +4468,7 @@
         "bill-info.com": {
             "epoch": "1548720000",
             "expiration_date": "29-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "billboard.cz": {
             "epoch": "1571616000",
@@ -5136,8 +5136,8 @@
             "state": "future"
         },
         "candidclicks.com": {
-            "epoch": "1548720000",
-            "expiration_date": "29-jan-2019",
+            "epoch": "1580256000",
+            "expiration_date": "29-jan-2020",
             "state": "future"
         },
         "candlingbploxcq.download": {
