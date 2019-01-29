@@ -14426,8 +14426,8 @@
             "state": "future"
         },
         "permissionmedia.com": {
-            "epoch": "1548633600",
-            "expiration_date": "28-jan-2019",
+            "epoch": "1580169600",
+            "expiration_date": "28-jan-2020",
             "state": "future"
         },
         "persevered.com": {
@@ -15023,7 +15023,7 @@
         "protectsebuwflgm.download": {
             "epoch": "1548115200",
             "expiration_date": "22-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "protexting.com": {
             "epoch": "1556150400",
