@@ -3788,7 +3788,7 @@
         "atropismlsuttxa.download": {
             "epoch": "1548633600",
             "expiration_date": "28-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "auctionads.com": {
             "epoch": "1666828800",
@@ -4143,7 +4143,7 @@
         "bannerpromotion.it": {
             "epoch": "1547769600",
             "expiration_date": "18-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "banners.com": {
             "epoch": "1753488000",
