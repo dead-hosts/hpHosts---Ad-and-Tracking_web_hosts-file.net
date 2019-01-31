@@ -16431,9 +16431,9 @@
             "state": "past"
         },
         "sexcounter.com": {
-            "epoch": "1548720000",
-            "expiration_date": "29-jan-2019",
-            "state": "past"
+            "epoch": "1580256000",
+            "expiration_date": "29-jan-2020",
+            "state": "future"
         },
         "sexinyourcity.com": {
             "epoch": "1561680000",
@@ -16488,7 +16488,7 @@
         "shellersyheaefm.download": {
             "epoch": "1548892800",
             "expiration_date": "31-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "shiltirs.com": {
             "epoch": "1568332800",
@@ -16598,7 +16598,7 @@
         "siteauikozph.download": {
             "epoch": "1548892800",
             "expiration_date": "31-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "siteflow.com": {
             "epoch": "1575158400",
