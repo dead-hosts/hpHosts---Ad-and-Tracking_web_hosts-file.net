@@ -10648,7 +10648,7 @@
         "inbeingsfmjfup.download": {
             "epoch": "1548892800",
             "expiration_date": "31-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "inboxdollars.com": {
             "epoch": "1561852800",
@@ -11271,9 +11271,9 @@
             "state": "past"
         },
         "juiceadv.com": {
-            "epoch": "1548720000",
-            "expiration_date": "29-jan-2019",
-            "state": "past"
+            "epoch": "1580256000",
+            "expiration_date": "29-jan-2020",
+            "state": "future"
         },
         "juispsvgtproselytes.review": {
             "epoch": "1537228800",
@@ -11628,7 +11628,7 @@
         "lc-pay.com": {
             "epoch": "1548892800",
             "expiration_date": "31-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "lddthjbooboos.review": {
             "epoch": "1537228800",
