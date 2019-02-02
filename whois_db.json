@@ -3363,7 +3363,7 @@
         "anomicpcwgrml.download": {
             "epoch": "1549065600",
             "expiration_date": "02-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "anonymousads.com": {
             "epoch": "1568678400",
@@ -3506,8 +3506,8 @@
             "state": "future"
         },
         "appliedsemantics.com": {
-            "epoch": "1548979200",
-            "expiration_date": "01-feb-2019",
+            "epoch": "1580515200",
+            "expiration_date": "01-feb-2020",
             "state": "future"
         },
         "applifier.com": {
