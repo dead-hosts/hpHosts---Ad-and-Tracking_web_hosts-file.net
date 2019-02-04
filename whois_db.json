@@ -17016,8 +17016,8 @@
             "state": "future"
         },
         "stateresolver.link": {
-            "epoch": "1549152000",
-            "expiration_date": "03-feb-2019",
+            "epoch": "1580688000",
+            "expiration_date": "03-feb-2020",
             "state": "future"
         },
         "stathat.com": {
@@ -17143,7 +17143,7 @@
         "subfuscsoweaucss.download": {
             "epoch": "1549152000",
             "expiration_date": "03-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "subsoilsolvhikahb.download": {
             "epoch": "1536451200",
