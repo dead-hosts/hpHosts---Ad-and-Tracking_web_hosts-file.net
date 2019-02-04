@@ -11561,8 +11561,8 @@
             "state": "past"
         },
         "kryptobanners.com": {
-            "epoch": "1549152000",
-            "expiration_date": "03-feb-2019",
+            "epoch": "1580688000",
+            "expiration_date": "03-feb-2020",
             "state": "future"
         },
         "kscrudiscepted.review": {
@@ -11773,7 +11773,7 @@
         "link4link.com": {
             "epoch": "1549238400",
             "expiration_date": "04-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "linkbuddies.com": {
             "epoch": "1561939200",
