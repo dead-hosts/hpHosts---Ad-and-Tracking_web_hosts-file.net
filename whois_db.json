@@ -10946,8 +10946,8 @@
             "state": "future"
         },
         "ipfingerprint.com": {
-            "epoch": "1549497600",
-            "expiration_date": "07-feb-2019",
+            "epoch": "1612656000",
+            "expiration_date": "07-feb-2021",
             "state": "future"
         },
         "ipqualityscore.com": {
@@ -11651,9 +11651,9 @@
             "state": "future"
         },
         "leadcrunch.com": {
-            "epoch": "1549756800",
-            "expiration_date": "10-feb-2019",
-            "state": "past"
+            "epoch": "1612915200",
+            "expiration_date": "10-feb-2021",
+            "state": "future"
         },
         "leadformix.com": {
             "epoch": "1562976000",
@@ -11896,8 +11896,8 @@
             "state": "future"
         },
         "listenloop.com": {
-            "epoch": "1549843200",
-            "expiration_date": "11-feb-2019",
+            "epoch": "1581379200",
+            "expiration_date": "11-feb-2020",
             "state": "future"
         },
         "litiumo.com": {
