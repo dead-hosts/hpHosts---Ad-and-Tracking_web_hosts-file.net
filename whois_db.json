@@ -311,8 +311,8 @@
             "state": "future"
         },
         "7adpower.com": {
-            "epoch": "1550448000",
-            "expiration_date": "18-feb-2019",
+            "epoch": "1581984000",
+            "expiration_date": "18-feb-2020",
             "state": "future"
         },
         "7cxcrejm.com": {
@@ -533,7 +533,7 @@
         "activeboard.com": {
             "epoch": "1550966400",
             "expiration_date": "24-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "actonsoftware.com": {
             "epoch": "1718323200",
