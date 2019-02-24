@@ -4661,8 +4661,8 @@
             "state": "past"
         },
         "boards2go.com": {
-            "epoch": "1550880000",
-            "expiration_date": "23-feb-2019",
+            "epoch": "1582416000",
+            "expiration_date": "23-feb-2020",
             "state": "future"
         },
         "bogeymanpbbgzoi.download": {
@@ -4931,9 +4931,9 @@
             "state": "future"
         },
         "buildtrafficx.com": {
-            "epoch": "1550793600",
-            "expiration_date": "22-feb-2019",
-            "state": "past"
+            "epoch": "1582329600",
+            "expiration_date": "22-feb-2020",
+            "state": "future"
         },
         "buldog-stats.com": {
             "epoch": "1573084800",
