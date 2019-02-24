@@ -3396,8 +3396,8 @@
             "state": "future"
         },
         "anymanga.com": {
-            "epoch": "1550880000",
-            "expiration_date": "23-feb-2019",
+            "epoch": "1582416000",
+            "expiration_date": "23-feb-2020",
             "state": "future"
         },
         "aocular.com": {
@@ -3633,12 +3633,12 @@
         "aptrk.com": {
             "epoch": "1550966400",
             "expiration_date": "24-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "aptrk5.com": {
             "epoch": "1550966400",
             "expiration_date": "24-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "apture.com": {
             "epoch": "1556928000",
@@ -3736,8 +3736,8 @@
             "state": "past"
         },
         "astrocash.org": {
-            "epoch": "1550880000",
-            "expiration_date": "23-feb-2019",
+            "epoch": "1582416000",
+            "expiration_date": "23-feb-2020",
             "state": "future"
         },
         "astrsk.net": {
