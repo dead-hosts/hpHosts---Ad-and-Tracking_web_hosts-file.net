@@ -5273,7 +5273,7 @@
         "cashpartner.com": {
             "epoch": "1551052800",
             "expiration_date": "25-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "cashpartner.net": {
             "epoch": "1577664000",
