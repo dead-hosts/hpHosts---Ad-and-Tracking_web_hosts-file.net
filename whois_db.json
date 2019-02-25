@@ -19435,6 +19435,11 @@
             "expiration_date": "01-mar-2022",
             "state": "future"
         },
+        "wap.co.il": {
+            "epoch": "1586563200",
+            "expiration_date": "11-apr-2020",
+            "state": "future"
+        },
         "wapplanet.org": {
             "epoch": "1578355200",
             "expiration_date": "07-jan-2020",
@@ -19458,6 +19463,11 @@
         "washesqydoigavu.download": {
             "epoch": "1536883200",
             "expiration_date": "14-sep-2018",
+            "state": "past"
+        },
+        "watchlivestream.me.uk": {
+            "epoch": "1549324800",
+            "expiration_date": "05-feb-2019",
             "state": "past"
         },
         "waudeesestew.com": {
@@ -19510,6 +19520,11 @@
             "expiration_date": "13-feb-2020",
             "state": "future"
         },
+        "webcounter.co.za": {
+            "epoch": "1567382400",
+            "expiration_date": "02-sep-2019",
+            "state": "future"
+        },
         "webcounter.com": {
             "epoch": "1557792000",
             "expiration_date": "14-may-2019",
@@ -19518,6 +19533,11 @@
         "webcounter.cz": {
             "epoch": "1774310400",
             "expiration_date": "24-mar-2026",
+            "state": "future"
+        },
+        "webforensics.co.uk": {
+            "epoch": "1563667200",
+            "expiration_date": "21-jul-2019",
             "state": "future"
         },
         "webgozar.com": {
@@ -19533,6 +19553,16 @@
         "weblemon.pl": {
             "epoch": "1568851200",
             "expiration_date": "19-sep-2019",
+            "state": "future"
+        },
+        "weblog.com.ua": {
+            "epoch": "1555545600",
+            "expiration_date": "18-apr-2019",
+            "state": "future"
+        },
+        "webmedia.co.il": {
+            "epoch": "1564358400",
+            "expiration_date": "29-jul-2019",
             "state": "future"
         },
         "webmedia.pl": {
@@ -19585,6 +19615,11 @@
             "expiration_date": "26-dec-2019",
             "state": "future"
         },
+        "webservis.gen.tr": {
+            "epoch": "1562284800",
+            "expiration_date": "05-jul-2019",
+            "state": "future"
+        },
         "website-designs.com": {
             "epoch": "1585526400",
             "expiration_date": "30-mar-2020",
@@ -19593,6 +19628,11 @@
         "websitefinancing.com": {
             "epoch": "1567123200",
             "expiration_date": "30-aug-2019",
+            "state": "future"
+        },
+        "websitehome.co.uk": {
+            "epoch": "1583971200",
+            "expiration_date": "12-mar-2020",
             "state": "future"
         },
         "websitepromoserver.com": {
@@ -19635,6 +19675,11 @@
             "expiration_date": "18-oct-2019",
             "state": "future"
         },
+        "webstats.com.br": {
+            "epoch": "1550707200",
+            "expiration_date": "21-feb-2019",
+            "state": "past"
+        },
         "webtrackerplus.com": {
             "epoch": "1587859200",
             "expiration_date": "26-apr-2020",
@@ -19675,9 +19720,24 @@
             "expiration_date": "18-aug-2019",
             "state": "future"
         },
+        "wee.co.il": {
+            "epoch": "1568851200",
+            "expiration_date": "19-sep-2019",
+            "state": "future"
+        },
         "weedoit.fr": {
             "epoch": "1553040000",
             "expiration_date": "20-mar-2019",
+            "state": "future"
+        },
+        "weesh.co.uk": {
+            "epoch": "1585353600",
+            "expiration_date": "28-mar-2020",
+            "state": "future"
+        },
+        "wesell.co.il": {
+            "epoch": "1614556800",
+            "expiration_date": "01-mar-2021",
             "state": "future"
         },
         "westernereoednyj.download": {
@@ -19869,6 +19929,11 @@
             "epoch": "1537142400",
             "expiration_date": "17-sep-2018",
             "state": "past"
+        },
+        "wowanalytics.co.uk": {
+            "epoch": "1606003200",
+            "expiration_date": "22-nov-2020",
+            "state": "future"
         },
         "wpmimkheartfelt.review": {
             "epoch": "1537228800",
