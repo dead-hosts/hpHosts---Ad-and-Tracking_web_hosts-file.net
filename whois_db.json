@@ -775,6 +775,11 @@
             "expiration_date": "19-aug-2019",
             "state": "future"
         },
+        "ad6media.co.uk": {
+            "epoch": "1579392000",
+            "expiration_date": "19-jan-2020",
+            "state": "future"
+        },
         "ad6media.fr": {
             "epoch": "1555718400",
             "expiration_date": "20-apr-2019",
@@ -858,6 +863,11 @@
         "adbot.com": {
             "epoch": "1575417600",
             "expiration_date": "04-dec-2019",
+            "state": "future"
+        },
+        "adbrands.co.il": {
+            "epoch": "1613606400",
+            "expiration_date": "18-feb-2021",
             "state": "future"
         },
         "adbrite.com": {
