@@ -8170,6 +8170,11 @@
             "expiration_date": "27-nov-2019",
             "state": "future"
         },
+        "ekmpinpoint.co.uk": {
+            "epoch": "1636588800",
+            "expiration_date": "11-nov-2021",
+            "state": "future"
+        },
         "electorelyjs.download": {
             "epoch": "1537228800",
             "expiration_date": "18-sep-2018",
@@ -8385,6 +8390,11 @@
             "expiration_date": "19-jan-2020",
             "state": "future"
         },
+        "ero-advertising.co.uk": {
+            "epoch": "1570060800",
+            "expiration_date": "03-oct-2019",
+            "state": "future"
+        },
         "ero-advertising.com": {
             "epoch": "1639958400",
             "expiration_date": "20-dec-2021",
@@ -8498,6 +8508,11 @@
         "eveitoki.com": {
             "epoch": "1569456000",
             "expiration_date": "26-sep-2019",
+            "state": "future"
+        },
+        "eventi.co.il": {
+            "epoch": "1621814400",
+            "expiration_date": "24-may-2021",
             "state": "future"
         },
         "everstring.com": {
@@ -8685,6 +8700,11 @@
             "expiration_date": "11-dec-2019",
             "state": "future"
         },
+        "ezec.co.uk": {
+            "epoch": "1581552000",
+            "expiration_date": "13-feb-2020",
+            "state": "future"
+        },
         "eztexting.com": {
             "epoch": "1579219200",
             "expiration_date": "17-jan-2020",
@@ -8819,6 +8839,11 @@
             "epoch": "1537228800",
             "expiration_date": "18-sep-2018",
             "state": "past"
+        },
+        "fenix-translation.com.ua": {
+            "epoch": "1555977600",
+            "expiration_date": "23-apr-2019",
+            "state": "future"
         },
         "ferdy.org": {
             "epoch": "1591401600",
