@@ -18721,9 +18721,9 @@
             "state": "future"
         },
         "trafficpump.com": {
-            "epoch": "1551052800",
-            "expiration_date": "25-feb-2019",
-            "state": "past"
+            "epoch": "1582588800",
+            "expiration_date": "25-feb-2020",
+            "state": "future"
         },
         "trafficshop.com": {
             "epoch": "1559001600",
@@ -19578,6 +19578,11 @@
         "valuecommerce.com": {
             "epoch": "1556841600",
             "expiration_date": "03-may-2019",
+            "state": "future"
+        },
+        "valuedopinions.co.uk": {
+            "epoch": "1552089600",
+            "expiration_date": "09-mar-2019",
             "state": "future"
         },
         "valuehit.com": {
