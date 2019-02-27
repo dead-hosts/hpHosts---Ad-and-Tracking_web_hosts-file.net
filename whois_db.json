@@ -6810,6 +6810,11 @@
             "expiration_date": "12-dec-2020",
             "state": "future"
         },
+        "count.me.uk": {
+            "epoch": "1585180800",
+            "expiration_date": "26-mar-2020",
+            "state": "future"
+        },
         "count4all.com": {
             "epoch": "1572480000",
             "expiration_date": "31-oct-2019",
@@ -7343,6 +7348,11 @@
         "datalabusa.com": {
             "epoch": "1601769600",
             "expiration_date": "04-oct-2020",
+            "state": "future"
+        },
+        "datamaster.com.cn": {
+            "epoch": "1585785600",
+            "expiration_date": "02-apr-2020",
             "state": "future"
         },
         "datametrical.com": {
