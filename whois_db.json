@@ -675,6 +675,11 @@
             "expiration_date": "01-may-2019",
             "state": "future"
         },
+        "ad-server.co.za": {
+            "epoch": "1576108800",
+            "expiration_date": "12-dec-2019",
+            "state": "future"
+        },
         "ad-solutions.com": {
             "epoch": "1558569600",
             "expiration_date": "23-may-2019",
@@ -2103,6 +2108,11 @@
         "adserv.net": {
             "epoch": "1553904000",
             "expiration_date": "30-mar-2019",
+            "state": "future"
+        },
+        "adserver.co.il": {
+            "epoch": "1574812800",
+            "expiration_date": "27-nov-2019",
             "state": "future"
         },
         "adserver.pl": {
