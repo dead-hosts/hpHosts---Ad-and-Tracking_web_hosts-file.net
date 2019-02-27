@@ -13410,6 +13410,41 @@
             "expiration_date": "22-jan-2019",
             "state": "past"
         },
+        "monetisetrk.co.uk": {
+            "epoch": "1560556800",
+            "expiration_date": "15-jun-2019",
+            "state": "future"
+        },
+        "monetisetrk1.co.uk": {
+            "epoch": "1582329600",
+            "expiration_date": "22-feb-2020",
+            "state": "future"
+        },
+        "monetisetrk2.co.uk": {
+            "epoch": "1582329600",
+            "expiration_date": "22-feb-2020",
+            "state": "future"
+        },
+        "monetisetrk3.co.uk": {
+            "epoch": "1582329600",
+            "expiration_date": "22-feb-2020",
+            "state": "future"
+        },
+        "monetisetrk4.co.uk": {
+            "epoch": "1582329600",
+            "expiration_date": "22-feb-2020",
+            "state": "future"
+        },
+        "monetisetrk5.co.uk": {
+            "epoch": "1582329600",
+            "expiration_date": "22-feb-2020",
+            "state": "future"
+        },
+        "monetisetrk6.co.uk": {
+            "epoch": "1568678400",
+            "expiration_date": "17-sep-2019",
+            "state": "future"
+        },
         "monetizemore.com": {
             "epoch": "1582156800",
             "expiration_date": "20-feb-2020",
@@ -13618,6 +13653,11 @@
         "mycams.com": {
             "epoch": "1552608000",
             "expiration_date": "15-mar-2019",
+            "state": "future"
+        },
+        "mycounter.com.ua": {
+            "epoch": "1565740800",
+            "expiration_date": "14-aug-2019",
             "state": "future"
         },
         "mycoupons.com": {
@@ -13845,6 +13885,11 @@
             "expiration_date": "26-aug-2019",
             "state": "future"
         },
+        "nedstat.co.uk": {
+            "epoch": "1577404800",
+            "expiration_date": "27-dec-2019",
+            "state": "future"
+        },
         "nedstat.com": {
             "epoch": "1558224000",
             "expiration_date": "19-may-2019",
@@ -13891,8 +13936,8 @@
             "state": "future"
         },
         "netgeo.com": {
-            "epoch": "1551225600",
-            "expiration_date": "27-feb-2019",
+            "epoch": "1582761600",
+            "expiration_date": "27-feb-2020",
             "state": "future"
         },
         "netidentity.com": {
@@ -14013,6 +14058,11 @@
         "newsmaxfeednetwork.com": {
             "epoch": "1593129600",
             "expiration_date": "26-jun-2020",
+            "state": "future"
+        },
+        "newsnet.in.ua": {
+            "epoch": "1567555200",
+            "expiration_date": "04-sep-2019",
             "state": "future"
         },
         "newtopsites.com": {
