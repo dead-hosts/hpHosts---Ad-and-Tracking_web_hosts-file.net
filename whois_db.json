@@ -370,6 +370,16 @@
             "expiration_date": "07-jul-2019",
             "state": "future"
         },
+        "a-counter.com.ua": {
+            "epoch": "1551139200",
+            "expiration_date": "26-feb-2019",
+            "state": "past"
+        },
+        "a-counter.kiev.ua": {
+            "epoch": "1564617600",
+            "expiration_date": "01-aug-2019",
+            "state": "future"
+        },
         "a2pub.com": {
             "epoch": "1575072000",
             "expiration_date": "30-nov-2019",
@@ -420,6 +430,11 @@
             "expiration_date": "18-sep-2018",
             "state": "past"
         },
+        "abccampaignaudit.co.uk": {
+            "epoch": "1575244800",
+            "expiration_date": "02-dec-2019",
+            "state": "future"
+        },
         "abcjmp.com": {
             "epoch": "1556496000",
             "expiration_date": "29-apr-2019",
@@ -443,6 +458,11 @@
         "abradora.com": {
             "epoch": "1591056000",
             "expiration_date": "02-jun-2020",
+            "state": "future"
+        },
+        "absolstats.co.za": {
+            "epoch": "1573344000",
+            "expiration_date": "10-nov-2019",
             "state": "future"
         },
         "abz.com": {
