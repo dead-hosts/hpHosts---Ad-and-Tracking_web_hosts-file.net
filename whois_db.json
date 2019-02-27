@@ -4445,6 +4445,11 @@
             "expiration_date": "05-oct-2019",
             "state": "future"
         },
+        "beead.co.uk": {
+            "epoch": "1562284800",
+            "expiration_date": "05-jul-2019",
+            "state": "future"
+        },
         "beglorena.com": {
             "epoch": "1573257600",
             "expiration_date": "09-nov-2019",
@@ -4651,8 +4656,8 @@
             "state": "future"
         },
         "bingocabin.com": {
-            "epoch": "1551225600",
-            "expiration_date": "27-feb-2019",
+            "epoch": "1582761600",
+            "expiration_date": "27-feb-2020",
             "state": "future"
         },
         "bingsclspe.download": {
@@ -4956,8 +4961,8 @@
             "state": "past"
         },
         "bravenet.com": {
-            "epoch": "1551225600",
-            "expiration_date": "27-feb-2019",
+            "epoch": "1582761600",
+            "expiration_date": "27-feb-2020",
             "state": "future"
         },
         "breeksboikac.download": {
@@ -5233,6 +5238,11 @@
         "c4tracking01.com": {
             "epoch": "1554595200",
             "expiration_date": "07-apr-2019",
+            "state": "future"
+        },
+        "c8.net.ua": {
+            "epoch": "1576713600",
+            "expiration_date": "19-dec-2019",
             "state": "future"
         },
         "caartoonnetwork.com": {
