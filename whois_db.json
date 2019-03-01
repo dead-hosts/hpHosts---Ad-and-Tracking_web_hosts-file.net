@@ -5265,6 +5265,11 @@
             "expiration_date": "07-sep-2018",
             "state": "past"
         },
+        "call-tracking.co.uk": {
+            "epoch": "1649462400",
+            "expiration_date": "09-apr-2022",
+            "state": "future"
+        },
         "callfire.com": {
             "epoch": "1556668800",
             "expiration_date": "01-may-2019",
@@ -5431,9 +5436,9 @@
             "state": "future"
         },
         "cashpartner.com": {
-            "epoch": "1551052800",
-            "expiration_date": "25-feb-2019",
-            "state": "past"
+            "epoch": "1582588800",
+            "expiration_date": "25-feb-2020",
+            "state": "future"
         },
         "cashpartner.net": {
             "epoch": "1577664000",
@@ -5446,8 +5451,8 @@
             "state": "future"
         },
         "cashspace.com": {
-            "epoch": "1551312000",
-            "expiration_date": "28-feb-2019",
+            "epoch": "1582848000",
+            "expiration_date": "28-feb-2020",
             "state": "future"
         },
         "cashtrafic.com": {
@@ -5611,9 +5616,9 @@
             "state": "past"
         },
         "chango.com": {
-            "epoch": "1551225600",
-            "expiration_date": "27-feb-2019",
-            "state": "past"
+            "epoch": "1582761600",
+            "expiration_date": "27-feb-2020",
+            "state": "future"
         },
         "channeltraffic.net": {
             "epoch": "1571443200",
