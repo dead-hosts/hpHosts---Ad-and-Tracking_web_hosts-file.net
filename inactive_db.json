@@ -3055,7 +3055,9 @@
             "ads.iol.co.il",
             "ads.ixo.com",
             "advertiser.adknowledge.com",
-            "advertiser.ads.ec"
+            "advertiser.ads.ec",
+            "api.adyoulike.com",
+            "api.bizographics.com"
         ],
         "to_test": [
             "4177752.fls.doubleclick.net",
@@ -3065,8 +3067,6 @@
             "4235225.fls.doubleclick.net",
             "4236808.fls.doubleclick.net",
             "4299553.fls.doubleclick.net",
-            "api.adyoulike.com",
-            "api.bizographics.com",
             "click.adknowledge.com",
             "click.findthewebsiteyouneed.com",
             "click.holland-billing.com",
