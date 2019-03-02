@@ -3053,7 +3053,9 @@
             "ads.adsonar.com",
             "ads.advance.uk.com",
             "ads.iol.co.il",
-            "ads.ixo.com"
+            "ads.ixo.com",
+            "advertiser.adknowledge.com",
+            "advertiser.ads.ec"
         ],
         "to_test": [
             "4177752.fls.doubleclick.net",
@@ -3063,8 +3065,6 @@
             "4235225.fls.doubleclick.net",
             "4236808.fls.doubleclick.net",
             "4299553.fls.doubleclick.net",
-            "advertiser.adknowledge.com",
-            "advertiser.ads.ec",
             "api.adyoulike.com",
             "api.bizographics.com",
             "click.adknowledge.com",
