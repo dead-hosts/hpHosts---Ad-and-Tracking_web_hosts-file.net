@@ -15118,7 +15118,7 @@
         "plsdrct2.me": {
             "epoch": "1551657600",
             "expiration_date": "04-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "plugrush.com": {
             "epoch": "1664064000",
@@ -15236,9 +15236,9 @@
             "state": "future"
         },
         "popupad.net": {
-            "epoch": "1551484800",
-            "expiration_date": "02-mar-2019",
-            "state": "past"
+            "epoch": "1583107200",
+            "expiration_date": "02-mar-2020",
+            "state": "future"
         },
         "popupmoney.com": {
             "epoch": "1559088000",
