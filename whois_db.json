@@ -16903,7 +16903,7 @@
         "serv0.com": {
             "epoch": "1552003200",
             "expiration_date": "08-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "servecontent.net": {
             "epoch": "1577750400",
@@ -16966,8 +16966,8 @@
             "state": "future"
         },
         "sextracker.com": {
-            "epoch": "1551830400",
-            "expiration_date": "06-mar-2019",
+            "epoch": "1583452800",
+            "expiration_date": "06-mar-2020",
             "state": "future"
         },
         "sfgybrfoveracting.review": {
@@ -17278,7 +17278,7 @@
         "smartdevicemedia.com": {
             "epoch": "1552003200",
             "expiration_date": "08-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "smartdirect.com": {
             "epoch": "1560643200",
