@@ -570,11 +570,7 @@
             "ad.afy11.net",
             "ad.alldanzradio.com",
             "ad.bol.bg",
-            "ad.directrev.com"
-        ],
-        "to_test": [
-            "231c-356f-e194-8857.reporo.net",
-            "ad.123ads.nl",
+            "ad.directrev.com",
             "ad.e-kolay.net",
             "ad.es.chilinext.com",
             "ad.eurosport.com",
@@ -585,7 +581,11 @@
             "ad.jumbaexchange.com",
             "ad.linxcz.cz",
             "ad.main-netz.de",
-            "ad.mlnadvertising.com",
+            "ad.mlnadvertising.com"
+        ],
+        "to_test": [
+            "231c-356f-e194-8857.reporo.net",
+            "ad.123ads.nl",
             "ad.newmail.ru",
             "ad.newsnow.net",
             "ad.ox88.info",
