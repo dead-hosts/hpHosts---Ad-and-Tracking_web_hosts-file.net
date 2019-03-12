@@ -572,12 +572,10 @@
             "ad.afy11.net",
             "ad.alldanzradio.com",
             "ad.bol.bg",
-            "ad.directrev.com"
-        ],
-        "to_test": [
-            "ad.123ads.nl",
+            "ad.directrev.com",
             "ad.e-kolay.net",
             "ad.es.chilinext.com",
+            "ad.ethicalads.net",
             "ad.eurosport.com",
             "ad.ezcybersearch.com",
             "ad.ezmob.com",
@@ -589,9 +587,13 @@
             "ad.mlnadvertising.com",
             "ad.newmail.ru",
             "ad.newsnow.net",
+            "ad.nozonedata.com",
             "ad.ox88.info",
             "ad.pickadz.com",
-            "ad.sma.punto.net",
+            "ad.sma.punto.net"
+        ],
+        "to_test": [
+            "ad.123ads.nl",
             "ad.tenderteen.com",
             "ad.traffmonster.info",
             "ad.valuecommerce.ne.jp",
