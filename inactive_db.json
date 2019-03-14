@@ -560,12 +560,7 @@
             "acbacb9c.ipt.aol.com",
             "ace.advertising.com",
             "aceratezhoytlh.download",
-            "acinusqiwjwzl.download"
-        ],
-        "to_test": [
-            "2332696.fls.doubleclick.net",
-            "acronymbxruv.download",
-            "acs.xpanama.net",
+            "acinusqiwjwzl.download",
             "ad-ace.doubleclick.net",
             "ad.123ads.nl",
             "ad.aboutit.de",
@@ -574,7 +569,12 @@
             "ad.afy11.net",
             "ad.alldanzradio.com",
             "ad.bol.bg",
-            "ad.directrev.com",
+            "ad.directrev.com"
+        ],
+        "to_test": [
+            "2332696.fls.doubleclick.net",
+            "acronymbxruv.download",
+            "acs.xpanama.net",
             "ad.e-kolay.net",
             "ad.es.chilinext.com",
             "ad.ethicalads.net",
