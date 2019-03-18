@@ -19848,7 +19848,7 @@
         "vlexokrako.com": {
             "epoch": "1552867200",
             "expiration_date": "18-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "vml-127.com": {
             "epoch": "1555459200",
@@ -20066,8 +20066,8 @@
             "state": "future"
         },
         "webgozar.com": {
-            "epoch": "1552694400",
-            "expiration_date": "16-mar-2019",
+            "epoch": "1584316800",
+            "expiration_date": "16-mar-2020",
             "state": "future"
         },
         "webhitcounter.com": {
