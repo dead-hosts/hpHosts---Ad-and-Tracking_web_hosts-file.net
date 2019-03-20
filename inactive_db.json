@@ -572,11 +572,7 @@
             "ad.alldanzradio.com",
             "ad.bannerconnect.net",
             "ad.bol.bg",
-            "ad.directrev.com"
-        ],
-        "to_test": [
-            "3130320.fls.doubleclick.net",
-            "ad.123ads.nl",
+            "ad.directrev.com",
             "ad.e-kolay.net",
             "ad.es.chilinext.com",
             "ad.eurosport.com",
@@ -584,7 +580,11 @@
             "ad.ezmob.com",
             "ad.globe7.com",
             "ad.iconadserver.com",
-            "ad.it.chilinext.com",
+            "ad.it.chilinext.com"
+        ],
+        "to_test": [
+            "3130320.fls.doubleclick.net",
+            "ad.123ads.nl",
             "ad.jumbaexchange.com",
             "ad.linxcz.cz",
             "ad.main-netz.de",
