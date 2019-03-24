@@ -466,9 +466,7 @@
             "3130320.fls.doubleclick.net",
             "3276817.fls.doubleclick.net",
             "32d1d3b9c.se",
-            "33qx.secoptim.com"
-        ],
-        "to_test": [
+            "33qx.secoptim.com",
             "3501113.fls.doubleclick.net",
             "3689-7dbc-ddf7-a45f.reporo.net",
             "3738527.fls.doubleclick.net",
@@ -568,7 +566,9 @@
             "acronymbxruv.download",
             "acs.xpanama.net",
             "ad-ace.doubleclick.net",
-            "ad.123ads.nl",
+            "ad.123ads.nl"
+        ],
+        "to_test": [
             "ad.aboutit.de",
             "ad.adlantis.jp",
             "ad.adlegend.com",
