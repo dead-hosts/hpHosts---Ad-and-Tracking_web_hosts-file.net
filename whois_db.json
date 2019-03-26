@@ -3601,9 +3601,9 @@
             "state": "future"
         },
         "appfly.mobi": {
-            "epoch": "1553385600",
-            "expiration_date": "24-mar-2019",
-            "state": "past"
+            "epoch": "1585008000",
+            "expiration_date": "24-mar-2020",
+            "state": "future"
         },
         "appia.com": {
             "epoch": "1568073600",
@@ -3691,8 +3691,8 @@
             "state": "future"
         },
         "appserver-cp.com": {
-            "epoch": "1553558400",
-            "expiration_date": "26-mar-2019",
+            "epoch": "1585180800",
+            "expiration_date": "26-mar-2020",
             "state": "future"
         },
         "appsfire.com": {
@@ -3826,8 +3826,8 @@
             "state": "past"
         },
         "ass4all.com": {
-            "epoch": "1553558400",
-            "expiration_date": "26-mar-2019",
+            "epoch": "1585180800",
+            "expiration_date": "26-mar-2020",
             "state": "future"
         },
         "assistonglobal.com": {
