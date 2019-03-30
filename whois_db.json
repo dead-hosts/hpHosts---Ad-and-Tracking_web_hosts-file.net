@@ -12018,7 +12018,7 @@
         "leadlander.com": {
             "epoch": "1553904000",
             "expiration_date": "30-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "leadtrackgo.com": {
             "epoch": "1560211200",
@@ -12266,9 +12266,9 @@
             "state": "future"
         },
         "livecounter.dk": {
-            "epoch": "1548892800",
-            "expiration_date": "31-jan-2019",
-            "state": "past"
+            "epoch": "1580428800",
+            "expiration_date": "31-jan-2020",
+            "state": "future"
         },
         "liveinternet.ru": {
             "epoch": "1571356800",
