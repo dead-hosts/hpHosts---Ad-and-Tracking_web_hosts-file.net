@@ -13328,7 +13328,7 @@
         "mobiletheory.com": {
             "epoch": "1553904000",
             "expiration_date": "30-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "mobirushhour.com": {
             "epoch": "1569456000",
@@ -13486,8 +13486,8 @@
             "state": "past"
         },
         "moradu.com": {
-            "epoch": "1553817600",
-            "expiration_date": "29-mar-2019",
+            "epoch": "1585440000",
+            "expiration_date": "29-mar-2020",
             "state": "future"
         },
         "morehitserver.com": {
@@ -13991,8 +13991,8 @@
             "state": "future"
         },
         "netperceptions.com": {
-            "epoch": "1553817600",
-            "expiration_date": "29-mar-2019",
+            "epoch": "1585440000",
+            "expiration_date": "29-mar-2020",
             "state": "future"
         },
         "netprefs.com": {
