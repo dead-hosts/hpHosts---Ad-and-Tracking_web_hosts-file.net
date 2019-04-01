@@ -2766,8 +2766,8 @@
             "state": "future"
         },
         "advertiseireland.com": {
-            "epoch": "1553990400",
-            "expiration_date": "31-mar-2019",
+            "epoch": "1585612800",
+            "expiration_date": "31-mar-2020",
             "state": "future"
         },
         "advertisementbanners.com": {
@@ -2905,6 +2905,11 @@
             "expiration_date": "24-jan-2020",
             "state": "future"
         },
+        "advnet.xyz": {
+            "epoch": "1568246400",
+            "expiration_date": "12-sep-2019",
+            "state": "future"
+        },
         "advnt01.com": {
             "epoch": "1572048000",
             "expiration_date": "26-oct-2019",
@@ -2913,6 +2918,11 @@
         "advombat.ru": {
             "epoch": "1562457600",
             "expiration_date": "07-jul-2019",
+            "state": "future"
+        },
+        "advserver.xyz": {
+            "epoch": "1565568000",
+            "expiration_date": "12-aug-2019",
             "state": "future"
         },
         "advspot.com": {
@@ -3376,8 +3386,8 @@
             "state": "future"
         },
         "allstarmediagroup.com": {
-            "epoch": "1553990400",
-            "expiration_date": "31-mar-2019",
+            "epoch": "1585612800",
+            "expiration_date": "31-mar-2020",
             "state": "future"
         },
         "allstats4u.com": {
