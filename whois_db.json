@@ -19658,7 +19658,7 @@
         "valuehit.com": {
             "epoch": "1554249600",
             "expiration_date": "03-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "valuepay.com": {
             "epoch": "1555027200",
@@ -19791,8 +19791,8 @@
             "state": "past"
         },
         "video-loader.com": {
-            "epoch": "1554163200",
-            "expiration_date": "02-apr-2019",
+            "epoch": "1617321600",
+            "expiration_date": "02-apr-2021",
             "state": "future"
         },
         "videofun.me": {
