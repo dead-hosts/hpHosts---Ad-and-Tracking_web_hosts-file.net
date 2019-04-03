@@ -3491,8 +3491,8 @@
             "state": "future"
         },
         "annuncio.com.do": {
-            "epoch": "1554163200",
-            "expiration_date": "02-apr-2019",
+            "epoch": "1585785600",
+            "expiration_date": "02-apr-2020",
             "state": "future"
         },
         "anomicpcwgrml.download": {
@@ -3608,7 +3608,7 @@
         "appetencyelain.com": {
             "epoch": "1554249600",
             "expiration_date": "03-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "appflood.com": {
             "epoch": "1601424000",
@@ -3851,8 +3851,8 @@
             "state": "future"
         },
         "assoc-amazon.co.uk": {
-            "epoch": "1554163200",
-            "expiration_date": "02-apr-2019",
+            "epoch": "1585785600",
+            "expiration_date": "02-apr-2020",
             "state": "future"
         },
         "associateprograms.com": {
