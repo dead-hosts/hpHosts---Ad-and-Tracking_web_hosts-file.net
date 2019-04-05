@@ -15370,6 +15370,11 @@
             "expiration_date": "18-sep-2018",
             "state": "past"
         },
+        "pptrk.com": {
+            "epoch": "1585872000",
+            "expiration_date": "03-apr-2020",
+            "state": "future"
+        },
         "praptkppltraditors.review": {
             "epoch": "1537142400",
             "expiration_date": "17-sep-2018",
@@ -15726,8 +15731,8 @@
             "state": "past"
         },
         "qawiman.com": {
-            "epoch": "1554422400",
-            "expiration_date": "05-apr-2019",
+            "epoch": "1586044800",
+            "expiration_date": "05-apr-2020",
             "state": "future"
         },
         "qckjmp.com": {
