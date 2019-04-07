@@ -11366,9 +11366,9 @@
             "state": "future"
         },
         "itrack.it": {
-            "epoch": "1553212800",
-            "expiration_date": "22-mar-2019",
-            "state": "past"
+            "epoch": "1584835200",
+            "expiration_date": "22-mar-2020",
+            "state": "future"
         },
         "itrafficcontrol.com": {
             "epoch": "1561420800",
@@ -11898,7 +11898,7 @@
         "kochava.com": {
             "epoch": "1554595200",
             "expiration_date": "07-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "komoona.com": {
             "epoch": "1569456000",
