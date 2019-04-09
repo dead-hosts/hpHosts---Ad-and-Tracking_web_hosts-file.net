@@ -8216,8 +8216,8 @@
             "state": "past"
         },
         "elicitapp.com": {
-            "epoch": "1554681600",
-            "expiration_date": "08-apr-2019",
+            "epoch": "1586304000",
+            "expiration_date": "08-apr-2020",
             "state": "future"
         },
         "elitepartners.ru": {
@@ -8238,6 +8238,11 @@
         "email-newsletters.com": {
             "epoch": "1562457600",
             "expiration_date": "07-jul-2019",
+            "state": "future"
+        },
+        "email666.com": {
+            "epoch": "1586304000",
+            "expiration_date": "08-apr-2020",
             "state": "future"
         },
         "emailserving.com": {
@@ -8346,9 +8351,9 @@
             "state": "future"
         },
         "enzjptkr.com": {
-            "epoch": "1554595200",
-            "expiration_date": "07-apr-2019",
-            "state": "past"
+            "epoch": "1586217600",
+            "expiration_date": "07-apr-2020",
+            "state": "future"
         },
         "enzxpkist.review": {
             "epoch": "1537056000",
@@ -9076,8 +9081,8 @@
             "state": "future"
         },
         "flowgo.com": {
-            "epoch": "1554768000",
-            "expiration_date": "09-apr-2019",
+            "epoch": "1617926400",
+            "expiration_date": "09-apr-2021",
             "state": "future"
         },
         "fluentmobile.com": {
