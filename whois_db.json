@@ -2893,7 +2893,7 @@
         "advm10.com": {
             "epoch": "1554768000",
             "expiration_date": "09-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "advmania.com": {
             "epoch": "1573344000",
@@ -3153,7 +3153,7 @@
         "affiliatetracking.net": {
             "epoch": "1554768000",
             "expiration_date": "09-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "affiliatetrading.net": {
             "epoch": "1573257600",
