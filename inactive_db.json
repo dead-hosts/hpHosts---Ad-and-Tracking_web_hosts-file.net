@@ -533,10 +533,7 @@
             "ad.afy11.net",
             "ad.alldanzradio.com",
             "ad.bol.bg",
-            "ad.directrev.com"
-        ],
-        "to_test": [
-            "ad.123ads.nl",
+            "ad.directrev.com",
             "ad.e-kolay.net",
             "ad.es.chilinext.com",
             "ad.eurosport.com",
@@ -552,7 +549,10 @@
             "ad.newmail.ru",
             "ad.newsnow.net",
             "ad.ox88.info",
-            "ad.pickadz.com",
+            "ad.pickadz.com"
+        ],
+        "to_test": [
+            "ad.123ads.nl",
             "ad.sma.punto.net",
             "ad.traffmonster.info",
             "ad.valuecommerce.ne.jp",
