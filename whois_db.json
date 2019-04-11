@@ -2891,9 +2891,9 @@
             "state": "future"
         },
         "advm10.com": {
-            "epoch": "1554768000",
-            "expiration_date": "09-apr-2019",
-            "state": "past"
+            "epoch": "1586390400",
+            "expiration_date": "09-apr-2020",
+            "state": "future"
         },
         "advmania.com": {
             "epoch": "1573344000",
@@ -3106,8 +3106,8 @@
             "state": "future"
         },
         "affiliatematch.com": {
-            "epoch": "1554854400",
-            "expiration_date": "10-apr-2019",
+            "epoch": "1586476800",
+            "expiration_date": "10-apr-2020",
             "state": "future"
         },
         "affiliatemg.com": {
@@ -3146,14 +3146,14 @@
             "state": "future"
         },
         "affiliatetracking.com": {
-            "epoch": "1554854400",
-            "expiration_date": "10-apr-2019",
+            "epoch": "1649548800",
+            "expiration_date": "10-apr-2022",
             "state": "future"
         },
         "affiliatetracking.net": {
-            "epoch": "1554768000",
-            "expiration_date": "09-apr-2019",
-            "state": "past"
+            "epoch": "1649462400",
+            "expiration_date": "09-apr-2022",
+            "state": "future"
         },
         "affiliatetrading.net": {
             "epoch": "1573257600",
