@@ -6071,8 +6071,8 @@
             "state": "future"
         },
         "clickheretofind.com": {
-            "epoch": "1554940800",
-            "expiration_date": "11-apr-2019",
+            "epoch": "1586563200",
+            "expiration_date": "11-apr-2020",
             "state": "future"
         },
         "clickhouse.com": {
@@ -6193,7 +6193,7 @@
         "clicksrvr.co": {
             "epoch": "1554854400",
             "expiration_date": "10-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "clickstotrack.com": {
             "epoch": "1569888000",
@@ -6241,8 +6241,8 @@
             "state": "future"
         },
         "clicktrace.info": {
-            "epoch": "1554854400",
-            "expiration_date": "10-apr-2019",
+            "epoch": "1586476800",
+            "expiration_date": "10-apr-2020",
             "state": "future"
         },
         "clicktracks.com": {
