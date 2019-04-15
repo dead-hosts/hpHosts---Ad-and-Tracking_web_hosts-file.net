@@ -7468,7 +7468,7 @@
         "dealhelper.com": {
             "epoch": "1555286400",
             "expiration_date": "15-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "dealsfor.me": {
             "epoch": "1597276800",
@@ -7791,8 +7791,8 @@
             "state": "future"
         },
         "dltrk.com": {
-            "epoch": "1555286400",
-            "expiration_date": "15-apr-2019",
+            "epoch": "1586908800",
+            "expiration_date": "15-apr-2020",
             "state": "future"
         },
         "dmtracker.com": {
