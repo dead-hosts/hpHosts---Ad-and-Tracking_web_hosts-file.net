@@ -7308,7 +7308,7 @@
         "d16.net": {
             "epoch": "1556150400",
             "expiration_date": "25-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "d29gqcij.com": {
             "epoch": "1570665600",
@@ -7786,8 +7786,8 @@
             "state": "future"
         },
         "dltags.com": {
-            "epoch": "1556064000",
-            "expiration_date": "24-apr-2019",
+            "epoch": "1587686400",
+            "expiration_date": "24-apr-2020",
             "state": "future"
         },
         "dltrk.com": {
