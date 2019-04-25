@@ -448,10 +448,7 @@
             "208.185.87.98.liveadvert.com",
             "208.185.87.99.liveadvert.com",
             "2196503.fls.doubleclick.net",
-            "2332696.fls.doubleclick.net"
-        ],
-        "to_test": [
-            "2463678.fls.doubleclick.net",
+            "2332696.fls.doubleclick.net",
             "2499034.fls.doubleclick.net",
             "2507573.fls.doubleclick.net",
             "2542116.fls.doubleclick.net",
@@ -499,7 +496,10 @@
             "a.livefreefunwith.me",
             "a.msclickrdr.com",
             "a.solarmovie.is",
-            "a.stanzapub.com",
+            "a.stanzapub.com"
+        ],
+        "to_test": [
+            "2463678.fls.doubleclick.net",
             "a.visualrevenue.com",
             "a.walla.co.il",
             "a.xeozir.com",
