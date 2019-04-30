@@ -3395,6 +3395,11 @@
             "expiration_date": "07-oct-2019",
             "state": "future"
         },
+        "alltereg0.ru": {
+            "epoch": "1590796800",
+            "expiration_date": "30-may-2020",
+            "state": "future"
+        },
         "alltraff.ru": {
             "epoch": "1569456000",
             "expiration_date": "26-sep-2019",
