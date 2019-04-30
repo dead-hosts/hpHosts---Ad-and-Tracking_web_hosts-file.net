@@ -2813,7 +2813,7 @@
         "advertising.dk": {
             "epoch": "1556582400",
             "expiration_date": "30-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "advertising.net": {
             "epoch": "1655769600",
