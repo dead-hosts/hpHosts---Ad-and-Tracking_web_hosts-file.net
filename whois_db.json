@@ -18711,8 +18711,8 @@
             "state": "future"
         },
         "traffic-exchange.com": {
-            "epoch": "1556496000",
-            "expiration_date": "29-apr-2019",
+            "epoch": "1588118400",
+            "expiration_date": "29-apr-2020",
             "state": "future"
         },
         "traffic-hits.com": {
@@ -18973,7 +18973,7 @@
         "trk2it4.com": {
             "epoch": "1556582400",
             "expiration_date": "30-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "trk4.com": {
             "epoch": "1563062400",
