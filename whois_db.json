@@ -4273,7 +4273,7 @@
         "bannerlandia.com": {
             "epoch": "1556582400",
             "expiration_date": "30-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "bannerlandia.com.ar": {
             "epoch": "1587945600",
@@ -4493,7 +4493,7 @@
         "belole.ru": {
             "epoch": "1556496000",
             "expiration_date": "29-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "benchbrands.com": {
             "epoch": "1567641600",
