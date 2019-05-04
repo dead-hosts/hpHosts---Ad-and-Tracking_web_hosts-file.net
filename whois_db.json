@@ -17440,6 +17440,11 @@
             "expiration_date": "27-oct-2019",
             "state": "future"
         },
+        "softcash.biz": {
+            "epoch": "1588464000",
+            "expiration_date": "03-may-2020",
+            "state": "future"
+        },
         "softclick.com.br": {
             "epoch": "1595289600",
             "expiration_date": "21-jul-2020",
@@ -17521,8 +17526,8 @@
             "state": "future"
         },
         "spotsniper.ru": {
-            "epoch": "1556928000",
-            "expiration_date": "04-may-2019",
+            "epoch": "1588550400",
+            "expiration_date": "04-may-2020",
             "state": "future"
         },
         "springboardplatform.com": {
