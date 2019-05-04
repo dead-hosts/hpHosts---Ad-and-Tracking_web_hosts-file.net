@@ -455,9 +455,7 @@
             "2793343.fls.doubleclick.net",
             "2895566.fls.doubleclick.net",
             "2896678.fls.doubleclick.net",
-            "2912a.v.fwmrm.net"
-        ],
-        "to_test": [
+            "2912a.v.fwmrm.net",
             "3130320.fls.doubleclick.net",
             "3276817.fls.doubleclick.net",
             "32d1d3b9c.se",
@@ -498,7 +496,9 @@
             "a.livefreefunwith.me",
             "a.msclickrdr.com",
             "a.solarmovie.is",
-            "a.stanzapub.com",
+            "a.stanzapub.com"
+        ],
+        "to_test": [
             "a.visualrevenue.com",
             "a.walla.co.il",
             "a.xeozir.com",
