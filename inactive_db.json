@@ -451,10 +451,7 @@
             "2463678.fls.doubleclick.net",
             "2499034.fls.doubleclick.net",
             "2507573.fls.doubleclick.net",
-            "2542116.fls.doubleclick.net"
-        ],
-        "to_test": [
-            "2793343.fls.doubleclick.net",
+            "2542116.fls.doubleclick.net",
             "2895566.fls.doubleclick.net",
             "2896678.fls.doubleclick.net",
             "2912a.v.fwmrm.net",
@@ -496,7 +493,10 @@
             "a.ads.t-online.de",
             "a.lazyswipe.com",
             "a.livefreefunwith.me",
-            "a.msclickrdr.com",
+            "a.msclickrdr.com"
+        ],
+        "to_test": [
+            "2793343.fls.doubleclick.net",
             "a.solarmovie.is",
             "a.stanzapub.com",
             "a.visualrevenue.com",
