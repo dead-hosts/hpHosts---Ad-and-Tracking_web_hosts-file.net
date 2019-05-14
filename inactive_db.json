@@ -460,9 +460,7 @@
             "3130320.fls.doubleclick.net",
             "3276817.fls.doubleclick.net",
             "32d1d3b9c.se",
-            "33qx.secoptim.com"
-        ],
-        "to_test": [
+            "33qx.secoptim.com",
             "3501113.fls.doubleclick.net",
             "3738527.fls.doubleclick.net",
             "3773523.fls.doubleclick.net",
@@ -499,7 +497,9 @@
             "a.livefreefunwith.me",
             "a.msclickrdr.com",
             "a.solarmovie.is",
-            "a.stanzapub.com",
+            "a.stanzapub.com"
+        ],
+        "to_test": [
             "a.visualrevenue.com",
             "a.walla.co.il",
             "a.xeozir.com",
