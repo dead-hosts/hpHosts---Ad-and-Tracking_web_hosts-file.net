@@ -969,8 +969,8 @@
 0.0.0.0 bank-36.ads.mp.mydas.mobi
 0.0.0.0 bank36.clicks.mp.mydas.mobi
 0.0.0.0 bank36.mi.ads.mp.mydas.mobi
-0.0.0.0 bank-37.ads.mp.mydas.mobi
 0.0.0.0 bank37.ads.mp.mydas.mobi
+0.0.0.0 bank-37.ads.mp.mydas.mobi
 0.0.0.0 bank37.clicks.mp.mydas.mobi
 0.0.0.0 bank37.mi.ads.mp.mydas.mobi
 0.0.0.0 bank-38.ads.mp.mydas.mobi
@@ -993,8 +993,8 @@
 0.0.0.0 bank-43.ads.mp.mydas.mobi
 0.0.0.0 bank43.clicks.mp.mydas.mobi
 0.0.0.0 bank43.mi.ads.mp.mydas.mobi
-0.0.0.0 bank-44.ads.mp.mydas.mobi
 0.0.0.0 bank44.ads.mp.mydas.mobi
+0.0.0.0 bank-44.ads.mp.mydas.mobi
 0.0.0.0 bank44.clicks.mp.mydas.mobi
 0.0.0.0 bank44.mi.ads.mp.mydas.mobi
 0.0.0.0 bank-45.ads.mp.mydas.mobi
@@ -1594,4 +1594,15 @@
 0.0.0.0 cdn.allegedmedia.com
 0.0.0.0 cdn.apptv.com
 0.0.0.0 cdna.tremormedia.com
-0.0.0.0 cdn.bidvertiser.com
+0.0.0.0 cdn.bidvertiser.com0.0.0.0 cdn.boomtrain.com
+0.0.0.0 cdn.broadstreetads.com
+0.0.0.0 cdncache2-a.akamaihd.net
+0.0.0.0 cdn.cdncomputer.com
+0.0.0.0 cdn.chargeplatform.com
+0.0.0.0 cdn.chuknu.sokrati.com
+0.0.0.0 cdn.connatix.com
+0.0.0.0 cdn.cpmstar.com
+0.0.0.0 cdn.creative.medialytics.com
+0.0.0.0 cdn.doubleverify.com
+0.0.0.0 cdn.dynamicyield.com
+0.0.0.0 cdn.elasticad.net
