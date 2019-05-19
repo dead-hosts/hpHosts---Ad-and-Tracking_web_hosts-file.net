@@ -3595,9 +3595,9 @@
         "state": "future"
     },
     "appclick.co": {
-        "epoch": "1557964800",
+        "epoch": 1557964800,
         "expiration_date": "16-may-2019",
-        "state": "future"
+        "state": "past"
     },
     "appclick.net": {
         "epoch": "1581897600",
