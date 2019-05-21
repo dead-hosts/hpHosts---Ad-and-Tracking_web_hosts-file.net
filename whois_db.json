@@ -384,6 +384,11 @@
         "expiration_date": "20-mar-2020",
         "state": "future"
     },
+    "whispa.com": {
+        "epoch": 1672704000,
+        "expiration_date": "03-jan-2023",
+        "state": "future"
+    },
     "xratedtracking.com": {
         "epoch": 1584489600,
         "expiration_date": "18-mar-2020",
