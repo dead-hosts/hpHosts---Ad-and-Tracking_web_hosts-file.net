@@ -25,6 +25,7 @@
 0.0.0.0 120mk.voluumtrk.com
 0.0.0.0 1513878.fls.doubleclick.net
 0.0.0.0 192.168.cdn-a2.contentabc.com
+0.0.0.0 1app.blob.core.windows.net
 0.0.0.0 1fm8o.voluumtrk.com
 0.0.0.0 1msro.voluumtrk.com
 0.0.0.0 20574919p.rfihub.com
@@ -43,6 +44,7 @@
 0.0.0.0 208.185.87.173.liveadvert.com
 0.0.0.0 208.185.87.177.liveadvert.com
 0.0.0.0 208.185.87.190.liveadvert.com
+0.0.0.0 208.185.87.219.liveadvert.com
 0.0.0.0 208.185.87.223.liveadvert.com
 0.0.0.0 208.185.87.249.liveadvert.com
 0.0.0.0 208.185.87.254.liveadvert.com
@@ -1111,8 +1113,8 @@
 0.0.0.0 bank-42.ads.mp.mydas.mobi
 0.0.0.0 bank42.clicks.mp.mydas.mobi
 0.0.0.0 bank42.mi.ads.mp.mydas.mobi
-0.0.0.0 bank-43.ads.mp.mydas.mobi
 0.0.0.0 bank43.ads.mp.mydas.mobi
+0.0.0.0 bank-43.ads.mp.mydas.mobi
 0.0.0.0 bank43.clicks.mp.mydas.mobi
 0.0.0.0 bank43.mi.ads.mp.mydas.mobi
 0.0.0.0 bank44.ads.mp.mydas.mobi
@@ -2053,6 +2055,7 @@
 0.0.0.0 count302.51yes.com
 0.0.0.0 count305.51yes.com
 0.0.0.0 count308.51yes.com
+0.0.0.0 count310.51yes.com
 0.0.0.0 count312.51yes.com
 0.0.0.0 count314.51yes.com
 0.0.0.0 count31.51yes.com
@@ -2060,6 +2063,7 @@
 0.0.0.0 count329.51yes.com
 0.0.0.0 count330.51yes.com
 0.0.0.0 count337.51yes.com
+0.0.0.0 count339.51yes.com
 0.0.0.0 count343.51yes.com
 0.0.0.0 count345.51yes.com
 0.0.0.0 count348.51yes.com
@@ -2070,6 +2074,8 @@
 0.0.0.0 count377.51yes.com
 0.0.0.0 count379.51yes.com
 0.0.0.0 count382.51yes.com
+0.0.0.0 count387.51yes.com
+0.0.0.0 count394.51yes.com
 0.0.0.0 count396.51yes.com
 0.0.0.0 count399.51yes.com
 0.0.0.0 count400.51yes.com
@@ -2079,11 +2085,13 @@
 0.0.0.0 count416.51yes.com
 0.0.0.0 count417.51yes.com
 0.0.0.0 count424.51yes.com
+0.0.0.0 count430.51yes.com
 0.0.0.0 count433.51yes.com
 0.0.0.0 count435.51yes.com
 0.0.0.0 count439.51yes.com
 0.0.0.0 count44.51yes.com
 0.0.0.0 count4.51yes.com
+0.0.0.0 count453.51yes.com
 0.0.0.0 count45.51yes.com
 0.0.0.0 count458.51yes.com
 0.0.0.0 count460.51yes.com
@@ -2115,6 +2123,7 @@
 0.0.0.0 count547.51yes.com
 0.0.0.0 count548.51yes.com
 0.0.0.0 count563.51yes.com
+0.0.0.0 count564.51yes.com
 0.0.0.0 count580.51yes.com
 0.0.0.0 count58.51yes.com
 0.0.0.0 count590.51yes.com
@@ -2132,6 +2141,7 @@
 0.0.0.0 count633.51yes.com
 0.0.0.0 count639.51yes.com
 0.0.0.0 count641.51yes.com
+0.0.0.0 count645.51yes.com
 0.0.0.0 count652.51yes.com
 0.0.0.0 count654.51yes.com
 0.0.0.0 count655.51yes.com
@@ -2150,6 +2160,7 @@
 0.0.0.0 count692.51yes.com
 0.0.0.0 count698.51yes.com
 0.0.0.0 count702.51yes.com
+0.0.0.0 count705.51yes.com
 0.0.0.0 count714.51yes.com
 0.0.0.0 count71.51yes.com
 0.0.0.0 count720.51yes.com
@@ -2159,10 +2170,12 @@
 0.0.0.0 count735.51yes.com
 0.0.0.0 count741.51yes.com
 0.0.0.0 count7.51yes.com
+0.0.0.0 count757.51yes.com
 0.0.0.0 count760.51yes.com
 0.0.0.0 count762.51yes.com
 0.0.0.0 count764.51yes.com
 0.0.0.0 count765.51yes.com
+0.0.0.0 count767.51yes.com
 0.0.0.0 count775.51yes.com
 0.0.0.0 count778.51yes.com
 0.0.0.0 count779.51yes.com
@@ -2222,14 +2235,17 @@
 0.0.0.0 count987.51yes.com
 0.0.0.0 count994.51yes.com
 0.0.0.0 counter.bravenet.com
+0.0.0.0 counter.maases.com
 0.0.0.0 couponcp-a.akamaihd.net
 0.0.0.0 cpanel.nativeads.com
 0.0.0.0 crackberry.us.intellitxt.com
 0.0.0.0 crkld.voluumtrk.com
+0.0.0.0 cs13.livetex.ru
 0.0.0.0 cs18.livetex.ru
 0.0.0.0 cs2.livetex.ru
 0.0.0.0 cs5.livetex.ru
 0.0.0.0 cs.adingo.jp
+0.0.0.0 c.securepaths.com
 0.0.0.0 cvt.mydas.mobi
 0.0.0.0 cz8.clickzzs.nl
 0.0.0.0 c.zeroredirect1.com
@@ -2244,6 +2260,7 @@
 0.0.0.0 d3s7ggfq1s6jlj.cloudfront.net
 0.0.0.0 d3v1lb83psg9di.cloudfront.net
 0.0.0.0 d5grz.voluumtrk.com
+0.0.0.0 d8rk54i4mohrb.cloudfront.net
 0.0.0.0 da5c8.voluumtrk.com
 0.0.0.0 dailydeals.augustachronicle.com
 0.0.0.0 daudc.voluumtrk.com
@@ -2254,6 +2271,7 @@
 0.0.0.0 dd.connextra.com
 0.0.0.0 defshop01.webtrekk.net
 0.0.0.0 des.smartclip.net
+0.0.0.0 devshed.us.intellitxt.com
 0.0.0.0 dmm.tt.omtrdc.net
 0.0.0.0 dmp.springserve.com
 0.0.0.0 dnssec-vd.gexperiments2.com
@@ -2277,6 +2295,7 @@
 0.0.0.0 eads.nl
 0.0.0.0 ebvjw.voluumtrk.com
 0.0.0.0 ec-ns.sascdn.com
+0.0.0.0 edge.jeetyetmedia.com
 0.0.0.0 edidomus01.webtrekk.net
 0.0.0.0 edwlifes.vo.llnwd.net
 0.0.0.0 ejyav.voluumtrk.com
@@ -2306,6 +2325,7 @@
 0.0.0.0 event-dev.adotsolution.com
 0.0.0.0 events.jotform.com
 0.0.0.0 examnotes.us.intellitxt.com
+0.0.0.0 experts.us.intellitxt.com
 0.0.0.0 external-lhr10-1.xx.fbcdn.net
 0.0.0.0 external-lhr7-1.xx.fbcdn.net
 0.0.0.0 ezw0z.voluumtrk.com
@@ -2379,16 +2399,19 @@
 0.0.0.0 go.activengage.com
 0.0.0.0 go.wbsadsdel.com
 0.0.0.0 gscounters.us1.gigya.com
+0.0.0.0 gsujb.voluumtrk.com
 0.0.0.0 gtrforums.us.intellitxt.com
 0.0.0.0 gzadt.voluumtrk.com
 0.0.0.0 hdlife-com-tw.b.appier.net
 0.0.0.0 hfrov.voluumtrk.com
 0.0.0.0 hk.adserver.yahoo.com
 0.0.0.0 home.edt02.net
+0.0.0.0 h.openx.net
 0.0.0.0 horizon.attn.com
 0.0.0.0 horizon.playboy.com
 0.0.0.0 hottour.justclick.ru
 0.0.0.0 hrdya.voluumtrk.com
+0.0.0.0 hsaki.voluumtrk.com
 0.0.0.0 ht.pornhub.com
 0.0.0.0 hv3jo.voluumtrk.com
 0.0.0.0 hxnfk.voluumtrk.com
@@ -2438,10 +2461,12 @@
 0.0.0.0 joblo.us.intellitxt.com
 0.0.0.0 jppcj.voluumtrk.com
 0.0.0.0 jpxal.voluumtrk.com
+0.0.0.0 jsc.marketgid.com
 0.0.0.0 js.kau.li
 0.0.0.0 json-cricket.appspot.com
 0.0.0.0 js.rmbn.ru
 0.0.0.0 jtzvl.voluumtrk.com
+0.0.0.0 j.zeroredirect2.com
 0.0.0.0 k30mn.voluumtrk.com
 0.0.0.0 k66fd.voluumtrk.com
 0.0.0.0 k6pwy.voluumtrk.com
@@ -2465,6 +2490,7 @@
 0.0.0.0 limelightovp3.creatorcloud.netdna-cdn.com
 0.0.0.0 livechat.s3.amazonaws.com
 0.0.0.0 live.sekindo.com
+0.0.0.0 lmcd.us.intellitxt.com
 0.0.0.0 log.adap.tv
 0.0.0.0 loga.hit-parade.com
 0.0.0.0 logger-03.vty.dailymotion.com
@@ -2477,6 +2503,7 @@
 0.0.0.0 lqhoy.voluumtrk.com
 0.0.0.0 lqipx.voluumtrk.com
 0.0.0.0 lsegt.voluumtrk.com
+0.0.0.0 ltljm.voluumtrk.com
 0.0.0.0 lvler.voluumtrk.com
 0.0.0.0 lwfmc.voluumtrk.com
 0.0.0.0 lyyy6.voluumtrk.com
@@ -2528,6 +2555,7 @@
 0.0.0.0 m.sancdn.net
 0.0.0.0 mswtg.voluumtrk.com
 0.0.0.0 mtvnetworks.tt.omtrdc.net
+0.0.0.0 mvldn.voluumtrk.com
 0.0.0.0 m.xp1.ru4.com
 0.0.0.0 m.zeroredirect2.com
 0.0.0.0 nb.myspace.com
@@ -2566,6 +2594,7 @@
 0.0.0.0 partner.teufel.de
 0.0.0.0 pcastuces.fr.intellitxt.com
 0.0.0.0 pd.justclick.ru
+0.0.0.0 pdn.applovin.com
 0.0.0.0 p.errorception.com
 0.0.0.0 pfuv5.voluumtrk.com
 0.0.0.0 pfx9u.voluumtrk.com
@@ -2574,6 +2603,7 @@
 0.0.0.0 ph-ad09.focalink.com
 0.0.0.0 ph-ad12.focalink.com
 0.0.0.0 ph-ad15.focalink.com
+0.0.0.0 ph-ad18.focalink.com
 0.0.0.0 ph-ad.focalink.com
 0.0.0.0 philipselectronicsne.tt.omtrdc.net
 0.0.0.0 physorg.us.intellitxt.com
@@ -2600,6 +2630,7 @@
 0.0.0.0 q3iko.voluumtrk.com
 0.0.0.0 qb2h0.voluumtrk.com
 0.0.0.0 qdzlt.voluumtrk.com
+0.0.0.0 qimuj.voluumtrk.com
 0.0.0.0 qmuuc.voluumtrk.com
 0.0.0.0 qnlcq.voluumtrk.com
 0.0.0.0 qudll.voluumtrk.com
@@ -2636,6 +2667,7 @@
 0.0.0.0 s9kpd.voluumtrk.com
 0.0.0.0 sat.sanoma.fi
 0.0.0.0 sc2bg.voluumtrk.com
+0.0.0.0 schumacher.adtech.fr
 0.0.0.0 s.click.aliexpress.com
 0.0.0.0 scripts.amateurpin.com
 0.0.0.0 scrooge.newsnet5.com
@@ -2698,6 +2730,7 @@
 0.0.0.0 stat.www.fi
 0.0.0.0 st.dynamicyield.com
 0.0.0.0 stepank.justclick.ru
+0.0.0.0 st.ladycash.ru
 0.0.0.0 storage.outbrain.com
 0.0.0.0 strikeadcdn.s3.amazonaws.com
 0.0.0.0 st.xhamster.com
@@ -2718,6 +2751,7 @@
 0.0.0.0 td.demdex.net
 0.0.0.0 ted.metro.co.uk
 0.0.0.0 telekom02.webtrekk.net
+0.0.0.0 tennessean.us.intellitxt.com
 0.0.0.0 tenzing.fmpub.net
 0.0.0.0 tescostoresltd.tt.omtrdc.net
 0.0.0.0 test.livejasmin.com
@@ -2736,6 +2770,7 @@
 0.0.0.0 tracker.lgcontent.cl
 0.0.0.0 track.gawker.com
 0.0.0.0 tracking.1moretoy.com
+0.0.0.0 tracking.ads.ibibo.com
 0.0.0.0 tracking.fits.me
 0.0.0.0 tracking.listhub.net
 0.0.0.0 tracking.prmtracking.com
@@ -2768,6 +2803,7 @@
 0.0.0.0 vitacost.tt.omtrdc.net
 0.0.0.0 vlbalash.justclick.ru
 0.0.0.0 vop.sundaysky.com
+0.0.0.0 vst.c.appier.net
 0.0.0.0 v.visitweb.com
 0.0.0.0 wac.a164.taucdn.net
 0.0.0.0 wd.sharethis.com
@@ -2796,6 +2832,7 @@
 0.0.0.0 www.bkrtx.com
 0.0.0.0 www.bnhtml.com
 0.0.0.0 www.cashforsurveys.net
+0.0.0.0 www.clickansave.net
 0.0.0.0 www.clickterra.net
 0.0.0.0 www.clickv.com
 0.0.0.0 www.connectlinking10.com
@@ -2825,6 +2862,7 @@
 0.0.0.0 www.search-images.com
 0.0.0.0 www-shard04-cef.justclick.ru
 0.0.0.0 www-shard07-jm.justclick.ru
+0.0.0.0 www-shard11-vwxyz.justclick.ru
 0.0.0.0 www.skyenetmedia.com
 0.0.0.0 www.trackingclick.net
 0.0.0.0 www.typiol.com
@@ -2837,11 +2875,13 @@
 0.0.0.0 x12.ifdef.jp
 0.0.0.0 x13.ifdef.jp
 0.0.0.0 x.about.com
+0.0.0.0 xbox.ign.us.intellitxt.com
 0.0.0.0 xhr.beglorena.com
 0.0.0.0 xhr.bokilora.com
 0.0.0.0 xhr.bonjikoa.com
 0.0.0.0 xhr.civitik.com
 0.0.0.0 xhr.dagasaka.com
+0.0.0.0 xhr.dontibar.com
 0.0.0.0 xhr.foditgoz.com
 0.0.0.0 xhr.forkitz.com
 0.0.0.0 xhr.golizoli.com
@@ -2871,4 +2911,4 @@
 0.0.0.0 zm.zeroredirect1.com0.0.0.0 xhr.horheloopo.com
 0.0.0.0 zo.zeroredirect1.com0.0.0.0 www.nanoadexchange.com0.0.0.0 flatex-at01.webtrekk.net0.0.0.0 nbsmr.voluumtrk.com0.0.0.0 qnzdd.voluumtrk.com0.0.0.0 z7.zeroredirect1.com0.0.0.0 pix522.adtech.fr0.0.0.0 distillery.wistia.com
 0.0.0.0 zp.zeroredirect1.com0.0.0.0 count695.51yes.com0.0.0.0 f-js1.spotsniper.ru0.0.0.0 bank-30.ads.mp.mydas.mobi0.0.0.0 count623.51yes.com0.0.0.0 count480.51yes.com
-0.0.0.0 zzz.clickbank.net
+0.0.0.0 zzz.clickbank.net0.0.0.0 pivotal.github.com
