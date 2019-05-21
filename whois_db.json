@@ -234,6 +234,11 @@
         "expiration_date": "19-aug-2019",
         "state": "future"
     },
+    "tidbit.co.in": {
+        "epoch": 1587945600,
+        "expiration_date": "27-apr-2020",
+        "state": "future"
+    },
     "traffictrader.net": {
         "epoch": 1584662400,
         "expiration_date": "20-mar-2020",
