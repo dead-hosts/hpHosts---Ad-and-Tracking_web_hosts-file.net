@@ -229,6 +229,11 @@
         "expiration_date": "22-feb-2020",
         "state": "future"
     },
+    "thehitsusa.com": {
+        "epoch": 1566172800,
+        "expiration_date": "19-aug-2019",
+        "state": "future"
+    },
     "traffictrader.net": {
         "epoch": 1584662400,
         "expiration_date": "20-mar-2020",
