@@ -144,6 +144,11 @@
         "expiration_date": "20-jul-2019",
         "state": "future"
     },
+    "oxcash.com": {
+        "epoch": 1589760000,
+        "expiration_date": "18-may-2020",
+        "state": "future"
+    },
     "permissionmedia.com": {
         "epoch": 1580169600,
         "expiration_date": "28-jan-2020",
