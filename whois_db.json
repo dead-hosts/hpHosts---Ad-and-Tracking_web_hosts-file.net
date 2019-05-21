@@ -94,6 +94,11 @@
         "expiration_date": "06-nov-2019",
         "state": "future"
     },
+    "enscl.com": {
+        "epoch": 1567123200,
+        "expiration_date": "30-aug-2019",
+        "state": "future"
+    },
     "ezcybersearch.com": {
         "epoch": 1583107200,
         "expiration_date": "02-mar-2020",
