@@ -223,5 +223,10 @@
         "epoch": 1587600000,
         "expiration_date": "23-apr-2020",
         "state": "future"
+    },
+    "weedoit.fr": {
+        "epoch": 1584662400,
+        "expiration_date": "20-mar-2020",
+        "state": "future"
     }
 }
