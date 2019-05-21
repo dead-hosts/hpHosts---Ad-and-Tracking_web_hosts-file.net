@@ -248,5 +248,10 @@
         "epoch": 1584662400,
         "expiration_date": "20-mar-2020",
         "state": "future"
+    },
+    "xratedtracking.com": {
+        "epoch": 1584489600,
+        "expiration_date": "18-mar-2020",
+        "state": "future"
     }
 }
