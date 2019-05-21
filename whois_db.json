@@ -184,6 +184,11 @@
         "expiration_date": "05-feb-2020",
         "state": "future"
     },
+    "lbn.ru": {
+        "epoch": 1588377600,
+        "expiration_date": "02-may-2020",
+        "state": "future"
+    },
     "lookest.win": {
         "epoch": 1559952000,
         "expiration_date": "08-jun-2019",
