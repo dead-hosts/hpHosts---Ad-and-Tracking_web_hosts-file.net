@@ -74,6 +74,11 @@
         "expiration_date": "21-jul-2022",
         "state": "future"
     },
+    "ge1.ca": {
+        "epoch": 1588118400,
+        "expiration_date": "29-apr-2020",
+        "state": "future"
+    },
     "goviralnetwork.net": {
         "epoch": 1619740800,
         "expiration_date": "30-apr-2021",
