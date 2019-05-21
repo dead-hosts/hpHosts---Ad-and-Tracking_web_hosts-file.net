@@ -84,6 +84,11 @@
         "expiration_date": "26-sep-2019",
         "state": "future"
     },
+    "demandbase.com": {
+        "epoch": 1618185600,
+        "expiration_date": "12-apr-2021",
+        "state": "future"
+    },
     "discountclick.com": {
         "epoch": 1568073600,
         "expiration_date": "10-sep-2019",
