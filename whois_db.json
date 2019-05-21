@@ -264,6 +264,11 @@
         "expiration_date": "13-may-2020",
         "state": "future"
     },
+    "secureadcenter.com": {
+        "epoch": 1582156800,
+        "expiration_date": "20-feb-2020",
+        "state": "future"
+    },
     "springboardplatform.com": {
         "epoch": 1677196800,
         "expiration_date": "24-feb-2023",
