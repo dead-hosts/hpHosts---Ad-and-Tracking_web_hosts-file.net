@@ -53,5 +53,10 @@
         "epoch": 1569974400,
         "expiration_date": "02-oct-2019",
         "state": "future"
+    },
+    "upads.info": {
+        "epoch": 1587600000,
+        "expiration_date": "23-apr-2020",
+        "state": "future"
     }
 }
