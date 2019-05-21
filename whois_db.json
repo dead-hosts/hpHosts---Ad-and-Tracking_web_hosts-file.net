@@ -169,6 +169,11 @@
         "expiration_date": "12-mar-2020",
         "state": "future"
     },
+    "native.ai": {
+        "epoch": 1619654400,
+        "expiration_date": "29-apr-2021",
+        "state": "future"
+    },
     "otmsrv.com": {
         "epoch": 1563580800,
         "expiration_date": "20-jul-2019",
