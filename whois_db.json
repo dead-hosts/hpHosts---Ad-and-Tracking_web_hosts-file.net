@@ -184,6 +184,11 @@
         "expiration_date": "29-apr-2021",
         "state": "future"
     },
+    "newworldiq.com": {
+        "epoch": 1572566400,
+        "expiration_date": "01-nov-2019",
+        "state": "future"
+    },
     "otmsrv.com": {
         "epoch": 1563580800,
         "expiration_date": "20-jul-2019",
