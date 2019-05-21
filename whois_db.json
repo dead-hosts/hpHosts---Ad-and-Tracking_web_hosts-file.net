@@ -89,6 +89,11 @@
         "expiration_date": "21-jul-2022",
         "state": "future"
     },
+    "gameleads.ru": {
+        "epoch": 1567468800,
+        "expiration_date": "03-sep-2019",
+        "state": "future"
+    },
     "ge1.ca": {
         "epoch": 1588118400,
         "expiration_date": "29-apr-2020",
