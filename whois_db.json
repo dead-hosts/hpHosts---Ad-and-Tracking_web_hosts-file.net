@@ -1775,9 +1775,9 @@
         "state": "future"
     },
     "adnimation.com": {
-        "epoch": "1558396800",
+        "epoch": 1558396800,
         "expiration_date": "21-may-2019",
-        "state": "future"
+        "state": "past"
     },
     "adnoble.com": {
         "epoch": "1580947200",
