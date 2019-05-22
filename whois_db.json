@@ -109,6 +109,11 @@
         "expiration_date": "25-aug-2019",
         "state": "future"
     },
+    "smjmp.net": {
+        "epoch": 1604188800,
+        "expiration_date": "01-nov-2020",
+        "state": "future"
+    },
     "spotsniper.ru": {
         "epoch": 1588550400,
         "expiration_date": "04-may-2020",
