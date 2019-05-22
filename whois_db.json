@@ -124,6 +124,11 @@
         "expiration_date": "19-jun-2019",
         "state": "future"
     },
+    "trafic-fr.com": {
+        "epoch": 1590796800,
+        "expiration_date": "30-may-2020",
+        "state": "future"
+    },
     "udac.se": {
         "epoch": 1577750400,
         "expiration_date": "31-dec-2019",
