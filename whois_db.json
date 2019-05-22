@@ -164,6 +164,11 @@
         "expiration_date": "14-oct-2019",
         "state": "future"
     },
+    "maple-team.com": {
+        "epoch": 1562976000,
+        "expiration_date": "13-jul-2019",
+        "state": "future"
+    },
     "mediaplex.com": {
         "epoch": 1581292800,
         "expiration_date": "10-feb-2020",
