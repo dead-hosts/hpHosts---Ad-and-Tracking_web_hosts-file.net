@@ -49,6 +49,11 @@
         "expiration_date": "01-dec-2025",
         "state": "future"
     },
+    "adswap.com": {
+        "epoch": 1593302400,
+        "expiration_date": "28-jun-2020",
+        "state": "future"
+    },
     "adsxgm.com": {
         "epoch": 1561161600,
         "expiration_date": "22-jun-2019",
@@ -554,4 +559,5 @@
         "expiration_date": "18-mar-2020",
         "state": "future"
     }
+} }
 }
