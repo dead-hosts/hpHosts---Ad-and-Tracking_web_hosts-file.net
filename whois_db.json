@@ -44,6 +44,11 @@
         "expiration_date": "31-may-2021",
         "state": "future"
     },
+    "crispwireless.com": {
+        "epoch": 1592784000,
+        "expiration_date": "22-jun-2020",
+        "state": "future"
+    },
     "datashreddergold.com": {
         "epoch": 1567382400,
         "expiration_date": "02-sep-2019",
