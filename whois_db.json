@@ -13,5 +13,10 @@
         "epoch": 1583020800,
         "expiration_date": "01-mar-2020",
         "state": "future"
+    },
+    "trademob.com": {
+        "epoch": 1560902400,
+        "expiration_date": "19-jun-2019",
+        "state": "future"
     }
 }
