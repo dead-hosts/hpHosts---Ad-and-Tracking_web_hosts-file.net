@@ -29,6 +29,11 @@
         "expiration_date": "04-oct-2019",
         "state": "future"
     },
+    "campaigntracking01.com": {
+        "epoch": 1578700800,
+        "expiration_date": "11-jan-2020",
+        "state": "future"
+    },
     "click-here-to-listen.com": {
         "epoch": 1656288000,
         "expiration_date": "27-jun-2022",
