@@ -259,6 +259,11 @@
         "expiration_date": "12-mar-2020",
         "state": "future"
     },
+    "mobpartner.com": {
+        "epoch": 1584662400,
+        "expiration_date": "20-mar-2020",
+        "state": "future"
+    },
     "mos.com": {
         "epoch": 1649808000,
         "expiration_date": "13-apr-2022",
