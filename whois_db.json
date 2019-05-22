@@ -369,6 +369,11 @@
         "expiration_date": "04-dec-2019",
         "state": "future"
     },
+    "serv0.com": {
+        "epoch": 1583625600,
+        "expiration_date": "08-mar-2020",
+        "state": "future"
+    },
     "springboardplatform.com": {
         "epoch": 1677196800,
         "expiration_date": "24-feb-2023",
