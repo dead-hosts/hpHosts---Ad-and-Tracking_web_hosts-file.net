@@ -78,5 +78,10 @@
         "epoch": 1560902400,
         "expiration_date": "19-jun-2019",
         "state": "future"
+    },
+    "udac.se": {
+        "epoch": 1577750400,
+        "expiration_date": "31-dec-2019",
+        "state": "future"
     }
 }
