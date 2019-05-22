@@ -24,6 +24,11 @@
         "expiration_date": "22-dec-2019",
         "state": "future"
     },
+    "advertlets.com": {
+        "epoch": 1578096000,
+        "expiration_date": "04-jan-2020",
+        "state": "future"
+    },
     "apptv.com": {
         "epoch": 1702512000,
         "expiration_date": "14-dec-2023",
