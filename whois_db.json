@@ -44,6 +44,11 @@
         "expiration_date": "10-dec-2019",
         "state": "future"
     },
+    "concours.fr": {
+        "epoch": 1590019200,
+        "expiration_date": "21-may-2020",
+        "state": "future"
+    },
     "cpagrip.com": {
         "epoch": 1622419200,
         "expiration_date": "31-may-2021",
