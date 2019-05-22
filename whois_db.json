@@ -259,6 +259,11 @@
         "expiration_date": "30-may-2020",
         "state": "future"
     },
+    "tribuneinteractive.com": {
+        "epoch": 1572825600,
+        "expiration_date": "04-nov-2019",
+        "state": "future"
+    },
     "tv4chan.com": {
         "epoch": 1588723200,
         "expiration_date": "06-may-2020",
