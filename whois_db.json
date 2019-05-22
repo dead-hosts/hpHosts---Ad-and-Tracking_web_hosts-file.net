@@ -104,6 +104,11 @@
         "expiration_date": "26-sep-2019",
         "state": "future"
     },
+    "ddi2.com": {
+        "epoch": 1595116800,
+        "expiration_date": "19-jul-2020",
+        "state": "future"
+    },
     "demandbase.com": {
         "epoch": 1618185600,
         "expiration_date": "12-apr-2021",
