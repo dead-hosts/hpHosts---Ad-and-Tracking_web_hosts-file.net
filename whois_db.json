@@ -218,5 +218,10 @@
         "epoch": 1579305600,
         "expiration_date": "18-jan-2020",
         "state": "future"
+    },
+    "xmts.net": {
+        "epoch": 1561593600,
+        "expiration_date": "27-jun-2019",
+        "state": "future"
     }
 }
