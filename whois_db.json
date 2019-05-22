@@ -194,6 +194,11 @@
         "expiration_date": "28-sep-2027",
         "state": "future"
     },
+    "levexis.com": {
+        "epoch": 1572825600,
+        "expiration_date": "04-nov-2019",
+        "state": "future"
+    },
     "linkconnector.com": {
         "epoch": 1569196800,
         "expiration_date": "23-sep-2019",
