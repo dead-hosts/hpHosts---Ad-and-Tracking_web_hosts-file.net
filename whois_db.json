@@ -54,6 +54,11 @@
         "expiration_date": "28-sep-2027",
         "state": "future"
     },
+    "linkconnector.com": {
+        "epoch": 1569196800,
+        "expiration_date": "23-sep-2019",
+        "state": "future"
+    },
     "maedge.com": {
         "epoch": 1571011200,
         "expiration_date": "14-oct-2019",
