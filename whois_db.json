@@ -54,6 +54,11 @@
         "expiration_date": "10-feb-2020",
         "state": "future"
     },
+    "msimg.com": {
+        "epoch": 1589328000,
+        "expiration_date": "13-may-2020",
+        "state": "future"
+    },
     "trademob.com": {
         "epoch": 1560902400,
         "expiration_date": "19-jun-2019",
