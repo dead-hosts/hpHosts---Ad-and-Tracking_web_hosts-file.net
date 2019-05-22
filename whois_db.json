@@ -44,6 +44,11 @@
         "expiration_date": "27-jun-2022",
         "state": "future"
     },
+    "clickthruhost.com": {
+        "epoch": 1718668800,
+        "expiration_date": "18-jun-2024",
+        "state": "future"
+    },
     "compteur.com": {
         "epoch": 1575936000,
         "expiration_date": "10-dec-2019",
