@@ -134,6 +134,11 @@
         "expiration_date": "10-jan-2022",
         "state": "future"
     },
+    "ercva.com": {
+        "epoch": 1562630400,
+        "expiration_date": "09-jul-2019",
+        "state": "future"
+    },
     "ethn.io": {
         "epoch": 1589673600,
         "expiration_date": "17-may-2020",
