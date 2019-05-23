@@ -84,6 +84,11 @@
         "expiration_date": "27-jun-2022",
         "state": "future"
     },
+    "clickadu.com": {
+        "epoch": 1603497600,
+        "expiration_date": "24-oct-2020",
+        "state": "future"
+    },
     "clickthruhost.com": {
         "epoch": 1718668800,
         "expiration_date": "18-jun-2024",
