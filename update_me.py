@@ -115,7 +115,7 @@ class Settings:  # pylint: disable=too-few-public-methods
         "split": True,
         "travis_autosave_minutes": 10,
         "travis": True,
-        "multiprocess": True,
+        "multiprocess": False,
         "maximal_processes": 10,
         "dns_server": ["1.1.1.1", "1.0.0.1"],
     }
