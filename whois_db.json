@@ -11624,6 +11624,11 @@
         "expiration_date": "02-mar-2020",
         "state": "future"
     },
+    "nw.net": {
+        "epoch": 1584316800,
+        "expiration_date": "16-mar-2020",
+        "state": "future"
+    },
     "oamtrk.com": {
         "epoch": 1572393600,
         "expiration_date": "30-oct-2019",
@@ -16379,9 +16384,429 @@
         "expiration_date": "19-nov-2020",
         "state": "future"
     },
+    "wxdownloadmanager.com": {
+        "epoch": 1574208000,
+        "expiration_date": "20-nov-2019",
+        "state": "future"
+    },
+    "x10.com": {
+        "epoch": 1658534400,
+        "expiration_date": "23-jul-2022",
+        "state": "future"
+    },
+    "x19network.com": {
+        "epoch": 1569542400,
+        "expiration_date": "27-sep-2019",
+        "state": "future"
+    },
+    "xad.com": {
+        "epoch": 1607904000,
+        "expiration_date": "14-dec-2020",
+        "state": "future"
+    },
+    "xb11776.com": {
+        "epoch": 1576972800,
+        "expiration_date": "22-dec-2019",
+        "state": "future"
+    },
+    "xeanon.com": {
+        "epoch": 1580515200,
+        "expiration_date": "01-feb-2020",
+        "state": "future"
+    },
+    "xebadu.com": {
+        "epoch": 1585440000,
+        "expiration_date": "29-mar-2020",
+        "state": "future"
+    },
+    "xeontopa.com": {
+        "epoch": 1589241600,
+        "expiration_date": "12-may-2020",
+        "state": "future"
+    },
+    "xiti.com": {
+        "epoch": 1583020800,
+        "expiration_date": "01-mar-2020",
+        "state": "future"
+    },
+    "xl415.com": {
+        "epoch": 1587686400,
+        "expiration_date": "24-apr-2020",
+        "state": "future"
+    },
     "xmts.net": {
         "epoch": 1561593600,
         "expiration_date": "27-jun-2019",
+        "state": "future"
+    },
+    "xoredi.com": {
+        "epoch": 1585440000,
+        "expiration_date": "29-mar-2020",
+        "state": "future"
+    },
+    "xratedtracking.com": {
+        "epoch": 1584489600,
+        "expiration_date": "18-mar-2020",
+        "state": "future"
+    },
+    "xrevtrk.com": {
+        "epoch": 1565222400,
+        "expiration_date": "08-aug-2019",
+        "state": "future"
+    },
+    "xstat.pl": {
+        "epoch": 1585267200,
+        "expiration_date": "27-mar-2020",
+        "state": "future"
+    },
+    "xxladu.com": {
+        "epoch": 1585440000,
+        "expiration_date": "29-mar-2020",
+        "state": "future"
+    },
+    "xxxadu.com": {
+        "epoch": 1585440000,
+        "expiration_date": "29-mar-2020",
+        "state": "future"
+    },
+    "xxxconnect.com": {
+        "epoch": 1630022400,
+        "expiration_date": "27-aug-2021",
+        "state": "future"
+    },
+    "xxxcounter.com": {
+        "epoch": 1575676800,
+        "expiration_date": "07-dec-2019",
+        "state": "future"
+    },
+    "xz6h6zj3.com": {
+        "epoch": 1570665600,
+        "expiration_date": "10-oct-2019",
+        "state": "future"
+    },
+    "y72yuyr9.com": {
+        "epoch": 1570665600,
+        "expiration_date": "10-oct-2019",
+        "state": "future"
+    },
+    "yaboshadi.com": {
+        "epoch": 1579132800,
+        "expiration_date": "16-jan-2020",
+        "state": "future"
+    },
+    "yada.com": {
+        "epoch": 1581120000,
+        "expiration_date": "08-feb-2020",
+        "state": "future"
+    },
+    "yadro.ru": {
+        "epoch": 1579651200,
+        "expiration_date": "22-jan-2020",
+        "state": "future"
+    },
+    "yallboen.com": {
+        "epoch": 1570579200,
+        "expiration_date": "09-oct-2019",
+        "state": "future"
+    },
+    "yandexadexchange.net": {
+        "epoch": 1581984000,
+        "expiration_date": "18-feb-2020",
+        "state": "future"
+    },
+    "ybotvisit.com": {
+        "epoch": 1571529600,
+        "expiration_date": "20-oct-2019",
+        "state": "future"
+    },
+    "yeahmobi.com": {
+        "epoch": 1587772800,
+        "expiration_date": "25-apr-2020",
+        "state": "future"
+    },
+    "yearcast.com": {
+        "epoch": 1566950400,
+        "expiration_date": "28-aug-2019",
+        "state": "future"
+    },
+    "yebadu.com": {
+        "epoch": 1585440000,
+        "expiration_date": "29-mar-2020",
+        "state": "future"
+    },
+    "yemobiads.com": {
+        "epoch": 1560297600,
+        "expiration_date": "12-jun-2019",
+        "state": "future"
+    },
+    "yesadvertising.com": {
+        "epoch": 1567641600,
+        "expiration_date": "05-sep-2019",
+        "state": "future"
+    },
+    "yeshhaod.com": {
+        "epoch": 1570579200,
+        "expiration_date": "09-oct-2019",
+        "state": "future"
+    },
+    "yesup.net": {
+        "epoch": 1586304000,
+        "expiration_date": "08-apr-2020",
+        "state": "future"
+    },
+    "yesupmicro.com": {
+        "epoch": 1571702400,
+        "expiration_date": "22-oct-2019",
+        "state": "future"
+    },
+    "yesupseo.com": {
+        "epoch": 1592784000,
+        "expiration_date": "22-jun-2020",
+        "state": "future"
+    },
+    "yieldmanager.com": {
+        "epoch": 1565222400,
+        "expiration_date": "08-aug-2019",
+        "state": "future"
+    },
+    "yieldmgr.com": {
+        "epoch": 1588118400,
+        "expiration_date": "29-apr-2020",
+        "state": "future"
+    },
+    "yllix.com": {
+        "epoch": 1585526400,
+        "expiration_date": "30-mar-2020",
+        "state": "future"
+    },
+    "yoc-performance.com": {
+        "epoch": 1588377600,
+        "expiration_date": "02-may-2020",
+        "state": "future"
+    },
+    "yostatic.net": {
+        "epoch": 1585008000,
+        "expiration_date": "24-mar-2020",
+        "state": "future"
+    },
+    "yotefiles.com": {
+        "epoch": 1575849600,
+        "expiration_date": "09-dec-2019",
+        "state": "future"
+    },
+    "yottos.com": {
+        "epoch": 1658361600,
+        "expiration_date": "21-jul-2022",
+        "state": "future"
+    },
+    "you2mail.com": {
+        "epoch": 1570406400,
+        "expiration_date": "07-oct-2019",
+        "state": "future"
+    },
+    "youmi.net": {
+        "epoch": 1574380800,
+        "expiration_date": "22-nov-2019",
+        "state": "future"
+    },
+    "youradexchange.com": {
+        "epoch": 1573257600,
+        "expiration_date": "09-nov-2019",
+        "state": "future"
+    },
+    "yourcartoons.com": {
+        "epoch": 1578441600,
+        "expiration_date": "08-jan-2020",
+        "state": "future"
+    },
+    "yourhitstats.com": {
+        "epoch": 1575072000,
+        "expiration_date": "30-nov-2019",
+        "state": "future"
+    },
+    "youspacko.com": {
+        "epoch": 1581033600,
+        "expiration_date": "07-feb-2020",
+        "state": "future"
+    },
+    "youtrack.co": {
+        "epoch": 1564099200,
+        "expiration_date": "26-jul-2019",
+        "state": "future"
+    },
+    "youyield.com": {
+        "epoch": 1561680000,
+        "expiration_date": "28-jun-2019",
+        "state": "future"
+    },
+    "yuilop.com": {
+        "epoch": 1561680000,
+        "expiration_date": "28-jun-2019",
+        "state": "future"
+    },
+    "yuituityula.com": {
+        "epoch": 1567123200,
+        "expiration_date": "30-aug-2019",
+        "state": "future"
+    },
+    "yume.com": {
+        "epoch": 1620604800,
+        "expiration_date": "10-may-2021",
+        "state": "future"
+    },
+    "yx-ads6.com": {
+        "epoch": 1571529600,
+        "expiration_date": "20-oct-2019",
+        "state": "future"
+    },
+    "yzus09by.com": {
+        "epoch": 1570665600,
+        "expiration_date": "10-oct-2019",
+        "state": "future"
+    },
+    "z5x.net": {
+        "epoch": 1574467200,
+        "expiration_date": "23-nov-2019",
+        "state": "future"
+    },
+    "zangocash.com": {
+        "epoch": 1590883200,
+        "expiration_date": "31-may-2020",
+        "state": "future"
+    },
+    "zanox.com": {
+        "epoch": 1583020800,
+        "expiration_date": "01-mar-2020",
+        "state": "future"
+    },
+    "zdbb.net": {
+        "epoch": 1603065600,
+        "expiration_date": "19-oct-2020",
+        "state": "future"
+    },
+    "zeads.com": {
+        "epoch": 1568851200,
+        "expiration_date": "19-sep-2019",
+        "state": "future"
+    },
+    "zedo.com": {
+        "epoch": 1664755200,
+        "expiration_date": "03-oct-2022",
+        "state": "future"
+    },
+    "zedoadnetwork.com": {
+        "epoch": 1574294400,
+        "expiration_date": "21-nov-2019",
+        "state": "future"
+    },
+    "zeepmedia.com": {
+        "epoch": 1585699200,
+        "expiration_date": "01-apr-2020",
+        "state": "future"
+    },
+    "zenkreka.com": {
+        "epoch": 1584921600,
+        "expiration_date": "23-mar-2020",
+        "state": "future"
+    },
+    "zepozipo.com": {
+        "epoch": 1586044800,
+        "expiration_date": "05-apr-2020",
+        "state": "future"
+    },
+    "zerezas.com": {
+        "epoch": 1589414400,
+        "expiration_date": "14-may-2020",
+        "state": "future"
+    },
+    "zeroredirect.com": {
+        "epoch": 1590883200,
+        "expiration_date": "31-may-2020",
+        "state": "future"
+    },
+    "zeroredirect1.com": {
+        "epoch": 1655164800,
+        "expiration_date": "14-jun-2022",
+        "state": "future"
+    },
+    "zetatrk.com": {
+        "epoch": 1569024000,
+        "expiration_date": "21-sep-2019",
+        "state": "future"
+    },
+    "zhanzhang.net": {
+        "epoch": 1607472000,
+        "expiration_date": "09-dec-2020",
+        "state": "future"
+    },
+    "zinovila.com": {
+        "epoch": 1569369600,
+        "expiration_date": "25-sep-2019",
+        "state": "future"
+    },
+    "zinturax.com": {
+        "epoch": 1572134400,
+        "expiration_date": "27-oct-2019",
+        "state": "future"
+    },
+    "zipcity.com": {
+        "epoch": 1612742400,
+        "expiration_date": "08-feb-2021",
+        "state": "future"
+    },
+    "zipovoma.com": {
+        "epoch": 1568678400,
+        "expiration_date": "17-sep-2019",
+        "state": "future"
+    },
+    "zipropyl.com": {
+        "epoch": 1559001600,
+        "expiration_date": "28-may-2019",
+        "state": "future"
+    },
+    "zmedia.com": {
+        "epoch": 1564185600,
+        "expiration_date": "27-jul-2019",
+        "state": "future"
+    },
+    "zokidif.com": {
+        "epoch": 1580860800,
+        "expiration_date": "05-feb-2020",
+        "state": "future"
+    },
+    "zombo.com": {
+        "epoch": 1570665600,
+        "expiration_date": "10-oct-2019",
+        "state": "future"
+    },
+    "zonolali.com": {
+        "epoch": 1567123200,
+        "expiration_date": "30-aug-2019",
+        "state": "future"
+    },
+    "zorbikala.com": {
+        "epoch": 1573257600,
+        "expiration_date": "09-nov-2019",
+        "state": "future"
+    },
+    "zortinah.com": {
+        "epoch": 1570579200,
+        "expiration_date": "09-oct-2019",
+        "state": "future"
+    },
+    "zs0s5xfe.com": {
+        "epoch": 1576800000,
+        "expiration_date": "20-dec-2019",
+        "state": "future"
+    },
+    "ztrack.net": {
+        "epoch": 1574553600,
+        "expiration_date": "24-nov-2019",
+        "state": "future"
+    },
+    "zyngawithfriends.com": {
+        "epoch": 1574035200,
+        "expiration_date": "18-nov-2019",
         "state": "future"
     }
 }
