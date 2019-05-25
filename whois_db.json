@@ -3919,9 +3919,404 @@
         "expiration_date": "18-jan-2020",
         "state": "future"
     },
+    "banners.com": {
+        "epoch": 1753488000,
+        "expiration_date": "26-jul-2025",
+        "state": "future"
+    },
+    "bannerselect.com": {
+        "epoch": 1569456000,
+        "expiration_date": "26-sep-2019",
+        "state": "future"
+    },
+    "bannerserver.com": {
+        "epoch": 1575849600,
+        "expiration_date": "09-dec-2019",
+        "state": "future"
+    },
+    "bannersgomlm.com": {
+        "epoch": 1580860800,
+        "expiration_date": "05-feb-2020",
+        "state": "future"
+    },
+    "bannersolutions.com": {
+        "epoch": 1616803200,
+        "expiration_date": "27-mar-2021",
+        "state": "future"
+    },
+    "bannerspace.com": {
+        "epoch": 1591488000,
+        "expiration_date": "07-jun-2020",
+        "state": "future"
+    },
+    "bannersponsor.com": {
+        "epoch": 1563321600,
+        "expiration_date": "17-jul-2019",
+        "state": "future"
+    },
+    "bannerswap.com": {
+        "epoch": 1581724800,
+        "expiration_date": "15-feb-2020",
+        "state": "future"
+    },
+    "bannersworld.com": {
+        "epoch": 1703548800,
+        "expiration_date": "26-dec-2023",
+        "state": "future"
+    },
+    "bannerware.com": {
+        "epoch": 1585785600,
+        "expiration_date": "02-apr-2020",
+        "state": "future"
+    },
+    "bannerweb.com": {
+        "epoch": 1589932800,
+        "expiration_date": "20-may-2020",
+        "state": "future"
+    },
+    "bardzomedia.com": {
+        "epoch": 1585008000,
+        "expiration_date": "24-mar-2020",
+        "state": "future"
+    },
+    "bariebenefit.com": {
+        "epoch": 1589068800,
+        "expiration_date": "10-may-2020",
+        "state": "future"
+    },
+    "baypops.com": {
+        "epoch": 1574726400,
+        "expiration_date": "26-nov-2019",
+        "state": "future"
+    },
+    "bazingandroid.com": {
+        "epoch": 1663027200,
+        "expiration_date": "13-sep-2022",
+        "state": "future"
+    },
+    "bcfads.com": {
+        "epoch": 1574380800,
+        "expiration_date": "22-nov-2019",
+        "state": "future"
+    },
+    "bcmediagroup.com": {
+        "epoch": 1576454400,
+        "expiration_date": "16-dec-2019",
+        "state": "future"
+    },
+    "bdex.com": {
+        "epoch": 1577232000,
+        "expiration_date": "25-dec-2019",
+        "state": "future"
+    },
+    "beanstock.com": {
+        "epoch": 1565222400,
+        "expiration_date": "08-aug-2019",
+        "state": "future"
+    },
+    "beanstockmedia.com": {
+        "epoch": 1560211200,
+        "expiration_date": "11-jun-2019",
+        "state": "future"
+    },
+    "becontext.com": {
+        "epoch": 1552780800,
+        "expiration_date": "17-mar-2019",
+        "state": "past"
+    },
+    "bee-ads.com": {
+        "epoch": 1575936000,
+        "expiration_date": "10-dec-2019",
+        "state": "future"
+    },
+    "beglorena.com": {
+        "epoch": 1573257600,
+        "expiration_date": "09-nov-2019",
+        "state": "future"
+    },
+    "begun.ru": {
+        "epoch": 1582070400,
+        "expiration_date": "19-feb-2020",
+        "state": "future"
+    },
+    "benchbrands.com": {
+        "epoch": 1567641600,
+        "expiration_date": "05-sep-2019",
+        "state": "future"
+    },
+    "beseen.com": {
+        "epoch": 1571184000,
+        "expiration_date": "16-oct-2019",
+        "state": "future"
+    },
+    "best-ads.com": {
+        "epoch": 1567555200,
+        "expiration_date": "04-sep-2019",
+        "state": "future"
+    },
+    "best-deals-products.com": {
+        "epoch": 1583625600,
+        "expiration_date": "08-mar-2020",
+        "state": "future"
+    },
+    "bestadbid.com": {
+        "epoch": 1562716800,
+        "expiration_date": "10-jul-2019",
+        "state": "future"
+    },
+    "bestfwdservice.com": {
+        "epoch": 1589846400,
+        "expiration_date": "19-may-2020",
+        "state": "future"
+    },
+    "bestwebnutfunblack.biz": {
+        "epoch": 1585180800,
+        "expiration_date": "26-mar-2020",
+        "state": "future"
+    },
+    "betrad.com": {
+        "epoch": 1573948800,
+        "expiration_date": "17-nov-2019",
+        "state": "future"
+    },
+    "better-counter.com": {
+        "epoch": 1575331200,
+        "expiration_date": "03-dec-2019",
+        "state": "future"
+    },
+    "bettermail.ca": {
+        "epoch": 1581379200,
+        "expiration_date": "11-feb-2020",
+        "state": "future"
+    },
+    "bettraf.com": {
+        "epoch": 1576368000,
+        "expiration_date": "15-dec-2019",
+        "state": "future"
+    },
+    "beyourownaffiliate.com": {
+        "epoch": 1651968000,
+        "expiration_date": "08-may-2022",
+        "state": "future"
+    },
+    "bidclix.com": {
+        "epoch": 1587254400,
+        "expiration_date": "19-apr-2020",
+        "state": "future"
+    },
+    "bidclix.net": {
+        "epoch": 1587254400,
+        "expiration_date": "19-apr-2020",
+        "state": "future"
+    },
+    "bidvertiser.com": {
+        "epoch": 1589328000,
+        "expiration_date": "13-may-2020",
+        "state": "future"
+    },
+    "bigasia.com": {
+        "epoch": 1560902400,
+        "expiration_date": "19-jun-2019",
+        "state": "future"
+    },
+    "bigbangmedia.com": {
+        "epoch": 1604361600,
+        "expiration_date": "03-nov-2020",
+        "state": "future"
+    },
+    "bigbanners.com": {
+        "epoch": 1581206400,
+        "expiration_date": "09-feb-2020",
+        "state": "future"
+    },
+    "bigclicks.com": {
+        "epoch": 1582329600,
+        "expiration_date": "22-feb-2020",
+        "state": "future"
+    },
+    "bigfatbaby.com": {
+        "epoch": 1566950400,
+        "expiration_date": "28-aug-2019",
+        "state": "future"
+    },
+    "bigmobileads.com": {
+        "epoch": 1575417600,
+        "expiration_date": "04-dec-2019",
+        "state": "future"
+    },
+    "bigstats.net": {
+        "epoch": 1574640000,
+        "expiration_date": "25-nov-2019",
+        "state": "future"
+    },
+    "bilbob.com": {
+        "epoch": 1581206400,
+        "expiration_date": "09-feb-2020",
+        "state": "future"
+    },
+    "bill-info.com": {
+        "epoch": 1580256000,
+        "expiration_date": "29-jan-2020",
+        "state": "future"
+    },
+    "billionpops.com": {
+        "epoch": 1591660800,
+        "expiration_date": "09-jun-2020",
+        "state": "future"
+    },
+    "billmscurlrev.com": {
+        "epoch": 1574640000,
+        "expiration_date": "25-nov-2019",
+        "state": "future"
+    },
+    "bimlocal.com": {
+        "epoch": 1574985600,
+        "expiration_date": "29-nov-2019",
+        "state": "future"
+    },
+    "binarybliss.com": {
+        "epoch": 1581984000,
+        "expiration_date": "18-feb-2020",
+        "state": "future"
+    },
+    "bingads.com": {
+        "epoch": 1570492800,
+        "expiration_date": "08-oct-2019",
+        "state": "future"
+    },
+    "bingocabin.com": {
+        "epoch": 1582761600,
+        "expiration_date": "27-feb-2020",
+        "state": "future"
+    },
+    "bit.do": {
+        "epoch": 1575417600,
+        "expiration_date": "04-dec-2019",
+        "state": "future"
+    },
+    "bitable.com": {
+        "epoch": 1570579200,
+        "expiration_date": "09-oct-2019",
+        "state": "future"
+    },
+    "bitcoinadvertisers.com": {
+        "epoch": 1560297600,
+        "expiration_date": "12-jun-2019",
+        "state": "future"
+    },
+    "bitsonthewire.com": {
+        "epoch": 1588896000,
+        "expiration_date": "08-may-2020",
+        "state": "future"
+    },
+    "bitterstrawberry.com": {
+        "epoch": 1686441600,
+        "expiration_date": "11-jun-2023",
+        "state": "future"
+    },
     "bitvisitor.com": {
         "epoch": 1591401600,
         "expiration_date": "06-jun-2020",
+        "state": "future"
+    },
+    "bizzclick.com": {
+        "epoch": 1592784000,
+        "expiration_date": "22-jun-2020",
+        "state": "future"
+    },
+    "blacklightimages.com": {
+        "epoch": 1570752000,
+        "expiration_date": "11-oct-2019",
+        "state": "future"
+    },
+    "blamads.com": {
+        "epoch": 1575158400,
+        "expiration_date": "01-dec-2019",
+        "state": "future"
+    },
+    "blankrefer.com": {
+        "epoch": 1564012800,
+        "expiration_date": "25-jul-2019",
+        "state": "future"
+    },
+    "blast4traffic.com": {
+        "epoch": 1566000000,
+        "expiration_date": "17-aug-2019",
+        "state": "future"
+    },
+    "blkget6.com": {
+        "epoch": 1590883200,
+        "expiration_date": "31-may-2020",
+        "state": "future"
+    },
+    "blog-hits.com": {
+        "epoch": 1563753600,
+        "expiration_date": "22-jul-2019",
+        "state": "future"
+    },
+    "blogads.com": {
+        "epoch": 1583366400,
+        "expiration_date": "05-mar-2020",
+        "state": "future"
+    },
+    "blueadvertise.com": {
+        "epoch": 1565913600,
+        "expiration_date": "16-aug-2019",
+        "state": "future"
+    },
+    "bluecava.com": {
+        "epoch": 1580515200,
+        "expiration_date": "01-feb-2020",
+        "state": "future"
+    },
+    "blueconic.net": {
+        "epoch": 1580083200,
+        "expiration_date": "27-jan-2020",
+        "state": "future"
+    },
+    "bluehavenmedia.com": {
+        "epoch": 1589587200,
+        "expiration_date": "16-may-2020",
+        "state": "future"
+    },
+    "blueheart.org": {
+        "epoch": 1570924800,
+        "expiration_date": "13-oct-2019",
+        "state": "future"
+    },
+    "bluemongoose.com": {
+        "epoch": 1587081600,
+        "expiration_date": "17-apr-2020",
+        "state": "future"
+    },
+    "blueseek.com": {
+        "epoch": 1565222400,
+        "expiration_date": "08-aug-2019",
+        "state": "future"
+    },
+    "bluesq.com": {
+        "epoch": 1584230400,
+        "expiration_date": "15-mar-2020",
+        "state": "future"
+    },
+    "bluetrackmedia.com": {
+        "epoch": 1587945600,
+        "expiration_date": "27-apr-2020",
+        "state": "future"
+    },
+    "blutrumpet.com": {
+        "epoch": 1575158400,
+        "expiration_date": "01-dec-2019",
+        "state": "future"
+    },
+    "bm5150.com": {
+        "epoch": 1588982400,
+        "expiration_date": "09-may-2020",
+        "state": "future"
+    },
+    "bmetrack.com": {
+        "epoch": 1585612800,
+        "expiration_date": "31-mar-2020",
         "state": "future"
     },
     "boldchat.com": {
