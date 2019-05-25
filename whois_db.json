@@ -679,6 +679,11 @@
         "expiration_date": "23-mar-2020",
         "state": "future"
     },
+    "ad-x.com": {
+        "epoch": 1561939200,
+        "expiration_date": "01-jul-2019",
+        "state": "future"
+    },
     "ad20.net": {
         "epoch": 1583020800,
         "expiration_date": "01-mar-2020",
@@ -2509,6 +2514,11 @@
         "expiration_date": "17-jun-2019",
         "state": "future"
     },
+    "adv-plus.com": {
+        "epoch": 1572652800,
+        "expiration_date": "02-nov-2019",
+        "state": "future"
+    },
     "adv.co.il": {
         "epoch": 1600992000,
         "expiration_date": "25-sep-2020",
@@ -2762,6 +2772,501 @@
     "advmedialtd.com": {
         "epoch": 1579824000,
         "expiration_date": "24-jan-2020",
+        "state": "future"
+    },
+    "advnt01.com": {
+        "epoch": 1584230400,
+        "expiration_date": "15-mar-2020",
+        "state": "future"
+    },
+    "advombat.ru": {
+        "epoch": 1562457600,
+        "expiration_date": "07-jul-2019",
+        "state": "future"
+    },
+    "advspot.com": {
+        "epoch": 1582070400,
+        "expiration_date": "19-feb-2020",
+        "state": "future"
+    },
+    "adwareremovergold.com": {
+        "epoch": 1580601600,
+        "expiration_date": "02-feb-2020",
+        "state": "future"
+    },
+    "adwealth.com": {
+        "epoch": 1569888000,
+        "expiration_date": "01-oct-2019",
+        "state": "future"
+    },
+    "adworkmedia.com": {
+        "epoch": 1581120000,
+        "expiration_date": "08-feb-2020",
+        "state": "future"
+    },
+    "adworkmedia.net": {
+        "epoch": 1587254400,
+        "expiration_date": "19-apr-2020",
+        "state": "future"
+    },
+    "adworldmedia.com": {
+        "epoch": 1568937600,
+        "expiration_date": "20-sep-2019",
+        "state": "future"
+    },
+    "adxite.com": {
+        "epoch": 1573257600,
+        "expiration_date": "09-nov-2019",
+        "state": "future"
+    },
+    "adxmarket.com": {
+        "epoch": 1598572800,
+        "expiration_date": "28-aug-2020",
+        "state": "future"
+    },
+    "adxpansion.com": {
+        "epoch": 1578355200,
+        "expiration_date": "07-jan-2020",
+        "state": "future"
+    },
+    "adxpop.com": {
+        "epoch": 1577404800,
+        "expiration_date": "27-dec-2019",
+        "state": "future"
+    },
+    "adxpose.com": {
+        "epoch": 1586217600,
+        "expiration_date": "07-apr-2020",
+        "state": "future"
+    },
+    "adxpower.com": {
+        "epoch": 1574467200,
+        "expiration_date": "23-nov-2019",
+        "state": "future"
+    },
+    "adxserve.net": {
+        "epoch": 1582761600,
+        "expiration_date": "27-feb-2020",
+        "state": "future"
+    },
+    "adyoulike.com": {
+        "epoch": 1575676800,
+        "expiration_date": "07-dec-2019",
+        "state": "future"
+    },
+    "adz.mobi": {
+        "epoch": 1576195200,
+        "expiration_date": "13-dec-2019",
+        "state": "future"
+    },
+    "adzerver.com": {
+        "epoch": 1570665600,
+        "expiration_date": "10-oct-2019",
+        "state": "future"
+    },
+    "adzly.com": {
+        "epoch": 1572998400,
+        "expiration_date": "06-nov-2019",
+        "state": "future"
+    },
+    "adzmedia.com": {
+        "epoch": 1617753600,
+        "expiration_date": "07-apr-2021",
+        "state": "future"
+    },
+    "adzmob.com": {
+        "epoch": 1580688000,
+        "expiration_date": "03-feb-2020",
+        "state": "future"
+    },
+    "adzmobi.com": {
+        "epoch": 1607299200,
+        "expiration_date": "07-dec-2020",
+        "state": "future"
+    },
+    "adzones.com": {
+        "epoch": 1568592000,
+        "expiration_date": "16-sep-2019",
+        "state": "future"
+    },
+    "adzonk.com": {
+        "epoch": 1585785600,
+        "expiration_date": "02-apr-2020",
+        "state": "future"
+    },
+    "adzouk.com": {
+        "epoch": 1566086400,
+        "expiration_date": "18-aug-2019",
+        "state": "future"
+    },
+    "aff12.com": {
+        "epoch": 1575849600,
+        "expiration_date": "09-dec-2019",
+        "state": "future"
+    },
+    "affbeat.com": {
+        "epoch": 1575590400,
+        "expiration_date": "06-dec-2019",
+        "state": "future"
+    },
+    "affbuzzads.com": {
+        "epoch": 1580083200,
+        "expiration_date": "27-jan-2020",
+        "state": "future"
+    },
+    "affili24.com": {
+        "epoch": 1574467200,
+        "expiration_date": "23-nov-2019",
+        "state": "future"
+    },
+    "affili24.net": {
+        "epoch": 1573862400,
+        "expiration_date": "16-nov-2019",
+        "state": "future"
+    },
+    "affiliate-robot.com": {
+        "epoch": 1579219200,
+        "expiration_date": "17-jan-2020",
+        "state": "future"
+    },
+    "affiliatebot.com": {
+        "epoch": 1614211200,
+        "expiration_date": "25-feb-2021",
+        "state": "future"
+    },
+    "affiliatefind.com": {
+        "epoch": 1588809600,
+        "expiration_date": "07-may-2020",
+        "state": "future"
+    },
+    "affiliatefuel.com": {
+        "epoch": 1613347200,
+        "expiration_date": "15-feb-2021",
+        "state": "future"
+    },
+    "affiliateharvest.com": {
+        "epoch": 1561939200,
+        "expiration_date": "01-jul-2019",
+        "state": "future"
+    },
+    "affiliatekeeper.com": {
+        "epoch": 1579478400,
+        "expiration_date": "20-jan-2020",
+        "state": "future"
+    },
+    "affiliatelounge.com": {
+        "epoch": 1580947200,
+        "expiration_date": "06-feb-2020",
+        "state": "future"
+    },
+    "affiliatematch.com": {
+        "epoch": 1586476800,
+        "expiration_date": "10-apr-2020",
+        "state": "future"
+    },
+    "affiliatemg.com": {
+        "epoch": 1589328000,
+        "expiration_date": "13-may-2020",
+        "state": "future"
+    },
+    "affiliatenetwork.com": {
+        "epoch": 1572912000,
+        "expiration_date": "05-nov-2019",
+        "state": "future"
+    },
+    "affiliatequality.com": {
+        "epoch": 1560124800,
+        "expiration_date": "10-jun-2019",
+        "state": "future"
+    },
+    "affiliates.net": {
+        "epoch": 1564358400,
+        "expiration_date": "29-jul-2019",
+        "state": "future"
+    },
+    "affiliateshop.com": {
+        "epoch": 1578096000,
+        "expiration_date": "04-jan-2020",
+        "state": "future"
+    },
+    "affiliatesuccess.net": {
+        "epoch": 1579132800,
+        "expiration_date": "16-jan-2020",
+        "state": "future"
+    },
+    "affiliatetarget.com": {
+        "epoch": 1589068800,
+        "expiration_date": "10-may-2020",
+        "state": "future"
+    },
+    "affiliatetracking.com": {
+        "epoch": 1649548800,
+        "expiration_date": "10-apr-2022",
+        "state": "future"
+    },
+    "affiliatetracking.net": {
+        "epoch": 1649462400,
+        "expiration_date": "09-apr-2022",
+        "state": "future"
+    },
+    "affiliatetrading.net": {
+        "epoch": 1573257600,
+        "expiration_date": "09-nov-2019",
+        "state": "future"
+    },
+    "affiliatezone.com": {
+        "epoch": 1654473600,
+        "expiration_date": "06-jun-2022",
+        "state": "future"
+    },
+    "affiliation-france.com": {
+        "epoch": 1566259200,
+        "expiration_date": "20-aug-2019",
+        "state": "future"
+    },
+    "affina.com": {
+        "epoch": 1610150400,
+        "expiration_date": "09-jan-2021",
+        "state": "future"
+    },
+    "affise.com": {
+        "epoch": 1568332800,
+        "expiration_date": "13-sep-2019",
+        "state": "future"
+    },
+    "affsharkoffer.com": {
+        "epoch": 1596326400,
+        "expiration_date": "02-aug-2020",
+        "state": "future"
+    },
+    "afftrack.com": {
+        "epoch": 1663372800,
+        "expiration_date": "17-sep-2022",
+        "state": "future"
+    },
+    "afftracker.info": {
+        "epoch": 1570406400,
+        "expiration_date": "07-oct-2019",
+        "state": "future"
+    },
+    "afftrackinglinks.com": {
+        "epoch": 1578700800,
+        "expiration_date": "11-jan-2020",
+        "state": "future"
+    },
+    "afftrackr.com": {
+        "epoch": 1578268800,
+        "expiration_date": "06-jan-2020",
+        "state": "future"
+    },
+    "affyield.com": {
+        "epoch": 1566086400,
+        "expiration_date": "18-aug-2019",
+        "state": "future"
+    },
+    "afgr2.com": {
+        "epoch": 1575849600,
+        "expiration_date": "09-dec-2019",
+        "state": "future"
+    },
+    "afiliati.ro": {
+        "epoch": 1565049600,
+        "expiration_date": "06-aug-2019",
+        "state": "future"
+    },
+    "aflrm.com": {
+        "epoch": 1569974400,
+        "expiration_date": "02-oct-2019",
+        "state": "future"
+    },
+    "afreehome.com": {
+        "epoch": 1567209600,
+        "expiration_date": "31-aug-2019",
+        "state": "future"
+    },
+    "africandevelopmentbank.com": {
+        "epoch": 1588032000,
+        "expiration_date": "28-apr-2020",
+        "state": "future"
+    },
+    "afsanalytics.com": {
+        "epoch": 1566864000,
+        "expiration_date": "27-aug-2019",
+        "state": "future"
+    },
+    "afterdownload.com": {
+        "epoch": 1577232000,
+        "expiration_date": "25-dec-2019",
+        "state": "future"
+    },
+    "afterview.ru": {
+        "epoch": 1581206400,
+        "expiration_date": "09-feb-2020",
+        "state": "future"
+    },
+    "aftrk.com": {
+        "epoch": 1615420800,
+        "expiration_date": "11-mar-2021",
+        "state": "future"
+    },
+    "aggregateknowledge.com": {
+        "epoch": 1572307200,
+        "expiration_date": "29-oct-2019",
+        "state": "future"
+    },
+    "agmtrk.com": {
+        "epoch": 1653004800,
+        "expiration_date": "20-may-2022",
+        "state": "future"
+    },
+    "agnstaging.com": {
+        "epoch": 1562544000,
+        "expiration_date": "08-jul-2019",
+        "state": "future"
+    },
+    "agoramedia.com": {
+        "epoch": 1578960000,
+        "expiration_date": "14-jan-2020",
+        "state": "future"
+    },
+    "ah-ha.com": {
+        "epoch": 1570060800,
+        "expiration_date": "03-oct-2019",
+        "state": "future"
+    },
+    "ai.net": {
+        "epoch": 1577577600,
+        "expiration_date": "29-dec-2019",
+        "state": "future"
+    },
+    "aim4media.com": {
+        "epoch": 1577577600,
+        "expiration_date": "29-dec-2019",
+        "state": "future"
+    },
+    "airbrake.io": {
+        "epoch": 1567728000,
+        "expiration_date": "06-sep-2019",
+        "state": "future"
+    },
+    "airpush.com": {
+        "epoch": 1568764800,
+        "expiration_date": "18-sep-2019",
+        "state": "future"
+    },
+    "ajcclassifieds.com": {
+        "epoch": 1578355200,
+        "expiration_date": "07-jan-2020",
+        "state": "future"
+    },
+    "ajkelra.com": {
+        "epoch": 1573257600,
+        "expiration_date": "09-nov-2019",
+        "state": "future"
+    },
+    "akmnetwork.com": {
+        "epoch": 1582588800,
+        "expiration_date": "25-feb-2020",
+        "state": "future"
+    },
+    "alabardak.com": {
+        "epoch": 1568678400,
+        "expiration_date": "17-sep-2019",
+        "state": "future"
+    },
+    "alfredean.com": {
+        "epoch": 1572307200,
+        "expiration_date": "29-oct-2019",
+        "state": "future"
+    },
+    "allbanners.ru": {
+        "epoch": 1569283200,
+        "expiration_date": "24-sep-2019",
+        "state": "future"
+    },
+    "allosponsor.com": {
+        "epoch": 1578960000,
+        "expiration_date": "14-jan-2020",
+        "state": "future"
+    },
+    "alloydigital.com": {
+        "epoch": 1560124800,
+        "expiration_date": "10-jun-2019",
+        "state": "future"
+    },
+    "allsolutionsnetwork.com": {
+        "epoch": 1563321600,
+        "expiration_date": "17-jul-2019",
+        "state": "future"
+    },
+    "allstarmediagroup.com": {
+        "epoch": 1585612800,
+        "expiration_date": "31-mar-2020",
+        "state": "future"
+    },
+    "allstats4u.com": {
+        "epoch": 1570406400,
+        "expiration_date": "07-oct-2019",
+        "state": "future"
+    },
+    "alltereg0.ru": {
+        "epoch": 1590796800,
+        "expiration_date": "30-may-2020",
+        "state": "future"
+    },
+    "alltraff.ru": {
+        "epoch": 1569456000,
+        "expiration_date": "26-sep-2019",
+        "state": "future"
+    },
+    "allyes.com": {
+        "epoch": 1852416000,
+        "expiration_date": "13-sep-2028",
+        "state": "future"
+    },
+    "alphagirlz.mobi": {
+        "epoch": 1558915200,
+        "expiration_date": "27-may-2019",
+        "state": "future"
+    },
+    "alxsite.com": {
+        "epoch": 1601424000,
+        "expiration_date": "30-sep-2020",
+        "state": "future"
+    },
+    "am15.net": {
+        "epoch": 1573776000,
+        "expiration_date": "15-nov-2019",
+        "state": "future"
+    },
+    "amazingcounters.com": {
+        "epoch": 1589414400,
+        "expiration_date": "14-may-2020",
+        "state": "future"
+    },
+    "amclicks.com": {
+        "epoch": 1615075200,
+        "expiration_date": "07-mar-2021",
+        "state": "future"
+    },
+    "amoad.com": {
+        "epoch": 1619049600,
+        "expiration_date": "22-apr-2021",
+        "state": "future"
+    },
+    "amobee.com": {
+        "epoch": 1582329600,
+        "expiration_date": "22-feb-2020",
+        "state": "future"
+    },
+    "ampxchange.com": {
+        "epoch": 1590796800,
+        "expiration_date": "30-may-2020",
+        "state": "future"
+    },
+    "amusive.com": {
+        "epoch": 1700092800,
+        "expiration_date": "16-nov-2023",
         "state": "future"
     },
     "answermedia.com": {
