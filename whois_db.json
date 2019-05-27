@@ -16284,9 +16284,19 @@
         "expiration_date": "18-aug-2019",
         "state": "future"
     },
+    "wee.co.il": {
+        "epoch": 1568851200,
+        "expiration_date": "19-sep-2019",
+        "state": "future"
+    },
     "weedoit.fr": {
         "epoch": 1584662400,
         "expiration_date": "20-mar-2020",
+        "state": "future"
+    },
+    "wesell.co.il": {
+        "epoch": 1614556800,
+        "expiration_date": "01-mar-2021",
         "state": "future"
     },
     "wetrack.it": {
