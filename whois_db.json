@@ -3770,8 +3770,8 @@
         "state": "future"
     },
     "backtype.com": {
-        "epoch": 1559174400,
-        "expiration_date": "30-may-2019",
+        "epoch": 1590796800,
+        "expiration_date": "30-may-2020",
         "state": "future"
     },
     "badoink.com": {
@@ -3787,6 +3787,11 @@
     "baleron.com": {
         "epoch": 1579824000,
         "expiration_date": "24-jan-2020",
+        "state": "future"
+    },
+    "banex.cz": {
+        "epoch": 1587168000,
+        "expiration_date": "18-apr-2020",
         "state": "future"
     },
     "bango.com": {
