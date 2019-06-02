@@ -4387,7 +4387,7 @@
     "bonjikoa.com": {
         "epoch": 1559347200,
         "expiration_date": "01-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "book-mark.net": {
         "epoch": 1576108800,
@@ -4542,7 +4542,7 @@
     "budsinc.com": {
         "epoch": 1559347200,
         "expiration_date": "01-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "bugsense.com": {
         "epoch": 1589846400,
