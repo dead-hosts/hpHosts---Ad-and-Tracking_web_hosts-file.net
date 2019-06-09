@@ -8839,6 +8839,11 @@
         "expiration_date": "29-jul-2019",
         "state": "future"
     },
+    "homepage.cc": {
+        "epoch": 1804204800,
+        "expiration_date": "05-mar-2027",
+        "state": "future"
+    },
     "homepage.ru": {
         "epoch": 1567296000,
         "expiration_date": "01-sep-2019",
@@ -8884,6 +8889,11 @@
         "expiration_date": "30-aug-2019",
         "state": "future"
     },
+    "horse-racing-affiliate-program.co.uk": {
+        "epoch": 1593561600,
+        "expiration_date": "01-jul-2020",
+        "state": "future"
+    },
     "host-tracker.com": {
         "epoch": 1611705600,
         "expiration_date": "27-jan-2021",
@@ -8908,6 +8918,11 @@
         "epoch": 1571616000,
         "expiration_date": "21-oct-2019",
         "state": "future"
+    },
+    "hotwords.com.br": {
+        "epoch": 1553817600,
+        "expiration_date": "29-mar-2019",
+        "state": "past"
     },
     "hotwords.com.mx": {
         "epoch": 1558656000,
