@@ -3475,8 +3475,8 @@
         "state": "future"
     },
     "apprebates.com": {
-        "epoch": 1559952000,
-        "expiration_date": "08-jun-2019",
+        "epoch": 1591574400,
+        "expiration_date": "08-jun-2020",
         "state": "future"
     },
     "appredeem.com": {
@@ -3622,6 +3622,11 @@
     "assistonglobal.com": {
         "epoch": 1570147200,
         "expiration_date": "04-oct-2019",
+        "state": "future"
+    },
+    "assoc-amazon.co.uk": {
+        "epoch": 1585785600,
+        "expiration_date": "02-apr-2020",
         "state": "future"
     },
     "associateprograms.com": {
