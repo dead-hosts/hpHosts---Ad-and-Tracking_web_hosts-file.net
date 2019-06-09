@@ -599,6 +599,11 @@
         "expiration_date": "29-apr-2020",
         "state": "future"
     },
+    "ad-lister.co.uk": {
+        "epoch": 1581120000,
+        "expiration_date": "08-feb-2020",
+        "state": "future"
+    },
     "ad-listings.com": {
         "epoch": 1583884800,
         "expiration_date": "11-mar-2020",
@@ -1172,7 +1177,7 @@
     "adframesrc.com": {
         "epoch": 1560038400,
         "expiration_date": "09-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "adfrontiers.com": {
         "epoch": 1573603200,
@@ -1224,6 +1229,11 @@
         "expiration_date": "13-nov-2020",
         "state": "future"
     },
+    "adgenie.co.uk": {
+        "epoch": 1575417600,
+        "expiration_date": "04-dec-2019",
+        "state": "future"
+    },
     "adgent007.com": {
         "epoch": 1568332800,
         "expiration_date": "13-sep-2019",
@@ -1255,8 +1265,8 @@
         "state": "future"
     },
     "adgroups.com": {
-        "epoch": 1559952000,
-        "expiration_date": "08-jun-2019",
+        "epoch": 1591574400,
+        "expiration_date": "08-jun-2020",
         "state": "future"
     },
     "adgroups.net": {
@@ -1637,6 +1647,11 @@
     "admonitor.com": {
         "epoch": 1599609600,
         "expiration_date": "09-sep-2020",
+        "state": "future"
+    },
+    "admotion.com.ar": {
+        "epoch": 1565136000,
+        "expiration_date": "07-aug-2019",
         "state": "future"
     },
     "admulti.com": {
