@@ -15054,6 +15054,11 @@
         "expiration_date": "06-aug-2019",
         "state": "future"
     },
+    "thisteddagblad.dk": {
+        "epoch": 1577750400,
+        "expiration_date": "31-dec-2019",
+        "state": "future"
+    },
     "thogethoffic.co": {
         "epoch": 1562976000,
         "expiration_date": "13-jul-2019",
@@ -15204,9 +15209,19 @@
         "expiration_date": "23-jan-2022",
         "state": "future"
     },
+    "top50.co.uk": {
+        "epoch": 1600041600,
+        "expiration_date": "14-sep-2020",
+        "state": "future"
+    },
     "topadvancedsearch.com": {
         "epoch": 1567900800,
         "expiration_date": "08-sep-2019",
+        "state": "future"
+    },
+    "topfox.co.uk": {
+        "epoch": 1562457600,
+        "expiration_date": "07-jul-2019",
         "state": "future"
     },
     "toplist.cz": {
