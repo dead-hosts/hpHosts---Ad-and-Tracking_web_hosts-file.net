@@ -14279,6 +14279,11 @@
         "expiration_date": "30-jun-2019",
         "state": "future"
     },
+    "sitetagger.co.uk": {
+        "epoch": 1599782400,
+        "expiration_date": "11-sep-2020",
+        "state": "future"
+    },
     "sitetracker.com": {
         "epoch": 1588032000,
         "expiration_date": "28-apr-2020",
@@ -14405,9 +14410,9 @@
         "state": "future"
     },
     "socialize-it.com": {
-        "epoch": 1559865600,
-        "expiration_date": "07-jun-2019",
-        "state": "past"
+        "epoch": 1591488000,
+        "expiration_date": "07-jun-2020",
+        "state": "future"
     },
     "socialschanche.com": {
         "epoch": 1568160000,
@@ -14437,6 +14442,11 @@
     "softcash.biz": {
         "epoch": 1588464000,
         "expiration_date": "03-may-2020",
+        "state": "future"
+    },
+    "softclick.com.br": {
+        "epoch": 1595289600,
+        "expiration_date": "21-jul-2020",
         "state": "future"
     },
     "spacash.com": {
