@@ -769,6 +769,11 @@
         "expiration_date": "08-sep-2019",
         "state": "future"
     },
+    "adap.tv": {
+        "epoch": 1613865600,
+        "expiration_date": "21-feb-2021",
+        "state": "future"
+    },
     "adbanner.cz": {
         "epoch": 1571616000,
         "expiration_date": "21-oct-2019",
