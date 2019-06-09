@@ -12649,6 +12649,11 @@
         "expiration_date": "11-nov-2019",
         "state": "future"
     },
+    "playnow.guru": {
+        "epoch": 1578009600,
+        "expiration_date": "03-jan-2020",
+        "state": "future"
+    },
     "playtomic.com": {
         "epoch": 1590624000,
         "expiration_date": "28-may-2020",
@@ -12712,6 +12717,11 @@
     "pointroll.com": {
         "epoch": 1614729600,
         "expiration_date": "03-mar-2021",
+        "state": "future"
+    },
+    "pointshop.dk": {
+        "epoch": 1569801600,
+        "expiration_date": "30-sep-2019",
         "state": "future"
     },
     "politads.com": {
@@ -12849,6 +12859,11 @@
         "expiration_date": "16-sep-2019",
         "state": "future"
     },
+    "poweradvertising.co.uk": {
+        "epoch": 1563580800,
+        "expiration_date": "20-jul-2019",
+        "state": "future"
+    },
     "ppcchicago.com": {
         "epoch": 1577750400,
         "expiration_date": "31-dec-2019",
@@ -12925,9 +12940,9 @@
         "state": "future"
     },
     "prishla.info": {
-        "epoch": 1559865600,
-        "expiration_date": "07-jun-2019",
-        "state": "past"
+        "epoch": 1591488000,
+        "expiration_date": "07-jun-2020",
+        "state": "future"
     },
     "prizee.com": {
         "epoch": 1573776000,
