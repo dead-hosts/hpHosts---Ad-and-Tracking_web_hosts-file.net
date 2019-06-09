@@ -10069,6 +10069,11 @@
         "expiration_date": "11-may-2020",
         "state": "future"
     },
+    "leadintelligence.co.uk": {
+        "epoch": 1571184000,
+        "expiration_date": "16-oct-2019",
+        "state": "future"
+    },
     "leadlander.com": {
         "epoch": 1585526400,
         "expiration_date": "30-mar-2020",
@@ -10299,6 +10304,11 @@
         "expiration_date": "10-may-2020",
         "state": "future"
     },
+    "livecounter.dk": {
+        "epoch": 1580428800,
+        "expiration_date": "31-jan-2020",
+        "state": "future"
+    },
     "liveinternet.ru": {
         "epoch": 1571356800,
         "expiration_date": "18-oct-2019",
@@ -10434,6 +10444,11 @@
         "expiration_date": "21-oct-2020",
         "state": "future"
     },
+    "logo-net.co.uk": {
+        "epoch": 1592352000,
+        "expiration_date": "17-jun-2020",
+        "state": "future"
+    },
     "lokhlp.com": {
         "epoch": 1566604800,
         "expiration_date": "24-aug-2019",
@@ -10457,7 +10472,7 @@
     "lookest.win": {
         "epoch": 1559952000,
         "expiration_date": "08-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "looksa.com": {
         "epoch": 1568592000,
@@ -10492,6 +10507,11 @@
     "loudgames.com": {
         "epoch": 1590019200,
         "expiration_date": "21-may-2020",
+        "state": "future"
+    },
+    "lovecam.com.br": {
+        "epoch": 1624406400,
+        "expiration_date": "23-jun-2021",
         "state": "future"
     },
     "loxtk.com": {
