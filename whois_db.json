@@ -6054,9 +6054,19 @@
         "expiration_date": "27-mar-2021",
         "state": "future"
     },
+    "count.im": {
+        "epoch": 1580947200,
+        "expiration_date": "06-feb-2020",
+        "state": "future"
+    },
     "count.ly": {
         "epoch": 1607731200,
         "expiration_date": "12-dec-2020",
+        "state": "future"
+    },
+    "count.me.uk": {
+        "epoch": 1585180800,
+        "expiration_date": "26-mar-2020",
         "state": "future"
     },
     "count4all.com": {
