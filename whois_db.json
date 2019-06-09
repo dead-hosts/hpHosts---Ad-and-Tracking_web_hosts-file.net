@@ -3709,6 +3709,11 @@
         "expiration_date": "23-nov-2019",
         "state": "future"
     },
+    "autohits.dk": {
+        "epoch": 1580428800,
+        "expiration_date": "31-jan-2020",
+        "state": "future"
+    },
     "automaticsystem.com": {
         "epoch": 1569628800,
         "expiration_date": "28-sep-2019",
@@ -3722,6 +3727,11 @@
     "autosurfpro.com": {
         "epoch": 1560124800,
         "expiration_date": "10-jun-2019",
+        "state": "future"
+    },
+    "avads.co.uk": {
+        "epoch": 1571270400,
+        "expiration_date": "17-oct-2019",
         "state": "future"
     },
     "avatarcash.com": {
@@ -3844,6 +3854,11 @@
         "expiration_date": "18-apr-2020",
         "state": "future"
     },
+    "bango.co.uk": {
+        "epoch": 1609891200,
+        "expiration_date": "06-jan-2021",
+        "state": "future"
+    },
     "bango.com": {
         "epoch": 1622505600,
         "expiration_date": "01-jun-2021",
@@ -3872,6 +3887,11 @@
     "banner.cz": {
         "epoch": 1571529600,
         "expiration_date": "20-oct-2019",
+        "state": "future"
+    },
+    "banner.dk": {
+        "epoch": 1585612800,
+        "expiration_date": "31-mar-2020",
         "state": "future"
     },
     "banner.kiev.ua": {
@@ -3947,6 +3967,11 @@
     "bannerlandia.com": {
         "epoch": 1588204800,
         "expiration_date": "30-apr-2020",
+        "state": "future"
+    },
+    "bannerlandia.com.ar": {
+        "epoch": 1587945600,
+        "expiration_date": "27-apr-2020",
         "state": "future"
     },
     "bannermall.com": {
