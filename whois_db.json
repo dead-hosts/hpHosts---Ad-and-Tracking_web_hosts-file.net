@@ -7864,6 +7864,16 @@
         "expiration_date": "22-jan-2020",
         "state": "future"
     },
+    "free-counter.co.uk": {
+        "epoch": 1562803200,
+        "expiration_date": "11-jul-2019",
+        "state": "future"
+    },
+    "free-counters.co.uk": {
+        "epoch": 1585008000,
+        "expiration_date": "24-mar-2020",
+        "state": "future"
+    },
     "free-stats.com": {
         "epoch": 1590537600,
         "expiration_date": "27-may-2020",
@@ -8244,6 +8254,11 @@
         "expiration_date": "21-jul-2020",
         "state": "future"
     },
+    "globel.co.uk": {
+        "epoch": 1565913600,
+        "expiration_date": "16-aug-2019",
+        "state": "future"
+    },
     "globirank.com": {
         "epoch": 1587081600,
         "expiration_date": "17-apr-2020",
@@ -8457,6 +8472,11 @@
     "grabanapptrk.com": {
         "epoch": 1587600000,
         "expiration_date": "23-apr-2020",
+        "state": "future"
+    },
+    "grabify.link": {
+        "epoch": 1656979200,
+        "expiration_date": "05-jul-2022",
         "state": "future"
     },
     "greatcpm.com": {
