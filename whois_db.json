@@ -6340,8 +6340,8 @@
         "state": "future"
     },
     "credit-cards.org": {
-        "epoch": 1560124800,
-        "expiration_date": "10-jun-2019",
+        "epoch": 1591747200,
+        "expiration_date": "10-jun-2020",
         "state": "future"
     },
     "creoads.com": {
@@ -6417,7 +6417,7 @@
     "cuccu.me": {
         "epoch": 1560211200,
         "expiration_date": "11-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "cutestuf.com": {
         "epoch": 1586476800,
