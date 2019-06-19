@@ -4212,7 +4212,7 @@
     "bigasia.com": {
         "epoch": 1560902400,
         "expiration_date": "19-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "bigbangmedia.com": {
         "epoch": 1604361600,
@@ -4545,9 +4545,9 @@
         "state": "future"
     },
     "brightshare.com": {
-        "epoch": 1560729600,
-        "expiration_date": "17-jun-2019",
-        "state": "past"
+        "epoch": 1592352000,
+        "expiration_date": "17-jun-2020",
+        "state": "future"
     },
     "british-banners.com": {
         "epoch": 1597536000,
