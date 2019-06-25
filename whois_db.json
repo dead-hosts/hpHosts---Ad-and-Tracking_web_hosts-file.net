@@ -7817,7 +7817,7 @@
     "focusworks.com": {
         "epoch": 1561420800,
         "expiration_date": "25-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "foditgoz.com": {
         "epoch": 1570579200,
@@ -7980,9 +7980,9 @@
         "state": "future"
     },
     "friendlyduck.com": {
-        "epoch": 1561248000,
-        "expiration_date": "23-jun-2019",
-        "state": "past"
+        "epoch": 1592870400,
+        "expiration_date": "23-jun-2020",
+        "state": "future"
     },
     "frivol-ads.com": {
         "epoch": 1575417600,
