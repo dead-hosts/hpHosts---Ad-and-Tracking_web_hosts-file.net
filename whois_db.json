@@ -10257,7 +10257,7 @@
     "linktarget.com": {
         "epoch": 1561593600,
         "expiration_date": "27-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "linkwithin.com": {
         "epoch": 1573344000,
@@ -10415,8 +10415,8 @@
         "state": "future"
     },
     "lnkxfer8.com": {
-        "epoch": 1561593600,
-        "expiration_date": "27-jun-2019",
+        "epoch": 1593216000,
+        "expiration_date": "27-jun-2020",
         "state": "future"
     },
     "loanlinks.com": {
@@ -10480,8 +10480,8 @@
         "state": "future"
     },
     "look2me.com": {
-        "epoch": 1561507200,
-        "expiration_date": "26-jun-2019",
+        "epoch": 1593129600,
+        "expiration_date": "26-jun-2020",
         "state": "future"
     },
     "lookest.win": {
