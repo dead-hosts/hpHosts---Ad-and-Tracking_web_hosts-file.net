@@ -17050,8 +17050,8 @@
         "state": "future"
     },
     "xmts.net": {
-        "epoch": 1561593600,
-        "expiration_date": "27-jun-2019",
+        "epoch": 1593216000,
+        "expiration_date": "27-jun-2020",
         "state": "future"
     },
     "xoredi.com": {
@@ -17257,12 +17257,12 @@
     "youyield.com": {
         "epoch": 1561680000,
         "expiration_date": "28-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "yuilop.com": {
         "epoch": 1561680000,
         "expiration_date": "28-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "yuituityula.com": {
         "epoch": 1567123200,
