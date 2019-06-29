@@ -2839,6 +2839,11 @@
         "expiration_date": "07-jul-2019",
         "state": "future"
     },
+    "advserver.xyz": {
+        "epoch": 1565568000,
+        "expiration_date": "12-aug-2019",
+        "state": "future"
+    },
     "advspot.com": {
         "epoch": 1582070400,
         "expiration_date": "19-feb-2020",
