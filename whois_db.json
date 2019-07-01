@@ -700,8 +700,8 @@
         "state": "future"
     },
     "ad-x.com": {
-        "epoch": 1561939200,
-        "expiration_date": "01-jul-2019",
+        "epoch": 1593561600,
+        "expiration_date": "01-jul-2020",
         "state": "future"
     },
     "ad20.net": {
@@ -2630,8 +2630,8 @@
         "state": "future"
     },
     "advenueplatform.com": {
-        "epoch": 1561852800,
-        "expiration_date": "30-jun-2019",
+        "epoch": 1593475200,
+        "expiration_date": "30-jun-2020",
         "state": "future"
     },
     "adverity.com": {
@@ -3007,7 +3007,7 @@
     "affiliateharvest.com": {
         "epoch": 1561939200,
         "expiration_date": "01-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "affiliatekeeper.com": {
         "epoch": 1579478400,
