@@ -7442,7 +7442,7 @@
     "exactinstall.com": {
         "epoch": 1561939200,
         "expiration_date": "01-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "exactseek.com": {
         "epoch": 1599004800,
@@ -7600,8 +7600,8 @@
         "state": "future"
     },
     "fasttrack.nu": {
-        "epoch": 1561939200,
-        "expiration_date": "01-jul-2019",
+        "epoch": 1593561600,
+        "expiration_date": "01-jul-2020",
         "state": "future"
     },
     "fbgdc.com": {
