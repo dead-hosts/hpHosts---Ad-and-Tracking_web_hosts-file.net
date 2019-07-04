@@ -3765,8 +3765,8 @@
         "state": "future"
     },
     "avazutracking.net": {
-        "epoch": 1562025600,
-        "expiration_date": "02-jul-2019",
+        "epoch": 1593648000,
+        "expiration_date": "02-jul-2020",
         "state": "future"
     },
     "avenuea.com": {
@@ -3802,7 +3802,7 @@
     "axeds.com": {
         "epoch": 1562198400,
         "expiration_date": "04-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "axonix.com": {
         "epoch": 1682553600,
