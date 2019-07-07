@@ -1517,7 +1517,7 @@
     "adlock.in": {
         "epoch": 1562284800,
         "expiration_date": "05-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "adlogix.net": {
         "epoch": 1575072000,
