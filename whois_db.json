@@ -15855,9 +15855,9 @@
         "state": "future"
     },
     "truongton.net": {
-        "epoch": 1562284800,
-        "expiration_date": "05-jul-2019",
-        "state": "past"
+        "epoch": 1593907200,
+        "expiration_date": "05-jul-2020",
+        "state": "future"
     },
     "trustedads.org": {
         "epoch": 1572652800,
@@ -16017,7 +16017,7 @@
     "ultimatelyreveal.com": {
         "epoch": 1562544000,
         "expiration_date": "08-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "ultraadserver.com": {
         "epoch": 1577059200,
