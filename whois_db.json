@@ -12105,8 +12105,8 @@
         "state": "future"
     },
     "one-time-offer.com": {
-        "epoch": 1562457600,
-        "expiration_date": "07-jul-2019",
+        "epoch": 1594080000,
+        "expiration_date": "07-jul-2020",
         "state": "future"
     },
     "oneandonlynetwork.com": {
@@ -12242,7 +12242,7 @@
     "openxmedia.com": {
         "epoch": 1562457600,
         "expiration_date": "07-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "operationfabulous.com": {
         "epoch": 1578873600,
@@ -12682,7 +12682,7 @@
     "play4traffic.com": {
         "epoch": 1562544000,
         "expiration_date": "08-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "playminigolf.com": {
         "epoch": 1573430400,
