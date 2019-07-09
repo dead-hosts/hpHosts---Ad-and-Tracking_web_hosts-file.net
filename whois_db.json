@@ -177,7 +177,7 @@
     "360switch.net": {
         "epoch": 1562630400,
         "expiration_date": "09-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "3cinteractive.com": {
         "epoch": 1585699200,
@@ -235,8 +235,8 @@
         "state": "future"
     },
     "4mads.com": {
-        "epoch": 1562544000,
-        "expiration_date": "08-jul-2019",
+        "epoch": 1594166400,
+        "expiration_date": "08-jul-2020",
         "state": "future"
     },
     "4qsurvey.com": {
@@ -315,8 +315,8 @@
         "state": "future"
     },
     "7sultans.com": {
-        "epoch": 1562544000,
-        "expiration_date": "08-jul-2019",
+        "epoch": 1594166400,
+        "expiration_date": "08-jul-2020",
         "state": "future"
     },
     "810f3f9dde63ae3.com": {
