@@ -7297,7 +7297,7 @@
     "ercva.com": {
         "epoch": 1562630400,
         "expiration_date": "09-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "erendri.com": {
         "epoch": 1589846400,
@@ -7495,8 +7495,8 @@
         "state": "future"
     },
     "exitexchange.com": {
-        "epoch": 1562630400,
-        "expiration_date": "09-jul-2019",
+        "epoch": 1625788800,
+        "expiration_date": "09-jul-2021",
         "state": "future"
     },
     "exitfuel.com": {
@@ -7870,9 +7870,9 @@
         "state": "future"
     },
     "foxarmedia.com": {
-        "epoch": 1562457600,
-        "expiration_date": "07-jul-2019",
-        "state": "past"
+        "epoch": 1594080000,
+        "expiration_date": "07-jul-2020",
+        "state": "future"
     },
     "fpctraffic.com": {
         "epoch": 1572480000,
