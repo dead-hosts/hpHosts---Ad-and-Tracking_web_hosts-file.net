@@ -15715,8 +15715,8 @@
         "state": "future"
     },
     "tredirect.com": {
-        "epoch": 1562716800,
-        "expiration_date": "10-jul-2019",
+        "epoch": 1594339200,
+        "expiration_date": "10-jul-2020",
         "state": "future"
     },
     "trekblue.com": {
@@ -16020,9 +16020,9 @@
         "state": "future"
     },
     "ultimatelyreveal.com": {
-        "epoch": 1562544000,
-        "expiration_date": "08-jul-2019",
-        "state": "past"
+        "epoch": 1594166400,
+        "expiration_date": "08-jul-2020",
+        "state": "future"
     },
     "ultraadserver.com": {
         "epoch": 1577059200,
@@ -16087,7 +16087,7 @@
     "uniquesurf.com": {
         "epoch": 1562630400,
         "expiration_date": "09-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "universal-traffic.com": {
         "epoch": 1589500800,
