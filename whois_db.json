@@ -10092,7 +10092,7 @@
     "leadformix.com": {
         "epoch": 1562976000,
         "expiration_date": "13-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "leadhound.com": {
         "epoch": 1593043200,
@@ -10672,7 +10672,7 @@
     "maple-team.com": {
         "epoch": 1562976000,
         "expiration_date": "13-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "marketbrowser.com": {
         "epoch": 1603324800,
