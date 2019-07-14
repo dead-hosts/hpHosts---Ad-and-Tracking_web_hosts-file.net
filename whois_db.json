@@ -15780,8 +15780,8 @@
         "state": "future"
     },
     "trk4.com": {
-        "epoch": 1563062400,
-        "expiration_date": "14-jul-2019",
+        "epoch": 1594684800,
+        "expiration_date": "14-jul-2020",
         "state": "future"
     },
     "trkbin.com": {
@@ -15822,7 +15822,7 @@
     "trkuoy.com": {
         "epoch": 1563062400,
         "expiration_date": "14-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "trkur.com": {
         "epoch": 1578873600,
@@ -16295,9 +16295,9 @@
         "state": "future"
     },
     "vayavicio.com": {
-        "epoch": 1562889600,
-        "expiration_date": "12-jul-2019",
-        "state": "past"
+        "epoch": 1594512000,
+        "expiration_date": "12-jul-2020",
+        "state": "future"
     },
     "vdopia.com": {
         "epoch": 1585008000,
