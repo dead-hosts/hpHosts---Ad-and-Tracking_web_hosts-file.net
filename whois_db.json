@@ -680,9 +680,9 @@
         "state": "future"
     },
     "ad-u.com": {
-        "epoch": 1564531200,
-        "expiration_date": "31-jul-2019",
-        "state": "past"
+        "epoch": 1596153600,
+        "expiration_date": "31-jul-2020",
+        "state": "future"
     },
     "ad-vice.biz": {
         "epoch": 1582848000,
@@ -2535,8 +2535,8 @@
         "state": "future"
     },
     "adtruism.com": {
-        "epoch": 1564704000,
-        "expiration_date": "02-aug-2019",
+        "epoch": 1596326400,
+        "expiration_date": "02-aug-2020",
         "state": "future"
     },
     "adtruth.com": {
