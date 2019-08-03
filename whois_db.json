@@ -10260,9 +10260,9 @@
         "state": "future"
     },
     "linksponsor.com": {
-        "epoch": 1564531200,
-        "expiration_date": "31-jul-2019",
-        "state": "past"
+        "epoch": 1596153600,
+        "expiration_date": "31-jul-2020",
+        "state": "future"
     },
     "linksredirect.com": {
         "epoch": 1588204800,
@@ -10310,8 +10310,8 @@
         "state": "future"
     },
     "list.ru": {
-        "epoch": 1564617600,
-        "expiration_date": "01-aug-2019",
+        "epoch": 1596240000,
+        "expiration_date": "01-aug-2020",
         "state": "future"
     },
     "listbot.com": {
