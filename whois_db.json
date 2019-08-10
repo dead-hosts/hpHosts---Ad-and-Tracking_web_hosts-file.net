@@ -14250,9 +14250,9 @@
         "state": "future"
     },
     "showstat.com": {
-        "epoch": 1564876800,
-        "expiration_date": "04-aug-2019",
-        "state": "past"
+        "epoch": 1596499200,
+        "expiration_date": "04-aug-2020",
+        "state": "future"
     },
     "sictalk.com": {
         "epoch": 1574985600,
@@ -14450,8 +14450,8 @@
         "state": "future"
     },
     "snapengage.com": {
-        "epoch": 1565136000,
-        "expiration_date": "07-aug-2019",
+        "epoch": 1596758400,
+        "expiration_date": "07-aug-2020",
         "state": "future"
     },
     "sndkorea.co.kr": {
@@ -14512,6 +14512,11 @@
     "sparkimg.com": {
         "epoch": 1625270400,
         "expiration_date": "03-jul-2021",
+        "state": "future"
+    },
+    "special-news.online": {
+        "epoch": 1589587200,
+        "expiration_date": "16-may-2020",
         "state": "future"
     },
     "specificmedia.com": {
