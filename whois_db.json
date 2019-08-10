@@ -10745,8 +10745,8 @@
         "state": "future"
     },
     "masterzonex.com": {
-        "epoch": 1565308800,
-        "expiration_date": "09-aug-2019",
+        "epoch": 1596931200,
+        "expiration_date": "09-aug-2020",
         "state": "future"
     },
     "matchbin.com": {
@@ -11575,9 +11575,9 @@
         "state": "future"
     },
     "myiframe.com": {
-        "epoch": 1564876800,
-        "expiration_date": "04-aug-2019",
-        "state": "past"
+        "epoch": 1596499200,
+        "expiration_date": "04-aug-2020",
+        "state": "future"
     },
     "myimagetracking.com": {
         "epoch": 1582502400,
@@ -11645,8 +11645,8 @@
         "state": "future"
     },
     "n64adserv.com": {
-        "epoch": 1565308800,
-        "expiration_date": "09-aug-2019",
+        "epoch": 1596931200,
+        "expiration_date": "09-aug-2020",
         "state": "future"
     },
     "n65adserv.com": {
