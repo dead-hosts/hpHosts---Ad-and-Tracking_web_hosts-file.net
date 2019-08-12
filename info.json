@@ -1,14 +1,19 @@
 {
-    "arguments": [],
-    "clean_list_file": "clean.list",
-    "clean_original": "1",
-    "commit_autosave_message": "Test of hpHosts---Ad-and-Tracking_web_hosts-file.net",
-    "currently_under_test": "0",
-    "days_until_next_test": "0",
-    "last_test": "1565483481",
-    "list_name": "hpHosts---Ad-and-Tracking_web_hosts-file.net.list",
+    "currently_under_test": true,
+    "custom_pyfunceble_config": {},
+    "days_until_next_test": 0.0,
+    "finish_datetime": "1970-01-01T00:00:00",
+    "finish_timestamp": 0.0,
+    "last_download_datetime": "2019-08-12T13:02:03.625915",
+    "last_download_timestamp": 1565614923.625915,
+    "latest_part_finish_datetime": "2019-08-12T13:12:08.644611",
+    "latest_part_finish_timestamp": 1565615528.644611,
+    "latest_part_start_datetime": "2019-08-12T13:02:05.744207",
+    "latest_part_start_timestamp": 1565614925.744207,
     "name": "hpHosts---Ad-and-Tracking_web_hosts-file.net",
+    "own_management": false,
     "ping": [],
     "raw_link": "https://hosts-file.net/ad_servers.txt",
-    "stable": "0"
+    "start_datetime": "2019-08-12T13:02:05.740771",
+    "start_timestamp": 1565614925.740771
 }
