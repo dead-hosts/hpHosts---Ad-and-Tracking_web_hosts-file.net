@@ -16019,6 +16019,11 @@
         "expiration_date": "05-jun-2020",
         "state": "future"
     },
+    "ukaffiliates2.com": {
+        "epoch": 1597104000,
+        "expiration_date": "11-aug-2020",
+        "state": "future"
+    },
     "ukatoe.com": {
         "epoch": 1567900800,
         "expiration_date": "08-sep-2019",
@@ -16155,8 +16160,8 @@
         "state": "future"
     },
     "uproar.com": {
-        "epoch": 1565654400,
-        "expiration_date": "13-aug-2019",
+        "epoch": 1597276800,
+        "expiration_date": "13-aug-2020",
         "state": "future"
     },
     "upsellit.com": {
