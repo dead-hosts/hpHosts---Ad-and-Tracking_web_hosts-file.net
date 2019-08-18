@@ -10237,7 +10237,7 @@
     "linknavi1.com": {
         "epoch": 1566086400,
         "expiration_date": "18-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "linkopp.com": {
         "epoch": 1577836800,
@@ -10460,9 +10460,9 @@
         "state": "future"
     },
     "localmediabuying.com": {
-        "epoch": 1565913600,
-        "expiration_date": "16-aug-2019",
-        "state": "past"
+        "epoch": 1597536000,
+        "expiration_date": "16-aug-2020",
+        "state": "future"
     },
     "localytics.com": {
         "epoch": 1594080000,
