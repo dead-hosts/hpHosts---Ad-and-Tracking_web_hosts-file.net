@@ -2962,7 +2962,7 @@
     "adzouk.com": {
         "epoch": 1566086400,
         "expiration_date": "18-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "aff12.com": {
         "epoch": 1575849600,
@@ -3125,8 +3125,8 @@
         "state": "future"
     },
     "affyield.com": {
-        "epoch": 1566086400,
-        "expiration_date": "18-aug-2019",
+        "epoch": 1597708800,
+        "expiration_date": "18-aug-2020",
         "state": "future"
     },
     "afgr2.com": {
