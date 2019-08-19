@@ -16742,7 +16742,7 @@
     "websitepromoserver.com": {
         "epoch": 1566172800,
         "expiration_date": "19-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "websitepromote.com": {
         "epoch": 1570233600,
@@ -16815,8 +16815,8 @@
         "state": "future"
     },
     "webuytraffic.com": {
-        "epoch": 1566086400,
-        "expiration_date": "18-aug-2019",
+        "epoch": 1597708800,
+        "expiration_date": "18-aug-2020",
         "state": "future"
     },
     "wee.co.il": {
