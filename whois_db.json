@@ -12427,7 +12427,7 @@
     "palimashop.com": {
         "epoch": 1566432000,
         "expiration_date": "22-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "papayamobile.com": {
         "epoch": 1604880000,
@@ -12477,7 +12477,7 @@
     "patchwork.net": {
         "epoch": 1566432000,
         "expiration_date": "22-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "pay-ads.com": {
         "epoch": 1593561600,
