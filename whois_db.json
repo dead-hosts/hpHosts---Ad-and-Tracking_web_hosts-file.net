@@ -10955,9 +10955,9 @@
         "state": "future"
     },
     "megafriends.com": {
-        "epoch": 1566259200,
-        "expiration_date": "20-aug-2019",
-        "state": "past"
+        "epoch": 1597881600,
+        "expiration_date": "20-aug-2020",
+        "state": "future"
     },
     "megalithusa.com": {
         "epoch": 1594080000,
@@ -10995,8 +10995,8 @@
         "state": "future"
     },
     "memorablesix.com": {
-        "epoch": 1566345600,
-        "expiration_date": "21-aug-2019",
+        "epoch": 1597968000,
+        "expiration_date": "21-aug-2020",
         "state": "future"
     },
     "merchant.com": {
@@ -11147,7 +11147,7 @@
     "mmotraffic.com": {
         "epoch": 1566432000,
         "expiration_date": "22-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "mmtracking.com": {
         "epoch": 1588377600,
