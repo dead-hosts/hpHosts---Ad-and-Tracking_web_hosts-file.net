@@ -2114,6 +2114,11 @@
         "expiration_date": "04-mar-2020",
         "state": "future"
     },
+    "adservr.net": {
+        "epoch": 1598054400,
+        "expiration_date": "22-aug-2020",
+        "state": "future"
+    },
     "adsfac.net": {
         "epoch": 1567555200,
         "expiration_date": "04-sep-2019",
@@ -5295,8 +5300,8 @@
         "state": "future"
     },
     "clickad.com.pl": {
-        "epoch": 1565913600,
-        "expiration_date": "16-aug-2019",
+        "epoch": 1660608000,
+        "expiration_date": "16-aug-2022",
         "state": "future"
     },
     "clickad.pl": {
