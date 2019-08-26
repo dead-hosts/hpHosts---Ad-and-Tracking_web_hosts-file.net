@@ -2612,7 +2612,7 @@
     "advancedsoftwaresupport.com": {
         "epoch": 1566777600,
         "expiration_date": "26-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "advancets.org": {
         "epoch": 1574294400,
@@ -2785,8 +2785,8 @@
         "state": "future"
     },
     "advertmarket.com": {
-        "epoch": 1566777600,
-        "expiration_date": "26-aug-2019",
+        "epoch": 1598400000,
+        "expiration_date": "26-aug-2020",
         "state": "future"
     },
     "advertmarketing.com": {
