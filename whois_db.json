@@ -13000,8 +13000,8 @@
         "state": "future"
     },
     "primosearch.com": {
-        "epoch": 1566777600,
-        "expiration_date": "26-aug-2019",
+        "epoch": 1598400000,
+        "expiration_date": "26-aug-2020",
         "state": "future"
     },
     "pringotrack.com": {
@@ -13057,7 +13057,7 @@
     "projectwonderful.com": {
         "epoch": 1566777600,
         "expiration_date": "26-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "promo4partners.com": {
         "epoch": 1597795200,
