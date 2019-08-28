@@ -9262,7 +9262,7 @@
     "imprese.cz": {
         "epoch": 1566950400,
         "expiration_date": "28-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "imptestrm.com": {
         "epoch": 1602547200,
@@ -10190,8 +10190,8 @@
         "state": "future"
     },
     "lightedpages.com": {
-        "epoch": 1566950400,
-        "expiration_date": "28-aug-2019",
+        "epoch": 1598572800,
+        "expiration_date": "28-aug-2020",
         "state": "future"
     },
     "lijit.com": {
