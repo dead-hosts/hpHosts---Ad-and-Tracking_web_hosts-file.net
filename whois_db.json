@@ -10607,7 +10607,7 @@
     "lwken.com": {
         "epoch": 1567296000,
         "expiration_date": "01-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "m1e.net": {
         "epoch": 1582070400,
@@ -10920,8 +10920,8 @@
         "state": "future"
     },
     "medialand.ru": {
-        "epoch": 1567296000,
-        "expiration_date": "01-sep-2019",
+        "epoch": 1598918400,
+        "expiration_date": "01-sep-2020",
         "state": "future"
     },
     "mediamath.com": {
@@ -10930,8 +10930,8 @@
         "state": "future"
     },
     "mediamind.com": {
-        "epoch": 1567123200,
-        "expiration_date": "30-aug-2019",
+        "epoch": 1598745600,
+        "expiration_date": "30-aug-2020",
         "state": "future"
     },
     "mediaplazza.com": {
@@ -10945,8 +10945,8 @@
         "state": "future"
     },
     "mediasheva.com": {
-        "epoch": 1567036800,
-        "expiration_date": "29-aug-2019",
+        "epoch": 1598659200,
+        "expiration_date": "29-aug-2020",
         "state": "future"
     },
     "mediawhirl.net": {
@@ -11225,8 +11225,8 @@
         "state": "future"
     },
     "mobidia.com": {
-        "epoch": 1567209600,
-        "expiration_date": "31-aug-2019",
+        "epoch": 1725062400,
+        "expiration_date": "31-aug-2024",
         "state": "future"
     },
     "mobilda.com": {
@@ -11645,8 +11645,8 @@
         "state": "future"
     },
     "mytiwi.com": {
-        "epoch": 1567036800,
-        "expiration_date": "29-aug-2019",
+        "epoch": 1598659200,
+        "expiration_date": "29-aug-2020",
         "state": "future"
     },
     "mytrafficbuilder.info": {
