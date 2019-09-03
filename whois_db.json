@@ -170,8 +170,8 @@
         "state": "future"
     },
     "360popunder.com": {
-        "epoch": 1567296000,
-        "expiration_date": "01-sep-2019",
+        "epoch": 1598918400,
+        "expiration_date": "01-sep-2020",
         "state": "future"
     },
     "360switch.net": {
@@ -392,7 +392,7 @@
     "a5cee7.se": {
         "epoch": 1567382400,
         "expiration_date": "02-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "a6ba.com": {
         "epoch": 1575763200,
