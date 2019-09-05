@@ -4172,7 +4172,7 @@
     "benchbrands.com": {
         "epoch": 1567641600,
         "expiration_date": "05-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "beseen.com": {
         "epoch": 1571184000,
@@ -4180,8 +4180,8 @@
         "state": "future"
     },
     "best-ads.com": {
-        "epoch": 1567555200,
-        "expiration_date": "04-sep-2019",
+        "epoch": 1599177600,
+        "expiration_date": "04-sep-2020",
         "state": "future"
     },
     "best-deals-products.com": {
