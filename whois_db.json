@@ -3455,8 +3455,8 @@
         "state": "future"
     },
     "appia.com": {
-        "epoch": 1568073600,
-        "expiration_date": "10-sep-2019",
+        "epoch": 1631232000,
+        "expiration_date": "10-sep-2021",
         "state": "future"
     },
     "appintop.com": {
@@ -3482,7 +3482,7 @@
     "applifier.com": {
         "epoch": 1568073600,
         "expiration_date": "10-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "applift.com": {
         "epoch": 1583193600,
