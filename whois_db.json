@@ -15297,7 +15297,7 @@
     "top-ro.ro": {
         "epoch": 1568246400,
         "expiration_date": "12-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "top20.com": {
         "epoch": 1642896000,
@@ -15585,8 +15585,8 @@
         "state": "future"
     },
     "trafficdiscount.com": {
-        "epoch": 1568160000,
-        "expiration_date": "11-sep-2019",
+        "epoch": 1599782400,
+        "expiration_date": "11-sep-2020",
         "state": "future"
     },
     "trafficfactory.biz": {
@@ -15610,8 +15610,8 @@
         "state": "future"
     },
     "traffichold.com": {
-        "epoch": 1568160000,
-        "expiration_date": "11-sep-2019",
+        "epoch": 1599782400,
+        "expiration_date": "11-sep-2020",
         "state": "future"
     },
     "trafficjuicer.com": {
