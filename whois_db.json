@@ -3252,7 +3252,7 @@
     "alabardak.com": {
         "epoch": 1568678400,
         "expiration_date": "17-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "alfredean.com": {
         "epoch": 1572307200,
@@ -3360,8 +3360,8 @@
         "state": "future"
     },
     "anonymousads.com": {
-        "epoch": 1568678400,
-        "expiration_date": "17-sep-2019",
+        "epoch": 1600300800,
+        "expiration_date": "17-sep-2020",
         "state": "future"
     },
     "answermedia.com": {
