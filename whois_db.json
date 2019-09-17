@@ -2777,7 +2777,7 @@
     "advertjunction.com": {
         "epoch": 1568678400,
         "expiration_date": "17-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "advertlets.com": {
         "epoch": 1578096000,
@@ -2965,8 +2965,8 @@
         "state": "future"
     },
     "adzones.com": {
-        "epoch": 1568592000,
-        "expiration_date": "16-sep-2019",
+        "epoch": 1600214400,
+        "expiration_date": "16-sep-2020",
         "state": "future"
     },
     "adzonk.com": {
