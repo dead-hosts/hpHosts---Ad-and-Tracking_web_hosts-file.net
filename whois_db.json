@@ -11712,7 +11712,7 @@
     "namitol.com": {
         "epoch": 1569369600,
         "expiration_date": "25-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "nanigans.com": {
         "epoch": 1705536000,
@@ -11890,8 +11890,8 @@
         "state": "future"
     },
     "network22.com": {
-        "epoch": 1569369600,
-        "expiration_date": "25-sep-2019",
+        "epoch": 1600992000,
+        "expiration_date": "25-sep-2020",
         "state": "future"
     },
     "networkadvertising.org": {
