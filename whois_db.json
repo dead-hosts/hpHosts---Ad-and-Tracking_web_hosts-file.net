@@ -11710,9 +11710,9 @@
         "state": "future"
     },
     "namitol.com": {
-        "epoch": 1569369600,
-        "expiration_date": "25-sep-2019",
-        "state": "past"
+        "epoch": 1600992000,
+        "expiration_date": "25-sep-2020",
+        "state": "future"
     },
     "nanigans.com": {
         "epoch": 1705536000,
@@ -11837,7 +11837,7 @@
     "netmarketeur.com": {
         "epoch": 1569628800,
         "expiration_date": "28-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "netmarketing2004.com": {
         "epoch": 1570924800,
