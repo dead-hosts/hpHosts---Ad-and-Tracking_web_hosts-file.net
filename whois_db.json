@@ -9265,9 +9265,9 @@
         "state": "future"
     },
     "imprese.cz": {
-        "epoch": 1566950400,
-        "expiration_date": "28-aug-2019",
-        "state": "past"
+        "epoch": 1598572800,
+        "expiration_date": "28-aug-2020",
+        "state": "future"
     },
     "imptestrm.com": {
         "epoch": 1602547200,
@@ -9545,9 +9545,9 @@
         "state": "future"
     },
     "intouchmediagroup.com": {
-        "epoch": 1570060800,
-        "expiration_date": "03-oct-2019",
-        "state": "past"
+        "epoch": 1601683200,
+        "expiration_date": "03-oct-2020",
+        "state": "future"
     },
     "intredo.com": {
         "epoch": 1592697600,
@@ -9730,8 +9730,8 @@
         "state": "future"
     },
     "jingavot.com": {
-        "epoch": 1570579200,
-        "expiration_date": "09-oct-2019",
+        "epoch": 1602201600,
+        "expiration_date": "09-oct-2020",
         "state": "future"
     },
     "jiwire.com": {
@@ -9827,7 +9827,7 @@
     "jswrite.com": {
         "epoch": 1571356800,
         "expiration_date": "18-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "juiceadv.com": {
         "epoch": 1580256000,
