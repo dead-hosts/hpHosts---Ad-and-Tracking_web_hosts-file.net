@@ -7210,8 +7210,8 @@
         "state": "future"
     },
     "eltrafiko.com": {
-        "epoch": 1571184000,
-        "expiration_date": "16-oct-2019",
+        "epoch": 1602806400,
+        "expiration_date": "16-oct-2020",
         "state": "future"
     },
     "email-newsletters.com": {
@@ -7342,7 +7342,7 @@
     "ero-advertising.co.uk": {
         "epoch": 1570060800,
         "expiration_date": "03-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "ero-advertising.com": {
         "epoch": 1639958400,
@@ -7385,8 +7385,8 @@
         "state": "future"
     },
     "erogaliv.com": {
-        "epoch": 1570579200,
-        "expiration_date": "09-oct-2019",
+        "epoch": 1602201600,
+        "expiration_date": "09-oct-2020",
         "state": "future"
     },
     "escalatenetwork.com": {
