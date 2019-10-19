@@ -1,606 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hpHosts---Ad-and-Tracking_web_hosts-file.net/domains.list": {
-        "1571393208": {
-            "ox-d.hatena.servedbyopenx.com": "INACTIVE",
-            "ox-d.hearstmagazines.servedbyopenx.com": "INACTIVE",
-            "ox-d.ibt.servedbyopenx.com": "INACTIVE"
-        },
-        "1571393209": {
-            "ox-d.imgur.servedbyopenx.com": "INACTIVE"
-        },
-        "1571393215": {
-            "ox-d.intermarkets.net": "INACTIVE",
-            "ox-d.internetbrands.servedbyopenx.com": "INACTIVE"
-        },
-        "1571393216": {
-            "ox-d.interweave.com": "INACTIVE",
-            "ox-d.journatic.com": "INACTIVE"
-        },
-        "1571393222": {
-            "ox-d.jrn.com": "INACTIVE"
-        },
-        "1571393223": {
-            "ox-d.ksl.servedbyopenx.com": "INACTIVE",
-            "ox-d.kwick.servedbyopenx.com": "INACTIVE",
-            "ox-d.leessp.servedbyopenx.com": "INACTIVE"
-        },
-        "1571393224": {
-            "ox-d.mailonline.servedbyopenx.com": "INACTIVE",
-            "ox-d.medianet.servedbyopenx.com": "INACTIVE",
-            "ox-d.merriamwebster.servedbyopenx.com": "INACTIVE"
-        },
-        "1571393231": {
-            "ox-d.m-market.servedbyopenx.com": "INACTIVE",
-            "ox-d.mm1x.nl": "INACTIVE"
-        },
-        "1571393232": {
-            "ox-d.mods.pch.com": "INACTIVE",
-            "ox-d.monetizationservices.servedbyopenx.com": "INACTIVE",
-            "ox-d.mst.servedbyopenx.com": "INACTIVE"
-        },
-        "1571393233": {
-            "ox-d.nasdaq.servedbyopenx.com": "INACTIVE",
-            "ox-d.nydailynews.servedbyopenx.com": "INACTIVE"
-        },
-        "1571393239": {
-            "ox-d.openx.jp": "INACTIVE"
-        },
-        "1571393246": {
-            "ox-d.oxjapan.servedbyopenx.com": "INACTIVE",
-            "ox-d.pbhmedia.servedbyopenx.com": "INACTIVE"
-        },
-        "1571393247": {
-            "ox-d.philly.servedbyopenx.com": "INACTIVE",
-            "ox-d.pittpostgazette.servedbyopenx.com": "INACTIVE",
-            "ox-d.publisherdesk.servedbyopenx.com": "INACTIVE"
-        },
-        "1571393248": {
-            "ox-d.ranker.servedbyopenx.com": "INACTIVE",
-            "ox-d.realtor.servedbyopenx.com": "INACTIVE"
-        },
-        "1571393254": {
-            "ox-d.rocketadserver.com": "INACTIVE"
-        },
-        "1571393255": {
-            "ox-d.saygoodbuy.servedbyopenx.com": "INACTIVE",
-            "ox-d.sinclair.servedbyopenx.com": "INACTIVE"
-        },
-        "1571393256": {
-            "ox-d.sltrib.servedbyopenx.com": "INACTIVE"
-        },
-        "1571393257": {
-            "ox-d.sm.servedbyopenx.com": "INACTIVE",
-            "ox-d.socialknowledge.servedbyopenx.com": "INACTIVE"
-        },
-        "1571393264": {
-            "ox-d.southwest.com": "INACTIVE",
-            "ox-d.spanishdict.servedbyopenx.com": "INACTIVE",
-            "ox-d.startribune.servedbyopenx.com": "INACTIVE"
-        },
-        "1571393271": {
-            "ox-d.technoratimedia.servedbyopenx.com": "INACTIVE",
-            "ox-d.thechive.servedbyopenx.com": "INACTIVE",
-            "ox-d.tmn.servedbyopenx.com": "INACTIVE"
-        },
-        "1571393272": {
-            "ox-d.trulia.servedbyopenx.com": "INACTIVE"
-        },
-        "1571393273": {
-            "ox-d.tunein.servedbyopenx.com": "INACTIVE",
-            "ox-d.warnerbros.servedbyopenx.com": "INACTIVE"
-        },
-        "1571393274": {
-            "ox-d.weatherus.servedbyopenx.com": "INACTIVE",
-            "ox-d.wikia.servedbyopenx.com": "INACTIVE",
-            "ox-d.wikihow.servedbyopenx.com": "INACTIVE"
-        },
-        "1571393275": {
-            "ox-d.wuv.servedbyopenx.com": "INACTIVE",
-            "ox-d.yp.com": "INACTIVE",
-            "ox-d.zergnet.servedbyopenx.com": "INACTIVE"
-        },
-        "1571393276": {
-            "ox.furaffinity.net": "INACTIVE",
-            "oxeey.voluumtrk.com": "INACTIVE",
-            "oxen8.voluumtrk.com": "INACTIVE"
-        },
-        "1571393281": {
-            "ox.mediabistro.com": "INACTIVE"
-        },
-        "1571393289": {
-            "ox.pigu.lt": "INACTIVE"
-        },
-        "1571393305": {
-            "oxs1.selsin.net": "INACTIVE"
-        },
-        "1571393316": {
-            "ox-socialimg.bidsystem.com": "INACTIVE",
-            "ox.stardoll.com": "INACTIVE"
-        },
-        "1571393324": {
-            "ox.videobuster.de": "INACTIVE"
-        },
-        "1571393325": {
-            "oylkc.voluumtrk.com": "INACTIVE",
-            "oyvir.voluumtrk.com": "INACTIVE"
-        },
-        "1571393326": {
-            "o.zeroredirect1.com": "INACTIVE",
-            "o.zeroredirect2.com": "INACTIVE"
-        },
-        "1571393327": {
-            "o.zeroredirect.com": "INACTIVE",
-            "ozzhf.voluumtrk.com": "INACTIVE",
-            "p13n-int.herokuapp.com": "INACTIVE"
-        },
-        "1571393328": {
-            "p1.tcr111.tynt.com": "INACTIVE",
-            "p13n-test.herokuapp.com": "INACTIVE"
-        },
-        "1571393329": {
-            "p2-aahhyknavsj2m-wtnlrzkba6lht33q-if-v6exp3-v4.metric.gstatic.com": "INACTIVE"
-        },
-        "1571393330": {
-            "p2-f6rp6piuxns4u-uzq4vp76bu3w2tso-if-v6exp3-v4.metric.gstatic.com": "INACTIVE",
-            "p2.adhitzads.com": "INACTIVE",
-            "p2in2.voluumtrk.com": "INACTIVE"
-        },
-        "1571393331": {
-            "p2-n3zurhre4jjvk-can5rb2f2a4urcxh-if-v6exp3-v4.metric.gstatic.com": "INACTIVE"
-        },
-        "1571393338": {
-            "p30download.ads.saba-e.com": "INACTIVE",
-            "p30gp.voluumtrk.com": "INACTIVE",
-            "p36jk.voluumtrk.com": "INACTIVE"
-        },
-        "1571393346": {
-            "p4-ajvwyt5lpjazy-us7r2dzqcjsqh7pt-164149-i1-v6exp3-v4.metric.gstatic.com": "INACTIVE",
-            "p4-ajvwyt5lpjazy-us7r2dzqcjsqh7pt-164149-i2-v6exp3-ds.metric.gstatic.com": "INACTIVE",
-            "p4-ajvwyt5lpjazy-us7r2dzqcjsqh7pt-164149-s1-v6exp3-v4.metric.gstatic.com": "INACTIVE"
-        },
-        "1571393347": {
-            "p4-ajvwyt5lpjazy-us7r2dzqcjsqh7pt-if-v6exp3-v4.metric.gstatic.com": "INACTIVE",
-            "p4iov.voluumtrk.com": "INACTIVE"
-        },
-        "1571393348": {
-            "p5-lj5aujgj7jl7w-r2pmxqvndsgx2im2-931517-i1-v6exp3-v4.metric.gstatic.com": "INACTIVE",
-            "p5-lj5aujgj7jl7w-r2pmxqvndsgx2im2-931517-i2-v6exp3-ds.metric.gstatic.com": "INACTIVE"
-        },
-        "1571393350": {
-            "p8gqd.voluumtrk.com": "INACTIVE"
-        },
-        "1571393353": {
-            "p.ace.advertising.com": "INACTIVE",
-            "pa.advertising.veeseo.com": "INACTIVE"
-        },
-        "1571393360": {
-            "pads.adition.com": "INACTIVE",
-            "padsdel.cdnads.com": "INACTIVE"
-        },
-        "1571393364": {
-            "pagead2.googlesyndication.com": "INACTIVE",
-            "pagead46.l.doubleclick.net": "INACTIVE"
-        },
-        "1571393366": {
-            "pages.crittercism.com": "INACTIVE",
-            "pages.expert-offers.com": "INACTIVE",
-            "pagvl.voluumtrk.com": "INACTIVE"
-        },
-        "1571393367": {
-            "paid.outbrain.com": "INACTIVE",
-            "paid4clicks.de": "INACTIVE"
-        },
-        "1571393369": {
-            "pajpv.voluumtrk.com": "INACTIVE",
-            "paletotseeyzubqr.download": "INACTIVE"
-        },
-        "1571393378": {
-            "pandaapp.us.intellitxt.com": "INACTIVE"
-        },
-        "1571393379": {
-            "pandectxfszuufr.download": "INACTIVE"
-        },
-        "1571393386": {
-            "panel-metrica.2cnt.net": "INACTIVE"
-        },
-        "1571393387": {
-            "panther1.cpxinteractive.com": "INACTIVE"
-        },
-        "1571393388": {
-            "papi.slideme.org": "INACTIVE"
-        },
-        "1571393389": {
-            "paranoicbarhuhw.download": "INACTIVE"
-        },
-        "1571393390": {
-            "pareticpaypdtpq.download": "INACTIVE"
-        },
-        "1571393400": {
-            "partnerad.l.doubleclick.net": "INACTIVE"
-        },
-        "1571393407": {
-            "partner.ah-ha.com": "INACTIVE"
-        },
-        "1571393411": {
-            "partner.buzzcity.com": "INACTIVE"
-        },
-        "1571395184": {
-            "partner.googleadservices.com": "INACTIVE"
-        },
-        "1571395191": {
-            "partner.leguide.com": "INACTIVE"
-        },
-        "1571395192": {
-            "partner.monetizus.com": "INACTIVE",
-            "partner.oboom.com": "INACTIVE"
-        },
-        "1571395199": {
-            "partner.privatbank.ua": "INACTIVE"
-        },
-        "1571395204": {
-            "partners.sportingbet.com.au": "INACTIVE"
-        },
-        "1571395206": {
-            "partners.webtrends.com": "INACTIVE"
-        },
-        "1571395207": {
-            "partner.teufel.de": "INACTIVE"
-        },
-        "1571395208": {
-            "partner.topcities.com": "INACTIVE",
-            "partner.zooplus.de": "INACTIVE"
-        },
-        "1571395218": {
-            "pass.duba.net": "INACTIVE"
-        },
-        "1571395219": {
-            "pasta.dianxinos.com": "INACTIVE"
-        },
-        "1571395220": {
-            "p.ato.mx": "INACTIVE"
-        },
-        "1571395229": {
-            "payload.yieldbuild.com": "INACTIVE"
-        },
-        "1571395230": {
-            "paypal.adtag.where.com": "INACTIVE"
-        },
-        "1571395234": {
-            "pba39.inethoster.org": "INACTIVE",
-            "pbc7m.voluumtrk.com": "INACTIVE"
-        },
-        "1571395237": {
-            "pbm7t.voluumtrk.com": "INACTIVE"
-        },
-        "1571395238": {
-            "pbnwiecwfpaltrier.review": "INACTIVE"
-        },
-        "1571395239": {
-            "pb.sogou.com": "INACTIVE"
-        },
-        "1571395240": {
-            "pcastuces.fr.intellitxt.com": "INACTIVE"
-        },
-        "1571395241": {
-            "pcdwh.voluumtrk.com": "INACTIVE",
-            "pcgames.de.intellitxt.com": "INACTIVE"
-        },
-        "1571395244": {
-            "pclick.europe.yahoo.com": "INACTIVE"
-        },
-        "1571395245": {
-            "pclick.internal.yahoo.com": "INACTIVE"
-        },
-        "1571395248": {
-            "pclick.yahoo.com": "INACTIVE",
-            "pcmagazin.digidip.net": "INACTIVE"
-        },
-        "1571395250": {
-            "pcppu.voluumtrk.com": "INACTIVE"
-        },
-        "1571395251": {
-            "pcsx9.voluumtrk.com": "INACTIVE"
-        },
-        "1571395257": {
-            "p.ctasnet.com": "INACTIVE"
-        },
-        "1571395258": {
-            "pctipp.ch.intellitxt.com": "INACTIVE",
-            "pctools.tt.omtrdc.net": "INACTIVE"
-        },
-        "1571395259": {
-            "pctweu.vancouverco.com": "INACTIVE"
-        },
-        "1571395260": {
-            "pda.mv.bidsystem.com": "INACTIVE"
-        },
-        "1571395267": {
-            "pdf.forbes.com": "INACTIVE"
-        },
-        "1571395268": {
-            "pdn.applovin.com": "INACTIVE",
-            "pdpdsromlaconical.review": "INACTIVE"
-        },
-        "1571395269": {
-            "pdsqopgtdiphyodont.review": "INACTIVE"
-        },
-        "1571395270": {
-            "pebble.bnex.com": "INACTIVE"
-        },
-        "1571395271": {
-            "peffk.voluumtrk.com": "INACTIVE",
-            "peils.voluumtrk.com": "INACTIVE"
-        },
-        "1571395272": {
-            "pejorationkgoibtbvp.download": "INACTIVE",
-            "pencomputing.us.intellitxt.com": "INACTIVE"
-        },
-        "1571395273": {
-            "penneroqqwnqz.download": "INACTIVE"
-        },
-        "1571395279": {
-            "p_en.popunder.net": "INACTIVE",
-            "penton.us.intellitxt.com": "INACTIVE"
-        },
-        "1571395280": {
-            "perfect-privacy.postaffiliatepro.com": "INACTIVE"
-        },
-        "1571395288": {
-            "perf.overture.com": "INACTIVE"
-        },
-        "1571395295": {
-            "persiangig.ads.saba-e.com": "INACTIVE"
-        },
-        "1571395297": {
-            "personalize.rapleaf.com": "INACTIVE"
-        },
-        "1571395304": {
-            "pfead1.netway.at": "INACTIVE"
-        },
-        "1571395311": {
-            "pfead2.netway.at": "INACTIVE"
-        },
-        "1571395317": {
-            "pfead3.netway.at": "INACTIVE"
-        },
-        "1571395324": {
-            "pfead4.netway.at": "INACTIVE"
-        },
-        "1571395325": {
-            "pfuv5.voluumtrk.com": "INACTIVE",
-            "pfx9u.voluumtrk.com": "INACTIVE"
-        },
-        "1571395326": {
-            "pgcxe.voluumtrk.com": "INACTIVE"
-        },
-        "1571395332": {
-            "pgdb1.surf-town.net": "INACTIVE"
-        },
-        "1571395339": {
-            "pgdbb1.surf-town.net": "INACTIVE",
-            "pgmopcongruity.review": "INACTIVE"
-        },
-        "1571395346": {
-            "ph.affinity.com": "INACTIVE"
-        },
-        "1571395352": {
-            "phg.hitbox.com": "INACTIVE",
-            "philipselectronicsne.tt.omtrdc.net": "INACTIVE"
-        },
-        "1571395354": {
-            "phmgtrfqxreesting.review": "INACTIVE"
-        },
-        "1571395355": {
-            "phoenix.ivwbox.de": "INACTIVE"
-        },
-        "1571395362": {
-            "phoenix.untd.com": "INACTIVE"
-        },
-        "1571395366": {
-            "phylesonqjkilk.download": "INACTIVE"
-        },
-        "1571395367": {
-            "physorg.us.intellitxt.com": "INACTIVE"
-        },
-        "1571395375": {
-            "pic.tokyo-tube-ad.com": "INACTIVE"
-        },
-        "1571395377": {
-            "pillowywdgpchl.download": "INACTIVE"
-        },
-        "1571395378": {
-            "pimprig.us.intellitxt.com": "INACTIVE",
-            "pinfishmabev.download": "INACTIVE"
-        },
-        "1571395379": {
-            "ping.aclst.com": "INACTIVE"
-        },
-        "1571395385": {
-            "ping.answerbook.com": "INACTIVE"
-        },
-        "1571395387": {
-            "ping.dozuki.com": "INACTIVE",
-            "pinger.macromedia.com": "INACTIVE"
-        },
-        "1571395388": {
-            "ping.jmp9.com": "INACTIVE"
-        },
-        "1571395389": {
-            "ping.taplytics.com": "INACTIVE",
-            "pingjs.qq.com": "INACTIVE"
-        },
-        "1571395390": {
-            "pinguinqeslaj.download": "INACTIVE",
-            "pipedream.wistia.com": "INACTIVE"
-        },
-        "1571395392": {
-            "piratinviaggio.digidip.net": "INACTIVE"
-        },
-        "1571395393": {
-            "pi.safer-networking.ie": "INACTIVE",
-            "pitneybowes-www.baynote.net": "INACTIVE"
-        },
-        "1571395394": {
-            "piumrtfasiv.download": "INACTIVE",
-            "pivotal.github.com": "INACTIVE"
-        },
-        "1571395396": {
-            "pix01.revsci.net": "INACTIVE",
-            "pix04-pd04.revsci.net": "INACTIVE"
-        },
-        "1571395397": {
-            "pix04.revsci.net": "INACTIVE"
-        },
-        "1571395399": {
-            "pix.btrll.com": "INACTIVE"
-        },
-        "1571395402": {
-            "pixel.ad.mlnadvertising.com": "INACTIVE"
-        },
-        "1571395403": {
-            "pixel.adsniper.ru": "INACTIVE",
-            "pixel.advertising.com": "INACTIVE"
-        },
-        "1571395404": {
-            "pixel.alephd.com": "INACTIVE"
-        },
-        "1571395405": {
-            "pixel.bild.de": "INACTIVE"
-        },
-        "1571395408": {
-            "pixel.gfycat.com": "INACTIVE"
-        },
-        "1571395411": {
-            "pixel.intares.net": "INACTIVE"
-        },
-        "1571395412": {
-            "pixel.jumptap.com": "INACTIVE",
-            "pixel.monitor1.returnpath.net": "INACTIVE"
-        },
-        "1571395413": {
-            "pixel.monitor2.returnpath.net": "INACTIVE",
-            "pixel.nbsp.de": "INACTIVE"
-        },
-        "1571395414": {
-            "pixel.pcworld.com": "INACTIVE",
-            "pixel.prfct.co": "INACTIVE"
-        },
-        "1571395421": {
-            "pixel.prosieben.de": "INACTIVE",
-            "pixel.redditmedia.com": "INACTIVE"
-        },
-        "1571395422": {
-            "pixel.serviceleverage.com": "INACTIVE",
-            "pixel.solvemedia.com": "INACTIVE"
-        },
-        "1571395423": {
-            "pixel.staging.tree.com": "INACTIVE",
-            "pixel.tapad.com": "INACTIVE"
-        },
-        "1571395424": {
-            "pixel.tree.com": "INACTIVE"
-        },
-        "1571395426": {
-            "pix.gfycat.com": "INACTIVE"
-        },
-        "1571395427": {
-            "pixiedust.buzzfeed.com": "INACTIVE"
-        },
-        "1571395430": {
-            "pl1567.bntags.com": "INACTIVE"
-        },
-        "1571395433": {
-            "pl5225.bntags.com": "INACTIVE"
-        },
-        "1571395434": {
-            "pl5411.bntags.com": "INACTIVE",
-            "pl61x.voluumtrk.com": "INACTIVE",
-            "placeholdit.imgix.net": "INACTIVE"
-        },
-        "1571395435": {
-            "planetgamecube.us.intellitxt.com": "INACTIVE"
-        },
-        "1571395436": {
-            "planet-source-code.us.intellitxt.com": "INACTIVE"
-        },
-        "1571395437": {
-            "platform.linkedin.com": "INACTIVE"
-        },
-        "1571395443": {
-            "playboy.us.intellitxt.com": "INACTIVE"
-        },
-        "1571395444": {
-            "plb27.voluumtrk.com": "INACTIVE",
-            "pleadshvzek.download": "INACTIVE"
-        },
-        "1571395448": {
-            "pll28.voluumtrk.com": "INACTIVE"
-        },
-        "1571395454": {
-            "plmokn.pw": "INACTIVE"
-        },
-        "1571395455": {
-            "ploko.voluumtrk.com": "INACTIVE",
-            "ploppingppoqqgq.download": "INACTIVE"
-        },
-        "1571395457": {
-            "p.l.qq.com": "INACTIVE"
-        },
-        "1571395464": {
-            "plugin.2easydroid.com": "INACTIVE",
-            "plugin.reactful.com": "INACTIVE"
-        },
-        "1571395465": {
-            "plugins.mixi.jp": "INACTIVE"
-        },
-        "1571395474": {
-            "p.medialytics.com": "INACTIVE"
-        },
-        "1571395476": {
-            "pmloe.voluumtrk.com": "INACTIVE"
-        },
-        "1571395477": {
-            "pmlt1.voluumtrk.com": "INACTIVE"
-        },
-        "1571395482": {
-            "pn2.adserver.yahoo.com": "INACTIVE",
-            "pnx6n.voluumtrk.com": "INACTIVE"
-        },
-        "1571395483": {
-            "pocketpc.digidip.net": "INACTIVE"
-        },
-        "1571395492": {
-            "polishedsvcxddsy.download": "INACTIVE"
-        },
-        "1571395493": {
-            "poll.truehits.net": "INACTIVE"
-        },
-        "1571395500": {
-            "pool01.2cnt.net": "INACTIVE"
-        },
-        "1571395507": {
-            "pool.admedo.com": "INACTIVE",
-            "pool02.2cnt.net": "INACTIVE"
-        },
-        "1571395515": {
-            "pool.skyhookwireless.com": "INACTIVE"
-        },
-        "1571395519": {
-            "popelingmltdiidyr.download": "INACTIVE"
-        },
-        "1571395520": {
-            "popload.net": "INACTIVE"
-        },
-        "1571395522": {
-            "pop.mobpartner.mobi": "INACTIVE"
-        },
-        "1571395529": {
-            "pop.performancerevenues.com": "INACTIVE",
-            "poppntags.com": "INACTIVE"
-        },
-        "1571395554": {
-            "popup.msn.com": "INACTIVE"
-        },
         "1571395555": {
             "popup.smusic.ir": "INACTIVE"
         },
@@ -29141,6 +28540,589 @@
         },
         "1571497118": {
             "ox-d.gloh.co.uk": "INACTIVE"
+        },
+        "1571497209": {
+            "ox-d.hatena.servedbyopenx.com": "INACTIVE",
+            "ox-d.hearstmagazines.servedbyopenx.com": "INACTIVE"
+        },
+        "1571497210": {
+            "ox-d.ibt.servedbyopenx.com": "INACTIVE",
+            "ox-d.imgur.servedbyopenx.com": "INACTIVE"
+        },
+        "1571497217": {
+            "ox-d.intermarkets.net": "INACTIVE",
+            "ox-d.internetbrands.servedbyopenx.com": "INACTIVE",
+            "ox-d.interweave.com": "INACTIVE",
+            "ox-d.journatic.com": "INACTIVE"
+        },
+        "1571497224": {
+            "ox-d.jrn.com": "INACTIVE",
+            "ox-d.ksl.servedbyopenx.com": "INACTIVE",
+            "ox-d.kwick.servedbyopenx.com": "INACTIVE"
+        },
+        "1571497225": {
+            "ox-d.leessp.servedbyopenx.com": "INACTIVE",
+            "ox-d.mailonline.servedbyopenx.com": "INACTIVE",
+            "ox-d.medianet.servedbyopenx.com": "INACTIVE",
+            "ox-d.merriamwebster.servedbyopenx.com": "INACTIVE"
+        },
+        "1571497232": {
+            "ox-d.m-market.servedbyopenx.com": "INACTIVE",
+            "ox-d.mm1x.nl": "INACTIVE"
+        },
+        "1571497233": {
+            "ox-d.mods.pch.com": "INACTIVE",
+            "ox-d.monetizationservices.servedbyopenx.com": "INACTIVE",
+            "ox-d.mst.servedbyopenx.com": "INACTIVE",
+            "ox-d.nasdaq.servedbyopenx.com": "INACTIVE"
+        },
+        "1571497234": {
+            "ox-d.nydailynews.servedbyopenx.com": "INACTIVE"
+        },
+        "1571497240": {
+            "ox-d.openx.jp": "INACTIVE",
+            "ox-d.oxjapan.servedbyopenx.com": "INACTIVE"
+        },
+        "1571497241": {
+            "ox-d.pbhmedia.servedbyopenx.com": "INACTIVE",
+            "ox-d.philly.servedbyopenx.com": "INACTIVE",
+            "ox-d.pittpostgazette.servedbyopenx.com": "INACTIVE",
+            "ox-d.publisherdesk.servedbyopenx.com": "INACTIVE"
+        },
+        "1571497242": {
+            "ox-d.ranker.servedbyopenx.com": "INACTIVE",
+            "ox-d.realtor.servedbyopenx.com": "INACTIVE"
+        },
+        "1571497248": {
+            "ox-d.rocketadserver.com": "INACTIVE"
+        },
+        "1571497249": {
+            "ox-d.saygoodbuy.servedbyopenx.com": "INACTIVE",
+            "ox-d.sinclair.servedbyopenx.com": "INACTIVE",
+            "ox-d.sltrib.servedbyopenx.com": "INACTIVE"
+        },
+        "1571497256": {
+            "ox-d.sm.servedbyopenx.com": "INACTIVE",
+            "ox-d.socialknowledge.servedbyopenx.com": "INACTIVE"
+        },
+        "1571497262": {
+            "ox-d.southwest.com": "INACTIVE",
+            "ox-d.spanishdict.servedbyopenx.com": "INACTIVE"
+        },
+        "1571497263": {
+            "ox-d.startribune.servedbyopenx.com": "INACTIVE"
+        },
+        "1571497269": {
+            "ox-d.technoratimedia.servedbyopenx.com": "INACTIVE",
+            "ox-d.thechive.servedbyopenx.com": "INACTIVE"
+        },
+        "1571497270": {
+            "ox-d.tmn.servedbyopenx.com": "INACTIVE",
+            "ox-d.trulia.servedbyopenx.com": "INACTIVE"
+        },
+        "1571497271": {
+            "ox-d.tunein.servedbyopenx.com": "INACTIVE",
+            "ox-d.warnerbros.servedbyopenx.com": "INACTIVE",
+            "ox-d.weatherus.servedbyopenx.com": "INACTIVE"
+        },
+        "1571497272": {
+            "ox-d.wikia.servedbyopenx.com": "INACTIVE",
+            "ox-d.wikihow.servedbyopenx.com": "INACTIVE",
+            "ox-d.wuv.servedbyopenx.com": "INACTIVE"
+        },
+        "1571497273": {
+            "ox-d.yp.com": "INACTIVE",
+            "ox-d.zergnet.servedbyopenx.com": "INACTIVE",
+            "oxeey.voluumtrk.com": "INACTIVE",
+            "oxen8.voluumtrk.com": "INACTIVE"
+        },
+        "1571497274": {
+            "ox.furaffinity.net": "INACTIVE"
+        },
+        "1571497278": {
+            "ox.mediabistro.com": "INACTIVE"
+        },
+        "1571497286": {
+            "ox.pigu.lt": "INACTIVE"
+        },
+        "1571497302": {
+            "oxs1.selsin.net": "INACTIVE"
+        },
+        "1571497319": {
+            "ox-socialimg.bidsystem.com": "INACTIVE",
+            "ox.stardoll.com": "INACTIVE"
+        },
+        "1571497327": {
+            "ox.videobuster.de": "INACTIVE",
+            "oylkc.voluumtrk.com": "INACTIVE",
+            "oyvir.voluumtrk.com": "INACTIVE"
+        },
+        "1571497328": {
+            "o.zeroredirect1.com": "INACTIVE",
+            "o.zeroredirect2.com": "INACTIVE"
+        },
+        "1571497329": {
+            "o.zeroredirect.com": "INACTIVE",
+            "ozzhf.voluumtrk.com": "INACTIVE",
+            "p13n-int.herokuapp.com": "INACTIVE"
+        },
+        "1571497330": {
+            "p1.tcr111.tynt.com": "INACTIVE",
+            "p13n-test.herokuapp.com": "INACTIVE"
+        },
+        "1571497331": {
+            "p2-aahhyknavsj2m-wtnlrzkba6lht33q-if-v6exp3-v4.metric.gstatic.com": "INACTIVE",
+            "p2.adhitzads.com": "INACTIVE"
+        },
+        "1571497332": {
+            "p2-f6rp6piuxns4u-uzq4vp76bu3w2tso-if-v6exp3-v4.metric.gstatic.com": "INACTIVE",
+            "p2-n3zurhre4jjvk-can5rb2f2a4urcxh-if-v6exp3-v4.metric.gstatic.com": "INACTIVE",
+            "p2in2.voluumtrk.com": "INACTIVE"
+        },
+        "1571497339": {
+            "p30download.ads.saba-e.com": "INACTIVE",
+            "p30gp.voluumtrk.com": "INACTIVE",
+            "p36jk.voluumtrk.com": "INACTIVE"
+        },
+        "1571497346": {
+            "p4-ajvwyt5lpjazy-us7r2dzqcjsqh7pt-164149-i1-v6exp3-v4.metric.gstatic.com": "INACTIVE"
+        },
+        "1571497347": {
+            "p4-ajvwyt5lpjazy-us7r2dzqcjsqh7pt-164149-i2-v6exp3-ds.metric.gstatic.com": "INACTIVE",
+            "p4-ajvwyt5lpjazy-us7r2dzqcjsqh7pt-164149-s1-v6exp3-v4.metric.gstatic.com": "INACTIVE",
+            "p4-ajvwyt5lpjazy-us7r2dzqcjsqh7pt-if-v6exp3-v4.metric.gstatic.com": "INACTIVE",
+            "p4iov.voluumtrk.com": "INACTIVE"
+        },
+        "1571497348": {
+            "p5-lj5aujgj7jl7w-r2pmxqvndsgx2im2-931517-i1-v6exp3-v4.metric.gstatic.com": "INACTIVE",
+            "p5-lj5aujgj7jl7w-r2pmxqvndsgx2im2-931517-i2-v6exp3-ds.metric.gstatic.com": "INACTIVE"
+        },
+        "1571497351": {
+            "p8gqd.voluumtrk.com": "INACTIVE"
+        },
+        "1571497354": {
+            "p.ace.advertising.com": "INACTIVE",
+            "pa.advertising.veeseo.com": "INACTIVE"
+        },
+        "1571497360": {
+            "pads.adition.com": "INACTIVE"
+        },
+        "1571497361": {
+            "padsdel.cdnads.com": "INACTIVE"
+        },
+        "1571497363": {
+            "pagead2.googlesyndication.com": "INACTIVE"
+        },
+        "1571497364": {
+            "pagead46.l.doubleclick.net": "INACTIVE"
+        },
+        "1571497365": {
+            "pages.crittercism.com": "INACTIVE"
+        },
+        "1571497366": {
+            "pages.expert-offers.com": "INACTIVE",
+            "pagvl.voluumtrk.com": "INACTIVE"
+        },
+        "1571497367": {
+            "paid.outbrain.com": "INACTIVE",
+            "paid4clicks.de": "INACTIVE"
+        },
+        "1571497369": {
+            "pajpv.voluumtrk.com": "INACTIVE",
+            "paletotseeyzubqr.download": "INACTIVE"
+        },
+        "1571497378": {
+            "pandaapp.us.intellitxt.com": "INACTIVE",
+            "pandectxfszuufr.download": "INACTIVE"
+        },
+        "1571497385": {
+            "panel-metrica.2cnt.net": "INACTIVE"
+        },
+        "1571497386": {
+            "panther1.cpxinteractive.com": "INACTIVE"
+        },
+        "1571497387": {
+            "papi.slideme.org": "INACTIVE"
+        },
+        "1571497388": {
+            "paranoicbarhuhw.download": "INACTIVE",
+            "pareticpaypdtpq.download": "INACTIVE"
+        },
+        "1571497398": {
+            "partnerad.l.doubleclick.net": "INACTIVE"
+        },
+        "1571497405": {
+            "partner.ah-ha.com": "INACTIVE"
+        },
+        "1571497407": {
+            "partner.buzzcity.com": "INACTIVE"
+        },
+        "1571497410": {
+            "partner.googleadservices.com": "INACTIVE"
+        },
+        "1571497417": {
+            "partner.leguide.com": "INACTIVE"
+        },
+        "1571497418": {
+            "partner.monetizus.com": "INACTIVE",
+            "partner.oboom.com": "INACTIVE"
+        },
+        "1571497425": {
+            "partner.privatbank.ua": "INACTIVE"
+        },
+        "1571497439": {
+            "partners.sportingbet.com.au": "INACTIVE"
+        },
+        "1571497441": {
+            "partners.webtrends.com": "INACTIVE"
+        },
+        "1571497442": {
+            "partner.teufel.de": "INACTIVE"
+        },
+        "1571497443": {
+            "partner.topcities.com": "INACTIVE"
+        },
+        "1571497449": {
+            "partner.zooplus.de": "INACTIVE"
+        },
+        "1571497458": {
+            "pass.duba.net": "INACTIVE"
+        },
+        "1571497460": {
+            "pasta.dianxinos.com": "INACTIVE"
+        },
+        "1571497461": {
+            "p.ato.mx": "INACTIVE"
+        },
+        "1571497471": {
+            "payload.yieldbuild.com": "INACTIVE"
+        },
+        "1571497472": {
+            "paypal.adtag.where.com": "INACTIVE"
+        },
+        "1571497475": {
+            "pba39.inethoster.org": "INACTIVE"
+        },
+        "1571497476": {
+            "pbc7m.voluumtrk.com": "INACTIVE"
+        },
+        "1571497479": {
+            "pbm7t.voluumtrk.com": "INACTIVE",
+            "pbnwiecwfpaltrier.review": "INACTIVE"
+        },
+        "1571497480": {
+            "pb.sogou.com": "INACTIVE"
+        },
+        "1571497481": {
+            "pcastuces.fr.intellitxt.com": "INACTIVE",
+            "pcdwh.voluumtrk.com": "INACTIVE",
+            "pcgames.de.intellitxt.com": "INACTIVE"
+        },
+        "1571497482": {
+            "pclick.europe.yahoo.com": "INACTIVE"
+        },
+        "1571497486": {
+            "pclick.internal.yahoo.com": "INACTIVE"
+        },
+        "1571497489": {
+            "pclick.yahoo.com": "INACTIVE"
+        },
+        "1571497490": {
+            "pcmagazin.digidip.net": "INACTIVE"
+        },
+        "1571497492": {
+            "pcppu.voluumtrk.com": "INACTIVE"
+        },
+        "1571497493": {
+            "pcsx9.voluumtrk.com": "INACTIVE"
+        },
+        "1571497499": {
+            "p.ctasnet.com": "INACTIVE",
+            "pctipp.ch.intellitxt.com": "INACTIVE"
+        },
+        "1571497500": {
+            "pctools.tt.omtrdc.net": "INACTIVE",
+            "pctweu.vancouverco.com": "INACTIVE"
+        },
+        "1571497515": {
+            "pda.mv.bidsystem.com": "INACTIVE"
+        },
+        "1571497522": {
+            "pdf.forbes.com": "INACTIVE"
+        },
+        "1571497523": {
+            "pdn.applovin.com": "INACTIVE",
+            "pdpdsromlaconical.review": "INACTIVE",
+            "pdsqopgtdiphyodont.review": "INACTIVE"
+        },
+        "1571497527": {
+            "pebble.bnex.com": "INACTIVE"
+        },
+        "1571497528": {
+            "peffk.voluumtrk.com": "INACTIVE",
+            "peils.voluumtrk.com": "INACTIVE",
+            "pejorationkgoibtbvp.download": "INACTIVE"
+        },
+        "1571497529": {
+            "pencomputing.us.intellitxt.com": "INACTIVE",
+            "penneroqqwnqz.download": "INACTIVE"
+        },
+        "1571497535": {
+            "p_en.popunder.net": "INACTIVE"
+        },
+        "1571497536": {
+            "penton.us.intellitxt.com": "INACTIVE"
+        },
+        "1571497537": {
+            "perfect-privacy.postaffiliatepro.com": "INACTIVE"
+        },
+        "1571497545": {
+            "perf.overture.com": "INACTIVE"
+        },
+        "1571497551": {
+            "persiangig.ads.saba-e.com": "INACTIVE"
+        },
+        "1571497553": {
+            "personalize.rapleaf.com": "INACTIVE"
+        },
+        "1571497560": {
+            "pfead1.netway.at": "INACTIVE"
+        },
+        "1571497566": {
+            "pfead2.netway.at": "INACTIVE"
+        },
+        "1571497573": {
+            "pfead3.netway.at": "INACTIVE"
+        },
+        "1571497579": {
+            "pfead4.netway.at": "INACTIVE"
+        },
+        "1571497580": {
+            "pfuv5.voluumtrk.com": "INACTIVE",
+            "pfx9u.voluumtrk.com": "INACTIVE"
+        },
+        "1571497581": {
+            "pgcxe.voluumtrk.com": "INACTIVE"
+        },
+        "1571497587": {
+            "pgdb1.surf-town.net": "INACTIVE"
+        },
+        "1571497594": {
+            "pgdbb1.surf-town.net": "INACTIVE",
+            "pgmopcongruity.review": "INACTIVE"
+        },
+        "1571497600": {
+            "ph.affinity.com": "INACTIVE"
+        },
+        "1571497607": {
+            "phg.hitbox.com": "INACTIVE",
+            "philipselectronicsne.tt.omtrdc.net": "INACTIVE"
+        },
+        "1571497608": {
+            "phmgtrfqxreesting.review": "INACTIVE"
+        },
+        "1571497609": {
+            "phoenix.ivwbox.de": "INACTIVE"
+        },
+        "1571497616": {
+            "phoenix.untd.com": "INACTIVE"
+        },
+        "1571497620": {
+            "phylesonqjkilk.download": "INACTIVE"
+        },
+        "1571497621": {
+            "physorg.us.intellitxt.com": "INACTIVE"
+        },
+        "1571497629": {
+            "pic.tokyo-tube-ad.com": "INACTIVE"
+        },
+        "1571497631": {
+            "pillowywdgpchl.download": "INACTIVE",
+            "pimprig.us.intellitxt.com": "INACTIVE"
+        },
+        "1571497632": {
+            "pinfishmabev.download": "INACTIVE",
+            "ping.aclst.com": "INACTIVE"
+        },
+        "1571497638": {
+            "ping.answerbook.com": "INACTIVE"
+        },
+        "1571497643": {
+            "ping.dozuki.com": "INACTIVE",
+            "pinger.macromedia.com": "INACTIVE"
+        },
+        "1571497644": {
+            "ping.jmp9.com": "INACTIVE"
+        },
+        "1571497645": {
+            "ping.taplytics.com": "INACTIVE",
+            "pingjs.qq.com": "INACTIVE"
+        },
+        "1571497646": {
+            "pinguinqeslaj.download": "INACTIVE",
+            "pipedream.wistia.com": "INACTIVE"
+        },
+        "1571497648": {
+            "piratinviaggio.digidip.net": "INACTIVE"
+        },
+        "1571497649": {
+            "pi.safer-networking.ie": "INACTIVE",
+            "pitneybowes-www.baynote.net": "INACTIVE",
+            "piumrtfasiv.download": "INACTIVE"
+        },
+        "1571497650": {
+            "pivotal.github.com": "INACTIVE"
+        },
+        "1571497651": {
+            "pix01.revsci.net": "INACTIVE"
+        },
+        "1571497652": {
+            "pix04-pd04.revsci.net": "INACTIVE",
+            "pix04.revsci.net": "INACTIVE"
+        },
+        "1571497654": {
+            "pix.btrll.com": "INACTIVE"
+        },
+        "1571497656": {
+            "pixel.ad.mlnadvertising.com": "INACTIVE"
+        },
+        "1571497657": {
+            "pixel.adsniper.ru": "INACTIVE",
+            "pixel.advertising.com": "INACTIVE"
+        },
+        "1571497658": {
+            "pixel.alephd.com": "INACTIVE"
+        },
+        "1571497659": {
+            "pixel.bild.de": "INACTIVE"
+        },
+        "1571497662": {
+            "pixel.gfycat.com": "INACTIVE"
+        },
+        "1571497665": {
+            "pixel.intares.net": "INACTIVE"
+        },
+        "1571497666": {
+            "pixel.jumptap.com": "INACTIVE"
+        },
+        "1571497667": {
+            "pixel.monitor1.returnpath.net": "INACTIVE",
+            "pixel.monitor2.returnpath.net": "INACTIVE"
+        },
+        "1571497668": {
+            "pixel.nbsp.de": "INACTIVE",
+            "pixel.pcworld.com": "INACTIVE",
+            "pixel.prfct.co": "INACTIVE"
+        },
+        "1571497675": {
+            "pixel.prosieben.de": "INACTIVE"
+        },
+        "1571497676": {
+            "pixel.redditmedia.com": "INACTIVE",
+            "pixel.serviceleverage.com": "INACTIVE",
+            "pixel.solvemedia.com": "INACTIVE"
+        },
+        "1571497677": {
+            "pixel.staging.tree.com": "INACTIVE",
+            "pixel.tapad.com": "INACTIVE"
+        },
+        "1571497678": {
+            "pixel.tree.com": "INACTIVE"
+        },
+        "1571497680": {
+            "pix.gfycat.com": "INACTIVE",
+            "pixiedust.buzzfeed.com": "INACTIVE"
+        },
+        "1571497683": {
+            "pl1567.bntags.com": "INACTIVE"
+        },
+        "1571497686": {
+            "pl5225.bntags.com": "INACTIVE",
+            "pl5411.bntags.com": "INACTIVE",
+            "pl61x.voluumtrk.com": "INACTIVE"
+        },
+        "1571497687": {
+            "placeholdit.imgix.net": "INACTIVE",
+            "planetgamecube.us.intellitxt.com": "INACTIVE"
+        },
+        "1571497688": {
+            "planet-source-code.us.intellitxt.com": "INACTIVE"
+        },
+        "1571497689": {
+            "platform.linkedin.com": "INACTIVE"
+        },
+        "1571497696": {
+            "playboy.us.intellitxt.com": "INACTIVE"
+        },
+        "1571497698": {
+            "plb27.voluumtrk.com": "INACTIVE",
+            "pleadshvzek.download": "INACTIVE"
+        },
+        "1571497701": {
+            "pll28.voluumtrk.com": "INACTIVE"
+        },
+        "1571497708": {
+            "plmokn.pw": "INACTIVE",
+            "ploko.voluumtrk.com": "INACTIVE"
+        },
+        "1571497709": {
+            "ploppingppoqqgq.download": "INACTIVE"
+        },
+        "1571497711": {
+            "p.l.qq.com": "INACTIVE"
+        },
+        "1571497718": {
+            "plugin.2easydroid.com": "INACTIVE"
+        },
+        "1571497725": {
+            "plugin.reactful.com": "INACTIVE",
+            "plugins.mixi.jp": "INACTIVE"
+        },
+        "1571497735": {
+            "p.medialytics.com": "INACTIVE"
+        },
+        "1571497738": {
+            "pmloe.voluumtrk.com": "INACTIVE",
+            "pmlt1.voluumtrk.com": "INACTIVE"
+        },
+        "1571497743": {
+            "pn2.adserver.yahoo.com": "INACTIVE"
+        },
+        "1571497744": {
+            "pnx6n.voluumtrk.com": "INACTIVE",
+            "pocketpc.digidip.net": "INACTIVE"
+        },
+        "1571497747": {
+            "polishedsvcxddsy.download": "INACTIVE"
+        },
+        "1571497749": {
+            "poll.truehits.net": "INACTIVE"
+        },
+        "1571497756": {
+            "pool01.2cnt.net": "INACTIVE"
+        },
+        "1571497762": {
+            "pool.admedo.com": "INACTIVE",
+            "pool02.2cnt.net": "INACTIVE"
+        },
+        "1571497769": {
+            "pool.skyhookwireless.com": "INACTIVE"
+        },
+        "1571497773": {
+            "popelingmltdiidyr.download": "INACTIVE"
+        },
+        "1571497774": {
+            "popload.net": "INACTIVE"
+        },
+        "1571497776": {
+            "pop.mobpartner.mobi": "INACTIVE"
+        },
+        "1571497783": {
+            "pop.performancerevenues.com": "INACTIVE",
+            "poppntags.com": "INACTIVE"
+        },
+        "1571497807": {
+            "popup.msn.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hpHosts---Ad-and-Tracking_web_hosts-file.net/hpHosts---Ad-and-Tracking_web_hosts-file.net.list": {
