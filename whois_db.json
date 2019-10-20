@@ -11417,7 +11417,7 @@
     "moneymakercdn.com": {
         "epoch": 1571529600,
         "expiration_date": "20-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "mongoosemetrics.com": {
         "epoch": 1633824000,
@@ -11640,8 +11640,8 @@
         "state": "future"
     },
     "myseostats.com": {
-        "epoch": 1571529600,
-        "expiration_date": "20-oct-2019",
+        "epoch": 1603152000,
+        "expiration_date": "20-oct-2020",
         "state": "future"
     },
     "mysite.com": {
