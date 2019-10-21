@@ -792,7 +792,7 @@
     "adbanner.cz": {
         "epoch": 1571616000,
         "expiration_date": "21-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "adbanner.ro": {
         "epoch": 1570924800,
@@ -887,7 +887,7 @@
     "adcade.com": {
         "epoch": 1571616000,
         "expiration_date": "21-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "adcamp.ru": {
         "epoch": 1598313600,
