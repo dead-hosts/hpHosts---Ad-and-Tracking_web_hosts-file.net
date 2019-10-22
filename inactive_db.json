@@ -1,108 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hpHosts---Ad-and-Tracking_web_hosts-file.net/domains.list": {
-        "1571597579": {
-            "view.atdmt.com.26309.9202.302br.net": "INACTIVE"
-        },
-        "1571597587": {
-            "view.atdmt.com.26621.9201.302br.net": "INACTIVE"
-        },
-        "1571597674": {
-            "view.atdmt.com.35179.9254.302br.net": "INACTIVE"
-        },
-        "1571597684": {
-            "view.atdmt.com.35181.9254.302br.net": "INACTIVE"
-        },
-        "1571597692": {
-            "view.atdmt.com.35182.9254.302br.net": "INACTIVE"
-        },
-        "1571597758": {
-            "view.atdmt.com.45087.9342.302br.net": "INACTIVE"
-        },
-        "1571597774": {
-            "view.atdmt.com.45090.9342.302br.net": "INACTIVE"
-        },
-        "1571597859": {
-            "view.atdmt.com.51882.9377.302br.net": "INACTIVE"
-        },
-        "1571597867": {
-            "view.atdmt.com.51884.9377.302br.net": "INACTIVE"
-        },
-        "1571597873": {
-            "view.atdmt.com.51886.9377.302br.net": "INACTIVE"
-        },
-        "1571600476": {
-            "viewstat.hotstat.nl": "INACTIVE",
-            "vigapi.tynt.com": "INACTIVE"
-        },
-        "1571600483": {
-            "villsacsma.download": "INACTIVE"
-        },
-        "1571600490": {
-            "vipadshares.com": "INACTIVE"
-        },
-        "1571600498": {
-            "vippay.c.duba.net": "INACTIVE"
-        },
-        "1571600501": {
-            "visit.digidip.net": "INACTIVE"
-        },
-        "1571600502": {
-            "visit.geocities.jp": "INACTIVE",
-            "visitor.benchmarkemail.com": "INACTIVE"
-        },
-        "1571600512": {
-            "visitorvoice.etracker.com": "INACTIVE"
-        },
-        "1571600514": {
-            "visuallyxvnxqhr.download": "INACTIVE",
-            "vitacost.tt.omtrdc.net": "INACTIVE"
-        },
-        "1571600515": {
-            "vitax.abc-sms.de": "INACTIVE"
-        },
-        "1571600516": {
-            "vitrade02.webtrekk.net": "INACTIVE",
-            "viziomothersday.brandmovers.net": "INACTIVE"
-        },
-        "1571600517": {
-            "vizisense.komli.net": "INACTIVE",
-            "vjnehfcprozymite.review": "INACTIVE"
-        },
-        "1571600519": {
-            "vk.cblevt.com": "INACTIVE",
-            "vladtv.us.intellitxt.com": "INACTIVE"
-        },
-        "1571600536": {
-            "vlogic.ak-networks.com": "INACTIVE"
-        },
-        "1571600544": {
-            "vocalistgixybeoj.download": "INACTIVE",
-            "vodafone.inq.com": "INACTIVE"
-        },
-        "1571600548": {
-            "vod-s.kinetonetwork.com": "INACTIVE"
-        },
-        "1571600549": {
-            "volvelle-ads-cdn.azureedge.net": "INACTIVE"
-        },
-        "1571600550": {
-            "vop.sundaysky.com": "INACTIVE"
-        },
-        "1571600557": {
-            "vortex.data.microsoft.com": "INACTIVE"
-        },
-        "1571600563": {
-            "vortex-sandbox.data.microsoft.com": "INACTIVE"
-        },
-        "1571600569": {
-            "vortex-win.data.microsoft.com": "INACTIVE"
-        },
-        "1571600570": {
-            "vowjnembargoing.review": "INACTIVE"
-        },
-        "1571600576": {
-            "vp2-www.addthis.com": "INACTIVE"
-        },
         "1571600577": {
             "vpos.bnex.com": "INACTIVE",
             "vps.zeptolab.com": "INACTIVE"
@@ -28180,6 +28077,77 @@
         },
         "1571708454": {
             "view.atdmt.com": "INACTIVE"
+        },
+        "1571709425": {
+            "viewstat.hotstat.nl": "INACTIVE"
+        },
+        "1571709426": {
+            "vigapi.tynt.com": "INACTIVE"
+        },
+        "1571709433": {
+            "villsacsma.download": "INACTIVE"
+        },
+        "1571709440": {
+            "vipadshares.com": "INACTIVE"
+        },
+        "1571709447": {
+            "vippay.c.duba.net": "INACTIVE"
+        },
+        "1571709450": {
+            "visit.digidip.net": "INACTIVE"
+        },
+        "1571709451": {
+            "visit.geocities.jp": "INACTIVE",
+            "visitor.benchmarkemail.com": "INACTIVE"
+        },
+        "1571709461": {
+            "visitorvoice.etracker.com": "INACTIVE"
+        },
+        "1571709463": {
+            "visuallyxvnxqhr.download": "INACTIVE"
+        },
+        "1571709465": {
+            "vitacost.tt.omtrdc.net": "INACTIVE",
+            "vitax.abc-sms.de": "INACTIVE"
+        },
+        "1571709466": {
+            "vitrade02.webtrekk.net": "INACTIVE",
+            "viziomothersday.brandmovers.net": "INACTIVE"
+        },
+        "1571709467": {
+            "vizisense.komli.net": "INACTIVE",
+            "vjnehfcprozymite.review": "INACTIVE"
+        },
+        "1571709469": {
+            "vk.cblevt.com": "INACTIVE",
+            "vladtv.us.intellitxt.com": "INACTIVE"
+        },
+        "1571709486": {
+            "vlogic.ak-networks.com": "INACTIVE"
+        },
+        "1571709494": {
+            "vocalistgixybeoj.download": "INACTIVE",
+            "vodafone.inq.com": "INACTIVE"
+        },
+        "1571709498": {
+            "vod-s.kinetonetwork.com": "INACTIVE"
+        },
+        "1571709500": {
+            "volvelle-ads-cdn.azureedge.net": "INACTIVE",
+            "vop.sundaysky.com": "INACTIVE"
+        },
+        "1571709507": {
+            "vortex.data.microsoft.com": "INACTIVE"
+        },
+        "1571709514": {
+            "vortex-sandbox.data.microsoft.com": "INACTIVE"
+        },
+        "1571709523": {
+            "vortex-win.data.microsoft.com": "INACTIVE",
+            "vowjnembargoing.review": "INACTIVE"
+        },
+        "1571709530": {
+            "vp2-www.addthis.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hpHosts---Ad-and-Tracking_web_hosts-file.net/hpHosts---Ad-and-Tracking_web_hosts-file.net.list": {
