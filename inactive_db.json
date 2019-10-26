@@ -1,432 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hpHosts---Ad-and-Tracking_web_hosts-file.net/domains.list": {
-        "1571800318": {
-            "tr13.myroitracking.com": "INACTIVE"
-        },
-        "1571800322": {
-            "tr14.myroitracking.com": "INACTIVE"
-        },
-        "1571800325": {
-            "tr15.myroitracking.com": "INACTIVE"
-        },
-        "1571800328": {
-            "tr16.myroitracking.com": "INACTIVE"
-        },
-        "1571800331": {
-            "tr17.myroitracking.com": "INACTIVE"
-        },
-        "1571800334": {
-            "tr18.myroitracking.com": "INACTIVE"
-        },
-        "1571800337": {
-            "tr19.myroitracking.com": "INACTIVE"
-        },
-        "1571800340": {
-            "tr1.myroitracking.com": "INACTIVE"
-        },
-        "1571800343": {
-            "tr20.myroitracking.com": "INACTIVE"
-        },
-        "1571800346": {
-            "tr2.myroitracking.com": "INACTIVE"
-        },
-        "1571800352": {
-            "tr2.smarterremarketer.net": "INACTIVE"
-        },
-        "1571800368": {
-            "tr2.vttrack.com.br": "INACTIVE"
-        },
-        "1571800370": {
-            "tr3.myroitracking.com": "INACTIVE"
-        },
-        "1571800373": {
-            "tr4.myroitracking.com": "INACTIVE"
-        },
-        "1571800376": {
-            "tr5.myroitracking.com": "INACTIVE"
-        },
-        "1571800380": {
-            "tr6.myroitracking.com": "INACTIVE"
-        },
-        "1571800383": {
-            "tr7.myroitracking.com": "INACTIVE"
-        },
-        "1571800386": {
-            "tr8.myroitracking.com": "INACTIVE"
-        },
-        "1571800389": {
-            "tr9.myroitracking.com": "INACTIVE"
-        },
-        "1571800390": {
-            "trace.jdtracker.com": "INACTIVE"
-        },
-        "1571800395": {
-            "track.actiplay-network.com": "INACTIVE"
-        },
-        "1571800404": {
-            "track.adrevolver.com": "INACTIVE"
-        },
-        "1571800406": {
-            "track.adrpanel.es": "INACTIVE"
-        },
-        "1571800408": {
-            "track.affktch.com": "INACTIVE"
-        },
-        "1571800409": {
-            "track.ahury.com": "INACTIVE"
-        },
-        "1571800410": {
-            "track.appsflyer.com": "INACTIVE"
-        },
-        "1571800417": {
-            "track.ballerft.site": "INACTIVE"
-        },
-        "1571800418": {
-            "trackbar.navigator.web.de": "INACTIVE"
-        },
-        "1571800425": {
-            "track.byzon.swelen.net": "INACTIVE",
-            "track.cafemomstatic.com": "INACTIVE"
-        },
-        "1571800426": {
-            "track.cbs.com": "INACTIVE"
-        },
-        "1571800433": {
-            "track.cinestar.de": "INACTIVE"
-        },
-        "1571800434": {
-            "track.clickbooth.com": "INACTIVE",
-            "track.cliqrr.com": "INACTIVE"
-        },
-        "1571800435": {
-            "track.cxdigitalmedia.com": "INACTIVE"
-        },
-        "1571800441": {
-            "track.did-it.com": "INACTIVE"
-        },
-        "1571800442": {
-            "track.digitalriver.com": "INACTIVE",
-            "track.divx.com": "INACTIVE"
-        },
-        "1571800443": {
-            "track.engagesciences.com": "INACTIVE"
-        },
-        "1571800445": {
-            "tracker.adxpansion.com": "INACTIVE"
-        },
-        "1571800446": {
-            "tracker.anandtech.com": "INACTIVE"
-        },
-        "1571800452": {
-            "tracker.averetek.com": "INACTIVE"
-        },
-        "1571800455": {
-            "tracker.buscape.com.br": "INACTIVE"
-        },
-        "1571800456": {
-            "tracker.calameo.com": "INACTIVE"
-        },
-        "1571800462": {
-            "tracker.cds-tracking.com": "INACTIVE"
-        },
-        "1571800469": {
-            "tracker.clicktrade.com": "INACTIVE"
-        },
-        "1571800475": {
-            "tracker.drippler.com": "INACTIVE"
-        },
-        "1571800477": {
-            "tracker.infosender.in": "INACTIVE"
-        },
-        "1571800480": {
-            "tracker.iqnomy.com": "INACTIVE"
-        },
-        "1571800487": {
-            "tracker.jcstracker.net": "INACTIVE"
-        },
-        "1571800492": {
-            "tracker.joost.com": "INACTIVE",
-            "tracker.keywordintent.com": "INACTIVE"
-        },
-        "1571800499": {
-            "tracker.leadsius.com": "INACTIVE",
-            "tracker.lgcontent.cl": "INACTIVE"
-        },
-        "1571800500": {
-            "tracker.loadingfast.com": "INACTIVE",
-            "tracker.lomadee.com": "INACTIVE"
-        },
-        "1571800503": {
-            "tracker.mobile.biz.daum.net": "INACTIVE"
-        },
-        "1571800506": {
-            "tracker.msales.com": "INACTIVE",
-            "tracker.netmechanic.com": "INACTIVE"
-        },
-        "1571800507": {
-            "tracker.peerclick.io": "INACTIVE"
-        },
-        "1571800514": {
-            "tracker.realclearpolitics.com": "INACTIVE"
-        },
-        "1571800520": {
-            "tracker.roitesting.com": "INACTIVE"
-        },
-        "1571800521": {
-            "tracker.scao.it": "INACTIVE",
-            "tracker.seoboost.net": "INACTIVE"
-        },
-        "1571800529": {
-            "trackerstatistik.init-ag.de": "INACTIVE"
-        },
-        "1571800535": {
-            "tracker.timesgroup.com": "INACTIVE"
-        },
-        "1571800537": {
-            "tracker.winload.de": "INACTIVE"
-        },
-        "1571800539": {
-            "track.ft.com": "INACTIVE"
-        },
-        "1571800545": {
-            "track.fxstreet.com": "INACTIVE"
-        },
-        "1571800672": {
-            "track.igg.com": "INACTIVE",
-            "trackicollect.ibase.fr": "INACTIVE"
-        },
-        "1571800680": {
-            "tracking1.euroads.no": "INACTIVE"
-        },
-        "1571800687": {
-            "tracking.247search.com": "INACTIVE",
-            "tracking2.interweave.com": "INACTIVE"
-        },
-        "1571800694": {
-            "tracking.actionads.ru": "INACTIVE"
-        },
-        "1571800696": {
-            "tracking.ads.ibibo.com": "INACTIVE",
-            "tracking.adserving.im": "INACTIVE"
-        },
-        "1571800697": {
-            "tracking.amazing-revenue.com": "INACTIVE"
-        },
-        "1571800698": {
-            "tracking.autoscout24.com": "INACTIVE"
-        },
-        "1571800704": {
-            "tracking.bafby.com": "INACTIVE"
-        },
-        "1571800710": {
-            "tracking.banners.meccahoo.com": "INACTIVE"
-        },
-        "1571800714": {
-            "tracking.base.de": "INACTIVE"
-        },
-        "1571800721": {
-            "tracking.bloomberg.com": "INACTIVE"
-        },
-        "1571800724": {
-            "tracking.cmcigroup.com": "INACTIVE"
-        },
-        "1571800730": {
-            "tracking.cmgdigital.com": "INACTIVE"
-        },
-        "1571800732": {
-            "tracking.cp.ligatus.com": "INACTIVE",
-            "tracking.crobo.com": "INACTIVE"
-        },
-        "1571800733": {
-            "trackingdev.nixxie.com": "INACTIVE"
-        },
-        "1571800734": {
-            "tracking.directadsmedia.com": "INACTIVE"
-        },
-        "1571800740": {
-            "tracking.drsfostersmith.com": "INACTIVE"
-        },
-        "1571800746": {
-            "tracking.dsmmadvantage.com": "INACTIVE"
-        },
-        "1571800754": {
-            "tracking.euroads.no": "INACTIVE"
-        },
-        "1571800755": {
-            "tracking.fathomseo.com": "INACTIVE",
-            "tracking.feedperfect.com": "INACTIVE"
-        },
-        "1571800756": {
-            "tracking.fits.me": "INACTIVE"
-        },
-        "1571800762": {
-            "tracking.foxnews.com": "INACTIVE",
-            "tracking.gammae.com": "INACTIVE"
-        },
-        "1571800763": {
-            "tracking.gfycat.com": "INACTIVE",
-            "tracking.goodgamestudios.com": "INACTIVE"
-        },
-        "1571800764": {
-            "tracking.groupon.com": "INACTIVE"
-        },
-        "1571800770": {
-            "tracking.gruppo.mps.it": "INACTIVE"
-        },
-        "1571800777": {
-            "tracking.hannoversche.de": "INACTIVE"
-        },
-        "1571800784": {
-            "tracking.hi-pi.com": "INACTIVE"
-        },
-        "1571800786": {
-            "tracking.hyde.ligatus.com": "INACTIVE",
-            "tracking.icotrack.com": "INACTIVE"
-        },
-        "1571800792": {
-            "tracking.infoninjas.net": "INACTIVE"
-        },
-        "1571800800": {
-            "tracking.interweave.com": "INACTIVE"
-        },
-        "1571800806": {
-            "tracking.inuvo.com": "INACTIVE"
-        },
-        "1571800807": {
-            "tracking.klickthru.com": "INACTIVE",
-            "tracking.lcleads.com": "INACTIVE"
-        },
-        "1571800808": {
-            "tracking.m6r.eu": "INACTIVE"
-        },
-        "1571800816": {
-            "tracking.mindshare.de": "INACTIVE"
-        },
-        "1571800825": {
-            "tracking.mobile.de": "INACTIVE"
-        },
-        "1571800826": {
-            "tracking.moneyam.com": "INACTIVE",
-            "tracking.moportals.com": "INACTIVE"
-        },
-        "1571800827": {
-            "tracking.musixmatch.com": "INACTIVE"
-        },
-        "1571800830": {
-            "tracking.netbank.de": "INACTIVE"
-        },
-        "1571800831": {
-            "tracking.netzathleten-media.de": "INACTIVE",
-            "tracking.olx-st.com": "INACTIVE"
-        },
-        "1571800832": {
-            "tracking.perfecttoolmedia.com": "INACTIVE",
-            "tracking.prmtracking.com": "INACTIVE"
-        },
-        "1571800839": {
-            "tracking.quillion.com": "INACTIVE"
-        },
-        "1571800840": {
-            "tracking.s24.com": "INACTIVE"
-        },
-        "1571800843": {
-            "tracking.sport1.de": "INACTIVE"
-        },
-        "1571800844": {
-            "tracking.statravel.de": "INACTIVE"
-        },
-        "1571800845": {
-            "tracking.tchibo.de": "INACTIVE"
-        },
-        "1571800846": {
-            "tracking.theeword.co.uk": "INACTIVE"
-        },
-        "1571800847": {
-            "tracking.thehut.net": "INACTIVE"
-        },
-        "1571800851": {
-            "tracking.wfnetwork.com": "INACTIVE"
-        },
-        "1571800853": {
-            "track.jbtrax.net": "INACTIVE",
-            "trackit.skyhighctr.com": "INACTIVE"
-        },
-        "1571800859": {
-            "track.netshelter.net": "INACTIVE",
-            "track.ning.com": "INACTIVE"
-        },
-        "1571800866": {
-            "track.oxcash.com": "INACTIVE"
-        },
-        "1571800873": {
-            "track.pointroll.com": "INACTIVE"
-        },
-        "1571800874": {
-            "trackpromotion.net": "INACTIVE"
-        },
-        "1571800877": {
-            "track.radins.com": "INACTIVE"
-        },
-        "1571800884": {
-            "track.ra.icast.cn": "INACTIVE",
-            "track.realwhiznews.com": "INACTIVE"
-        },
-        "1571800892": {
-            "track.reinvigorate.net": "INACTIVE",
-            "track.rejuvenate-lifestyles.com": "INACTIVE"
-        },
-        "1571800898": {
-            "tracks.arubamediamarketing.it": "INACTIVE"
-        },
-        "1571800907": {
-            "track.strife.com": "INACTIVE"
-        },
-        "1571800909": {
-            "track.tracking85.com": "INACTIVE"
-        },
-        "1571800910": {
-            "track.v2.sslsecure1.com": "INACTIVE"
-        },
-        "1571800912": {
-            "track.webtrekk.net": "INACTIVE"
-        },
-        "1571800921": {
-            "track.yieldmgr.com": "INACTIVE"
-        },
-        "1571800939": {
-            "tradingmarkets.us.intellitxt.com": "INACTIVE"
-        },
-        "1571800941": {
-            "traffic.acwebconnecting.com": "INACTIVE"
-        },
-        "1571800943": {
-            "traffic.bokecc.com": "INACTIVE"
-        },
-        "1571800950": {
-            "traffic.buyservices.com": "INACTIVE"
-        },
-        "1571800965": {
-            "trafficparade.com": "INACTIVE"
-        },
-        "1571800989": {
-            "traffic.trafficcompany.com": "INACTIVE"
-        },
-        "1571800991": {
-            "traffic.velvet.hu": "INACTIVE"
-        },
-        "1571800994": {
-            "trakksocial.googlecode.com": "INACTIVE",
-            "trans20120430.getjar.com": "INACTIVE"
-        },
-        "1571800996": {
-            "transfermarkt01.wt-eu02.net": "INACTIVE"
-        },
-        "1571801004": {
-            "travelocity.bfast.com": "INACTIVE"
-        },
-        "1571801017": {
-            "travsoft.bfast.com": "INACTIVE"
-        },
         "1571801018": {
             "trax-ad.jp": "INACTIVE"
         },
@@ -28038,6 +27611,431 @@
         },
         "1572103944": {
             "tr12.myroitracking.com": "INACTIVE"
+        },
+        "1572104170": {
+            "tr13.myroitracking.com": "INACTIVE"
+        },
+        "1572104173": {
+            "tr14.myroitracking.com": "INACTIVE"
+        },
+        "1572104176": {
+            "tr15.myroitracking.com": "INACTIVE"
+        },
+        "1572104179": {
+            "tr16.myroitracking.com": "INACTIVE"
+        },
+        "1572104182": {
+            "tr17.myroitracking.com": "INACTIVE"
+        },
+        "1572104185": {
+            "tr18.myroitracking.com": "INACTIVE"
+        },
+        "1572104188": {
+            "tr19.myroitracking.com": "INACTIVE"
+        },
+        "1572104191": {
+            "tr1.myroitracking.com": "INACTIVE"
+        },
+        "1572104194": {
+            "tr20.myroitracking.com": "INACTIVE"
+        },
+        "1572104198": {
+            "tr2.myroitracking.com": "INACTIVE"
+        },
+        "1572104204": {
+            "tr2.smarterremarketer.net": "INACTIVE"
+        },
+        "1572104220": {
+            "tr2.vttrack.com.br": "INACTIVE"
+        },
+        "1572104222": {
+            "tr3.myroitracking.com": "INACTIVE"
+        },
+        "1572104225": {
+            "tr4.myroitracking.com": "INACTIVE"
+        },
+        "1572104228": {
+            "tr5.myroitracking.com": "INACTIVE"
+        },
+        "1572104231": {
+            "tr6.myroitracking.com": "INACTIVE"
+        },
+        "1572104235": {
+            "tr7.myroitracking.com": "INACTIVE"
+        },
+        "1572104238": {
+            "tr8.myroitracking.com": "INACTIVE"
+        },
+        "1572104241": {
+            "tr9.myroitracking.com": "INACTIVE"
+        },
+        "1572104242": {
+            "trace.jdtracker.com": "INACTIVE"
+        },
+        "1572104248": {
+            "track.actiplay-network.com": "INACTIVE"
+        },
+        "1572104256": {
+            "track.adrevolver.com": "INACTIVE"
+        },
+        "1572104258": {
+            "track.adrpanel.es": "INACTIVE"
+        },
+        "1572104272": {
+            "track.ahury.com": "INACTIVE",
+            "track.appsflyer.com": "INACTIVE"
+        },
+        "1572104280": {
+            "track.ballerft.site": "INACTIVE"
+        },
+        "1572104281": {
+            "trackbar.navigator.web.de": "INACTIVE"
+        },
+        "1572104288": {
+            "track.byzon.swelen.net": "INACTIVE"
+        },
+        "1572104289": {
+            "track.cafemomstatic.com": "INACTIVE",
+            "track.catalogs.com": "INACTIVE"
+        },
+        "1572104290": {
+            "track.cbs.com": "INACTIVE"
+        },
+        "1572104298": {
+            "track.cinestar.de": "INACTIVE",
+            "track.clickbooth.com": "INACTIVE"
+        },
+        "1572104299": {
+            "track.cliqrr.com": "INACTIVE"
+        },
+        "1572104300": {
+            "track.cxdigitalmedia.com": "INACTIVE"
+        },
+        "1572104306": {
+            "track.did-it.com": "INACTIVE",
+            "track.digitalriver.com": "INACTIVE",
+            "track.divx.com": "INACTIVE"
+        },
+        "1572104308": {
+            "track.engagesciences.com": "INACTIVE"
+        },
+        "1572104310": {
+            "tracker.adxpansion.com": "INACTIVE"
+        },
+        "1572104311": {
+            "tracker.anandtech.com": "INACTIVE"
+        },
+        "1572104318": {
+            "tracker.averetek.com": "INACTIVE"
+        },
+        "1572104320": {
+            "tracker.buscape.com.br": "INACTIVE"
+        },
+        "1572104321": {
+            "tracker.calameo.com": "INACTIVE"
+        },
+        "1572104327": {
+            "tracker.cds-tracking.com": "INACTIVE"
+        },
+        "1572104333": {
+            "tracker.clicktrade.com": "INACTIVE"
+        },
+        "1572104340": {
+            "tracker.drippler.com": "INACTIVE"
+        },
+        "1572104342": {
+            "tracker.infosender.in": "INACTIVE"
+        },
+        "1572104349": {
+            "tracker.iqnomy.com": "INACTIVE"
+        },
+        "1572104355": {
+            "tracker.jcstracker.net": "INACTIVE"
+        },
+        "1572104359": {
+            "tracker.joost.com": "INACTIVE"
+        },
+        "1572104360": {
+            "tracker.keywordintent.com": "INACTIVE"
+        },
+        "1572104366": {
+            "tracker.leadsius.com": "INACTIVE"
+        },
+        "1572104367": {
+            "tracker.lgcontent.cl": "INACTIVE",
+            "tracker.loadingfast.com": "INACTIVE"
+        },
+        "1572104368": {
+            "tracker.lomadee.com": "INACTIVE"
+        },
+        "1572104370": {
+            "tracker.mobile.biz.daum.net": "INACTIVE"
+        },
+        "1572104371": {
+            "tracker.msales.com": "INACTIVE",
+            "tracker.netmechanic.com": "INACTIVE"
+        },
+        "1572104372": {
+            "tracker.peerclick.io": "INACTIVE"
+        },
+        "1572104380": {
+            "tracker.realclearpolitics.com": "INACTIVE"
+        },
+        "1572104386": {
+            "tracker.roitesting.com": "INACTIVE"
+        },
+        "1572104387": {
+            "tracker.scao.it": "INACTIVE",
+            "tracker.seoboost.net": "INACTIVE"
+        },
+        "1572104391": {
+            "trackerstatistik.init-ag.de": "INACTIVE"
+        },
+        "1572104398": {
+            "tracker.timesgroup.com": "INACTIVE"
+        },
+        "1572104400": {
+            "tracker.winload.de": "INACTIVE"
+        },
+        "1572104401": {
+            "track.ft.com": "INACTIVE"
+        },
+        "1572104407": {
+            "track.fxstreet.com": "INACTIVE"
+        },
+        "1572104412": {
+            "track.igg.com": "INACTIVE",
+            "trackicollect.ibase.fr": "INACTIVE"
+        },
+        "1572104420": {
+            "tracking1.euroads.no": "INACTIVE"
+        },
+        "1572104426": {
+            "tracking.247search.com": "INACTIVE"
+        },
+        "1572104427": {
+            "tracking2.interweave.com": "INACTIVE"
+        },
+        "1572104433": {
+            "tracking.actionads.ru": "INACTIVE"
+        },
+        "1572104435": {
+            "tracking.ads.ibibo.com": "INACTIVE",
+            "tracking.adserving.im": "INACTIVE"
+        },
+        "1572104436": {
+            "tracking.amazing-revenue.com": "INACTIVE"
+        },
+        "1572104438": {
+            "tracking.autoscout24.com": "INACTIVE"
+        },
+        "1572104444": {
+            "tracking.bafby.com": "INACTIVE"
+        },
+        "1572104450": {
+            "tracking.banners.meccahoo.com": "INACTIVE"
+        },
+        "1572104454": {
+            "tracking.base.de": "INACTIVE"
+        },
+        "1572104461": {
+            "tracking.bloomberg.com": "INACTIVE"
+        },
+        "1572104464": {
+            "tracking.cmcigroup.com": "INACTIVE"
+        },
+        "1572104471": {
+            "tracking.cmgdigital.com": "INACTIVE"
+        },
+        "1572104473": {
+            "tracking.cp.ligatus.com": "INACTIVE",
+            "tracking.crobo.com": "INACTIVE"
+        },
+        "1572104474": {
+            "tracking.directadsmedia.com": "INACTIVE",
+            "trackingdev.nixxie.com": "INACTIVE"
+        },
+        "1572104481": {
+            "tracking.drsfostersmith.com": "INACTIVE"
+        },
+        "1572104487": {
+            "tracking.dsmmadvantage.com": "INACTIVE"
+        },
+        "1572104496": {
+            "tracking.euroads.no": "INACTIVE",
+            "tracking.fathomseo.com": "INACTIVE"
+        },
+        "1572104497": {
+            "tracking.feedperfect.com": "INACTIVE",
+            "tracking.fits.me": "INACTIVE"
+        },
+        "1572104504": {
+            "tracking.foxnews.com": "INACTIVE",
+            "tracking.gammae.com": "INACTIVE",
+            "tracking.gfycat.com": "INACTIVE"
+        },
+        "1572104505": {
+            "tracking.goodgamestudios.com": "INACTIVE",
+            "tracking.groupon.com": "INACTIVE"
+        },
+        "1572104512": {
+            "tracking.gruppo.mps.it": "INACTIVE"
+        },
+        "1572104518": {
+            "tracking.hannoversche.de": "INACTIVE"
+        },
+        "1572104525": {
+            "tracking.hi-pi.com": "INACTIVE"
+        },
+        "1572104528": {
+            "tracking.hyde.ligatus.com": "INACTIVE",
+            "tracking.icotrack.com": "INACTIVE"
+        },
+        "1572104534": {
+            "tracking.infoninjas.net": "INACTIVE"
+        },
+        "1572104542": {
+            "tracking.interweave.com": "INACTIVE"
+        },
+        "1572104548": {
+            "tracking.inuvo.com": "INACTIVE"
+        },
+        "1572104549": {
+            "tracking.klickthru.com": "INACTIVE"
+        },
+        "1572104550": {
+            "tracking.lcleads.com": "INACTIVE"
+        },
+        "1572104551": {
+            "tracking.m6r.eu": "INACTIVE"
+        },
+        "1572104562": {
+            "tracking.mindshare.de": "INACTIVE"
+        },
+        "1572104569": {
+            "tracking.mobile.de": "INACTIVE",
+            "tracking.moneyam.com": "INACTIVE"
+        },
+        "1572104570": {
+            "tracking.moportals.com": "INACTIVE",
+            "tracking.musixmatch.com": "INACTIVE"
+        },
+        "1572104573": {
+            "tracking.netbank.de": "INACTIVE",
+            "tracking.netzathleten-media.de": "INACTIVE"
+        },
+        "1572104574": {
+            "tracking.olx-st.com": "INACTIVE",
+            "tracking.perfecttoolmedia.com": "INACTIVE"
+        },
+        "1572104576": {
+            "tracking.prmtracking.com": "INACTIVE"
+        },
+        "1572104582": {
+            "tracking.quillion.com": "INACTIVE"
+        },
+        "1572104583": {
+            "tracking.s24.com": "INACTIVE"
+        },
+        "1572104587": {
+            "tracking.sport1.de": "INACTIVE"
+        },
+        "1572104588": {
+            "tracking.statravel.de": "INACTIVE"
+        },
+        "1572104590": {
+            "tracking.tchibo.de": "INACTIVE",
+            "tracking.theeword.co.uk": "INACTIVE"
+        },
+        "1572104591": {
+            "tracking.thehut.net": "INACTIVE"
+        },
+        "1572104596": {
+            "tracking.wfnetwork.com": "INACTIVE"
+        },
+        "1572104597": {
+            "trackit.skyhighctr.com": "INACTIVE"
+        },
+        "1572104598": {
+            "track.jbtrax.net": "INACTIVE"
+        },
+        "1572104605": {
+            "track.netshelter.net": "INACTIVE",
+            "track.ning.com": "INACTIVE"
+        },
+        "1572104612": {
+            "track.oxcash.com": "INACTIVE"
+        },
+        "1572104619": {
+            "track.pointroll.com": "INACTIVE"
+        },
+        "1572104620": {
+            "trackpromotion.net": "INACTIVE"
+        },
+        "1572104622": {
+            "track.radins.com": "INACTIVE"
+        },
+        "1572104632": {
+            "track.ra.icast.cn": "INACTIVE",
+            "track.realwhiznews.com": "INACTIVE"
+        },
+        "1572104640": {
+            "track.reinvigorate.net": "INACTIVE",
+            "track.rejuvenate-lifestyles.com": "INACTIVE"
+        },
+        "1572104647": {
+            "tracks.arubamediamarketing.it": "INACTIVE"
+        },
+        "1572104656": {
+            "track.strife.com": "INACTIVE"
+        },
+        "1572104658": {
+            "track.tracking85.com": "INACTIVE"
+        },
+        "1572104659": {
+            "track.v2.sslsecure1.com": "INACTIVE"
+        },
+        "1572104661": {
+            "track.webtrekk.net": "INACTIVE"
+        },
+        "1572104670": {
+            "track.yieldmgr.com": "INACTIVE"
+        },
+        "1572104689": {
+            "tradingmarkets.us.intellitxt.com": "INACTIVE"
+        },
+        "1572104691": {
+            "traffic.acwebconnecting.com": "INACTIVE"
+        },
+        "1572104693": {
+            "traffic.bokecc.com": "INACTIVE"
+        },
+        "1572104699": {
+            "traffic.buyservices.com": "INACTIVE"
+        },
+        "1572104715": {
+            "trafficparade.com": "INACTIVE"
+        },
+        "1572104737": {
+            "traffic.trafficcompany.com": "INACTIVE"
+        },
+        "1572104738": {
+            "traffic.velvet.hu": "INACTIVE"
+        },
+        "1572104747": {
+            "trakksocial.googlecode.com": "INACTIVE"
+        },
+        "1572104748": {
+            "trans20120430.getjar.com": "INACTIVE"
+        },
+        "1572104750": {
+            "transfermarkt01.wt-eu02.net": "INACTIVE"
+        },
+        "1572104757": {
+            "travelocity.bfast.com": "INACTIVE"
+        },
+        "1572104770": {
+            "travsoft.bfast.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hpHosts---Ad-and-Tracking_web_hosts-file.net/hpHosts---Ad-and-Tracking_web_hosts-file.net.list": {
