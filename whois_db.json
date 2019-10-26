@@ -9692,7 +9692,7 @@
     "jatxt.com": {
         "epoch": 1572048000,
         "expiration_date": "26-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "jayde.com": {
         "epoch": 1599264000,
@@ -9760,8 +9760,8 @@
         "state": "future"
     },
     "jmpgo.com": {
-        "epoch": 1571961600,
-        "expiration_date": "25-oct-2019",
+        "epoch": 1603584000,
+        "expiration_date": "25-oct-2020",
         "state": "future"
     },
     "jmplink.com": {
@@ -9862,7 +9862,7 @@
     "justsaywow.com": {
         "epoch": 1572048000,
         "expiration_date": "26-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "justwebads.com": {
         "epoch": 1572739200,
@@ -9925,8 +9925,8 @@
         "state": "future"
     },
     "kewlrank.com": {
-        "epoch": 1571961600,
-        "expiration_date": "25-oct-2019",
+        "epoch": 1603584000,
+        "expiration_date": "25-oct-2020",
         "state": "future"
     },
     "keynotedeviceanywhere.com": {
