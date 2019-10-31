@@ -11460,8 +11460,8 @@
         "state": "future"
     },
     "mostcash.com": {
-        "epoch": 1572307200,
-        "expiration_date": "29-oct-2019",
+        "epoch": 1603929600,
+        "expiration_date": "29-oct-2020",
         "state": "future"
     },
     "motionhits.com": {
@@ -11662,7 +11662,7 @@
     "mytrafficbuilder.info": {
         "epoch": 1572480000,
         "expiration_date": "31-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "mytrannycams.com": {
         "epoch": 1579996800,
