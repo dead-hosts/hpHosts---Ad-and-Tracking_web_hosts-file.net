@@ -11547,7 +11547,7 @@
     "multimania.com": {
         "epoch": 1572652800,
         "expiration_date": "02-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "musiccounter.ru": {
         "epoch": 1583193600,
@@ -11895,9 +11895,9 @@
         "state": "future"
     },
     "nettown.com": {
-        "epoch": 1572566400,
-        "expiration_date": "01-nov-2019",
-        "state": "past"
+        "epoch": 1604188800,
+        "expiration_date": "01-nov-2020",
+        "state": "future"
     },
     "network22.com": {
         "epoch": 1600992000,
@@ -11905,8 +11905,8 @@
         "state": "future"
     },
     "networkadvertising.org": {
-        "epoch": 1572652800,
-        "expiration_date": "02-nov-2019",
+        "epoch": 1604275200,
+        "expiration_date": "02-nov-2020",
         "state": "future"
     },
     "networkcommerce.com": {
@@ -11960,9 +11960,9 @@
         "state": "future"
     },
     "newworldiq.com": {
-        "epoch": 1572566400,
-        "expiration_date": "01-nov-2019",
-        "state": "past"
+        "epoch": 1604188800,
+        "expiration_date": "01-nov-2020",
+        "state": "future"
     },
     "nexage.com": {
         "epoch": 1700265600,
