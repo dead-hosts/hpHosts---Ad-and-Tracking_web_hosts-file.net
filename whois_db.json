@@ -16072,7 +16072,7 @@
     "ukbanners.com": {
         "epoch": 1572825600,
         "expiration_date": "04-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "ulock.it": {
         "epoch": 1573084800,
@@ -16195,8 +16195,8 @@
         "state": "future"
     },
     "uponit.com": {
-        "epoch": 1572825600,
-        "expiration_date": "04-nov-2019",
+        "epoch": 1604448000,
+        "expiration_date": "04-nov-2020",
         "state": "future"
     },
     "uproar.com": {
@@ -16272,7 +16272,7 @@
     "usbanners.com": {
         "epoch": 1572825600,
         "expiration_date": "04-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "usearchmedia.com": {
         "epoch": 1598659200,
@@ -16415,8 +16415,8 @@
         "state": "future"
     },
     "videofun.me": {
-        "epoch": 1572739200,
-        "expiration_date": "03-nov-2019",
+        "epoch": 1604361600,
+        "expiration_date": "03-nov-2020",
         "state": "future"
     },
     "vidzur.com": {
