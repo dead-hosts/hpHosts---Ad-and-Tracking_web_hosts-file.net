@@ -710,12 +710,12 @@
         "state": "future"
     },
     "ad20.net": {
-        "epoch": 1583020800,
+        "epoch": 1583020800.0,
         "expiration_date": "01-mar-2020",
         "state": "future"
     },
     "ad2000.org": {
-        "epoch": 1667088000,
+        "epoch": 1667088000.0,
         "expiration_date": "30-oct-2022",
         "state": "future"
     },
