@@ -1,87 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hpHosts---Ad-and-Tracking_web_hosts-file.net/domains.list": {
-        "1574688234": {
-            "admaven.adk2x.com": "INACTIVE"
-        },
-        "1574688235": {
-            "admin.clicksor.com": "INACTIVE"
-        },
-        "1574688236": {
-            "admtpmp127.adsk2.co": "INACTIVE"
-        },
-        "1574688239": {
-            "adpile.go2affise.com": "INACTIVE",
-            "adplace.adsame.com": "INACTIVE",
-            "adq.nextag.com": "INACTIVE"
-        },
-        "1574688241": {
-            "ads.8833.com": "INACTIVE",
-            "ads.adonion.com": "INACTIVE",
-            "ads.adpv.com": "INACTIVE",
-            "ads.adrdgt.com": "INACTIVE",
-            "ads.adsconsumer.com": "INACTIVE"
-        },
-        "1574688242": {
-            "ads.adsonar.com": "INACTIVE",
-            "ads.advance.uk.com": "INACTIVE",
-            "ads.airpush.com": "INACTIVE",
-            "ads.amarillo.com": "INACTIVE",
-            "ads.amateurmatch.com": "INACTIVE",
-            "ads.applelinks.com": "INACTIVE"
-        },
-        "1574688243": {
-            "ads.asia1.com.sg": "INACTIVE",
-            "ads.banner-link.com.br": "INACTIVE",
-            "ads.betanews.com": "INACTIVE",
-            "ads.blueadvertise.com": "INACTIVE"
-        },
-        "1574688244": {
-            "ads.carltononline.com": "INACTIVE",
-            "ads.cgnetworks.com": "INACTIVE",
-            "ads.citenkomedia.com": "INACTIVE",
-            "ads.click2paid.com": "INACTIVE",
-            "ads.clickad.com": "INACTIVE",
-            "ads.clickad.com.pl": "INACTIVE",
-            "ads.clicksor.com": "INACTIVE"
-        },
-        "1574688245": {
-            "ads.creativelayers.de": "INACTIVE",
-            "ads.cwcity.de": "INACTIVE",
-            "ads.date.com": "INACTIVE",
-            "ads.deliads.com": "INACTIVE"
-        },
-        "1574688246": {
-            "ads.e9china.com": "INACTIVE",
-            "ads.ethicalads.net": "INACTIVE",
-            "ads.expedia.com": "INACTIVE"
-        },
-        "1574688247": {
-            "ads.ezcybersearch.com": "INACTIVE",
-            "ads.filez.com": "INACTIVE",
-            "ads.forbes.com": "INACTIVE",
-            "ads.fortunecity.co.uk": "INACTIVE",
-            "ads.gad-network.com": "INACTIVE"
-        },
-        "1574688248": {
-            "ads.gay.com": "INACTIVE",
-            "ads.gfy.com": "INACTIVE",
-            "ads.gorillavid.com": "INACTIVE",
-            "ads.hornymatches.com": "INACTIVE"
-        },
-        "1574688249": {
-            "ads.howabout.net": "INACTIVE",
-            "ads.howtoroot.mobi": "INACTIVE",
-            "ads.iac-online.de": "INACTIVE",
-            "ads.iafrica.com": "INACTIVE",
-            "ads.imdb.nl": "INACTIVE",
-            "ads.imdb.org": "INACTIVE",
-            "ads.incmd09.com": "INACTIVE",
-            "ads.iol.co.il": "INACTIVE"
-        },
-        "1574688250": {
-            "ads.itmcash.com": "INACTIVE",
-            "ads.ixo.com": "INACTIVE"
-        },
         "1574688963": {
             "ads.klixxx.com": "INACTIVE",
             "ads.lawnsite.com": "INACTIVE",
@@ -5255,6 +5173,90 @@
             "adhub.co.nz": "INACTIVE",
             "adimage.asia1.com.sg": "INACTIVE",
             "adimg.simmani.com": "INACTIVE"
+        },
+        "1574882602": {
+            "admaven.adk2x.com": "INACTIVE"
+        },
+        "1574882603": {
+            "admin.clicksor.com": "INACTIVE"
+        },
+        "1574882604": {
+            "admtpmp127.adsk2.co": "INACTIVE"
+        },
+        "1574882606": {
+            "adpile.go2affise.com": "INACTIVE",
+            "adplace.adsame.com": "INACTIVE"
+        },
+        "1574882607": {
+            "adq.nextag.com": "INACTIVE"
+        },
+        "1574882608": {
+            "ads.8833.com": "INACTIVE"
+        },
+        "1574882609": {
+            "ads.adonion.com": "INACTIVE",
+            "ads.adpv.com": "INACTIVE",
+            "ads.adrdgt.com": "INACTIVE",
+            "ads.adsconsumer.com": "INACTIVE",
+            "ads.adsonar.com": "INACTIVE",
+            "ads.advance.uk.com": "INACTIVE"
+        },
+        "1574882610": {
+            "ads.airpush.com": "INACTIVE",
+            "ads.amarillo.com": "INACTIVE",
+            "ads.amateurmatch.com": "INACTIVE",
+            "ads.applelinks.com": "INACTIVE",
+            "ads.asia1.com.sg": "INACTIVE",
+            "ads.banner-link.com.br": "INACTIVE"
+        },
+        "1574882611": {
+            "ads.betanews.com": "INACTIVE",
+            "ads.blueadvertise.com": "INACTIVE",
+            "ads.carltononline.com": "INACTIVE",
+            "ads.cgnetworks.com": "INACTIVE"
+        },
+        "1574882612": {
+            "ads.citenkomedia.com": "INACTIVE",
+            "ads.click2paid.com": "INACTIVE",
+            "ads.clickad.com": "INACTIVE",
+            "ads.clickad.com.pl": "INACTIVE",
+            "ads.clicksor.com": "INACTIVE",
+            "ads.creativelayers.de": "INACTIVE",
+            "ads.cwcity.de": "INACTIVE"
+        },
+        "1574882613": {
+            "ads.date.com": "INACTIVE",
+            "ads.deliads.com": "INACTIVE",
+            "ads.e9china.com": "INACTIVE"
+        },
+        "1574882614": {
+            "ads.ethicalads.net": "INACTIVE",
+            "ads.expedia.com": "INACTIVE",
+            "ads.ezcybersearch.com": "INACTIVE",
+            "ads.filez.com": "INACTIVE",
+            "ads.forbes.com": "INACTIVE",
+            "ads.fortunecity.co.uk": "INACTIVE"
+        },
+        "1574882615": {
+            "ads.gad-network.com": "INACTIVE",
+            "ads.gay.com": "INACTIVE",
+            "ads.gfy.com": "INACTIVE",
+            "ads.gorillavid.com": "INACTIVE"
+        },
+        "1574882616": {
+            "ads.hornymatches.com": "INACTIVE",
+            "ads.howabout.net": "INACTIVE",
+            "ads.howtoroot.mobi": "INACTIVE",
+            "ads.iac-online.de": "INACTIVE",
+            "ads.iafrica.com": "INACTIVE",
+            "ads.imdb.nl": "INACTIVE",
+            "ads.imdb.org": "INACTIVE",
+            "ads.incmd09.com": "INACTIVE"
+        },
+        "1574882617": {
+            "ads.iol.co.il": "INACTIVE",
+            "ads.itmcash.com": "INACTIVE",
+            "ads.ixo.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hpHosts---Ad-and-Tracking_web_hosts-file.net/hpHosts---Ad-and-Tracking_web_hosts-file.net.list": {
