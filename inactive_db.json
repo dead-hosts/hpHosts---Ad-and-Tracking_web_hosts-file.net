@@ -1,46 +1,6 @@
 {
     "/home/travis/build/dead-hosts/hpHosts---Ad-and-Tracking_web_hosts-file.net/domains.list": {
-        "1575203884": {
-            "ads2.mocean.mobi": "INACTIVE",
-            "ads2.mojiva.com": "INACTIVE",
-            "ads2.rp.pl": "INACTIVE"
-        },
-        "1575203886": {
-            "ads3.mocean.mobi": "INACTIVE",
-            "ads3.mojiva.com": "INACTIVE"
-        },
-        "1575205503": {
-            "ads4.mocean.mobi": "INACTIVE",
-            "ads4.mojiva.com": "INACTIVE"
-        },
-        "1575205504": {
-            "ads5.mocean.mobi": "INACTIVE",
-            "ads5.mojiva.com": "INACTIVE",
-            "ads6.mocean.mobi": "INACTIVE"
-        },
-        "1575205505": {
-            "ads7.mocean.mobi": "INACTIVE",
-            "ads8.mocean.mobi": "INACTIVE",
-            "ads9.mocean.mobi": "INACTIVE"
-        },
-        "1575205507": {
-            "adserv.brandaffinity.net": "INACTIVE",
-            "adserv.iafrica.com": "INACTIVE",
-            "adserv.legitreviews.com": "INACTIVE",
-            "adserv.search-exe.com": "INACTIVE",
-            "adserv.searchenhancement.com": "INACTIVE",
-            "adserve.advertising.com": "INACTIVE",
-            "adserve.cpmba.se": "INACTIVE",
-            "adserver-a-frr.adtech.de": "INACTIVE"
-        },
-        "1575205508": {
-            "adserver.affiliatemg.com": "INACTIVE",
-            "adserver.coreads.net": "INACTIVE"
-        },
         "1575205509": {
-            "adserver.comparatel.fr": "INACTIVE",
-            "adserver.digitalpartners.com": "INACTIVE",
-            "adserver.ip-phone-forum.de": "INACTIVE",
             "adserver.mobillex.com": "INACTIVE"
         },
         "1575205510": {
@@ -5264,6 +5224,48 @@
         "1575388464": {
             "ads1.mocean.mobi": "INACTIVE",
             "ads1.mojiva.com": "INACTIVE"
+        },
+        "1575389177": {
+            "ads2.mocean.mobi": "INACTIVE",
+            "ads2.mojiva.com": "INACTIVE",
+            "ads2.rp.pl": "INACTIVE"
+        },
+        "1575389178": {
+            "ads3.mocean.mobi": "INACTIVE",
+            "ads3.mojiva.com": "INACTIVE"
+        },
+        "1575389179": {
+            "ads4.mocean.mobi": "INACTIVE",
+            "ads4.mojiva.com": "INACTIVE",
+            "ads5.mocean.mobi": "INACTIVE",
+            "ads5.mojiva.com": "INACTIVE"
+        },
+        "1575389180": {
+            "ads6.mocean.mobi": "INACTIVE",
+            "ads7.mocean.mobi": "INACTIVE",
+            "ads8.mocean.mobi": "INACTIVE",
+            "ads9.mocean.mobi": "INACTIVE"
+        },
+        "1575389181": {
+            "adserv.brandaffinity.net": "INACTIVE"
+        },
+        "1575389182": {
+            "adserv.iafrica.com": "INACTIVE",
+            "adserv.legitreviews.com": "INACTIVE",
+            "adserv.search-exe.com": "INACTIVE",
+            "adserv.searchenhancement.com": "INACTIVE",
+            "adserve.advertising.com": "INACTIVE",
+            "adserve.cpmba.se": "INACTIVE",
+            "adserver-a-frr.adtech.de": "INACTIVE"
+        },
+        "1575389183": {
+            "adserver.affiliatemg.com": "INACTIVE",
+            "adserver.comparatel.fr": "INACTIVE",
+            "adserver.coreads.net": "INACTIVE",
+            "adserver.digitalpartners.com": "INACTIVE"
+        },
+        "1575389184": {
+            "adserver.ip-phone-forum.de": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hpHosts---Ad-and-Tracking_web_hosts-file.net/hpHosts---Ad-and-Tracking_web_hosts-file.net.list": {
