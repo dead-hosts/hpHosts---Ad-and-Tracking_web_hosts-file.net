@@ -4227,7 +4227,7 @@
     "better-counter.com": {
         "epoch": 1575331200.0,
         "expiration_date": "03-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "bettermail.ca": {
         "epoch": 1581379200.0,
@@ -4455,9 +4455,9 @@
         "state": "future"
     },
     "blutrumpet.com": {
-        "epoch": 1575158400.0,
-        "expiration_date": "01-dec-2019",
-        "state": "past"
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
+        "state": "future"
     },
     "bm5150.com": {
         "epoch": 1588982400.0,
