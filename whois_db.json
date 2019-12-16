@@ -2130,8 +2130,8 @@
         "state": "future"
     },
     "adsfac.us": {
-        "epoch": 1566345600,
-        "expiration_date": "21-aug-2019",
+        "epoch": 1597968000.0,
+        "expiration_date": "21-aug-2020",
         "state": "future"
     },
     "adsfast.com": {
@@ -2325,8 +2325,8 @@
         "state": "future"
     },
     "adsrv.us": {
-        "epoch": 1574553600,
-        "expiration_date": "24-nov-2019",
+        "epoch": 1606176000.0,
+        "expiration_date": "24-nov-2020",
         "state": "future"
     },
     "adsrvmedia.com": {
@@ -2690,7 +2690,7 @@
         "state": "future"
     },
     "advertbox.us": {
-        "epoch": 1582156800,
+        "epoch": 1582156800.0,
         "expiration_date": "20-feb-2020",
         "state": "future"
     },
@@ -2750,8 +2750,8 @@
         "state": "future"
     },
     "advertising-world.com": {
-        "epoch": 1576281600.0,
-        "expiration_date": "14-dec-2019",
+        "epoch": 1607904000.0,
+        "expiration_date": "14-dec-2020",
         "state": "future"
     },
     "advertising.com": {
