@@ -4137,7 +4137,7 @@
     "bcmediagroup.com": {
         "epoch": 1576454400.0,
         "expiration_date": "16-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "bdex.com": {
         "epoch": 1577232000.0,
@@ -4235,8 +4235,8 @@
         "state": "future"
     },
     "bettraf.com": {
-        "epoch": 1576368000.0,
-        "expiration_date": "15-dec-2019",
+        "epoch": 1607990400.0,
+        "expiration_date": "15-dec-2020",
         "state": "future"
     },
     "beyourownaffiliate.com": {
