@@ -6797,7 +6797,7 @@
     "direct-xxx-access.com": {
         "epoch": 1576627200.0,
         "expiration_date": "18-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "directadvert.ru": {
         "epoch": 1583798400.0,
@@ -6920,9 +6920,9 @@
         "state": "future"
     },
     "donkeymails.com": {
-        "epoch": 1576454400.0,
-        "expiration_date": "16-dec-2019",
-        "state": "past"
+        "epoch": 1639612800.0,
+        "expiration_date": "16-dec-2021",
+        "state": "future"
     },
     "dorapodorasham.com": {
         "epoch": 1598745600.0,
