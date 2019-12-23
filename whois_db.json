@@ -16520,9 +16520,9 @@
         "state": "future"
     },
     "vogo-vogo.ru": {
-        "epoch": 1575417600.0,
-        "expiration_date": "04-dec-2019",
-        "state": "past"
+        "epoch": 1611187200.0,
+        "expiration_date": "21-jan-2021",
+        "state": "future"
     },
     "voodooparking.com": {
         "epoch": 1593993600.0,
@@ -16542,7 +16542,7 @@
     "vq91811.com": {
         "epoch": 1576972800.0,
         "expiration_date": "22-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "vserv.mobi": {
         "epoch": 1603411200.0,
