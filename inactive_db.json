@@ -756,9 +756,6 @@
             "zyiztazhfprochain.review": "INACTIVE",
             "zzptzdhugavot.review": "INACTIVE"
         },
-        "1577116438": {
-            "ads.mobiteasy.com": "INACTIVE"
-        },
         "1577117189": {
             "ads176.hpg.com.br": "INACTIVE"
         },
@@ -783,60 +780,7 @@
         "1577135510": {
             "fra297.ib.adnxs.com": "INACTIVE"
         },
-        "1577136735": {
-            "ads.iol.co.il": "INACTIVE",
-            "ads.itmcash.com": "INACTIVE",
-            "ads.ixo.com": "INACTIVE",
-            "ads.klixxx.com": "INACTIVE",
-            "ads.lawnsite.com": "INACTIVE",
-            "ads.linuxjournal.com": "INACTIVE",
-            "ads.linuxsecurity.com": "INACTIVE",
-            "ads.livescore.com": "INACTIVE",
-            "ads.macdailynews.com": "INACTIVE",
-            "ads.members.teamskeet.com": "INACTIVE",
-            "ads.mixtraffic.com": "INACTIVE",
-            "ads.mobilepad.co": "INACTIVE"
-        },
-        "1577136736": {
-            "ads.mocean.mobi": "INACTIVE",
-            "ads.mojiva.com": "INACTIVE",
-            "ads.musiccity.com": "INACTIVE",
-            "ads.myopen.vipshop.com": "INACTIVE",
-            "ads.mypcwash.com": "INACTIVE",
-            "ads.netcraft.com": "INACTIVE",
-            "ads.netmechanic.com": "INACTIVE",
-            "ads.newdream.net": "INACTIVE",
-            "ads.newsgeek.co.il": "INACTIVE",
-            "ads.nobuffer.info": "INACTIVE",
-            "ads.odigo.com": "INACTIVE",
-            "ads.piramit.net": "INACTIVE",
-            "ads.playnet.nl": "INACTIVE",
-            "ads.poptarts.me": "INACTIVE",
-            "ads.pornerbros.com": "INACTIVE",
-            "ads.purefuck.com": "INACTIVE",
-            "ads.realitytraffic.com.s2.gvirabi.com": "INACTIVE",
-            "ads.realitytraffic.com.s3.gvirabi.com": "INACTIVE",
-            "ads.recoletos.es": "INACTIVE",
-            "ads.redtube.com": "INACTIVE",
-            "ads.revmob.com": "INACTIVE",
-            "ads.rte.ie": "INACTIVE"
-        },
         "1577136737": {
-            "ads.runningwolf.com": "INACTIVE",
-            "ads.saba-e.com": "INACTIVE",
-            "ads.savannahnow.com": "INACTIVE",
-            "ads.seattletimes.com": "INACTIVE",
-            "ads.sitemeter.com": "INACTIVE",
-            "ads.slnads.com": "INACTIVE",
-            "ads.sockshots.com": "INACTIVE",
-            "ads.softure.com": "INACTIVE",
-            "ads.sptimes.com": "INACTIVE",
-            "ads.stephensmedia.com": "INACTIVE",
-            "ads.str8up.com": "INACTIVE",
-            "ads.tackyworld.com": "INACTIVE",
-            "ads.taiphanmem.org": "INACTIVE",
-            "ads.tapit.com": "INACTIVE",
-            "ads.telegraph.co.uk": "INACTIVE",
             "ads.topcities.com": "INACTIVE",
             "ads.torrpedo.net": "INACTIVE",
             "ads.tripod.spray.se": "INACTIVE",
@@ -4307,6 +4251,70 @@
             "ads.imdb.nl": "INACTIVE",
             "ads.imdb.org": "INACTIVE",
             "ads.incmd09.com": "INACTIVE"
+        },
+        "1577293456": {
+            "ads.iol.co.il": "INACTIVE",
+            "ads.itmcash.com": "INACTIVE",
+            "ads.ixo.com": "INACTIVE",
+            "ads.klixxx.com": "INACTIVE",
+            "ads.lawnsite.com": "INACTIVE",
+            "ads.linuxjournal.com": "INACTIVE",
+            "ads.linuxsecurity.com": "INACTIVE",
+            "ads.livescore.com": "INACTIVE",
+            "ads.macdailynews.com": "INACTIVE"
+        },
+        "1577293457": {
+            "ads.members.teamskeet.com": "INACTIVE",
+            "ads.mixtraffic.com": "INACTIVE",
+            "ads.mobilepad.co": "INACTIVE",
+            "ads.mobiteasy.com": "INACTIVE",
+            "ads.mocean.mobi": "INACTIVE",
+            "ads.mojiva.com": "INACTIVE",
+            "ads.musiccity.com": "INACTIVE",
+            "ads.myopen.vipshop.com": "INACTIVE",
+            "ads.mypcwash.com": "INACTIVE"
+        },
+        "1577293458": {
+            "ads.netcraft.com": "INACTIVE",
+            "ads.netmechanic.com": "INACTIVE",
+            "ads.newdream.net": "INACTIVE",
+            "ads.newsgeek.co.il": "INACTIVE",
+            "ads.nobuffer.info": "INACTIVE",
+            "ads.odigo.com": "INACTIVE"
+        },
+        "1577293459": {
+            "ads.piramit.net": "INACTIVE",
+            "ads.playnet.nl": "INACTIVE"
+        },
+        "1577293461": {
+            "ads.poptarts.me": "INACTIVE",
+            "ads.pornerbros.com": "INACTIVE",
+            "ads.purefuck.com": "INACTIVE"
+        },
+        "1577293462": {
+            "ads.realitytraffic.com.s2.gvirabi.com": "INACTIVE",
+            "ads.realitytraffic.com.s3.gvirabi.com": "INACTIVE",
+            "ads.recoletos.es": "INACTIVE",
+            "ads.redtube.com": "INACTIVE",
+            "ads.revmob.com": "INACTIVE",
+            "ads.rte.ie": "INACTIVE",
+            "ads.runningwolf.com": "INACTIVE",
+            "ads.saba-e.com": "INACTIVE",
+            "ads.savannahnow.com": "INACTIVE",
+            "ads.seattletimes.com": "INACTIVE",
+            "ads.sitemeter.com": "INACTIVE",
+            "ads.slnads.com": "INACTIVE"
+        },
+        "1577293463": {
+            "ads.sockshots.com": "INACTIVE",
+            "ads.softure.com": "INACTIVE",
+            "ads.sptimes.com": "INACTIVE",
+            "ads.stephensmedia.com": "INACTIVE",
+            "ads.str8up.com": "INACTIVE",
+            "ads.tackyworld.com": "INACTIVE",
+            "ads.taiphanmem.org": "INACTIVE",
+            "ads.tapit.com": "INACTIVE",
+            "ads.telegraph.co.uk": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hpHosts---Ad-and-Tracking_web_hosts-file.net/hpHosts---Ad-and-Tracking_web_hosts-file.net.list": {
