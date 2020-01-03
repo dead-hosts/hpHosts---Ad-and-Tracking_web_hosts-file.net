@@ -6740,8 +6740,8 @@
         "state": "future"
     },
     "dialerporn.com": {
-        "epoch": 1578009600.0,
-        "expiration_date": "03-jan-2020",
+        "epoch": 1609632000.0,
+        "expiration_date": "03-jan-2021",
         "state": "future"
     },
     "dianomioffers.co.uk": {
@@ -6887,7 +6887,7 @@
     "dogcustom-works.com": {
         "epoch": 1578009600.0,
         "expiration_date": "03-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "dohillright.com": {
         "epoch": 1589068800.0,
@@ -6965,9 +6965,9 @@
         "state": "future"
     },
     "dprtb.com": {
-        "epoch": 1577836800.0,
-        "expiration_date": "01-jan-2020",
-        "state": "past"
+        "epoch": 1609459200.0,
+        "expiration_date": "01-jan-2021",
+        "state": "future"
     },
     "dragonballzhomeland.com": {
         "epoch": 1586044800.0,
