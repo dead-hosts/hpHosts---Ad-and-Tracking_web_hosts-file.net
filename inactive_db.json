@@ -1,37 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hpHosts---Ad-and-Tracking_web_hosts-file.net/domains.list": {
-        "1578231737": {
-            "ad.doubleclick.net.76447.9624.302br.net": "INACTIVE"
-        },
-        "1578232974": {
-            "ad.doubleclick.net.78692.9671.302br.net": "INACTIVE",
-            "ad.doubleclick.net.78693.9671.302br.net": "INACTIVE"
-        },
-        "1578232976": {
-            "ad.doubleclick.net.79747.9680.302br.net": "INACTIVE",
-            "ad.doubleclick.net.79765.9680.302br.net": "INACTIVE"
-        },
-        "1578232978": {
-            "ad.doubleclick.net.80241.9336.302br.net": "INACTIVE",
-            "ad.doubleclick.net.80242.9336.302br.net": "INACTIVE"
-        },
-        "1578232981": {
-            "ad.doubleclick.net.80993.9584.302br.net": "INACTIVE",
-            "ad.doubleclick.net.80994.9584.302br.net": "INACTIVE",
-            "ad.doubleclick.net.947.9005.302br.net": "INACTIVE",
-            "ad.e-kolay.net": "INACTIVE",
-            "ad.es.chilinext.com": "INACTIVE",
-            "ad.ethicalads.net": "INACTIVE",
-            "ad.evozi.com": "INACTIVE",
-            "ad.ezcybersearch.com": "INACTIVE"
-        },
-        "1578232982": {
-            "ad.globe7.com": "INACTIVE",
-            "ad.hornymatches.com": "INACTIVE",
-            "ad.it.chilinext.com": "INACTIVE",
-            "ad.jumbaexchange.com": "INACTIVE",
-            "ad.letsbonus.com": "INACTIVE"
-        },
         "1578233808": {
             "ad.linxcz.cz": "INACTIVE",
             "ad.main-netz.de": "INACTIVE",
@@ -5569,6 +5537,20 @@
         },
         "1578321136": {
             "ad.doubleclick.net.47252.9350.302br.net": "INACTIVE"
+        },
+        "1578324362": {
+            "ad.e-kolay.net": "INACTIVE",
+            "ad.es.chilinext.com": "INACTIVE",
+            "ad.ethicalads.net": "INACTIVE",
+            "ad.evozi.com": "INACTIVE",
+            "ad.ezcybersearch.com": "INACTIVE",
+            "ad.globe7.com": "INACTIVE"
+        },
+        "1578324363": {
+            "ad.hornymatches.com": "INACTIVE",
+            "ad.it.chilinext.com": "INACTIVE",
+            "ad.jumbaexchange.com": "INACTIVE",
+            "ad.letsbonus.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hpHosts---Ad-and-Tracking_web_hosts-file.net/hpHosts---Ad-and-Tracking_web_hosts-file.net.list": {
