@@ -1,40 +1,6 @@
 {
     "/home/travis/build/dead-hosts/hpHosts---Ad-and-Tracking_web_hosts-file.net/domains.list": {
-        "1578500143": {
-            "admaven.adk2x.com": "INACTIVE",
-            "admin.clicksor.com": "INACTIVE"
-        },
-        "1578500145": {
-            "adnet.mediawhiz.com": "INACTIVE"
-        },
-        "1578501740": {
-            "adpile.go2affise.com": "INACTIVE",
-            "adplace.adsame.com": "INACTIVE",
-            "adq.nextag.com": "INACTIVE"
-        },
-        "1578501741": {
-            "ads.8833.com": "INACTIVE"
-        },
-        "1578501742": {
-            "ads.adonion.com": "INACTIVE",
-            "ads.adpv.com": "INACTIVE",
-            "ads.adrdgt.com": "INACTIVE",
-            "ads.adsconsumer.com": "INACTIVE",
-            "ads.adsonar.com": "INACTIVE",
-            "ads.advance.uk.com": "INACTIVE",
-            "ads.airpush.com": "INACTIVE",
-            "ads.amarillo.com": "INACTIVE",
-            "ads.amateurmatch.com": "INACTIVE"
-        },
-        "1578501743": {
-            "ads.applelinks.com": "INACTIVE",
-            "ads.asia1.com.sg": "INACTIVE",
-            "ads.banner-link.com.br": "INACTIVE",
-            "ads.best-ads.com": "INACTIVE",
-            "ads.betanews.com": "INACTIVE"
-        },
         "1578501744": {
-            "ads.carltononline.com": "INACTIVE",
             "ads.cgnetworks.com": "INACTIVE",
             "ads.clickad.com": "INACTIVE",
             "ads.clickad.com.pl": "INACTIVE",
@@ -5555,6 +5521,44 @@
             "adhub.co.nz": "INACTIVE",
             "adimage.asia1.com.sg": "INACTIVE",
             "adimg.simmani.com": "INACTIVE"
+        },
+        "1578669661": {
+            "admaven.adk2x.com": "INACTIVE"
+        },
+        "1578669662": {
+            "admin.clicksor.com": "INACTIVE"
+        },
+        "1578669663": {
+            "adnet.mediawhiz.com": "INACTIVE"
+        },
+        "1578669664": {
+            "adpile.go2affise.com": "INACTIVE",
+            "adplace.adsame.com": "INACTIVE"
+        },
+        "1578669665": {
+            "adq.nextag.com": "INACTIVE"
+        },
+        "1578669666": {
+            "ads.8833.com": "INACTIVE",
+            "ads.adonion.com": "INACTIVE",
+            "ads.adpv.com": "INACTIVE",
+            "ads.adrdgt.com": "INACTIVE",
+            "ads.adsconsumer.com": "INACTIVE"
+        },
+        "1578669667": {
+            "ads.adsonar.com": "INACTIVE",
+            "ads.advance.uk.com": "INACTIVE",
+            "ads.airpush.com": "INACTIVE",
+            "ads.amarillo.com": "INACTIVE",
+            "ads.amateurmatch.com": "INACTIVE",
+            "ads.applelinks.com": "INACTIVE",
+            "ads.asia1.com.sg": "INACTIVE"
+        },
+        "1578669668": {
+            "ads.banner-link.com.br": "INACTIVE",
+            "ads.best-ads.com": "INACTIVE",
+            "ads.betanews.com": "INACTIVE",
+            "ads.carltononline.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hpHosts---Ad-and-Tracking_web_hosts-file.net/hpHosts---Ad-and-Tracking_web_hosts-file.net.list": {
