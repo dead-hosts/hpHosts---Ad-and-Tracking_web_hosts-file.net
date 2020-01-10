@@ -14957,7 +14957,7 @@
     "tapfiliate.com": {
         "epoch": 1578614400.0,
         "expiration_date": "10-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "tapgen.com": {
         "epoch": 1583971200.0,
@@ -15180,9 +15180,9 @@
         "state": "future"
     },
     "thisteddagblad.dk": {
-        "epoch": 1577750400.0,
-        "expiration_date": "31-dec-2019",
-        "state": "past"
+        "epoch": 1609372800.0,
+        "expiration_date": "31-dec-2020",
+        "state": "future"
     },
     "thogethoffic.co": {
         "epoch": 1594598400.0,
