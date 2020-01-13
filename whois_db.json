@@ -807,7 +807,7 @@
     "adbard.net": {
         "epoch": 1578873600.0,
         "expiration_date": "13-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "adbest.com": {
         "epoch": 1594598400.0,
@@ -1550,8 +1550,8 @@
         "state": "future"
     },
     "admantic.ru": {
-        "epoch": 1578873600.0,
-        "expiration_date": "13-jan-2020",
+        "epoch": 1610496000.0,
+        "expiration_date": "13-jan-2021",
         "state": "future"
     },
     "admarketplace.com": {
