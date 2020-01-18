@@ -1,91 +1,6 @@
 {
     "/home/travis/build/dead-hosts/hpHosts---Ad-and-Tracking_web_hosts-file.net/domains.list": {
-        "1579112776": {
-            "cdn.innity.com": "INACTIVE",
-            "cdn.justonecookbook.com": "INACTIVE",
-            "cdn.mdotm.com": "INACTIVE",
-            "cdn.millennialmedia.com": "INACTIVE"
-        },
-        "1579112777": {
-            "cdn.onlinecountdowns.com": "INACTIVE",
-            "cdn.optimatic.com": "INACTIVE"
-        },
-        "1579112778": {
-            "cdn.vaguntrader.com": "INACTIVE",
-            "cdn.yourtopoffers.info": "INACTIVE",
-            "cdn1.bad-credit-cdn.com": "INACTIVE",
-            "cdn1.clkbid.com": "INACTIVE",
-            "cdn1.deals-discounts-codes.com": "INACTIVE",
-            "cdn1.skinected.com": "INACTIVE",
-            "cdn11.00zasdf.pw": "INACTIVE"
-        },
-        "1579112779": {
-            "cdn11.plmokn.pw": "INACTIVE",
-            "cdn2.adsdk.com": "INACTIVE",
-            "cdn2.bad-credit-cdn.com": "INACTIVE",
-            "cdn2.cpmstar.com": "INACTIVE",
-            "cdn2.deals-discounts-codes.com": "INACTIVE",
-            "cdn4.bad-credit-cdn.com": "INACTIVE",
-            "cdn4.deals-discounts-codes.com": "INACTIVE",
-            "cdn5.bad-credit-cdn.com": "INACTIVE",
-            "cdn5.deals-discounts-codes.com": "INACTIVE",
-            "cdn6.bad-credit-cdn.com": "INACTIVE",
-            "cdn6.deals-discounts-codes.com": "INACTIVE"
-        },
-        "1579112780": {
-            "cdn7.bad-credit-cdn.com": "INACTIVE",
-            "cdn7.deals-discounts-codes.com": "INACTIVE",
-            "cds2.freenet.de": "INACTIVE",
-            "cedexis-dsa-eu.gccdn.net": "INACTIVE"
-        },
-        "1579112781": {
-            "centinela.sofistic.net": "INACTIVE"
-        },
-        "1579113478": {
-            "cfifsfsbsower.review": "INACTIVE",
-            "cfs.u-ad.info": "INACTIVE",
-            "cgi.hotstat.nl": "INACTIVE",
-            "cgzudintercom.review": "INACTIVE",
-            "chainmychonga.com": "INACTIVE",
-            "chalkpitqqjpwis.download": "INACTIVE"
-        },
-        "1579113479": {
-            "chapdyn.bidsystem.com": "INACTIVE",
-            "chathu.apkmania.co": "INACTIVE",
-            "chatserver.comm100.cn": "INACTIVE",
-            "chayaoyaui.download": "INACTIVE",
-            "checker.dumedia.ru": "INACTIVE"
-        },
-        "1579113480": {
-            "chillinessfjnvbh.download": "INACTIVE",
-            "chip.ivwbox.de": "INACTIVE",
-            "chippingswbhhaxf.download": "INACTIVE",
-            "chronicleddxsilskp.download": "INACTIVE",
-            "chutneysrkcmkwrqb.download": "INACTIVE",
-            "ciao.ivwbox.de": "INACTIVE",
-            "ciliolateefgntk.download": "INACTIVE"
-        },
-        "1579113481": {
-            "cistycsoyceif.download": "INACTIVE"
-        },
-        "1579113482": {
-            "cknsoyunwrought.review": "INACTIVE",
-            "clarinetsfulrjwphb.download": "INACTIVE",
-            "claspedhjkyehhf.download": "INACTIVE",
-            "classroomchvpagg.download": "INACTIVE"
-        },
-        "1579113483": {
-            "cldsecure.info": "INACTIVE",
-            "click.adknowledge.com": "INACTIVE",
-            "click.findthewebsiteyouneed.com": "INACTIVE"
-        },
         "1579113484": {
-            "click.igg.com": "INACTIVE",
-            "click.loudgames.com": "INACTIVE",
-            "click.mmosite.com": "INACTIVE",
-            "click.mobtimizer.com": "INACTIVE",
-            "click.monstracking.com": "INACTIVE",
-            "click.news2.v3.email-publisher.com": "INACTIVE",
             "click.readme.ru": "INACTIVE",
             "click.safe-sender.co.uk": "INACTIVE",
             "click.solocpm.com": "INACTIVE",
@@ -5600,6 +5515,90 @@
             "cdn.digitalcity.com": "INACTIVE",
             "cdn.directrev.com": "INACTIVE",
             "cdn.directtrk.com": "INACTIVE"
+        },
+        "1579312590": {
+            "cdn.innity.com": "INACTIVE",
+            "cdn.justonecookbook.com": "INACTIVE",
+            "cdn.mdotm.com": "INACTIVE",
+            "cdn.millennialmedia.com": "INACTIVE"
+        },
+        "1579312591": {
+            "cdn.onlinecountdowns.com": "INACTIVE",
+            "cdn.optimatic.com": "INACTIVE"
+        },
+        "1579312592": {
+            "cdn.vaguntrader.com": "INACTIVE",
+            "cdn.yourtopoffers.info": "INACTIVE",
+            "cdn1.bad-credit-cdn.com": "INACTIVE",
+            "cdn1.clkbid.com": "INACTIVE",
+            "cdn1.deals-discounts-codes.com": "INACTIVE",
+            "cdn1.skinected.com": "INACTIVE",
+            "cdn11.00zasdf.pw": "INACTIVE",
+            "cdn11.plmokn.pw": "INACTIVE"
+        },
+        "1579312593": {
+            "cdn2.adsdk.com": "INACTIVE",
+            "cdn2.bad-credit-cdn.com": "INACTIVE",
+            "cdn2.cpmstar.com": "INACTIVE",
+            "cdn2.deals-discounts-codes.com": "INACTIVE",
+            "cdn4.bad-credit-cdn.com": "INACTIVE",
+            "cdn4.deals-discounts-codes.com": "INACTIVE",
+            "cdn5.bad-credit-cdn.com": "INACTIVE",
+            "cdn5.deals-discounts-codes.com": "INACTIVE",
+            "cdn6.bad-credit-cdn.com": "INACTIVE",
+            "cdn6.deals-discounts-codes.com": "INACTIVE",
+            "cdn7.bad-credit-cdn.com": "INACTIVE",
+            "cdn7.deals-discounts-codes.com": "INACTIVE"
+        },
+        "1579312594": {
+            "cds2.freenet.de": "INACTIVE",
+            "cedexis-dsa-eu.gccdn.net": "INACTIVE",
+            "cedexispub.cdnetworks.net": "INACTIVE",
+            "centinela.sofistic.net": "INACTIVE"
+        },
+        "1579312595": {
+            "cfifsfsbsower.review": "INACTIVE",
+            "cfs.u-ad.info": "INACTIVE",
+            "cgi.hotstat.nl": "INACTIVE",
+            "cgzudintercom.review": "INACTIVE",
+            "chainmychonga.com": "INACTIVE",
+            "chalkpitqqjpwis.download": "INACTIVE",
+            "chapdyn.bidsystem.com": "INACTIVE"
+        },
+        "1579312596": {
+            "chathu.apkmania.co": "INACTIVE",
+            "chatserver.comm100.cn": "INACTIVE",
+            "chayaoyaui.download": "INACTIVE",
+            "checker.dumedia.ru": "INACTIVE",
+            "chillinessfjnvbh.download": "INACTIVE",
+            "chip.ivwbox.de": "INACTIVE",
+            "chippingswbhhaxf.download": "INACTIVE"
+        },
+        "1579312597": {
+            "chronicleddxsilskp.download": "INACTIVE",
+            "chutneysrkcmkwrqb.download": "INACTIVE",
+            "ciao.ivwbox.de": "INACTIVE",
+            "ciliolateefgntk.download": "INACTIVE",
+            "cistycsoyceif.download": "INACTIVE"
+        },
+        "1579312599": {
+            "cknsoyunwrought.review": "INACTIVE",
+            "clarinetsfulrjwphb.download": "INACTIVE",
+            "claspedhjkyehhf.download": "INACTIVE",
+            "classroomchvpagg.download": "INACTIVE",
+            "cldsecure.info": "INACTIVE"
+        },
+        "1579312600": {
+            "click.adknowledge.com": "INACTIVE",
+            "click.findthewebsiteyouneed.com": "INACTIVE",
+            "click.igg.com": "INACTIVE",
+            "click.loudgames.com": "INACTIVE",
+            "click.mmosite.com": "INACTIVE",
+            "click.monstracking.com": "INACTIVE"
+        },
+        "1579312601": {
+            "click.mobtimizer.com": "INACTIVE",
+            "click.news2.v3.email-publisher.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hpHosts---Ad-and-Tracking_web_hosts-file.net/hpHosts---Ad-and-Tracking_web_hosts-file.net.list": {
