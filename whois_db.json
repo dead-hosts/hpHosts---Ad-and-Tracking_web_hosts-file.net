@@ -7252,7 +7252,7 @@
     "emediate.se": {
         "epoch": 1579219200.0,
         "expiration_date": "17-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "emsvr.com": {
         "epoch": 1646956800.0,
@@ -7600,8 +7600,8 @@
         "state": "future"
     },
     "eztexting.com": {
-        "epoch": 1579219200.0,
-        "expiration_date": "17-jan-2020",
+        "epoch": 1610841600.0,
+        "expiration_date": "17-jan-2021",
         "state": "future"
     },
     "farfarida.com": {
