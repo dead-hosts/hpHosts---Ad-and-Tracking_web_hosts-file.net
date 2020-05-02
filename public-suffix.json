@@ -165,6 +165,7 @@
         "a.run.app",
         "hasura.app",
         "loginline.app",
+        "netlify.app",
         "run.app",
         "telebit.app",
         "web.app",
@@ -216,7 +217,8 @@
         "kunden.ortsinfo.at",
         "lima-city.at",
         "or.at",
-        "priv.at"
+        "priv.at",
+        "sth.ac.at"
     ],
     "au": [
         "act.au",
@@ -960,7 +962,6 @@
         "fastvps-server.com",
         "firebaseapp.com",
         "firewall-gateway.com",
-        "flynnhub.com",
         "freebox-os.com",
         "freeboxos.com",
         "from-ak.com",
@@ -1126,6 +1127,7 @@
         "ocp.customer-oci.com",
         "ocs.customer-oci.com",
         "on-aptible.com",
+        "onfabrica.com",
         "onrender.com",
         "onthewifi.com",
         "ooguy.com",
@@ -1136,6 +1138,8 @@
         "pagespeedmobilizer.com",
         "pgfog.com",
         "pixolino.com",
+        "platter-app.com",
+        "playstation-cloud.com",
         "point2this.com",
         "publishproxy.com",
         "qa2.com",
@@ -1386,6 +1390,7 @@
         "my-vigor.de",
         "my-wan.de",
         "myhome-server.de",
+        "schulserver.de",
         "spdns.de",
         "square7.de",
         "svn-repos.de",
@@ -1403,9 +1408,11 @@
         "bss.design"
     ],
     "dev": [
+        "curv.dev",
         "iserv.dev",
         "lcl.dev",
         "loginline.dev",
+        "platter-app.dev",
         "stg.dev",
         "webhare.dev",
         "workers.dev"
@@ -1634,9 +1641,11 @@
     "gg": [
         "co.gg",
         "cya.gg",
+        "daemon.panel.gg",
         "kaas.gg",
         "net.gg",
-        "org.gg"
+        "org.gg",
+        "panel.gg"
     ],
     "gh": [
         "com.gh",
@@ -1760,8 +1769,10 @@
     ],
     "host": [
         "cloudaccess.host",
+        "fastvps.host",
         "freesite.host",
         "half.host",
+        "myfast.host",
         "pcloud.host"
     ],
     "hosting": [
@@ -1943,6 +1954,7 @@
         "devices.resinstaging.io",
         "drud.io",
         "dyn53.io",
+        "dyndns.dappnode.io",
         "enonic.io",
         "github.io",
         "gitlab.io",
@@ -4501,6 +4513,7 @@
         "brasilia.me",
         "c66.me",
         "co.me",
+        "couk.me",
         "daplie.me",
         "ddns.me",
         "diskstation.me",
@@ -4534,6 +4547,7 @@
         "soundcast.me",
         "synology.me",
         "tcp4.me",
+        "ukco.me",
         "webhop.me",
         "wedeploy.me",
         "yombo.me"
@@ -5281,6 +5295,7 @@
         "casacam.net",
         "cdn77-ssl.net",
         "channelsdvr.net",
+        "clic2000.net",
         "cloudaccess.net",
         "cloudapp.net",
         "cloudeity.net",
@@ -7060,8 +7075,10 @@
         "byen.site",
         "cloudera.site",
         "cyon.site",
+        "fastvps.site",
         "lelux.site",
         "loginline.site",
+        "mintere.site",
         "platformsh.site"
     ],
     "sk": [
@@ -7096,6 +7113,7 @@
     ],
     "space": [
         "linkitools.space",
+        "myfast.space",
         "uber.space",
         "xs4all.space"
     ],
@@ -7122,6 +7140,9 @@
         "principe.st",
         "saotome.st",
         "store.st"
+    ],
+    "store": [
+        "shopware.store"
     ],
     "su": [
         "abkhazia.su",
@@ -7487,6 +7508,8 @@
         "barsyonline.co.uk",
         "blogspot.co.uk",
         "co.uk",
+        "conn.uk",
+        "copro.uk",
         "dh.bytemark.co.uk",
         "glug.org.uk",
         "gov.uk",
@@ -7588,6 +7611,7 @@
         "ga.us",
         "gen.mi.us",
         "golffan.us",
+        "graphox.us",
         "gu.us",
         "hi.us",
         "ia.us",
@@ -7636,7 +7660,6 @@
         "k12.or.us",
         "k12.pa.us",
         "k12.pr.us",
-        "k12.ri.us",
         "k12.sc.us",
         "k12.tn.us",
         "k12.tx.us",
@@ -7730,6 +7753,7 @@
         "or.us",
         "pa.us",
         "paroch.k12.ma.us",
+        "platterp.us",
         "pointto.us",
         "pr.us",
         "pvt.k12.ma.us",
