@@ -2320,9 +2320,9 @@
         "state": "future"
     },
     "adsrevenue.net": {
-        "epoch": 1588377600.0,
-        "expiration_date": "02-may-2020",
-        "state": "past"
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
+        "state": "future"
     },
     "adsring.com": {
         "epoch": 1619913600.0,
@@ -2607,7 +2607,7 @@
     "adv679854.ru": {
         "epoch": 1588550400.0,
         "expiration_date": "04-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "adv9.net": {
         "epoch": 1596412800.0,
