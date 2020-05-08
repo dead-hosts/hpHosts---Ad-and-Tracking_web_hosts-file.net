@@ -4892,7 +4892,7 @@
     "casalmedia.com": {
         "epoch": 1588896000.0,
         "expiration_date": "08-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "cash4files.com": {
         "epoch": 1606694400.0,
@@ -5022,7 +5022,7 @@
     "cblevt.com": {
         "epoch": 1588896000.0,
         "expiration_date": "08-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "cbsmarket.com": {
         "epoch": 1600387200.0,
