@@ -14962,7 +14962,7 @@
     "tantrack.info": {
         "epoch": 1588982400.0,
         "expiration_date": "09-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "tapad.com": {
         "epoch": 1628985600.0,
@@ -15295,9 +15295,9 @@
         "state": "future"
     },
     "tizernaya-reklama.ru": {
-        "epoch": 1588636800.0,
-        "expiration_date": "05-may-2020",
-        "state": "past"
+        "epoch": 1623110400.0,
+        "expiration_date": "08-jun-2021",
+        "state": "future"
     },
     "tizru.com": {
         "epoch": 1604966400.0,
