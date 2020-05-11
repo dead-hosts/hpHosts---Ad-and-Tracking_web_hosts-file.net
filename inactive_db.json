@@ -14357,6 +14357,13 @@
             "last_retested_at_iso": "2020-05-11T01:05:13.916035",
             "status": "INACTIVE"
         },
+        "logs.sofaware.com": {
+            "included_at_epoch": 1589238788.39327,
+            "included_at_iso": "2020-05-11T23:13:08.393270",
+            "last_retested_at_epoch": 1589238788.39327,
+            "last_retested_at_iso": "2020-05-11T23:13:08.393270",
+            "status": "INACTIVE"
+        },
         "logs1400.xiti.com": {
             "included_at_epoch": 1588449524.612251,
             "included_at_iso": "2020-05-02T19:58:44.612251",
