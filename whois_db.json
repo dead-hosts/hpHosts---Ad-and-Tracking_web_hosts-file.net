@@ -11182,7 +11182,7 @@
     "mmftpf.com": {
         "epoch": 1589068800.0,
         "expiration_date": "10-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "mmnetwork.mobi": {
         "epoch": 1609718400.0,
@@ -11280,8 +11280,8 @@
         "state": "future"
     },
     "mobileactive.com": {
-        "epoch": 1589068800.0,
-        "expiration_date": "10-may-2020",
+        "epoch": 1620604800.0,
+        "expiration_date": "10-may-2021",
         "state": "future"
     },
     "mobileadvertisinghub.com": {
