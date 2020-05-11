@@ -4144,6 +4144,13 @@
             "last_retested_at_iso": "2020-05-10T15:53:03.910070",
             "status": "INACTIVE"
         },
+        "ad.mwork.vn": {
+            "included_at_epoch": 1589210035.670997,
+            "included_at_iso": "2020-05-11T15:13:55.670997",
+            "last_retested_at_epoch": 1589210035.670997,
+            "last_retested_at_iso": "2020-05-11T15:13:55.670997",
+            "status": "INACTIVE"
+        },
         "ad.newmail.ru": {
             "included_at_epoch": 1588430823.000888,
             "included_at_iso": "2020-05-02T14:47:03.000888",
