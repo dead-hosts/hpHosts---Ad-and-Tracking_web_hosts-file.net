@@ -9709,6 +9709,13 @@
             "last_retested_at_iso": "2020-05-10T22:25:16.708705",
             "status": "INACTIVE"
         },
+        "d.refinedads.com": {
+            "included_at_epoch": 1589231551.327835,
+            "included_at_iso": "2020-05-11T21:12:31.327835",
+            "last_retested_at_epoch": 1589231551.327835,
+            "last_retested_at_iso": "2020-05-11T21:12:31.327835",
+            "status": "INACTIVE"
+        },
         "d.zeroredirect.com": {
             "included_at_epoch": 1588442198.676427,
             "included_at_iso": "2020-05-02T17:56:38.676427",
