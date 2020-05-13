@@ -7735,8 +7735,8 @@
         "state": "future"
     },
     "findalternate.com": {
-        "epoch": 1589328000.0,
-        "expiration_date": "13-may-2020",
+        "epoch": 1597276800.0,
+        "expiration_date": "13-aug-2020",
         "state": "future"
     },
     "findanopportunity.com": {
@@ -7762,7 +7762,7 @@
     "finduses.com": {
         "epoch": 1589328000.0,
         "expiration_date": "13-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "fineclicks.com": {
         "epoch": 1595548800.0,
