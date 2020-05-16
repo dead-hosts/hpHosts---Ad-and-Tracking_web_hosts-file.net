@@ -3360,6 +3360,13 @@
             "last_retested_at_iso": "2020-05-15T19:12:51.914631",
             "status": "INACTIVE"
         },
+        "a.forkitz.com": {
+            "included_at_epoch": 1589627613.438738,
+            "included_at_iso": "2020-05-16T11:13:33.438738",
+            "last_retested_at_epoch": 1589627613.438738,
+            "last_retested_at_iso": "2020-05-16T11:13:33.438738",
+            "status": "INACTIVE"
+        },
         "a.fulhudhoo.com": {
             "included_at_epoch": 1588427480.929888,
             "included_at_iso": "2020-05-02T13:51:20.929888",
@@ -3843,6 +3850,13 @@
             "last_retested_at_iso": "2020-05-15T19:28:42.663956",
             "status": "INACTIVE"
         },
+        "aarchives.ifriends.net": {
+            "included_at_epoch": 1589627614.001726,
+            "included_at_iso": "2020-05-16T11:13:34.001726",
+            "last_retested_at_epoch": 1589627614.001726,
+            "last_retested_at_iso": "2020-05-16T11:13:34.001726",
+            "status": "INACTIVE"
+        },
         "abacidcqfrjju.download": {
             "included_at_epoch": 1588428192.803093,
             "included_at_iso": "2020-05-02T14:03:12.803093",
@@ -3890,6 +3904,13 @@
             "included_at_iso": "2020-05-02T14:03:13.315355",
             "last_retested_at_epoch": 1589570923.704659,
             "last_retested_at_iso": "2020-05-15T19:28:43.704659",
+            "status": "INACTIVE"
+        },
+        "abscbn.spinbox.net": {
+            "included_at_epoch": 1589627614.396664,
+            "included_at_iso": "2020-05-16T11:13:34.396664",
+            "last_retested_at_epoch": 1589627614.396664,
+            "last_retested_at_iso": "2020-05-16T11:13:34.396664",
             "status": "INACTIVE"
         },
         "ac-nb.marketgid.com": {
