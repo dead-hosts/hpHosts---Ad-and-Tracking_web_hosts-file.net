@@ -5929,6 +5929,13 @@
             "last_retested_at_iso": "2020-05-15T22:42:07.980345",
             "status": "INACTIVE"
         },
+        "affiliate.suntrck.com": {
+            "included_at_epoch": 1589639266.326296,
+            "included_at_iso": "2020-05-16T14:27:46.326296",
+            "last_retested_at_epoch": 1589639266.326296,
+            "last_retested_at_iso": "2020-05-16T14:27:46.326296",
+            "status": "INACTIVE"
+        },
         "affiliate.techstats.net": {
             "included_at_epoch": 1588435571.075493,
             "included_at_iso": "2020-05-02T16:06:11.075493",
