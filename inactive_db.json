@@ -5607,6 +5607,13 @@
             "last_retested_at_iso": "2020-05-15T22:29:56.503683",
             "status": "INACTIVE"
         },
+        "adserver2.ads-cpm.com": {
+            "included_at_epoch": 1589638539.399268,
+            "included_at_iso": "2020-05-16T14:15:39.399268",
+            "last_retested_at_epoch": 1589638539.399268,
+            "last_retested_at_iso": "2020-05-16T14:15:39.399268",
+            "status": "INACTIVE"
+        },
         "adserver2.realtracker.com": {
             "included_at_epoch": 1588434838.568147,
             "included_at_iso": "2020-05-02T15:53:58.568147",
@@ -5689,6 +5696,13 @@
             "included_at_iso": "2020-05-02T15:54:02.839691",
             "last_retested_at_epoch": 1589581801.441977,
             "last_retested_at_iso": "2020-05-15T22:30:01.441977",
+            "status": "INACTIVE"
+        },
+        "adtegrity.spinbox.net": {
+            "included_at_epoch": 1589638543.738852,
+            "included_at_iso": "2020-05-16T14:15:43.738852",
+            "last_retested_at_epoch": 1589638543.738852,
+            "last_retested_at_iso": "2020-05-16T14:15:43.738852",
             "status": "INACTIVE"
         },
         "adtracker.inmobi.com": {
