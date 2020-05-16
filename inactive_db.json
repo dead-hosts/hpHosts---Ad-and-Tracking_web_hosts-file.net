@@ -15764,6 +15764,13 @@
             "last_retested_at_iso": "2020-05-16T04:40:58.596429",
             "status": "INACTIVE"
         },
+        "ns1.lighthost.com": {
+            "included_at_epoch": 1589654577.55818,
+            "included_at_iso": "2020-05-16T18:42:57.558180",
+            "last_retested_at_epoch": 1589654577.55818,
+            "last_retested_at_iso": "2020-05-16T18:42:57.558180",
+            "status": "INACTIVE"
+        },
         "ns3.adsender.us": {
             "included_at_epoch": 1588451014.072847,
             "included_at_iso": "2020-05-02T20:23:34.072847",
