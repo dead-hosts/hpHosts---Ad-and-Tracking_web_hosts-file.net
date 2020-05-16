@@ -7476,6 +7476,13 @@
             "last_retested_at_iso": "2020-05-15T23:37:33.239171",
             "status": "INACTIVE"
         },
+        "bannersng.yell.com": {
+            "included_at_epoch": 1589641432.843301,
+            "included_at_iso": "2020-05-16T15:03:52.843301",
+            "last_retested_at_epoch": 1589641432.843301,
+            "last_retested_at_iso": "2020-05-16T15:03:52.843301",
+            "status": "INACTIVE"
+        },
         "bannerwebservice.zvz.co.il": {
             "included_at_epoch": 1588437756.118447,
             "included_at_iso": "2020-05-02T16:42:36.118447",
