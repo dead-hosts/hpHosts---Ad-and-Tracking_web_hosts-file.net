@@ -10976,6 +10976,13 @@
             "last_retested_at_iso": "2020-05-16T02:03:11.068920",
             "status": "INACTIVE"
         },
+        "dragon145.visits.lt": {
+            "included_at_epoch": 1589648034.516642,
+            "included_at_iso": "2020-05-16T16:53:54.516642",
+            "last_retested_at_epoch": 1589648034.516642,
+            "last_retested_at_iso": "2020-05-16T16:53:54.516642",
+            "status": "INACTIVE"
+        },
         "drive.richbanner.ru": {
             "included_at_epoch": 1588442944.498067,
             "included_at_iso": "2020-05-02T18:09:04.498067",
