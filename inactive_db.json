@@ -8463,6 +8463,13 @@
             "last_retested_at_iso": "2020-05-16T00:21:20.189074",
             "status": "INACTIVE"
         },
+        "cdn.adorikacontentportal.com": {
+            "included_at_epoch": 1589642891.60944,
+            "included_at_iso": "2020-05-16T15:28:11.609440",
+            "last_retested_at_epoch": 1589642891.60944,
+            "last_retested_at_iso": "2020-05-16T15:28:11.609440",
+            "status": "INACTIVE"
+        },
         "cdn.adscpm.net": {
             "included_at_epoch": 1588438530.419845,
             "included_at_iso": "2020-05-02T16:55:30.419845",
