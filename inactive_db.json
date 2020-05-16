@@ -1288,6 +1288,13 @@
             "last_retested_at_iso": "2020-05-15T18:47:51.770205",
             "status": "INACTIVE"
         },
+        "181.6.87.194.dynamic.dol.ru": {
+            "included_at_epoch": 1589625494.363683,
+            "included_at_iso": "2020-05-16T10:38:14.363683",
+            "last_retested_at_epoch": 1589625494.363683,
+            "last_retested_at_iso": "2020-05-16T10:38:14.363683",
+            "status": "INACTIVE"
+        },
         "1app.blob.core.windows.net": {
             "included_at_epoch": 1588426593.523109,
             "included_at_iso": "2020-05-02T13:36:33.523109",
