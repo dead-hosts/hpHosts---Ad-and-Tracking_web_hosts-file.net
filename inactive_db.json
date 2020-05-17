@@ -3349,8 +3349,8 @@
         "a.forkitz.com": {
             "included_at_epoch": 1589627613.438738,
             "included_at_iso": "2020-05-16T11:13:33.438738",
-            "last_retested_at_epoch": 1589627613.438738,
-            "last_retested_at_iso": "2020-05-16T11:13:33.438738",
+            "last_retested_at_epoch": 1589716887.680968,
+            "last_retested_at_iso": "2020-05-17T12:01:27.680968",
             "status": "INACTIVE"
         },
         "a.fulhudhoo.com": {
@@ -3836,13 +3836,6 @@
             "last_retested_at_iso": "2020-05-16T19:48:54.625484",
             "status": "INACTIVE"
         },
-        "aarchives.ifriends.net": {
-            "included_at_epoch": 1589627614.001726,
-            "included_at_iso": "2020-05-16T11:13:34.001726",
-            "last_retested_at_epoch": 1589627614.001726,
-            "last_retested_at_iso": "2020-05-16T11:13:34.001726",
-            "status": "INACTIVE"
-        },
         "abacidcqfrjju.download": {
             "included_at_epoch": 1588428192.803093,
             "included_at_iso": "2020-05-02T14:03:12.803093",
@@ -3892,18 +3885,18 @@
             "last_retested_at_iso": "2020-05-16T19:48:55.499231",
             "status": "INACTIVE"
         },
-        "abscbn.spinbox.net": {
-            "included_at_epoch": 1589627614.396664,
-            "included_at_iso": "2020-05-16T11:13:34.396664",
-            "last_retested_at_epoch": 1589627614.396664,
-            "last_retested_at_iso": "2020-05-16T11:13:34.396664",
-            "status": "INACTIVE"
-        },
         "ac-nb.marketgid.com": {
             "included_at_epoch": 1588428193.497778,
             "included_at_iso": "2020-05-02T14:03:13.497778",
             "last_retested_at_epoch": 1589658535.622865,
             "last_retested_at_iso": "2020-05-16T19:48:55.622865",
+            "status": "INACTIVE"
+        },
+        "acac7.home4u.china.com": {
+            "included_at_epoch": 1589716888.810363,
+            "included_at_iso": "2020-05-17T12:01:28.810363",
+            "last_retested_at_epoch": 1589716888.810363,
+            "last_retested_at_iso": "2020-05-17T12:01:28.810363",
             "status": "INACTIVE"
         },
         "acbacb9c.ipt.aol.com": {
