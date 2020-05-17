@@ -5551,6 +5551,13 @@
             "last_retested_at_iso": "2020-05-16T22:35:27.153518",
             "status": "INACTIVE"
         },
+        "adserver.ubiyoo.com": {
+            "included_at_epoch": 1589731332.964364,
+            "included_at_iso": "2020-05-17T16:02:12.964364",
+            "last_retested_at_epoch": 1589731332.964364,
+            "last_retested_at_iso": "2020-05-17T16:02:12.964364",
+            "status": "INACTIVE"
+        },
         "adserver.weakgame.com": {
             "included_at_epoch": 1588434838.032572,
             "included_at_iso": "2020-05-02T15:53:58.032572",
@@ -5589,8 +5596,8 @@
         "adserver2.ads-cpm.com": {
             "included_at_epoch": 1589638539.399268,
             "included_at_iso": "2020-05-16T14:15:39.399268",
-            "last_retested_at_epoch": 1589638539.399268,
-            "last_retested_at_iso": "2020-05-16T14:15:39.399268",
+            "last_retested_at_epoch": 1589731333.294051,
+            "last_retested_at_iso": "2020-05-17T16:02:13.294051",
             "status": "INACTIVE"
         },
         "adserver2.realtracker.com": {
