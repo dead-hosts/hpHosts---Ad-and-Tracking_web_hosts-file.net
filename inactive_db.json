@@ -4361,6 +4361,13 @@
             "last_retested_at_iso": "2020-05-16T21:46:13.599068",
             "status": "INACTIVE"
         },
+        "adclick.nl": {
+            "included_at_epoch": 1589726154.601723,
+            "included_at_iso": "2020-05-17T14:35:54.601723",
+            "last_retested_at_epoch": 1589726154.601723,
+            "last_retested_at_iso": "2020-05-17T14:35:54.601723",
+            "status": "INACTIVE"
+        },
         "adclient-uol.lp.uol.com.br": {
             "included_at_epoch": 1588431908.599758,
             "included_at_iso": "2020-05-02T15:05:08.599758",
