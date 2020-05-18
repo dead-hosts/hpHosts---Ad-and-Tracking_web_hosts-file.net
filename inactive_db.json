@@ -21416,15 +21416,15 @@
         "viciosityptktpdyq.download": {
             "included_at_epoch": 1588459710.87423,
             "included_at_iso": "2020-05-02T22:48:30.874230",
-            "last_retested_at_epoch": 1589613951.695613,
-            "last_retested_at_iso": "2020-05-16T07:25:51.695613",
+            "last_retested_at_epoch": 1589767486.337177,
+            "last_retested_at_iso": "2020-05-18T02:04:46.337177",
             "status": "INACTIVE"
         },
         "video.cld.startappexchange.com": {
             "included_at_epoch": 1588459711.121526,
             "included_at_iso": "2020-05-02T22:48:31.121526",
-            "last_retested_at_epoch": 1589613951.966196,
-            "last_retested_at_iso": "2020-05-16T07:25:51.966196",
+            "last_retested_at_epoch": 1589767486.585837,
+            "last_retested_at_iso": "2020-05-18T02:04:46.585837",
             "status": "INACTIVE"
         },
         "viewstat.hotstat.nl": {
