@@ -3662,7 +3662,7 @@
     "asooda.com": {
         "epoch": 1589846400.0,
         "expiration_date": "19-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "ass4all.com": {
         "epoch": 1616716800.0,
@@ -3835,8 +3835,8 @@
         "state": "future"
     },
     "awin1.com": {
-        "epoch": 1589846400.0,
-        "expiration_date": "19-may-2020",
+        "epoch": 1621382400.0,
+        "expiration_date": "19-may-2021",
         "state": "future"
     },
     "axeds.com": {
