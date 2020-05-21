@@ -9537,29 +9537,36 @@
         "counted.de": {
             "included_at_epoch": 1588441464.072665,
             "included_at_iso": "2020-05-02T17:44:24.072665",
-            "last_retested_at_epoch": 1589920865.315211,
-            "last_retested_at_iso": "2020-05-19T20:41:05.315211",
+            "last_retested_at_epoch": 1590091086.123397,
+            "last_retested_at_iso": "2020-05-21T19:58:06.123397",
+            "status": "INACTIVE"
+        },
+        "counter.adultrevenueservice.com": {
+            "included_at_epoch": 1590091086.245778,
+            "included_at_iso": "2020-05-21T19:58:06.245778",
+            "last_retested_at_epoch": 1590091086.245778,
+            "last_retested_at_iso": "2020-05-21T19:58:06.245778",
             "status": "INACTIVE"
         },
         "counter.goingup.com": {
             "included_at_epoch": 1588441464.551392,
             "included_at_iso": "2020-05-02T17:44:24.551392",
-            "last_retested_at_epoch": 1589920865.817178,
-            "last_retested_at_iso": "2020-05-19T20:41:05.817178",
+            "last_retested_at_epoch": 1590091086.694266,
+            "last_retested_at_iso": "2020-05-21T19:58:06.694266",
             "status": "INACTIVE"
         },
         "counter.htmlvalidator.com": {
             "included_at_epoch": 1588441464.747219,
             "included_at_iso": "2020-05-02T17:44:24.747219",
-            "last_retested_at_epoch": 1589920866.051885,
-            "last_retested_at_iso": "2020-05-19T20:41:06.051885",
+            "last_retested_at_epoch": 1590091086.917892,
+            "last_retested_at_iso": "2020-05-21T19:58:06.917892",
             "status": "INACTIVE"
         },
         "counter.opinion.com.ua": {
             "included_at_epoch": 1588441465.180707,
             "included_at_iso": "2020-05-02T17:44:25.180707",
-            "last_retested_at_epoch": 1589920866.427494,
-            "last_retested_at_iso": "2020-05-19T20:41:06.427494",
+            "last_retested_at_epoch": 1590091087.268911,
+            "last_retested_at_iso": "2020-05-21T19:58:07.268911",
             "status": "INACTIVE"
         },
         "counter.pagesview.com": {
