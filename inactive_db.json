@@ -9502,43 +9502,36 @@
         "count.atm.youku.com": {
             "included_at_epoch": 1588440717.948948,
             "included_at_iso": "2020-05-02T17:31:57.948948",
-            "last_retested_at_epoch": 1589919392.267517,
-            "last_retested_at_iso": "2020-05-19T20:16:32.267517",
-            "status": "INACTIVE"
-        },
-        "count.cncrk.com": {
-            "included_at_epoch": 1589919392.454452,
-            "included_at_iso": "2020-05-19T20:16:32.454452",
-            "last_retested_at_epoch": 1589919392.454452,
-            "last_retested_at_iso": "2020-05-19T20:16:32.454452",
+            "last_retested_at_epoch": 1590090349.021585,
+            "last_retested_at_iso": "2020-05-21T19:45:49.021585",
             "status": "INACTIVE"
         },
         "count.joy.cn": {
             "included_at_epoch": 1588440718.334724,
             "included_at_iso": "2020-05-02T17:31:58.334724",
-            "last_retested_at_epoch": 1589919392.717909,
-            "last_retested_at_iso": "2020-05-19T20:16:32.717909",
+            "last_retested_at_epoch": 1590090349.512975,
+            "last_retested_at_iso": "2020-05-21T19:45:49.512975",
             "status": "INACTIVE"
         },
         "count.qiannao.com": {
             "included_at_epoch": 1588440718.533067,
             "included_at_iso": "2020-05-02T17:31:58.533067",
-            "last_retested_at_epoch": 1589919392.992678,
-            "last_retested_at_iso": "2020-05-19T20:16:32.992678",
+            "last_retested_at_epoch": 1590090349.791668,
+            "last_retested_at_iso": "2020-05-21T19:45:49.791668",
             "status": "INACTIVE"
         },
         "count.rbc.ru": {
             "included_at_epoch": 1588440718.632441,
             "included_at_iso": "2020-05-02T17:31:58.632441",
-            "last_retested_at_epoch": 1589919393.111948,
-            "last_retested_at_iso": "2020-05-19T20:16:33.111948",
+            "last_retested_at_epoch": 1590090349.911088,
+            "last_retested_at_iso": "2020-05-21T19:45:49.911088",
             "status": "INACTIVE"
         },
         "count.timedg.com": {
             "included_at_epoch": 1588440718.802171,
             "included_at_iso": "2020-05-02T17:31:58.802171",
-            "last_retested_at_epoch": 1589919393.315805,
-            "last_retested_at_iso": "2020-05-19T20:16:33.315805",
+            "last_retested_at_epoch": 1590090350.11987,
+            "last_retested_at_iso": "2020-05-21T19:45:50.119870",
             "status": "INACTIVE"
         },
         "counted.de": {
