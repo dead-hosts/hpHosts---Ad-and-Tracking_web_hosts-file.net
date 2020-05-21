@@ -1060,8 +1060,8 @@
         "state": "future"
     },
     "addynamo.net": {
-        "epoch": 1590019200.0,
-        "expiration_date": "21-may-2020",
+        "epoch": 1621555200.0,
+        "expiration_date": "21-may-2021",
         "state": "future"
     },
     "adecn.com": {
@@ -1485,8 +1485,8 @@
         "state": "future"
     },
     "adland.ru": {
-        "epoch": 1590019200.0,
-        "expiration_date": "21-may-2020",
+        "epoch": 1621555200.0,
+        "expiration_date": "21-may-2021",
         "state": "future"
     },
     "adlatvia.com": {
@@ -1737,7 +1737,7 @@
     "adnimation.com": {
         "epoch": 1590019200.0,
         "expiration_date": "21-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "adnoble.com": {
         "epoch": 1612569600.0,
