@@ -12767,7 +12767,7 @@
     "playtomic.com": {
         "epoch": 1590624000.0,
         "expiration_date": "28-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "pleasewaitlonger.com": {
         "epoch": 1603670400.0,
@@ -13160,8 +13160,8 @@
         "state": "future"
     },
     "psma02.com": {
-        "epoch": 1590537600.0,
-        "expiration_date": "27-may-2020",
+        "epoch": 1622073600.0,
+        "expiration_date": "27-may-2021",
         "state": "future"
     },
     "psstt.com": {
