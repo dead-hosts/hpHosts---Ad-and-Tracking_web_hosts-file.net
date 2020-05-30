@@ -16045,8 +16045,8 @@
         "state": "future"
     },
     "uclick.com": {
-        "epoch": 1590710400.0,
-        "expiration_date": "29-may-2020",
+        "epoch": 1622246400.0,
+        "expiration_date": "29-may-2021",
         "state": "future"
     },
     "udac.se": {
@@ -16282,7 +16282,7 @@
     "urlzzz.com": {
         "epoch": 1590796800.0,
         "expiration_date": "30-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "usabilla.com": {
         "epoch": 1601942400.0,
