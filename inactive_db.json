@@ -5432,130 +5432,137 @@
             "last_retested_at_iso": "2020-05-29T23:29:07.278580",
             "status": "INACTIVE"
         },
+        "ads.xtac.com": {
+            "included_at_epoch": 1590796943.03703,
+            "included_at_iso": "2020-05-30T00:02:23.037030",
+            "last_retested_at_epoch": 1590796943.03703,
+            "last_retested_at_iso": "2020-05-30T00:02:23.037030",
+            "status": "INACTIVE"
+        },
         "ads.xxxbunker.com": {
             "included_at_epoch": 1588434096.757387,
             "included_at_iso": "2020-05-02T15:41:36.757387",
-            "last_retested_at_epoch": 1590620070.09749,
-            "last_retested_at_iso": "2020-05-27T22:54:30.097490",
+            "last_retested_at_epoch": 1590796943.212702,
+            "last_retested_at_iso": "2020-05-30T00:02:23.212702",
             "status": "INACTIVE"
         },
         "ads.zchat.no": {
             "included_at_epoch": 1588434096.935691,
             "included_at_iso": "2020-05-02T15:41:36.935691",
-            "last_retested_at_epoch": 1590620070.336141,
-            "last_retested_at_iso": "2020-05-27T22:54:30.336141",
+            "last_retested_at_epoch": 1590796943.448283,
+            "last_retested_at_iso": "2020-05-30T00:02:23.448283",
             "status": "INACTIVE"
         },
         "ads1.mocean.mobi": {
             "included_at_epoch": 1588434097.514701,
             "included_at_iso": "2020-05-02T15:41:37.514701",
-            "last_retested_at_epoch": 1590620070.953242,
-            "last_retested_at_iso": "2020-05-27T22:54:30.953242",
+            "last_retested_at_epoch": 1590796944.071785,
+            "last_retested_at_iso": "2020-05-30T00:02:24.071785",
             "status": "INACTIVE"
         },
         "ads1.mojiva.com": {
             "included_at_epoch": 1588434097.584638,
             "included_at_iso": "2020-05-02T15:41:37.584638",
-            "last_retested_at_epoch": 1590620071.096348,
-            "last_retested_at_iso": "2020-05-27T22:54:31.096348",
+            "last_retested_at_epoch": 1590796944.198919,
+            "last_retested_at_iso": "2020-05-30T00:02:24.198919",
             "status": "INACTIVE"
         },
         "ads1.spiderware.com": {
             "included_at_epoch": 1588434097.724079,
             "included_at_iso": "2020-05-02T15:41:37.724079",
-            "last_retested_at_epoch": 1590620071.265785,
-            "last_retested_at_iso": "2020-05-27T22:54:31.265785",
+            "last_retested_at_epoch": 1590796944.363163,
+            "last_retested_at_iso": "2020-05-30T00:02:24.363163",
             "status": "INACTIVE"
         },
         "ads2.mocean.mobi": {
             "included_at_epoch": 1588434099.7765,
             "included_at_iso": "2020-05-02T15:41:39.776500",
-            "last_retested_at_epoch": 1590620789.318901,
-            "last_retested_at_iso": "2020-05-27T23:06:29.318901",
+            "last_retested_at_epoch": 1590796946.359888,
+            "last_retested_at_iso": "2020-05-30T00:02:26.359888",
             "status": "INACTIVE"
         },
         "ads2.mojiva.com": {
             "included_at_epoch": 1588434099.873128,
             "included_at_iso": "2020-05-02T15:41:39.873128",
-            "last_retested_at_epoch": 1590620789.437947,
-            "last_retested_at_iso": "2020-05-27T23:06:29.437947",
+            "last_retested_at_epoch": 1590796946.477523,
+            "last_retested_at_iso": "2020-05-30T00:02:26.477523",
             "status": "INACTIVE"
         },
         "ads2.rp.pl": {
             "included_at_epoch": 1588434099.956858,
             "included_at_iso": "2020-05-02T15:41:39.956858",
-            "last_retested_at_epoch": 1590620789.59447,
-            "last_retested_at_iso": "2020-05-27T23:06:29.594470",
+            "last_retested_at_epoch": 1590796946.635595,
+            "last_retested_at_iso": "2020-05-30T00:02:26.635595",
             "status": "INACTIVE"
         },
         "ads3.mocean.mobi": {
             "included_at_epoch": 1588434101.332738,
             "included_at_iso": "2020-05-02T15:41:41.332738",
-            "last_retested_at_epoch": 1590620790.936286,
-            "last_retested_at_iso": "2020-05-27T23:06:30.936286",
+            "last_retested_at_epoch": 1590796947.984841,
+            "last_retested_at_iso": "2020-05-30T00:02:27.984841",
             "status": "INACTIVE"
         },
         "ads3.mojiva.com": {
             "included_at_epoch": 1588434101.402307,
             "included_at_iso": "2020-05-02T15:41:41.402307",
-            "last_retested_at_epoch": 1590620791.076199,
-            "last_retested_at_iso": "2020-05-27T23:06:31.076199",
+            "last_retested_at_epoch": 1590796948.126667,
+            "last_retested_at_iso": "2020-05-30T00:02:28.126667",
             "status": "INACTIVE"
         },
         "ads4.mocean.mobi": {
             "included_at_epoch": 1588434101.861744,
             "included_at_iso": "2020-05-02T15:41:41.861744",
-            "last_retested_at_epoch": 1590620791.561118,
-            "last_retested_at_iso": "2020-05-27T23:06:31.561118",
+            "last_retested_at_epoch": 1590796948.618471,
+            "last_retested_at_iso": "2020-05-30T00:02:28.618471",
             "status": "INACTIVE"
         },
         "ads4.mojiva.com": {
             "included_at_epoch": 1588434101.95825,
             "included_at_iso": "2020-05-02T15:41:41.958250",
-            "last_retested_at_epoch": 1590620791.676557,
-            "last_retested_at_iso": "2020-05-27T23:06:31.676557",
+            "last_retested_at_epoch": 1590796948.732101,
+            "last_retested_at_iso": "2020-05-30T00:02:28.732101",
             "status": "INACTIVE"
         },
         "ads5.mocean.mobi": {
             "included_at_epoch": 1588434102.328602,
             "included_at_iso": "2020-05-02T15:41:42.328602",
-            "last_retested_at_epoch": 1590620792.083507,
-            "last_retested_at_iso": "2020-05-27T23:06:32.083507",
+            "last_retested_at_epoch": 1590796949.132972,
+            "last_retested_at_iso": "2020-05-30T00:02:29.132972",
             "status": "INACTIVE"
         },
         "ads5.mojiva.com": {
             "included_at_epoch": 1588434102.399001,
             "included_at_iso": "2020-05-02T15:41:42.399001",
-            "last_retested_at_epoch": 1590620792.227471,
-            "last_retested_at_iso": "2020-05-27T23:06:32.227471",
+            "last_retested_at_epoch": 1590796949.275001,
+            "last_retested_at_iso": "2020-05-30T00:02:29.275001",
             "status": "INACTIVE"
         },
         "ads6.mocean.mobi": {
             "included_at_epoch": 1588434102.658842,
             "included_at_iso": "2020-05-02T15:41:42.658842",
-            "last_retested_at_epoch": 1590620792.538308,
-            "last_retested_at_iso": "2020-05-27T23:06:32.538308",
+            "last_retested_at_epoch": 1590796949.588483,
+            "last_retested_at_iso": "2020-05-30T00:02:29.588483",
             "status": "INACTIVE"
         },
         "ads7.mocean.mobi": {
             "included_at_epoch": 1588434102.981843,
             "included_at_iso": "2020-05-02T15:41:42.981843",
-            "last_retested_at_epoch": 1590620792.873379,
-            "last_retested_at_iso": "2020-05-27T23:06:32.873379",
+            "last_retested_at_epoch": 1590796949.929592,
+            "last_retested_at_iso": "2020-05-30T00:02:29.929592",
             "status": "INACTIVE"
         },
         "ads8.mocean.mobi": {
             "included_at_epoch": 1588434103.285781,
             "included_at_iso": "2020-05-02T15:41:43.285781",
-            "last_retested_at_epoch": 1590620793.172749,
-            "last_retested_at_iso": "2020-05-27T23:06:33.172749",
+            "last_retested_at_epoch": 1590796950.229305,
+            "last_retested_at_iso": "2020-05-30T00:02:30.229305",
             "status": "INACTIVE"
         },
         "ads9.mocean.mobi": {
             "included_at_epoch": 1588434103.577061,
             "included_at_iso": "2020-05-02T15:41:43.577061",
-            "last_retested_at_epoch": 1590620793.558956,
-            "last_retested_at_iso": "2020-05-27T23:06:33.558956",
+            "last_retested_at_epoch": 1590796950.609466,
+            "last_retested_at_iso": "2020-05-30T00:02:30.609466",
             "status": "INACTIVE"
         },
         "adserv.brandaffinity.net": {
