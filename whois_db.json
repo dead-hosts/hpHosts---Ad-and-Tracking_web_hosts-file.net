@@ -17412,7 +17412,7 @@
     "zangocash.com": {
         "epoch": 1590883200.0,
         "expiration_date": "31-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "zanox.com": {
         "epoch": 1614556800.0,
@@ -17460,8 +17460,8 @@
         "state": "future"
     },
     "zeroredirect.com": {
-        "epoch": 1590883200.0,
-        "expiration_date": "31-may-2020",
+        "epoch": 1622419200.0,
+        "expiration_date": "31-may-2021",
         "state": "future"
     },
     "zeroredirect1.com": {
