@@ -6461,13 +6461,6 @@
             "last_retested_at_iso": "2020-06-05T22:59:43.957236",
             "status": "INACTIVE"
         },
-        "anlt.dnsdynamic.com": {
-            "included_at_epoch": 1589006578.105207,
-            "included_at_iso": "2020-05-09T06:42:58.105207",
-            "last_retested_at_epoch": 1591397984.291084,
-            "last_retested_at_iso": "2020-06-05T22:59:44.291084",
-            "status": "INACTIVE"
-        },
         "anm.intelli-direct.com": {
             "included_at_epoch": 1591226351.861219,
             "included_at_iso": "2020-06-03T23:19:11.861219",
@@ -21850,22 +21843,22 @@
         "viewstat.hotstat.nl": {
             "included_at_epoch": 1590984287.019446,
             "included_at_iso": "2020-06-01T04:04:47.019446",
-            "last_retested_at_epoch": 1591260473.525818,
-            "last_retested_at_iso": "2020-06-04T08:47:53.525818",
+            "last_retested_at_epoch": 1591426789.539667,
+            "last_retested_at_iso": "2020-06-06T06:59:49.539667",
             "status": "INACTIVE"
         },
         "villsacsma.download": {
             "included_at_epoch": 1590984287.427148,
             "included_at_iso": "2020-06-01T04:04:47.427148",
-            "last_retested_at_epoch": 1591260473.942104,
-            "last_retested_at_iso": "2020-06-04T08:47:53.942104",
+            "last_retested_at_epoch": 1591426789.958666,
+            "last_retested_at_iso": "2020-06-06T06:59:49.958666",
             "status": "INACTIVE"
         },
         "vipadshares.com": {
             "included_at_epoch": 1590984287.770658,
             "included_at_iso": "2020-06-01T04:04:47.770658",
-            "last_retested_at_epoch": 1591260474.348501,
-            "last_retested_at_iso": "2020-06-04T08:47:54.348501",
+            "last_retested_at_epoch": 1591426790.310327,
+            "last_retested_at_iso": "2020-06-06T06:59:50.310327",
             "status": "INACTIVE"
         },
         "visit.geocities.jp": {
