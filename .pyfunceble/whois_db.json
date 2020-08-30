@@ -5477,8 +5477,9 @@
         "state": "future"
     },
     "click4click.com": {
-        "epoch": 1592438400.0,
-        "expiration_date": "18-jun-2020",
+        "epoch": 1623974400.0,
+        "expiration_date": "18-jun-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "click4free.info": {
@@ -5502,8 +5503,9 @@
         "state": "future"
     },
     "clickable.com": {
-        "epoch": 1593475200.0,
-        "expiration_date": "30-jun-2020",
+        "epoch": 1625011200.0,
+        "expiration_date": "30-jun-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "clickad.com.pl": {
@@ -5537,8 +5539,9 @@
         "state": "future"
     },
     "clickagy.com": {
-        "epoch": 1593475200.0,
-        "expiration_date": "30-jun-2020",
+        "epoch": 1625011200.0,
+        "expiration_date": "30-jun-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "clickater.com": {
@@ -5557,8 +5560,9 @@
         "state": "future"
     },
     "clickbank.net": {
-        "epoch": 1594339200.0,
-        "expiration_date": "10-jul-2020",
+        "epoch": 1625875200.0,
+        "expiration_date": "10-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "clickbet88.com": {
@@ -5577,8 +5581,9 @@
         "state": "future"
     },
     "clickbroker.com": {
-        "epoch": 1592784000.0,
-        "expiration_date": "22-jun-2020",
+        "epoch": 1624320000.0,
+        "expiration_date": "22-jun-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "clickbrokers.com": {
@@ -5627,8 +5632,9 @@
         "state": "future"
     },
     "clickeight.com": {
-        "epoch": 1596153600.0,
-        "expiration_date": "31-jul-2020",
+        "epoch": 1627689600.0,
+        "expiration_date": "31-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "clickequations.net": {
@@ -5652,8 +5658,9 @@
         "state": "future"
     },
     "clickforwebmasters.com": {
-        "epoch": 1598054400.0,
-        "expiration_date": "22-aug-2020",
+        "epoch": 1629590400.0,
+        "expiration_date": "22-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "clickfuse.com": {
@@ -5672,8 +5679,9 @@
         "state": "future"
     },
     "clickice.com": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1605484800.0,
+        "expiration_date": "16-nov-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "clicking.com.tw": {
@@ -5707,8 +5715,9 @@
         "state": "future"
     },
     "clickmetertracking.com": {
-        "epoch": 1594857600.0,
-        "expiration_date": "16-jul-2020",
+        "epoch": 1626393600.0,
+        "expiration_date": "16-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "clickmonsters.com": {
@@ -5737,13 +5746,15 @@
         "state": "future"
     },
     "clickquick.com": {
-        "epoch": 1593561600.0,
-        "expiration_date": "01-jul-2020",
+        "epoch": 1625097600.0,
+        "expiration_date": "01-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "clickriver.com": {
-        "epoch": 1593907200.0,
-        "expiration_date": "05-jul-2020",
+        "epoch": 1625443200.0,
+        "expiration_date": "05-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "clicks.net": {
@@ -5752,8 +5763,9 @@
         "state": "future"
     },
     "clicks2count.com": {
-        "epoch": 1596067200.0,
-        "expiration_date": "30-jul-2020",
+        "epoch": 1602979200.0,
+        "expiration_date": "18-oct-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "clicksales.com": {
@@ -5784,7 +5796,8 @@
     "clicksrvr.co": {
         "epoch": 1593216000.0,
         "expiration_date": "27-jun-2020",
-        "state": "future"
+        "server": "whois.nic.co",
+        "state": "past"
     },
     "clickstotrack.com": {
         "epoch": 1610409600.0,
@@ -5792,8 +5805,9 @@
         "state": "future"
     },
     "clickstream.co.za": {
-        "epoch": 1598140800.0,
-        "expiration_date": "23-aug-2020",
+        "epoch": 1629676800.0,
+        "expiration_date": "23-aug-2021",
+        "server": "whois.registry.net.za",
         "state": "future"
     },
     "clicksurecpa.com": {
@@ -5812,8 +5826,9 @@
         "state": "future"
     },
     "clickthrough.com": {
-        "epoch": 1597795200.0,
-        "expiration_date": "19-aug-2020",
+        "epoch": 1629331200.0,
+        "expiration_date": "19-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "clickthruhost.com": {
@@ -5842,8 +5857,9 @@
         "state": "future"
     },
     "clicktrade.net": {
-        "epoch": 1597017600.0,
-        "expiration_date": "10-aug-2020",
+        "epoch": 1628553600.0,
+        "expiration_date": "10-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "clicktraffix.com": {
@@ -5862,8 +5878,9 @@
         "state": "future"
     },
     "clickv.com": {
-        "epoch": 1594857600.0,
-        "expiration_date": "16-jul-2020",
+        "epoch": 1626393600.0,
+        "expiration_date": "16-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "clickwinks.com": {
@@ -5872,8 +5889,9 @@
         "state": "future"
     },
     "clickxchange.com": {
-        "epoch": 1594598400.0,
-        "expiration_date": "13-jul-2020",
+        "epoch": 1626134400.0,
+        "expiration_date": "13-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "clicshop.com": {
@@ -5887,8 +5905,9 @@
         "state": "future"
     },
     "clicz.com": {
-        "epoch": 1593388800.0,
-        "expiration_date": "29-jun-2020",
+        "epoch": 1624924800.0,
+        "expiration_date": "29-jun-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "clixgalore.co.uk": {
@@ -5902,8 +5921,9 @@
         "state": "future"
     },
     "cliximages.com": {
-        "epoch": 1598572800.0,
-        "expiration_date": "28-aug-2020",
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "clixsense.com": {
@@ -5967,8 +5987,9 @@
         "state": "future"
     },
     "clnk.me": {
-        "epoch": 1595980800.0,
-        "expiration_date": "29-jul-2020",
+        "epoch": 1627516800.0,
+        "expiration_date": "29-jul-2021",
+        "server": "whois.nic.me",
         "state": "future"
     },
     "clobucks.com": {
@@ -5979,7 +6000,8 @@
     "cloudixconnection.com": {
         "epoch": 1593734400.0,
         "expiration_date": "03-jul-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "clpremdo.com": {
         "epoch": 1619481600.0,
@@ -6042,8 +6064,9 @@
         "state": "future"
     },
     "coadvertise.com": {
-        "epoch": 1595030400.0,
-        "expiration_date": "18-jul-2020",
+        "epoch": 1626566400.0,
+        "expiration_date": "18-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "cogtree.com": {
@@ -6137,8 +6160,9 @@
         "state": "future"
     },
     "comscore.com": {
-        "epoch": 1595721600.0,
-        "expiration_date": "26-jul-2020",
+        "epoch": 1627257600.0,
+        "expiration_date": "26-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "concours.fr": {
@@ -6157,8 +6181,9 @@
         "state": "future"
     },
     "connectbot.org": {
-        "epoch": 1598313600.0,
-        "expiration_date": "25-aug-2020",
+        "epoch": 1629849600.0,
+        "expiration_date": "25-aug-2021",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "connectlinking1.com": {
@@ -6297,8 +6322,9 @@
         "state": "future"
     },
     "cortoonnetwork.com": {
-        "epoch": 1595980800.0,
-        "expiration_date": "29-jul-2020",
+        "epoch": 1627516800.0,
+        "expiration_date": "29-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "cossette.com": {
