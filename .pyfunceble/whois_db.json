@@ -4556,8 +4556,9 @@
         "state": "future"
     },
     "blog-hits.com": {
-        "epoch": 1595376000.0,
-        "expiration_date": "22-jul-2020",
+        "epoch": 1626912000.0,
+        "expiration_date": "22-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "blogads.com": {
@@ -4566,8 +4567,9 @@
         "state": "future"
     },
     "blueadvertise.com": {
-        "epoch": 1597536000.0,
-        "expiration_date": "16-aug-2020",
+        "epoch": 1629072000.0,
+        "expiration_date": "16-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "bluecava.com": {
@@ -4596,8 +4598,9 @@
         "state": "future"
     },
     "blueseek.com": {
-        "epoch": 1596844800.0,
-        "expiration_date": "08-aug-2020",
+        "epoch": 1628380800.0,
+        "expiration_date": "08-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "bluesq.com": {
@@ -4656,8 +4659,9 @@
         "state": "future"
     },
     "bomek.com": {
-        "epoch": 1598659200.0,
-        "expiration_date": "29-aug-2020",
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "bondinra.com": {
@@ -4666,8 +4670,9 @@
         "state": "future"
     },
     "bongacash.com": {
-        "epoch": 1592438400.0,
-        "expiration_date": "18-jun-2020",
+        "epoch": 1655510400.0,
+        "expiration_date": "18-jun-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "bonjikoa.com": {
@@ -4691,8 +4696,9 @@
         "state": "future"
     },
     "boostads.net": {
-        "epoch": 1593907200.0,
-        "expiration_date": "05-jul-2020",
+        "epoch": 1625443200.0,
+        "expiration_date": "05-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "bounceexchange.com": {
@@ -4751,13 +4757,15 @@
         "state": "future"
     },
     "brightshare.com": {
-        "epoch": 1592352000.0,
-        "expiration_date": "17-jun-2020",
+        "epoch": 1630281600.0,
+        "expiration_date": "30-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "british-banners.com": {
-        "epoch": 1597536000.0,
-        "expiration_date": "16-aug-2020",
+        "epoch": 1692144000.0,
+        "expiration_date": "16-aug-2023",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "broadjump.com": {
@@ -4851,18 +4859,21 @@
         "state": "future"
     },
     "bullseye-media.net": {
-        "epoch": 1595289600.0,
-        "expiration_date": "21-jul-2020",
+        "epoch": 1626825600.0,
+        "expiration_date": "21-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "bullseye-network.com": {
-        "epoch": 1596326400.0,
-        "expiration_date": "02-aug-2020",
+        "epoch": 1627862400.0,
+        "expiration_date": "02-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "bullseye-network.net": {
-        "epoch": 1596326400.0,
-        "expiration_date": "02-aug-2020",
+        "epoch": 1627862400.0,
+        "expiration_date": "02-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "bunchofads.com": {
@@ -4933,7 +4944,8 @@
     "c2path.com": {
         "epoch": 1594684800.0,
         "expiration_date": "14-jul-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "c3onlinemarketing.com": {
         "epoch": 1599523200.0,
@@ -5006,13 +5018,15 @@
         "state": "future"
     },
     "carambo.la": {
-        "epoch": 1594771200.0,
-        "expiration_date": "15-jul-2020",
+        "epoch": 1657843200.0,
+        "expiration_date": "15-jul-2022",
+        "server": "whois.nic.la",
         "state": "future"
     },
     "carbonads.com": {
-        "epoch": 1593129600.0,
-        "expiration_date": "26-jun-2020",
+        "epoch": 1624665600.0,
+        "expiration_date": "26-jun-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "carbontraffic.com": {
@@ -5051,13 +5065,15 @@
         "state": "future"
     },
     "cashassociate.com": {
-        "epoch": 1598313600.0,
-        "expiration_date": "25-aug-2020",
+        "epoch": 1629849600.0,
+        "expiration_date": "25-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "cashcount.com": {
-        "epoch": 1596672000.0,
-        "expiration_date": "06-aug-2020",
+        "epoch": 1628208000.0,
+        "expiration_date": "06-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "cashcrate.com": {
@@ -5066,8 +5082,9 @@
         "state": "future"
     },
     "cashengines.com": {
-        "epoch": 1597536000.0,
-        "expiration_date": "16-aug-2020",
+        "epoch": 1629072000.0,
+        "expiration_date": "16-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "cashfiesta.com": {
@@ -5081,8 +5098,9 @@
         "state": "future"
     },
     "cashforsurveys.com": {
-        "epoch": 1595116800.0,
-        "expiration_date": "19-jul-2020",
+        "epoch": 1626652800.0,
+        "expiration_date": "19-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "cashforsurveys.net": {
@@ -5091,8 +5109,9 @@
         "state": "future"
     },
     "cashlayer.com": {
-        "epoch": 1598400000.0,
-        "expiration_date": "26-aug-2020",
+        "epoch": 1629936000.0,
+        "expiration_date": "26-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "cashmylinks.com": {
@@ -5201,8 +5220,9 @@
         "state": "future"
     },
     "celebrity-image.com": {
-        "epoch": 1594857600.0,
-        "expiration_date": "16-jul-2020",
+        "epoch": 1626393600.0,
+        "expiration_date": "16-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "celltick.com": {
@@ -5253,7 +5273,8 @@
     "charmour.club": {
         "epoch": 1592697600.0,
         "expiration_date": "21-jun-2020",
-        "state": "future"
+        "server": "whois.nic.club",
+        "state": "past"
     },
     "chartboost.com": {
         "epoch": 1614124800.0,
@@ -5261,8 +5282,9 @@
         "state": "future"
     },
     "checkm8.com": {
-        "epoch": 1593734400.0,
-        "expiration_date": "03-jul-2020",
+        "epoch": 1625270400.0,
+        "expiration_date": "03-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "checkstat.com": {
@@ -5301,8 +5323,9 @@
         "state": "future"
     },
     "cityads.com.br": {
-        "epoch": 1592956800.0,
-        "expiration_date": "24-jun-2020",
+        "epoch": 1624492800.0,
+        "expiration_date": "24-jun-2021",
+        "server": "whois.registro.br",
         "state": "future"
     },
     "cityads.ru": {
@@ -5346,8 +5369,9 @@
         "state": "future"
     },
     "cj.net": {
-        "epoch": 1594252800.0,
-        "expiration_date": "09-jul-2020",
+        "epoch": 1625788800.0,
+        "expiration_date": "09-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "ckstatic.com": {
@@ -5356,8 +5380,9 @@
         "state": "future"
     },
     "clashmobile.com": {
-        "epoch": 1596412800.0,
-        "expiration_date": "03-aug-2020",
+        "epoch": 1627948800.0,
+        "expiration_date": "03-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "classifieds1000.com": {
@@ -5406,8 +5431,9 @@
         "state": "future"
     },
     "click-123.com": {
-        "epoch": 1595289600.0,
-        "expiration_date": "21-jul-2020",
+        "epoch": 1626825600.0,
+        "expiration_date": "21-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "click-here-to-listen.com": {
