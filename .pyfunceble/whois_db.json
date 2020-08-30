@@ -2065,8 +2065,9 @@
         "state": "future"
     },
     "ads8.com": {
-        "epoch": 1597363200.0,
-        "expiration_date": "14-aug-2020",
+        "epoch": 1628899200.0,
+        "expiration_date": "14-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "ads80.com": {
@@ -2082,7 +2083,8 @@
     "adsalvo.com": {
         "epoch": 1594166400.0,
         "expiration_date": "08-jul-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "adsaturation.com": {
         "epoch": 1605312000.0,
@@ -2180,8 +2182,9 @@
         "state": "future"
     },
     "adservinginternational.com": {
-        "epoch": 1597363200.0,
-        "expiration_date": "14-aug-2020",
+        "epoch": 1628899200.0,
+        "expiration_date": "14-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adservingnetwork.com": {
