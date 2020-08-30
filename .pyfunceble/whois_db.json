@@ -7250,7 +7250,8 @@
     "drogomet.com": {
         "epoch": 1598745600.0,
         "expiration_date": "30-aug-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "drosstik.com": {
         "epoch": 1618531200.0,
@@ -7258,8 +7259,9 @@
         "state": "future"
     },
     "drtserver.com": {
-        "epoch": 1592352000.0,
-        "expiration_date": "17-jun-2020",
+        "epoch": 1623888000.0,
+        "expiration_date": "17-jun-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "drumcash.com": {
@@ -7270,7 +7272,8 @@
     "dsct1.com": {
         "epoch": 1593475200.0,
         "expiration_date": "30-jun-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "dsmmadvantage.com": {
         "epoch": 1616198400.0,
@@ -7278,13 +7281,15 @@
         "state": "future"
     },
     "dsnr.net": {
-        "epoch": 1596153600.0,
-        "expiration_date": "31-jul-2020",
+        "epoch": 1627689600.0,
+        "expiration_date": "31-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "dsnrmg.com": {
-        "epoch": 1596067200.0,
-        "expiration_date": "30-jul-2020",
+        "epoch": 1627603200.0,
+        "expiration_date": "30-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "dsply.com": {
@@ -7313,8 +7318,9 @@
         "state": "future"
     },
     "e-bannerx.com": {
-        "epoch": 1592611200.0,
-        "expiration_date": "20-jun-2020",
+        "epoch": 1599609600.0,
+        "expiration_date": "09-sep-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "e-zeeinternet.com": {
@@ -7323,8 +7329,9 @@
         "state": "future"
     },
     "e85440ec98f04725.com": {
-        "epoch": 1595203200.0,
-        "expiration_date": "20-jul-2020",
+        "epoch": 1633219200.0,
+        "expiration_date": "03-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "e97527f0.se": {
@@ -7363,8 +7370,9 @@
         "state": "future"
     },
     "easilytrack.com": {
-        "epoch": 1594166400.0,
-        "expiration_date": "08-jul-2020",
+        "epoch": 1625702400.0,
+        "expiration_date": "08-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "easyhitcounters.com": {
@@ -7408,13 +7416,15 @@
         "state": "future"
     },
     "eclkmpbn.com": {
-        "epoch": 1592179200.0,
-        "expiration_date": "15-jun-2020",
+        "epoch": 1623715200.0,
+        "expiration_date": "15-jun-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "eclkmpsa.com": {
-        "epoch": 1592179200.0,
-        "expiration_date": "15-jun-2020",
+        "epoch": 1623715200.0,
+        "expiration_date": "15-jun-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "ecoupons.com": {
@@ -7433,8 +7443,9 @@
         "state": "future"
     },
     "efront.com": {
-        "epoch": 1593648000.0,
-        "expiration_date": "02-jul-2020",
+        "epoch": 1625184000.0,
+        "expiration_date": "02-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "egolina.com": {
@@ -7483,8 +7494,9 @@
         "state": "future"
     },
     "email-newsletters.com": {
-        "epoch": 1594080000.0,
-        "expiration_date": "07-jul-2020",
+        "epoch": 1625616000.0,
+        "expiration_date": "07-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "email666.com": {
@@ -7543,13 +7555,15 @@
         "state": "future"
     },
     "enscl.com": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1630281600.0,
+        "expiration_date": "30-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "entercasino.com": {
-        "epoch": 1595548800.0,
-        "expiration_date": "24-jul-2020",
+        "epoch": 1627084800.0,
+        "expiration_date": "24-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "enzjptkr.com": {
@@ -7593,8 +7607,9 @@
         "state": "future"
     },
     "ercva.com": {
-        "epoch": 1594252800.0,
-        "expiration_date": "09-jul-2020",
+        "epoch": 1625788800.0,
+        "expiration_date": "09-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "erendri.com": {
@@ -7703,8 +7718,9 @@
         "state": "future"
     },
     "eu-adcenter.net": {
-        "epoch": 1594512000.0,
-        "expiration_date": "12-jul-2020",
+        "epoch": 1626048000.0,
+        "expiration_date": "12-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "eveitoki.com": {
@@ -7723,8 +7739,9 @@
         "state": "future"
     },
     "everyfreegift.com": {
-        "epoch": 1592179200.0,
-        "expiration_date": "15-jun-2020",
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "everyscape.com": {
@@ -7748,8 +7765,9 @@
         "state": "future"
     },
     "exactinstall.com": {
-        "epoch": 1593561600.0,
-        "expiration_date": "01-jul-2020",
+        "epoch": 1631923200.0,
+        "expiration_date": "18-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "exactseek.com": {
@@ -7768,8 +7786,9 @@
         "state": "future"
     },
     "exchange-it.com": {
-        "epoch": 1594684800.0,
-        "expiration_date": "14-jul-2020",
+        "epoch": 1626220800.0,
+        "expiration_date": "14-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "exchangead.com": {
@@ -7873,13 +7892,15 @@
         "state": "future"
     },
     "fastclick.com": {
-        "epoch": 1596758400.0,
-        "expiration_date": "07-aug-2020",
+        "epoch": 1628294400.0,
+        "expiration_date": "07-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "fastcounter.com": {
-        "epoch": 1592092800.0,
-        "expiration_date": "14-jun-2020",
+        "epoch": 1623628800.0,
+        "expiration_date": "14-jun-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "fasteasytraffic.com": {
@@ -7910,7 +7931,8 @@
     "fasttrack.nu": {
         "epoch": 1593561600.0,
         "expiration_date": "01-jul-2020",
-        "state": "future"
+        "server": "whois.iis.nu",
+        "state": "past"
     },
     "fbgdc.com": {
         "epoch": 1612051200.0,
@@ -7978,8 +8000,9 @@
         "state": "future"
     },
     "findalternate.com": {
-        "epoch": 1597276800.0,
-        "expiration_date": "13-aug-2020",
+        "epoch": 1628812800.0,
+        "expiration_date": "13-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "findanopportunity.com": {
@@ -7988,8 +8011,9 @@
         "state": "future"
     },
     "findcommerce.com": {
-        "epoch": 1594339200.0,
-        "expiration_date": "10-jul-2020",
+        "epoch": 1625875200.0,
+        "expiration_date": "10-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "findepended.com": {
@@ -7998,8 +8022,9 @@
         "state": "future"
     },
     "findlisted.com": {
-        "epoch": 1596153600.0,
-        "expiration_date": "31-jul-2020",
+        "epoch": 1627689600.0,
+        "expiration_date": "31-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "finduses.com": {
@@ -8008,8 +8033,9 @@
         "state": "future"
     },
     "fineclicks.com": {
-        "epoch": 1595548800.0,
-        "expiration_date": "24-jul-2020",
+        "epoch": 1627084800.0,
+        "expiration_date": "24-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "firecash.org": {
@@ -8098,8 +8124,9 @@
         "state": "future"
     },
     "fluentmobile.com": {
-        "epoch": 1597622400.0,
-        "expiration_date": "17-aug-2020",
+        "epoch": 1629158400.0,
+        "expiration_date": "17-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "flurry.com": {
@@ -8128,8 +8155,9 @@
         "state": "future"
     },
     "focalink.com": {
-        "epoch": 1598659200.0,
-        "expiration_date": "29-aug-2020",
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "focusin.com": {
@@ -8138,8 +8166,9 @@
         "state": "future"
     },
     "focusworks.com": {
-        "epoch": 1593043200.0,
-        "expiration_date": "25-jun-2020",
+        "epoch": 1624579200.0,
+        "expiration_date": "25-jun-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "foditgoz.com": {
@@ -8158,8 +8187,9 @@
         "state": "future"
     },
     "foreseeresults.com": {
-        "epoch": 1593129600.0,
-        "expiration_date": "26-jun-2020",
+        "epoch": 1687737600.0,
+        "expiration_date": "26-jun-2023",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "forkitz.com": {
