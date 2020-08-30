@@ -787,8 +787,9 @@
         "state": "future"
     },
     "ad4partners.com": {
-        "epoch": 1597795200.0,
-        "expiration_date": "19-aug-2020",
+        "epoch": 1629331200.0,
+        "expiration_date": "19-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "ad6media.co.uk": {
@@ -847,8 +848,9 @@
         "state": "future"
     },
     "adbest.com": {
-        "epoch": 1594598400.0,
-        "expiration_date": "13-jul-2020",
+        "epoch": 1878595200.0,
+        "expiration_date": "13-jul-2029",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adbest.net": {
@@ -887,8 +889,9 @@
         "state": "future"
     },
     "adbrite.com": {
-        "epoch": 1592265600.0,
-        "expiration_date": "16-jun-2020",
+        "epoch": 1623801600.0,
+        "expiration_date": "16-jun-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adbucks.com": {
@@ -932,8 +935,9 @@
         "state": "future"
     },
     "adcamp.ru": {
-        "epoch": 1598313600.0,
-        "expiration_date": "25-aug-2020",
+        "epoch": 1629849600.0,
+        "expiration_date": "25-aug-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "adcash.com": {
@@ -947,8 +951,9 @@
         "state": "future"
     },
     "adcdnx.com": {
-        "epoch": 1597536000.0,
-        "expiration_date": "16-aug-2020",
+        "epoch": 1692144000.0,
+        "expiration_date": "16-aug-2023",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adcenter.net": {
@@ -1012,8 +1017,9 @@
         "state": "future"
     },
     "adclub.net": {
-        "epoch": 1594252800.0,
-        "expiration_date": "09-jul-2020",
+        "epoch": 1625788800.0,
+        "expiration_date": "09-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adcolo.com": {
@@ -1022,8 +1028,9 @@
         "state": "future"
     },
     "adcolony.com": {
-        "epoch": 1596758400.0,
-        "expiration_date": "07-aug-2020",
+        "epoch": 1628294400.0,
+        "expiration_date": "07-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adcomplete.com": {
@@ -1049,16 +1056,19 @@
     "addash.co": {
         "epoch": 1595116800.0,
         "expiration_date": "19-jul-2020",
-        "state": "future"
+        "server": "whois.nic.co",
+        "state": "past"
     },
     "addeppo.com": {
-        "epoch": 1597795200.0,
-        "expiration_date": "19-aug-2020",
+        "epoch": 1629331200.0,
+        "expiration_date": "19-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "addfreestats.com": {
-        "epoch": 1597968000.0,
-        "expiration_date": "21-aug-2020",
+        "epoch": 1629504000.0,
+        "expiration_date": "21-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "addoer.com": {
@@ -1102,8 +1112,9 @@
         "state": "future"
     },
     "adedy.com": {
-        "epoch": 1595203200.0,
-        "expiration_date": "20-jul-2020",
+        "epoch": 1626739200.0,
+        "expiration_date": "20-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adelement.com": {
@@ -1112,8 +1123,9 @@
         "state": "future"
     },
     "ademails.com": {
-        "epoch": 1595980800.0,
-        "expiration_date": "29-jul-2020",
+        "epoch": 1659052800.0,
+        "expiration_date": "29-jul-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adengage.com": {
@@ -1127,8 +1139,9 @@
         "state": "future"
     },
     "adexc.net": {
-        "epoch": 1596758400.0,
-        "expiration_date": "07-aug-2020",
+        "epoch": 1628294400.0,
+        "expiration_date": "07-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adexce.net": {
@@ -1152,23 +1165,27 @@
         "state": "future"
     },
     "adexm.com": {
-        "epoch": 1594684800.0,
-        "expiration_date": "14-jul-2020",
+        "epoch": 1601251200.0,
+        "expiration_date": "28-sep-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adexperts.com": {
-        "epoch": 1594425600.0,
-        "expiration_date": "11-jul-2020",
+        "epoch": 1625961600.0,
+        "expiration_date": "11-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adexten.com": {
-        "epoch": 1592870400.0,
-        "expiration_date": "23-jun-2020",
+        "epoch": 1624406400.0,
+        "expiration_date": "23-jun-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adextent.com": {
-        "epoch": 1592179200.0,
-        "expiration_date": "15-jun-2020",
+        "epoch": 1623715200.0,
+        "expiration_date": "15-jun-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adfactory88.com": {
@@ -1197,13 +1214,15 @@
         "state": "future"
     },
     "adfootprints.com": {
-        "epoch": 1594166400.0,
-        "expiration_date": "08-jul-2020",
+        "epoch": 1625702400.0,
+        "expiration_date": "08-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adforce.com": {
-        "epoch": 1596326400.0,
-        "expiration_date": "02-aug-2020",
+        "epoch": 1659398400.0,
+        "expiration_date": "02-aug-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adforce.ru": {
@@ -1227,8 +1246,9 @@
         "state": "future"
     },
     "adframesrc.com": {
-        "epoch": 1598486400.0,
-        "expiration_date": "27-aug-2020",
+        "epoch": 1630022400.0,
+        "expiration_date": "27-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adfrontiers.com": {
@@ -1247,8 +1267,9 @@
         "state": "future"
     },
     "adfux.com": {
-        "epoch": 1595721600.0,
-        "expiration_date": "26-jul-2020",
+        "epoch": 1627257600.0,
+        "expiration_date": "26-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adgale.com": {
@@ -1297,8 +1318,9 @@
         "state": "future"
     },
     "adgitize.com": {
-        "epoch": 1596067200.0,
-        "expiration_date": "30-jul-2020",
+        "epoch": 1659139200.0,
+        "expiration_date": "30-jul-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adgorithms.com": {
@@ -1367,13 +1389,15 @@
         "state": "future"
     },
     "adhubz.com": {
-        "epoch": 1597536000.0,
-        "expiration_date": "16-aug-2020",
+        "epoch": 1629072000.0,
+        "expiration_date": "16-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adicate.com": {
-        "epoch": 1591920000.0,
-        "expiration_date": "12-jun-2020",
+        "epoch": 1629331200.0,
+        "expiration_date": "19-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adify.com": {
@@ -1437,8 +1461,9 @@
         "state": "future"
     },
     "adisfy.com": {
-        "epoch": 1596153600.0,
-        "expiration_date": "31-jul-2020",
+        "epoch": 1627689600.0,
+        "expiration_date": "31-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adisn.com": {
@@ -1452,8 +1477,9 @@
         "state": "future"
     },
     "adition.net": {
-        "epoch": 1595030400.0,
-        "expiration_date": "18-jul-2020",
+        "epoch": 1626566400.0,
+        "expiration_date": "18-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adjal.com": {
@@ -1557,8 +1583,9 @@
         "state": "future"
     },
     "adlock.in": {
-        "epoch": 1593907200.0,
-        "expiration_date": "05-jul-2020",
+        "epoch": 1625443200.0,
+        "expiration_date": "05-jul-2021",
+        "server": "whois.registry.in",
         "state": "future"
     },
     "adlogix.net": {
@@ -1582,8 +1609,9 @@
         "state": "future"
     },
     "admanage.com": {
-        "epoch": 1597276800.0,
-        "expiration_date": "13-aug-2020",
+        "epoch": 1628812800.0,
+        "expiration_date": "13-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "admantic.ru": {
@@ -1632,8 +1660,9 @@
         "state": "future"
     },
     "admeld.com": {
-        "epoch": 1593907200.0,
-        "expiration_date": "05-jul-2020",
+        "epoch": 1625443200.0,
+        "expiration_date": "05-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "admeta.com": {
@@ -1682,8 +1711,9 @@
         "state": "future"
     },
     "admngronline.com": {
-        "epoch": 1592697600.0,
-        "expiration_date": "21-jun-2020",
+        "epoch": 1624233600.0,
+        "expiration_date": "21-jun-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "admob.com": {
@@ -1704,7 +1734,8 @@
     "admotion.com.ar": {
         "epoch": 1596758400.0,
         "expiration_date": "07-aug-2020",
-        "state": "future"
+        "server": "whois.nic.ar",
+        "state": "past"
     },
     "admulti.com": {
         "epoch": 1617753600.0,
@@ -1739,7 +1770,8 @@
     "adnet.com.tr": {
         "epoch": 1597017600.0,
         "expiration_date": "10-aug-2020",
-        "state": "future"
+        "server": "whois.nic.tr",
+        "state": "past"
     },
     "adnet.ru": {
         "epoch": 1621209600.0,
@@ -1799,7 +1831,8 @@
     "adonads.com": {
         "epoch": 1593820800.0,
         "expiration_date": "04-jul-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "adonion.com": {
         "epoch": 1610841600.0,
@@ -1807,8 +1840,9 @@
         "state": "future"
     },
     "adonweb.ru": {
-        "epoch": 1597104000.0,
-        "expiration_date": "11-aug-2020",
+        "epoch": 1628640000.0,
+        "expiration_date": "11-aug-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "adoptim.com": {
@@ -1862,8 +1896,9 @@
         "state": "future"
     },
     "adperfect.com": {
-        "epoch": 1595030400.0,
-        "expiration_date": "18-jul-2020",
+        "epoch": 1626566400.0,
+        "expiration_date": "18-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adperium.com": {
@@ -1892,8 +1927,9 @@
         "state": "future"
     },
     "adprimemedia.com": {
-        "epoch": 1595808000.0,
-        "expiration_date": "27-jul-2020",
+        "epoch": 1627344000.0,
+        "expiration_date": "27-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adprofs.com": {
@@ -1952,8 +1988,9 @@
         "state": "future"
     },
     "adrevolver.com": {
-        "epoch": 1595548800.0,
-        "expiration_date": "24-jul-2020",
+        "epoch": 1627084800.0,
+        "expiration_date": "24-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adrewards.com": {
@@ -1992,8 +2029,9 @@
         "state": "future"
     },
     "adrtrklnk.com": {
-        "epoch": 1591920000.0,
-        "expiration_date": "12-jun-2020",
+        "epoch": 1623456000.0,
+        "expiration_date": "12-jun-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adrunnr.com": {
