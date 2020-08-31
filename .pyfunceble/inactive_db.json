@@ -38416,6 +38416,13 @@
             "last_retested_at_iso": "2020-08-29T03:18:48.490035",
             "status": "INACTIVE"
         },
+        "yuituityula.com": {
+            "included_at_epoch": 1598838090.66601,
+            "included_at_iso": "2020-08-31T01:41:30.666010",
+            "last_retested_at_epoch": 1598838090.66601,
+            "last_retested_at_iso": "2020-08-31T01:41:30.666010",
+            "status": "INACTIVE"
+        },
         "yvap.query.yahoo.com": {
             "included_at_epoch": 1598671128.769455,
             "included_at_iso": "2020-08-29T03:18:48.769455",
@@ -38554,6 +38561,13 @@
             "included_at_iso": "2020-08-29T03:18:53.866004",
             "last_retested_at_epoch": 1598671133.866004,
             "last_retested_at_iso": "2020-08-29T03:18:53.866004",
+            "status": "INACTIVE"
+        },
+        "zonolali.com": {
+            "included_at_epoch": 1598838094.021665,
+            "included_at_iso": "2020-08-31T01:41:34.021665",
+            "last_retested_at_epoch": 1598838094.021665,
+            "last_retested_at_iso": "2020-08-31T01:41:34.021665",
             "status": "INACTIVE"
         },
         "zoomorphicylxvmnz.download": {
