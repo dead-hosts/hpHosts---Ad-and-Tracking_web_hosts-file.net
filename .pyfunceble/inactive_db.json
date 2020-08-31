@@ -24640,6 +24640,13 @@
             "last_retested_at_iso": "2020-08-29T00:11:58.455716",
             "status": "INACTIVE"
         },
+        "pompazilla.com": {
+            "included_at_epoch": 1598832107.696007,
+            "included_at_iso": "2020-08-31T00:01:47.696007",
+            "last_retested_at_epoch": 1598832107.696007,
+            "last_retested_at_iso": "2020-08-31T00:01:47.696007",
+            "status": "INACTIVE"
+        },
         "pop.mrstiff.com": {
             "included_at_epoch": 1598659918.949268,
             "included_at_iso": "2020-08-29T00:11:58.949268",
@@ -25226,6 +25233,13 @@
             "included_at_iso": "2020-08-29T00:29:52.425493",
             "last_retested_at_epoch": 1598660992.425493,
             "last_retested_at_iso": "2020-08-29T00:29:52.425493",
+            "status": "INACTIVE"
+        },
+        "reallybig.spinbox.net": {
+            "included_at_epoch": 1598832122.785907,
+            "included_at_iso": "2020-08-31T00:02:02.785907",
+            "last_retested_at_epoch": 1598832122.785907,
+            "last_retested_at_iso": "2020-08-31T00:02:02.785907",
             "status": "INACTIVE"
         },
         "reamerskltzgimoz.download": {

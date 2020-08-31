@@ -13077,10 +13077,10 @@
         "state": "future"
     },
     "phizzle.com": {
-        "epoch": 1598572800.0,
-        "expiration_date": "28-aug-2020",
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "phluant.com": {
         "epoch": 1626048000.0,
@@ -13504,7 +13504,8 @@
     "prikolizdesa.com": {
         "epoch": 1598745600.0,
         "expiration_date": "30-aug-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "primaryads.com": {
         "epoch": 1600387200.0,
@@ -13902,10 +13903,10 @@
         "state": "future"
     },
     "raygun.io": {
-        "epoch": 1598659200.0,
-        "expiration_date": "29-aug-2020",
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
         "server": "whois.nic.io",
-        "state": "past"
+        "state": "future"
     },
     "rcsmetrics.it": {
         "epoch": 1603152000.0,
@@ -14088,7 +14089,8 @@
     "reqpostanza.com": {
         "epoch": 1598745600.0,
         "expiration_date": "30-aug-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "res-x.com": {
         "epoch": 1629676800.0,
