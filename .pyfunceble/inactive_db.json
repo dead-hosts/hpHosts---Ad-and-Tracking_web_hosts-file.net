@@ -15176,6 +15176,13 @@
             "last_retested_at_iso": "2020-08-30T21:56:31.945528",
             "status": "INACTIVE"
         },
+        "cdn.c.try9.com": {
+            "included_at_epoch": 1598996265.247471,
+            "included_at_iso": "2020-09-01T21:37:45.247471",
+            "last_retested_at_epoch": 1598996265.247471,
+            "last_retested_at_iso": "2020-09-01T21:37:45.247471",
+            "status": "INACTIVE"
+        },
         "cdn.complexmedianetwork.com": {
             "included_at_epoch": 1598824592.37116,
             "included_at_iso": "2020-08-30T21:56:32.371160",
@@ -15708,6 +15715,13 @@
             "last_retested_at_iso": "2020-08-30T21:56:49.907957",
             "status": "INACTIVE"
         },
+        "click.holland-billing.com": {
+            "included_at_epoch": 1598996272.692836,
+            "included_at_iso": "2020-09-01T21:37:52.692836",
+            "last_retested_at_epoch": 1598996272.692836,
+            "last_retested_at_iso": "2020-09-01T21:37:52.692836",
+            "status": "INACTIVE"
+        },
         "click.igg.com": {
             "included_at_epoch": 1598824610.129005,
             "included_at_iso": "2020-08-30T21:56:50.129005",
@@ -15783,6 +15797,13 @@
             "included_at_iso": "2020-08-30T22:14:02.792617",
             "last_retested_at_epoch": 1598825642.792617,
             "last_retested_at_iso": "2020-08-30T22:14:02.792617",
+            "status": "INACTIVE"
+        },
+        "clickcash.webpower.com": {
+            "included_at_epoch": 1598996273.920631,
+            "included_at_iso": "2020-09-01T21:37:53.920631",
+            "last_retested_at_epoch": 1598996273.920631,
+            "last_retested_at_iso": "2020-09-01T21:37:53.920631",
             "status": "INACTIVE"
         },
         "clicking.com.tw": {
