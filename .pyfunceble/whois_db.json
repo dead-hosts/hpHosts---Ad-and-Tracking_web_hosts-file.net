@@ -8263,8 +8263,9 @@
         "state": "future"
     },
     "freecountersnow.com": {
-        "epoch": 1598832000.0,
-        "expiration_date": "31-aug-2020",
+        "epoch": 1630368000.0,
+        "expiration_date": "31-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "freelogs.com": {
