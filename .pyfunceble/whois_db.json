@@ -13762,8 +13762,9 @@
         "state": "future"
     },
     "qdmil.com": {
-        "epoch": 1598918400.0,
-        "expiration_date": "01-sep-2020",
+        "epoch": 1630454400.0,
+        "expiration_date": "01-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "qoredi.com": {
@@ -14100,10 +14101,10 @@
         "state": "future"
     },
     "reqpostanza.com": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1630281600.0,
+        "expiration_date": "30-aug-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "res-x.com": {
         "epoch": 1629676800.0,
@@ -14834,10 +14835,10 @@
         "state": "future"
     },
     "shmonekisot.com": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1630281600.0,
+        "expiration_date": "30-aug-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "shokala.com": {
         "epoch": 1600992000.0,
