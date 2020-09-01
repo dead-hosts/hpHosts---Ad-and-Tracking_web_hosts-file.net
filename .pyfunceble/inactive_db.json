@@ -21721,6 +21721,13 @@
             "last_retested_at_iso": "2020-08-28T23:53:24.867284",
             "status": "INACTIVE"
         },
+        "logging03.wxs.nl": {
+            "included_at_epoch": 1599001600.608795,
+            "included_at_iso": "2020-09-01T23:06:40.608795",
+            "last_retested_at_epoch": 1599001600.608795,
+            "last_retested_at_iso": "2020-09-01T23:06:40.608795",
+            "status": "INACTIVE"
+        },
         "logi.xiti.com": {
             "included_at_epoch": 1598658805.070117,
             "included_at_iso": "2020-08-28T23:53:25.070117",
