@@ -7441,6 +7441,13 @@
             "last_retested_at_iso": "2020-08-30T21:01:40.909455",
             "status": "INACTIVE"
         },
+        "ads.yeshanews.com": {
+            "included_at_epoch": 1598994130.796641,
+            "included_at_iso": "2020-09-01T21:02:10.796641",
+            "last_retested_at_epoch": 1598994130.796641,
+            "last_retested_at_iso": "2020-09-01T21:02:10.796641",
+            "status": "INACTIVE"
+        },
         "ads.zchat.no": {
             "included_at_epoch": 1598821301.130471,
             "included_at_iso": "2020-08-30T21:01:41.130471",

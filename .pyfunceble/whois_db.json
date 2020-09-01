@@ -2614,8 +2614,9 @@
         "state": "future"
     },
     "adtotal.pl": {
-        "epoch": 1595980800.0,
-        "expiration_date": "29-jul-2020",
+        "epoch": 1627516800.0,
+        "expiration_date": "29-jul-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "adtpix.com": {
@@ -3288,8 +3289,9 @@
         "state": "future"
     },
     "afreehome.com": {
-        "epoch": 1598832000.0,
-        "expiration_date": "31-aug-2020",
+        "epoch": 1630368000.0,
+        "expiration_date": "31-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "africandevelopmentbank.com": {
