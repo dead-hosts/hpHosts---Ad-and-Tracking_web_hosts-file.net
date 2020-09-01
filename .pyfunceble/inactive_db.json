@@ -16415,6 +16415,13 @@
             "last_retested_at_iso": "2020-08-30T22:31:59.432317",
             "status": "INACTIVE"
         },
+        "creative.ad123m.com": {
+            "included_at_epoch": 1598998406.977411,
+            "included_at_iso": "2020-09-01T22:13:26.977411",
+            "last_retested_at_epoch": 1598998406.977411,
+            "last_retested_at_iso": "2020-09-01T22:13:26.977411",
+            "status": "INACTIVE"
+        },
         "creative.ad125m.com": {
             "included_at_epoch": 1598826719.580756,
             "included_at_iso": "2020-08-30T22:31:59.580756",
@@ -17883,6 +17890,13 @@
             "included_at_iso": "2020-08-30T22:32:42.514849",
             "last_retested_at_epoch": 1598826762.514849,
             "last_retested_at_iso": "2020-08-30T22:32:42.514849",
+            "status": "INACTIVE"
+        },
+        "dragon145.visits.lt": {
+            "included_at_epoch": 1598998421.179624,
+            "included_at_iso": "2020-09-01T22:13:41.179624",
+            "last_retested_at_epoch": 1598998421.179624,
+            "last_retested_at_iso": "2020-09-01T22:13:41.179624",
             "status": "INACTIVE"
         },
         "drive.richbanner.ru": {
