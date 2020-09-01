@@ -20699,6 +20699,13 @@
             "last_retested_at_iso": "2020-08-30T23:26:04.503939",
             "status": "INACTIVE"
         },
+        "intelligence.dgmsearchlab.com": {
+            "included_at_epoch": 1599000554.699261,
+            "included_at_iso": "2020-09-01T22:49:14.699261",
+            "last_retested_at_epoch": 1599000554.699261,
+            "last_retested_at_iso": "2020-09-01T22:49:14.699261",
+            "status": "INACTIVE"
+        },
         "interludenbaabaim.download": {
             "included_at_epoch": 1598829965.109961,
             "included_at_iso": "2020-08-30T23:26:05.109961",
