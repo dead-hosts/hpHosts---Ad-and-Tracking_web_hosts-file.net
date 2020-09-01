@@ -12483,8 +12483,9 @@
         "state": "future"
     },
     "npvos.com": {
-        "epoch": 1598918400.0,
-        "expiration_date": "01-sep-2020",
+        "epoch": 1630454400.0,
+        "expiration_date": "01-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "nuggad.net": {
@@ -13127,8 +13128,9 @@
         "state": "past"
     },
     "picreel.com": {
-        "epoch": 1598918400.0,
-        "expiration_date": "01-sep-2020",
+        "epoch": 1630454400.0,
+        "expiration_date": "01-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "piet2eix3l.com": {
@@ -13513,10 +13515,10 @@
         "state": "future"
     },
     "prikolizdesa.com": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1630281600.0,
+        "expiration_date": "30-aug-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "primaryads.com": {
         "epoch": 1600387200.0,
