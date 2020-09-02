@@ -28623,6 +28623,13 @@
             "last_retested_at_iso": "2020-08-29T01:23:25.207577",
             "status": "INACTIVE"
         },
+        "tracking.goodgamestudios.com": {
+            "included_at_epoch": 1599006228.572089,
+            "included_at_iso": "2020-09-02T00:23:48.572089",
+            "last_retested_at_epoch": 1599006228.572089,
+            "last_retested_at_iso": "2020-09-02T00:23:48.572089",
+            "status": "INACTIVE"
+        },
         "tracking.hyde.ligatus.com": {
             "included_at_epoch": 1598664205.716432,
             "included_at_iso": "2020-08-29T01:23:25.716432",
