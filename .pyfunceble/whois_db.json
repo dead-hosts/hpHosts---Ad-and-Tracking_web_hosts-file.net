@@ -9723,7 +9723,8 @@
     "inentasky.com": {
         "epoch": 1599091200.0,
         "expiration_date": "03-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "inet-traffic.com": {
         "epoch": 1600387200.0,
@@ -9808,8 +9809,9 @@
         "state": "future"
     },
     "insightexpress.com": {
-        "epoch": 1599091200.0,
-        "expiration_date": "03-sep-2020",
+        "epoch": 1662163200.0,
+        "expiration_date": "03-sep-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "insightexpressai.com": {
