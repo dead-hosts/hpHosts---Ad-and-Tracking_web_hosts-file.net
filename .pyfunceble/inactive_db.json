@@ -10528,6 +10528,13 @@
             "last_retested_at_iso": "2020-08-30T21:19:53.450125",
             "status": "INACTIVE"
         },
+        "affiliate.trk4.com": {
+            "included_at_epoch": 1599167054.412416,
+            "included_at_iso": "2020-09-03T21:04:14.412416",
+            "last_retested_at_epoch": 1599167054.412416,
+            "last_retested_at_iso": "2020-09-03T21:04:14.412416",
+            "status": "INACTIVE"
+        },
         "affiliate.zap.co.il": {
             "included_at_epoch": 1598822393.682594,
             "included_at_iso": "2020-08-30T21:19:53.682594",
