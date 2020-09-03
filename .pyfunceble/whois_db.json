@@ -13738,7 +13738,8 @@
     "purgrobi.com": {
         "epoch": 1599091200.0,
         "expiration_date": "03-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "putbid.net": {
         "epoch": 1630195200.0,
