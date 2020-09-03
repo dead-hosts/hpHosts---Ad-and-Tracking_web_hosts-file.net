@@ -11928,6 +11928,13 @@
             "last_retested_at_iso": "2020-08-30T21:37:51.018307",
             "status": "INACTIVE"
         },
+        "banner.everestpoker.com": {
+            "included_at_epoch": 1599168105.724491,
+            "included_at_iso": "2020-09-03T21:21:45.724491",
+            "last_retested_at_epoch": 1599168105.724491,
+            "last_retested_at_iso": "2020-09-03T21:21:45.724491",
+            "status": "INACTIVE"
+        },
         "banner.gasuki.com": {
             "included_at_epoch": 1598823471.269035,
             "included_at_iso": "2020-08-30T21:37:51.269035",
@@ -12010,6 +12017,13 @@
             "included_at_iso": "2020-08-30T21:37:54.174164",
             "last_retested_at_epoch": 1598823474.174164,
             "last_retested_at_iso": "2020-08-30T21:37:54.174164",
+            "status": "INACTIVE"
+        },
+        "banners.beevpn.com": {
+            "included_at_epoch": 1599168107.485749,
+            "included_at_iso": "2020-09-03T21:21:47.485749",
+            "last_retested_at_epoch": 1599168107.485749,
+            "last_retested_at_iso": "2020-09-03T21:21:47.485749",
             "status": "INACTIVE"
         },
         "banners.clickthrucash.com": {
