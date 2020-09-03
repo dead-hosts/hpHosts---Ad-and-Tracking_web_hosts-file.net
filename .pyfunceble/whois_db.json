@@ -6036,8 +6036,9 @@
         "state": "future"
     },
     "cmfads.com": {
-        "epoch": 1599091200.0,
-        "expiration_date": "03-sep-2020",
+        "epoch": 1630627200.0,
+        "expiration_date": "03-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "cmllk1.info": {
