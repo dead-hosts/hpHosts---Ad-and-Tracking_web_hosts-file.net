@@ -19866,6 +19866,13 @@
             "last_retested_at_iso": "2020-08-30T23:08:19.460026",
             "status": "INACTIVE"
         },
+        "hit.multimania.com": {
+            "included_at_epoch": 1599172454.356807,
+            "included_at_iso": "2020-09-03T22:34:14.356807",
+            "last_retested_at_epoch": 1599172454.356807,
+            "last_retested_at_iso": "2020-09-03T22:34:14.356807",
+            "status": "INACTIVE"
+        },
         "hkjhwrhogwash.review": {
             "included_at_epoch": 1598828901.115502,
             "included_at_iso": "2020-08-30T23:08:21.115502",
