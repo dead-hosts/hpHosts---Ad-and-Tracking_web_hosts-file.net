@@ -458,8 +458,9 @@
         "state": "future"
     },
     "abmr.org": {
-        "epoch": 1599177600.0,
-        "expiration_date": "04-sep-2020",
+        "epoch": 1606003200.0,
+        "expiration_date": "22-nov-2020",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "aboutads.info": {
