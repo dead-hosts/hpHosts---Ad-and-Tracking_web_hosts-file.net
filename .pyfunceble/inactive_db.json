@@ -19810,6 +19810,13 @@
             "last_retested_at_iso": "2020-08-30T23:08:16.914565",
             "status": "INACTIVE"
         },
+        "hayday145.visits.lt": {
+            "included_at_epoch": 1599345101.723275,
+            "included_at_iso": "2020-09-05T22:31:41.723275",
+            "last_retested_at_epoch": 1599345101.723275,
+            "last_retested_at_iso": "2020-09-05T22:31:41.723275",
+            "status": "INACTIVE"
+        },
         "hbb.concentra.be": {
             "included_at_epoch": 1598828897.108133,
             "included_at_iso": "2020-08-30T23:08:17.108133",

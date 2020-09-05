@@ -8318,8 +8318,9 @@
         "state": "future"
     },
     "freestats.com": {
-        "epoch": 1599264000.0,
-        "expiration_date": "05-sep-2020",
+        "epoch": 1630800000.0,
+        "expiration_date": "05-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "freevisits.com": {
@@ -8347,7 +8348,8 @@
     "frestacero.com": {
         "epoch": 1599264000.0,
         "expiration_date": "05-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "friendfindercash.com": {
         "epoch": 1606262400.0,
