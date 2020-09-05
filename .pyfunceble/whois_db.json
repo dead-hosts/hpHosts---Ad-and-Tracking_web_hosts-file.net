@@ -13441,8 +13441,9 @@
         "state": "future"
     },
     "pornads.biz": {
-        "epoch": 1599177600.0,
-        "expiration_date": "04-sep-2020",
+        "epoch": 1630713600.0,
+        "expiration_date": "04-sep-2021",
+        "server": "whois.nic.biz",
         "state": "future"
     },
     "pornlist.mobi": {
@@ -13747,10 +13748,10 @@
         "state": "future"
     },
     "purgrobi.com": {
-        "epoch": 1599091200.0,
-        "expiration_date": "03-sep-2020",
+        "epoch": 1630627200.0,
+        "expiration_date": "03-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "putbid.net": {
         "epoch": 1630195200.0,
@@ -14093,8 +14094,9 @@
         "state": "future"
     },
     "rejectclick.com": {
-        "epoch": 1599264000.0,
-        "expiration_date": "05-sep-2020",
+        "epoch": 1630800000.0,
+        "expiration_date": "05-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "rek.mobi": {
