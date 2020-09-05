@@ -21147,6 +21147,13 @@
             "last_retested_at_iso": "2020-08-30T23:26:19.203567",
             "status": "INACTIVE"
         },
+        "jump.jspg.cc": {
+            "included_at_epoch": 1599346149.392046,
+            "included_at_iso": "2020-09-05T22:49:09.392046",
+            "last_retested_at_epoch": 1599346149.392046,
+            "last_retested_at_iso": "2020-09-05T22:49:09.392046",
+            "status": "INACTIVE"
+        },
         "jurymastgewtdwcw.download": {
             "included_at_epoch": 1598829979.5079,
             "included_at_iso": "2020-08-30T23:26:19.507900",

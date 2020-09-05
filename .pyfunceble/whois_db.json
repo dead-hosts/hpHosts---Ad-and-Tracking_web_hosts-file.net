@@ -9728,10 +9728,10 @@
         "state": "future"
     },
     "inentasky.com": {
-        "epoch": 1599091200.0,
-        "expiration_date": "03-sep-2020",
+        "epoch": 1630627200.0,
+        "expiration_date": "03-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "inet-traffic.com": {
         "epoch": 1600387200.0,
@@ -9755,8 +9755,9 @@
         "state": "future"
     },
     "infinityads.com": {
-        "epoch": 1599264000.0,
-        "expiration_date": "05-sep-2020",
+        "epoch": 1630800000.0,
+        "expiration_date": "05-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "information.com": {
@@ -10084,8 +10085,9 @@
         "state": "future"
     },
     "jayde.com": {
-        "epoch": 1599264000.0,
-        "expiration_date": "05-sep-2020",
+        "epoch": 1630800000.0,
+        "expiration_date": "05-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "jbrotrk.com": {
