@@ -7138,10 +7138,10 @@
         "state": "future"
     },
     "dntx.com": {
-        "epoch": 1599091200.0,
-        "expiration_date": "03-sep-2020",
+        "epoch": 1630627200.0,
+        "expiration_date": "03-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "doctortrusted.org": {
         "epoch": 1624492800.0,
@@ -7807,8 +7807,9 @@
         "state": "future"
     },
     "exchangead.com": {
-        "epoch": 1599177600.0,
-        "expiration_date": "04-sep-2020",
+        "epoch": 1630713600.0,
+        "expiration_date": "04-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "exchangebanner.com": {
