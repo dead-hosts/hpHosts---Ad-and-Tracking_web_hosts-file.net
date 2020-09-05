@@ -6769,6 +6769,13 @@
             "last_retested_at_iso": "2020-08-30T20:44:18.758118",
             "status": "INACTIVE"
         },
+        "ads.epatra.com": {
+            "included_at_epoch": 1599338721.091934,
+            "included_at_iso": "2020-09-05T20:45:21.091934",
+            "last_retested_at_epoch": 1599338721.091934,
+            "last_retested_at_iso": "2020-09-05T20:45:21.091934",
+            "status": "INACTIVE"
+        },
         "ads.ethicalads.net": {
             "included_at_epoch": 1598820259.08474,
             "included_at_iso": "2020-08-30T20:44:19.084740",
