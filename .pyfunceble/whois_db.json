@@ -12189,8 +12189,9 @@
         "state": "future"
     },
     "n99adshostnet.com": {
-        "epoch": 1599177600.0,
-        "expiration_date": "04-sep-2020",
+        "epoch": 1630713600.0,
+        "expiration_date": "04-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "namitol.com": {
@@ -12430,8 +12431,9 @@
         "state": "future"
     },
     "newsnet.in.ua": {
-        "epoch": 1599177600.0,
-        "expiration_date": "04-sep-2020",
+        "epoch": 1630713600.0,
+        "expiration_date": "04-sep-2021",
+        "server": "whois.ua",
         "state": "future"
     },
     "newtopsites.com": {

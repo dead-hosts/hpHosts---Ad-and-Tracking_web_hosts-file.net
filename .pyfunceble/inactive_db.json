@@ -23793,6 +23793,13 @@
             "last_retested_at_iso": "2020-08-29T00:11:36.304261",
             "status": "INACTIVE"
         },
+        "ox-d.datacenterdynamics.com": {
+            "included_at_epoch": 1599347224.342942,
+            "included_at_iso": "2020-09-05T23:07:04.342942",
+            "last_retested_at_epoch": 1599347224.342942,
+            "last_retested_at_iso": "2020-09-05T23:07:04.342942",
+            "status": "INACTIVE"
+        },
         "ox-d.diply.servedbyopenx.com": {
             "included_at_epoch": 1598659896.37651,
             "included_at_iso": "2020-08-29T00:11:36.376510",
