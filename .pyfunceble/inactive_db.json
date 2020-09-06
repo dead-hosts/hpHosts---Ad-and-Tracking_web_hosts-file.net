@@ -35686,6 +35686,13 @@
             "last_retested_at_iso": "2020-08-29T03:04:55.538061",
             "status": "INACTIVE"
         },
+        "www.qualitylegion.com": {
+            "included_at_epoch": 1599353694.156027,
+            "included_at_iso": "2020-09-06T00:54:54.156027",
+            "last_retested_at_epoch": 1599353694.156027,
+            "last_retested_at_iso": "2020-09-06T00:54:54.156027",
+            "status": "INACTIVE"
+        },
         "www.queerestxyxlws.download": {
             "included_at_epoch": 1598670295.877024,
             "included_at_iso": "2020-08-29T03:04:55.877024",
