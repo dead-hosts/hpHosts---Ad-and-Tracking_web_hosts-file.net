@@ -21084,6 +21084,13 @@
             "last_retested_at_iso": "2020-08-30T23:26:15.343419",
             "status": "INACTIVE"
         },
+        "jobfeeds.coroflot.com": {
+            "included_at_epoch": 1599518953.380933,
+            "included_at_iso": "2020-09-07T22:49:13.380933",
+            "last_retested_at_epoch": 1599518953.380933,
+            "last_retested_at_iso": "2020-09-07T22:49:13.380933",
+            "status": "INACTIVE"
+        },
         "jobs.advertising.com": {
             "included_at_epoch": 1598829975.569372,
             "included_at_iso": "2020-08-30T23:26:15.569372",
