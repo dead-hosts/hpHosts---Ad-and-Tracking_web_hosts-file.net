@@ -3927,6 +3927,13 @@
             "last_retested_at_iso": "2020-08-30T19:50:05.005902",
             "status": "INACTIVE"
         },
+        "aarchives.ifriends.net": {
+            "included_at_epoch": 1599508359.891604,
+            "included_at_iso": "2020-09-07T19:52:39.891604",
+            "last_retested_at_epoch": 1599508359.891604,
+            "last_retested_at_iso": "2020-09-07T19:52:39.891604",
+            "status": "INACTIVE"
+        },
         "abacidcqfrjju.download": {
             "included_at_epoch": 1598817005.163999,
             "included_at_iso": "2020-08-30T19:50:05.163999",
