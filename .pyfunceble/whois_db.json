@@ -5026,7 +5026,8 @@
     "canvas-advert.ru": {
         "epoch": 1599350400.0,
         "expiration_date": "06-sep-2020",
-        "state": "future"
+        "server": "whois.tcinet.ru",
+        "state": "past"
     },
     "capquestglobal.com": {
         "epoch": 1618963200.0,
@@ -5287,10 +5288,10 @@
         "state": "future"
     },
     "charmour.club": {
-        "epoch": 1592697600.0,
-        "expiration_date": "21-jun-2020",
+        "epoch": 1630972800.0,
+        "expiration_date": "07-sep-2021",
         "server": "whois.nic.club",
-        "state": "past"
+        "state": "future"
     },
     "chartboost.com": {
         "epoch": 1614124800.0,
