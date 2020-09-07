@@ -12033,6 +12033,13 @@
             "last_retested_at_iso": "2020-08-30T21:37:53.824832",
             "status": "INACTIVE"
         },
+        "banners.affiliatefuel.com": {
+            "included_at_epoch": 1599513655.525581,
+            "included_at_iso": "2020-09-07T21:20:55.525581",
+            "last_retested_at_epoch": 1599513655.525581,
+            "last_retested_at_iso": "2020-09-07T21:20:55.525581",
+            "status": "INACTIVE"
+        },
         "banners.babylonbucks.com": {
             "included_at_epoch": 1598823474.291231,
             "included_at_iso": "2020-08-30T21:37:54.291231",
