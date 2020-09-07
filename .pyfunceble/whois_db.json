@@ -2399,8 +2399,9 @@
         "state": "future"
     },
     "adspserving.com": {
-        "epoch": 1599350400.0,
-        "expiration_date": "06-sep-2020",
+        "epoch": 1606176000.0,
+        "expiration_date": "24-nov-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adspynet.com": {
@@ -3177,8 +3178,9 @@
         "state": "future"
     },
     "affiliatemg.com": {
-        "epoch": 1599436800.0,
-        "expiration_date": "07-sep-2020",
+        "epoch": 1630972800.0,
+        "expiration_date": "07-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "affiliatenetwork.com": {
@@ -3363,8 +3365,9 @@
         "state": "future"
     },
     "airbrake.io": {
-        "epoch": 1599350400.0,
-        "expiration_date": "06-sep-2020",
+        "epoch": 1630886400.0,
+        "expiration_date": "06-sep-2021",
+        "server": "whois.nic.io",
         "state": "future"
     },
     "airpush.com": {
