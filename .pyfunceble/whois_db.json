@@ -6414,7 +6414,8 @@
     "counting4free.com": {
         "epoch": 1599436800.0,
         "expiration_date": "07-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "countmaster.com": {
         "epoch": 1615766400.0,
