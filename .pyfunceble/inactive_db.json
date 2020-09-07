@@ -4347,6 +4347,20 @@
             "last_retested_at_iso": "2020-08-30T20:26:03.917528",
             "status": "INACTIVE"
         },
+        "ad.sa9.woowy.com": {
+            "included_at_epoch": 1599510512.456926,
+            "included_at_iso": "2020-09-07T20:28:32.456926",
+            "last_retested_at_epoch": 1599510512.456926,
+            "last_retested_at_iso": "2020-09-07T20:28:32.456926",
+            "status": "INACTIVE"
+        },
+        "ad.sab.woowy.com": {
+            "included_at_epoch": 1599510512.592033,
+            "included_at_iso": "2020-09-07T20:28:32.592033",
+            "last_retested_at_epoch": 1599510512.592033,
+            "last_retested_at_iso": "2020-09-07T20:28:32.592033",
+            "status": "INACTIVE"
+        },
         "ad.singletrackworld.com": {
             "included_at_epoch": 1598819164.462476,
             "included_at_iso": "2020-08-30T20:26:04.462476",
