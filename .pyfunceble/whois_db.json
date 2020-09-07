@@ -14427,8 +14427,9 @@
         "state": "future"
     },
     "rtsg.com": {
-        "epoch": 1599350400.0,
-        "expiration_date": "06-sep-2020",
+        "epoch": 1693958400.0,
+        "expiration_date": "06-sep-2023",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "rubanners.com": {
