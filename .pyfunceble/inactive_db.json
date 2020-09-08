@@ -30597,6 +30597,13 @@
             "last_retested_at_iso": "2020-08-29T02:37:14.176061",
             "status": "INACTIVE"
         },
+        "www.affiliatefuel.com": {
+            "included_at_epoch": 1599526776.422829,
+            "included_at_iso": "2020-09-08T00:59:36.422829",
+            "last_retested_at_epoch": 1599526776.422829,
+            "last_retested_at_iso": "2020-09-08T00:59:36.422829",
+            "status": "INACTIVE"
+        },
         "www.affiliatequality.com": {
             "included_at_epoch": 1598668634.521442,
             "included_at_iso": "2020-08-29T02:37:14.521442",
