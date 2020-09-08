@@ -16300,7 +16300,8 @@
     "trafficjuicer.com": {
         "epoch": 1599523200.0,
         "expiration_date": "08-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "trafficjunky.net": {
         "epoch": 1623801600.0,
