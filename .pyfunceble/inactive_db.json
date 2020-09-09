@@ -22960,6 +22960,13 @@
             "last_retested_at_iso": "2020-08-28T23:53:56.293251",
             "status": "INACTIVE"
         },
+        "my.blueadvertise.com": {
+            "included_at_epoch": 1599692941.060818,
+            "included_at_iso": "2020-09-09T23:09:01.060818",
+            "last_retested_at_epoch": 1599692941.060818,
+            "last_retested_at_iso": "2020-09-09T23:09:01.060818",
+            "status": "INACTIVE"
+        },
         "mychannelvip2.netscape.com": {
             "included_at_epoch": 1598659868.868638,
             "included_at_iso": "2020-08-29T00:11:08.868638",
