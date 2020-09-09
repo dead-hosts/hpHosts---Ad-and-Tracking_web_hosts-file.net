@@ -26425,6 +26425,13 @@
             "last_retested_at_iso": "2020-08-29T00:30:16.962431",
             "status": "INACTIVE"
         },
+        "scripts.blueadvertise.com": {
+            "included_at_epoch": 1599695065.393447,
+            "included_at_iso": "2020-09-09T23:44:25.393447",
+            "last_retested_at_epoch": 1599695065.393447,
+            "last_retested_at_iso": "2020-09-09T23:44:25.393447",
+            "status": "INACTIVE"
+        },
         "scripts.cgispy.com": {
             "included_at_epoch": 1598662055.036521,
             "included_at_iso": "2020-08-29T00:47:35.036521",
