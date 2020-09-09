@@ -6678,6 +6678,13 @@
             "last_retested_at_iso": "2020-08-30T20:44:15.616626",
             "status": "INACTIVE"
         },
+        "ads.blueadvertise.com": {
+            "included_at_epoch": 1599684454.306625,
+            "included_at_iso": "2020-09-09T20:47:34.306625",
+            "last_retested_at_epoch": 1599684454.306625,
+            "last_retested_at_iso": "2020-09-09T20:47:34.306625",
+            "status": "INACTIVE"
+        },
         "ads.bluelithium.com": {
             "included_at_epoch": 1598820255.878715,
             "included_at_iso": "2020-08-30T20:44:15.878715",

@@ -1736,7 +1736,8 @@
     "admonitor.com": {
         "epoch": 1599609600.0,
         "expiration_date": "09-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "admotion.com.ar": {
         "epoch": 1596758400.0,
