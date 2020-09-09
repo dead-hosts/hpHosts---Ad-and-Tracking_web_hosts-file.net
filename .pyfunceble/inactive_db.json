@@ -4074,6 +4074,13 @@
             "last_retested_at_iso": "2020-08-30T19:50:09.405664",
             "status": "INACTIVE"
         },
+        "ad.adition.net": {
+            "included_at_epoch": 1599681223.875053,
+            "included_at_iso": "2020-09-09T19:53:43.875053",
+            "last_retested_at_epoch": 1599681223.875053,
+            "last_retested_at_iso": "2020-09-09T19:53:43.875053",
+            "status": "INACTIVE"
+        },
         "ad.adlantis.jp": {
             "included_at_epoch": 1598817009.597415,
             "included_at_iso": "2020-08-30T19:50:09.597415",
