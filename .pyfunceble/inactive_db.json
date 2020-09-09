@@ -15141,6 +15141,13 @@
             "last_retested_at_iso": "2020-08-30T21:56:27.381492",
             "status": "INACTIVE"
         },
+        "canvas-advert.ru": {
+            "included_at_epoch": 1599687620.617774,
+            "included_at_iso": "2020-09-09T21:40:20.617774",
+            "last_retested_at_epoch": 1599687620.617774,
+            "last_retested_at_iso": "2020-09-09T21:40:20.617774",
+            "status": "INACTIVE"
+        },
         "capsizalsoxdxke.download": {
             "included_at_epoch": 1598824587.628829,
             "included_at_iso": "2020-08-30T21:56:27.628829",
@@ -15314,6 +15321,13 @@
             "included_at_iso": "2020-08-30T21:56:34.635506",
             "last_retested_at_epoch": 1598824594.635506,
             "last_retested_at_iso": "2020-08-30T21:56:34.635506",
+            "status": "INACTIVE"
+        },
+        "cdn.inentasky.com": {
+            "included_at_epoch": 1599687624.538049,
+            "included_at_iso": "2020-09-09T21:40:24.538049",
+            "last_retested_at_epoch": 1599687624.538049,
+            "last_retested_at_iso": "2020-09-09T21:40:24.538049",
             "status": "INACTIVE"
         },
         "cdn.innity.com": {

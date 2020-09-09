@@ -4945,8 +4945,9 @@
         "state": "future"
     },
     "bytecenter.com": {
-        "epoch": 1599523200.0,
-        "expiration_date": "08-sep-2020",
+        "epoch": 1631059200.0,
+        "expiration_date": "08-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "c-col.com": {
@@ -4966,8 +4967,9 @@
         "state": "past"
     },
     "c3onlinemarketing.com": {
-        "epoch": 1599523200.0,
-        "expiration_date": "08-sep-2020",
+        "epoch": 1631059200.0,
+        "expiration_date": "08-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "c4tracking01.com": {
