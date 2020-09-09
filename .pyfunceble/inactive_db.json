@@ -18802,6 +18802,13 @@
             "last_retested_at_iso": "2020-08-30T22:50:15.229386",
             "status": "INACTIVE"
         },
+        "farmville2.visits.lt": {
+            "included_at_epoch": 1599690796.036267,
+            "included_at_iso": "2020-09-09T22:33:16.036267",
+            "last_retested_at_epoch": 1599690796.036267,
+            "last_retested_at_iso": "2020-09-09T22:33:16.036267",
+            "status": "INACTIVE"
+        },
         "favoritismkwaqmz.download": {
             "included_at_epoch": 1598827816.120907,
             "included_at_iso": "2020-08-30T22:50:16.120907",
