@@ -7107,8 +7107,9 @@
         "state": "future"
     },
     "discountclick.com": {
-        "epoch": 1599696000.0,
-        "expiration_date": "10-sep-2020",
+        "epoch": 1631232000.0,
+        "expiration_date": "10-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "diseaseless.com": {
@@ -7348,10 +7349,10 @@
         "state": "future"
     },
     "e-bannerx.com": {
-        "epoch": 1599609600.0,
-        "expiration_date": "09-sep-2020",
+        "epoch": 1631145600.0,
+        "expiration_date": "09-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "e-zeeinternet.com": {
         "epoch": 1615680000.0,
