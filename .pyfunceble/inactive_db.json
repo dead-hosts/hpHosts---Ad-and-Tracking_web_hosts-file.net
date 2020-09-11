@@ -15253,6 +15253,13 @@
             "last_retested_at_iso": "2020-08-30T21:56:30.682776",
             "status": "INACTIVE"
         },
+        "cdn.ad.maist.jp": {
+            "included_at_epoch": 1599860493.650681,
+            "included_at_iso": "2020-09-11T21:41:33.650681",
+            "last_retested_at_epoch": 1599860493.650681,
+            "last_retested_at_iso": "2020-09-11T21:41:33.650681",
+            "status": "INACTIVE"
+        },
         "cdn.adkreator.com": {
             "included_at_epoch": 1598824590.981897,
             "included_at_iso": "2020-08-30T21:56:30.981897",
