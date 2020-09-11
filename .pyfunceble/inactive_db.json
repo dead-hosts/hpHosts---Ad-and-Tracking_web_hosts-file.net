@@ -23226,6 +23226,13 @@
             "last_retested_at_iso": "2020-08-29T00:11:16.353475",
             "status": "INACTIVE"
         },
+        "nfs.visits.lt": {
+            "included_at_epoch": 1599865802.306477,
+            "included_at_iso": "2020-09-11T23:10:02.306477",
+            "last_retested_at_epoch": 1599865802.306477,
+            "last_retested_at_iso": "2020-09-11T23:10:02.306477",
+            "status": "INACTIVE"
+        },
         "ngludvfyaspiration.review": {
             "included_at_epoch": 1598659876.535533,
             "included_at_iso": "2020-08-29T00:11:16.535533",
@@ -23329,6 +23336,13 @@
             "included_at_iso": "2020-08-29T00:11:19.670548",
             "last_retested_at_epoch": 1598659879.670548,
             "last_retested_at_iso": "2020-08-29T00:11:19.670548",
+            "status": "INACTIVE"
+        },
+        "ns1.lighthost.com": {
+            "included_at_epoch": 1599865804.510508,
+            "included_at_iso": "2020-09-11T23:10:04.510508",
+            "last_retested_at_epoch": 1599865804.510508,
+            "last_retested_at_iso": "2020-09-11T23:10:04.510508",
             "status": "INACTIVE"
         },
         "ns3.adsender.us": {
