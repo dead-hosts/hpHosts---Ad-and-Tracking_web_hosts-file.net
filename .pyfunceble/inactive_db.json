@@ -1225,6 +1225,13 @@
             "last_retested_at_iso": "2020-08-30T19:32:23.272118",
             "status": "INACTIVE"
         },
+        "1.ptp22.com": {
+            "included_at_epoch": 1599853071.834518,
+            "included_at_iso": "2020-09-11T19:37:51.834518",
+            "last_retested_at_epoch": 1599853071.834518,
+            "last_retested_at_iso": "2020-09-11T19:37:51.834518",
+            "status": "INACTIVE"
+        },
         "11163929-2410.c.adprotect.net": {
             "included_at_epoch": 1598815943.51772,
             "included_at_iso": "2020-08-30T19:32:23.517720",
