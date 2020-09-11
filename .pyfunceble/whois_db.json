@@ -7734,8 +7734,9 @@
         "state": "future"
     },
     "ethicalads.net": {
-        "epoch": 1599696000.0,
-        "expiration_date": "10-sep-2020",
+        "epoch": 1626652800.0,
+        "expiration_date": "19-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "ethn.io": {
