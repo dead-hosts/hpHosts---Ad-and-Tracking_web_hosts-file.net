@@ -26103,6 +26103,13 @@
             "last_retested_at_iso": "2020-08-29T00:30:07.472526",
             "status": "INACTIVE"
         },
+        "s.ad7m.com": {
+            "included_at_epoch": 1599867904.484508,
+            "included_at_iso": "2020-09-11T23:45:04.484508",
+            "last_retested_at_epoch": 1599867904.484508,
+            "last_retested_at_iso": "2020-09-11T23:45:04.484508",
+            "status": "INACTIVE"
+        },
         "s.jwpltx.com": {
             "included_at_epoch": 1598661008.008412,
             "included_at_iso": "2020-08-29T00:30:08.008412",
@@ -26808,6 +26815,13 @@
             "included_at_iso": "2020-08-29T00:47:48.061684",
             "last_retested_at_epoch": 1598662068.061684,
             "last_retested_at_iso": "2020-08-29T00:47:48.061684",
+            "status": "INACTIVE"
+        },
+        "sidebar.angelfire.com": {
+            "included_at_epoch": 1599867917.673953,
+            "included_at_iso": "2020-09-11T23:45:17.673953",
+            "last_retested_at_epoch": 1599867917.673953,
+            "last_retested_at_iso": "2020-09-11T23:45:17.673953",
             "status": "INACTIVE"
         },
         "sig.gamerdna.com": {
