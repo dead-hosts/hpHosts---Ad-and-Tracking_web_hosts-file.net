@@ -36925,6 +36925,13 @@
             "last_retested_at_iso": "2020-09-04T01:19:44.667702",
             "status": "INACTIVE"
         },
+        "www.thaidigger.com": {
+            "included_at_epoch": 1599873083.885758,
+            "included_at_iso": "2020-09-12T01:11:23.885758",
+            "last_retested_at_epoch": 1599873083.885758,
+            "last_retested_at_iso": "2020-09-12T01:11:23.885758",
+            "status": "INACTIVE"
+        },
         "www.thalliformxaujqbsq.website": {
             "included_at_epoch": 1598670316.021186,
             "included_at_iso": "2020-08-29T03:05:16.021186",
