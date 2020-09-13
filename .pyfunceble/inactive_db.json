@@ -1225,6 +1225,13 @@
             "last_retested_at_iso": "2020-08-30T19:32:23.272118",
             "status": "INACTIVE"
         },
+        "0br.realsecuredredirect.com": {
+            "included_at_epoch": 1600025893.884509,
+            "included_at_iso": "2020-09-13T19:38:13.884509",
+            "last_retested_at_epoch": 1600025893.884509,
+            "last_retested_at_iso": "2020-09-13T19:38:13.884509",
+            "status": "INACTIVE"
+        },
         "1.ptp22.com": {
             "included_at_epoch": 1599853071.834518,
             "included_at_iso": "2020-09-11T19:37:51.834518",
@@ -3085,6 +3092,20 @@
             "included_at_iso": "2020-08-30T19:32:47.438449",
             "last_retested_at_epoch": 1598815967.438449,
             "last_retested_at_iso": "2020-08-30T19:32:47.438449",
+            "status": "INACTIVE"
+        },
+        "21v6m.realsecuredredirect.com": {
+            "included_at_epoch": 1600025894.511125,
+            "included_at_iso": "2020-09-13T19:38:14.511125",
+            "last_retested_at_epoch": 1600025894.511125,
+            "last_retested_at_iso": "2020-09-13T19:38:14.511125",
+            "status": "INACTIVE"
+        },
+        "279r.realsecuredredirect.com": {
+            "included_at_epoch": 1600025894.716187,
+            "included_at_iso": "2020-09-13T19:38:14.716187",
+            "last_retested_at_epoch": 1600025894.716187,
+            "last_retested_at_iso": "2020-09-13T19:38:14.716187",
             "status": "INACTIVE"
         },
         "2912a.v.fwmrm.net": {
