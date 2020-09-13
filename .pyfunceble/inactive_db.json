@@ -23408,6 +23408,13 @@
             "last_retested_at_iso": "2020-08-29T00:11:20.741773",
             "status": "INACTIVE"
         },
+        "nvk.realsecuredredirect.com": {
+            "included_at_epoch": 1600038576.813276,
+            "included_at_iso": "2020-09-13T23:09:36.813276",
+            "last_retested_at_epoch": 1600038576.813276,
+            "last_retested_at_iso": "2020-09-13T23:09:36.813276",
+            "status": "INACTIVE"
+        },
         "nwxpdqczwighting.review": {
             "included_at_epoch": 1598659881.078279,
             "included_at_iso": "2020-08-29T00:11:21.078279",
