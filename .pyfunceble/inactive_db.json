@@ -16618,6 +16618,13 @@
             "last_retested_at_iso": "2020-08-30T22:31:59.882142",
             "status": "INACTIVE"
         },
+        "creative.ad7m.com": {
+            "included_at_epoch": 1600034340.196807,
+            "included_at_iso": "2020-09-13T21:59:00.196807",
+            "last_retested_at_epoch": 1600034340.196807,
+            "last_retested_at_iso": "2020-09-13T21:59:00.196807",
+            "status": "INACTIVE"
+        },
         "creative.adonion.com": {
             "included_at_epoch": 1598826720.189379,
             "included_at_iso": "2020-08-30T22:32:00.189379",
