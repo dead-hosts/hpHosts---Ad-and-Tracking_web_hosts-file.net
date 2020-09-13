@@ -8603,10 +8603,10 @@
         "state": "future"
     },
     "get-answers-fast.com": {
-        "epoch": 1593993600.0,
-        "expiration_date": "06-jul-2020",
+        "epoch": 1631404800.0,
+        "expiration_date": "12-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "get-information.com": {
         "epoch": 1624579200.0,
@@ -9120,7 +9120,7 @@
         "epoch": 1599955200.0,
         "expiration_date": "13-sep-2020",
         "server": "whois.verisign-grs.com",
-        "state": "future"
+        "state": "past"
     },
     "higheurest.com": {
         "epoch": 1601683200.0,
@@ -9513,8 +9513,9 @@
         "state": "future"
     },
     "iconator.com": {
-        "epoch": 1599868800.0,
-        "expiration_date": "12-sep-2020",
+        "epoch": 1631404800.0,
+        "expiration_date": "12-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "icontact.com": {
@@ -9603,8 +9604,9 @@
         "state": "future"
     },
     "iloopmobile.com": {
-        "epoch": 1599868800.0,
-        "expiration_date": "12-sep-2020",
+        "epoch": 1631404800.0,
+        "expiration_date": "12-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "ilovecookies.co": {

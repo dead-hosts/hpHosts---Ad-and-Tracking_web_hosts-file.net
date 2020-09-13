@@ -19313,6 +19313,13 @@
             "last_retested_at_iso": "2020-08-30T23:07:50.279778",
             "status": "INACTIVE"
         },
+        "fxj.realsecuredredirect.com": {
+            "included_at_epoch": 1600036448.903348,
+            "included_at_iso": "2020-09-13T22:34:08.903348",
+            "last_retested_at_epoch": 1600036448.903348,
+            "last_retested_at_iso": "2020-09-13T22:34:08.903348",
+            "status": "INACTIVE"
+        },
         "fxnvsyupprovender.review": {
             "included_at_epoch": 1598828870.643504,
             "included_at_iso": "2020-08-30T23:07:50.643504",
