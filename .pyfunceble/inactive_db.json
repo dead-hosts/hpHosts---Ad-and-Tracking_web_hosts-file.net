@@ -15393,6 +15393,13 @@
             "last_retested_at_iso": "2020-08-30T21:56:34.635506",
             "status": "INACTIVE"
         },
+        "cdn.hanaprop.com": {
+            "included_at_epoch": 1600033277.56498,
+            "included_at_iso": "2020-09-13T21:41:17.564980",
+            "last_retested_at_epoch": 1600033277.56498,
+            "last_retested_at_iso": "2020-09-13T21:41:17.564980",
+            "status": "INACTIVE"
+        },
         "cdn.inentasky.com": {
             "included_at_epoch": 1599687624.538049,
             "included_at_iso": "2020-09-09T21:40:24.538049",
@@ -16000,6 +16007,13 @@
             "included_at_iso": "2020-08-30T22:14:05.414454",
             "last_retested_at_epoch": 1598825645.414454,
             "last_retested_at_iso": "2020-08-30T22:14:05.414454",
+            "status": "INACTIVE"
+        },
+        "clicksrvr.co": {
+            "included_at_epoch": 1600033284.844983,
+            "included_at_iso": "2020-09-13T21:41:24.844983",
+            "last_retested_at_epoch": 1600033284.844983,
+            "last_retested_at_iso": "2020-09-13T21:41:24.844983",
             "status": "INACTIVE"
         },
         "clickthrucash.com": {
