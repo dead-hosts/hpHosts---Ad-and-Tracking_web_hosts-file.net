@@ -2506,8 +2506,8 @@
         "state": "future"
     },
     "adsxgm.com": {
-        "epoch": 1599868800.0,
-        "expiration_date": "12-sep-2020",
+        "epoch": 1631404800.0,
+        "expiration_date": "12-sep-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -3251,7 +3251,8 @@
     "affise.com": {
         "epoch": 1599955200.0,
         "expiration_date": "13-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "affsharkoffer.com": {
         "epoch": 1627862400.0,
