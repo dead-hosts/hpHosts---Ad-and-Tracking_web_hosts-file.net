@@ -35273,6 +35273,13 @@
             "last_retested_at_iso": "2020-08-29T03:04:40.578666",
             "status": "INACTIVE"
         },
+        "www.n72adserv.com": {
+            "included_at_epoch": 1600045133.676928,
+            "included_at_iso": "2020-09-14T00:58:53.676928",
+            "last_retested_at_epoch": 1600045133.676928,
+            "last_retested_at_iso": "2020-09-14T00:58:53.676928",
+            "status": "INACTIVE"
+        },
         "www.n79adserv.com": {
             "included_at_epoch": 1598670280.997101,
             "included_at_iso": "2020-08-29T03:04:40.997101",
@@ -37805,6 +37812,13 @@
             "included_at_iso": "2020-08-29T03:05:32.061984",
             "last_retested_at_epoch": 1598670332.061984,
             "last_retested_at_iso": "2020-08-29T03:05:32.061984",
+            "status": "INACTIVE"
+        },
+        "www.webpagescripts.net": {
+            "included_at_epoch": 1600045146.245022,
+            "included_at_iso": "2020-09-14T00:59:06.245022",
+            "last_retested_at_epoch": 1600045146.245022,
+            "last_retested_at_iso": "2020-09-14T00:59:06.245022",
             "status": "INACTIVE"
         },
         "www.webprowire.com": {
