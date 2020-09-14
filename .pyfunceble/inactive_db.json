@@ -31507,6 +31507,20 @@
             "last_retested_at_iso": "2020-08-29T02:37:27.659561",
             "status": "INACTIVE"
         },
+        "www.bullseye-network.com": {
+            "included_at_epoch": 1600044080.686125,
+            "included_at_iso": "2020-09-14T00:41:20.686125",
+            "last_retested_at_epoch": 1600044080.686125,
+            "last_retested_at_iso": "2020-09-14T00:41:20.686125",
+            "status": "INACTIVE"
+        },
+        "www.bullseye-network.net": {
+            "included_at_epoch": 1600044080.834885,
+            "included_at_iso": "2020-09-14T00:41:20.834885",
+            "last_retested_at_epoch": 1600044080.834885,
+            "last_retested_at_iso": "2020-09-14T00:41:20.834885",
+            "status": "INACTIVE"
+        },
         "www.bungeysswkhiug.download": {
             "included_at_epoch": 1598668647.811372,
             "included_at_iso": "2020-08-29T02:37:27.811372",
@@ -31813,6 +31827,13 @@
             "included_at_iso": "2020-08-29T02:37:33.202753",
             "last_retested_at_epoch": 1598668653.202753,
             "last_retested_at_iso": "2020-08-29T02:37:33.202753",
+            "status": "INACTIVE"
+        },
+        "www.clicksrvr.co": {
+            "included_at_epoch": 1600044082.739868,
+            "included_at_iso": "2020-09-14T00:41:22.739868",
+            "last_retested_at_epoch": 1600044082.739868,
+            "last_retested_at_iso": "2020-09-14T00:41:22.739868",
             "status": "INACTIVE"
         },
         "www.clicktracksolutions.com": {
