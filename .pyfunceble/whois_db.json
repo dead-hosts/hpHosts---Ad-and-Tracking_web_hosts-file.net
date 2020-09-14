@@ -16116,10 +16116,10 @@
         "state": "future"
     },
     "track112.com": {
-        "epoch": 1599868800.0,
-        "expiration_date": "12-sep-2020",
+        "epoch": 1631404800.0,
+        "expiration_date": "12-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "trackads.com": {
         "epoch": 1607299200.0,
@@ -16331,10 +16331,10 @@
         "state": "future"
     },
     "traffichold.com": {
-        "epoch": 1599782400.0,
-        "expiration_date": "11-sep-2020",
+        "epoch": 1631318400.0,
+        "expiration_date": "11-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "trafficjuicer.com": {
         "epoch": 1631059200.0,
@@ -16702,8 +16702,9 @@
         "state": "future"
     },
     "tynt.com": {
-        "epoch": 1599955200.0,
-        "expiration_date": "13-sep-2020",
+        "epoch": 1631491200.0,
+        "expiration_date": "13-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "typiol.com": {
