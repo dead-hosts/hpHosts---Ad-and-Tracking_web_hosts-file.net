@@ -2641,8 +2641,9 @@
         "state": "future"
     },
     "adtrade.net": {
-        "epoch": 1600128000.0,
-        "expiration_date": "15-sep-2020",
+        "epoch": 1631664000.0,
+        "expiration_date": "15-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adtredo.com": {
@@ -2977,8 +2978,9 @@
         "state": "future"
     },
     "advnet.xyz": {
-        "epoch": 1599868800.0,
-        "expiration_date": "12-sep-2020",
+        "epoch": 1606262400.0,
+        "expiration_date": "25-nov-2020",
+        "server": "whois.nic.xyz",
         "state": "future"
     },
     "advnt01.com": {
@@ -3250,10 +3252,10 @@
         "state": "future"
     },
     "affise.com": {
-        "epoch": 1599955200.0,
-        "expiration_date": "13-sep-2020",
+        "epoch": 1631491200.0,
+        "expiration_date": "13-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "affsharkoffer.com": {
         "epoch": 1627862400.0,
