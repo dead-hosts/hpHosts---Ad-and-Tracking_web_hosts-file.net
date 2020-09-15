@@ -9121,10 +9121,10 @@
         "state": "future"
     },
     "highcpms.com": {
-        "epoch": 1599955200.0,
-        "expiration_date": "13-sep-2020",
+        "epoch": 1631491200.0,
+        "expiration_date": "13-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "higheurest.com": {
         "epoch": 1601683200.0,
@@ -9980,8 +9980,9 @@
         "state": "future"
     },
     "inuvi.com": {
-        "epoch": 1600128000.0,
-        "expiration_date": "15-sep-2020",
+        "epoch": 1631664000.0,
+        "expiration_date": "15-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "iperceptions.com": {
@@ -10502,8 +10503,9 @@
         "state": "future"
     },
     "lacodeworks.com": {
-        "epoch": 1600041600.0,
-        "expiration_date": "14-sep-2020",
+        "epoch": 1663113600.0,
+        "expiration_date": "14-sep-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "laih.com": {
