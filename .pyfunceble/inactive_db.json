@@ -18144,6 +18144,13 @@
             "last_retested_at_iso": "2020-08-30T22:49:47.090793",
             "status": "INACTIVE"
         },
+        "dtm.advertising.com": {
+            "included_at_epoch": 1600208317.638854,
+            "included_at_iso": "2020-09-15T22:18:37.638854",
+            "last_retested_at_epoch": 1600208317.638854,
+            "last_retested_at_iso": "2020-09-15T22:18:37.638854",
+            "status": "INACTIVE"
+        },
         "dtrck.xyz": {
             "included_at_epoch": 1598827787.238114,
             "included_at_iso": "2020-08-30T22:49:47.238114",
