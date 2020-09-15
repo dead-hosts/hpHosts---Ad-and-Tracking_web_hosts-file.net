@@ -19495,6 +19495,13 @@
             "last_retested_at_iso": "2020-08-30T23:07:58.415370",
             "status": "INACTIVE"
         },
+        "getlinksinaseconds.com": {
+            "included_at_epoch": 1600209399.465153,
+            "included_at_iso": "2020-09-15T22:36:39.465153",
+            "last_retested_at_epoch": 1600209399.465153,
+            "last_retested_at_iso": "2020-09-15T22:36:39.465153",
+            "status": "INACTIVE"
+        },
         "gg.mob.vendimob.pl": {
             "included_at_epoch": 1598828879.068012,
             "included_at_iso": "2020-08-30T23:07:59.068012",
