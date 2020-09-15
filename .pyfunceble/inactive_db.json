@@ -25249,6 +25249,13 @@
             "last_retested_at_iso": "2020-08-29T00:29:37.860717",
             "status": "INACTIVE"
         },
+        "ptp.lolco.net": {
+            "included_at_epoch": 1600212586.762014,
+            "included_at_iso": "2020-09-15T23:29:46.762014",
+            "last_retested_at_epoch": 1600212586.762014,
+            "last_retested_at_iso": "2020-09-15T23:29:46.762014",
+            "status": "INACTIVE"
+        },
         "pub3.media-clic.com": {
             "included_at_epoch": 1598660979.261602,
             "included_at_iso": "2020-08-29T00:29:39.261602",

@@ -12689,8 +12689,9 @@
         "state": "future"
     },
     "oneandonlynetwork.com": {
-        "epoch": 1600041600.0,
-        "expiration_date": "14-sep-2020",
+        "epoch": 1631577600.0,
+        "expiration_date": "14-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "onefeed.co.uk": {
@@ -12986,7 +12987,8 @@
     "paid-work-at-home.com": {
         "epoch": 1600128000.0,
         "expiration_date": "15-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "palimashop.com": {
         "epoch": 1629590400.0,
