@@ -27468,6 +27468,13 @@
             "last_retested_at_iso": "2020-08-29T00:47:59.471398",
             "status": "INACTIVE"
         },
+        "spin.spinbox.net": {
+            "included_at_epoch": 1600213743.461048,
+            "included_at_iso": "2020-09-15T23:49:03.461048",
+            "last_retested_at_epoch": 1600213743.461048,
+            "last_retested_at_iso": "2020-09-15T23:49:03.461048",
+            "status": "INACTIVE"
+        },
         "spixl.ivwbox.de": {
             "included_at_epoch": 1598662079.647971,
             "included_at_iso": "2020-08-29T00:47:59.647971",
