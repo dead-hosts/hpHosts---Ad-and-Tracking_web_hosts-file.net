@@ -15897,6 +15897,13 @@
             "last_retested_at_iso": "2020-08-30T21:56:50.129005",
             "status": "INACTIVE"
         },
+        "click.ipc.ru": {
+            "included_at_epoch": 1600206214.377085,
+            "included_at_iso": "2020-09-15T21:43:34.377085",
+            "last_retested_at_epoch": 1600206214.377085,
+            "last_retested_at_iso": "2020-09-15T21:43:34.377085",
+            "status": "INACTIVE"
+        },
         "click.linkstorm.net": {
             "included_at_epoch": 1598824610.351687,
             "included_at_iso": "2020-08-30T21:56:50.351687",
