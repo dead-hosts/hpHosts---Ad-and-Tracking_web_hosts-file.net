@@ -27713,6 +27713,13 @@
             "last_retested_at_iso": "2020-08-29T00:48:07.032709",
             "status": "INACTIVE"
         },
+        "stateresolver.link": {
+            "included_at_epoch": 1600214779.725988,
+            "included_at_iso": "2020-09-16T00:06:19.725988",
+            "last_retested_at_epoch": 1600214779.725988,
+            "last_retested_at_iso": "2020-09-16T00:06:19.725988",
+            "status": "INACTIVE"
+        },
         "static.adsnative.com": {
             "included_at_epoch": 1598662087.667485,
             "included_at_iso": "2020-08-29T00:48:07.667485",
@@ -28852,6 +28859,13 @@
             "included_at_iso": "2020-08-29T01:23:21.635553",
             "last_retested_at_epoch": 1598664201.635553,
             "last_retested_at_iso": "2020-08-29T01:23:21.635553",
+            "status": "INACTIVE"
+        },
+        "tracker.iqnomy.com": {
+            "included_at_epoch": 1600214805.076683,
+            "included_at_iso": "2020-09-16T00:06:45.076683",
+            "last_retested_at_epoch": 1600214805.076683,
+            "last_retested_at_iso": "2020-09-16T00:06:45.076683",
             "status": "INACTIVE"
         },
         "tracker.joost.com": {
