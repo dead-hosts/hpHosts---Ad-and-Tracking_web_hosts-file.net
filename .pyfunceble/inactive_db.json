@@ -28959,6 +28959,13 @@
             "last_retested_at_iso": "2020-08-29T01:23:24.324212",
             "status": "INACTIVE"
         },
+        "tracking.cmgdigital.com": {
+            "included_at_epoch": 1600215839.19003,
+            "included_at_iso": "2020-09-16T00:23:59.190030",
+            "last_retested_at_epoch": 1600215839.19003,
+            "last_retested_at_iso": "2020-09-16T00:23:59.190030",
+            "status": "INACTIVE"
+        },
         "tracking.cp.ligatus.com": {
             "included_at_epoch": 1598664204.455673,
             "included_at_iso": "2020-08-29T01:23:24.455673",
