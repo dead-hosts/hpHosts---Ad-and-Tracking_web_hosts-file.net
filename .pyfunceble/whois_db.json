@@ -12994,10 +12994,10 @@
         "state": "future"
     },
     "paid-work-at-home.com": {
-        "epoch": 1600128000.0,
-        "expiration_date": "15-sep-2020",
+        "epoch": 1631664000.0,
+        "expiration_date": "15-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "palimashop.com": {
         "epoch": 1629590400.0,
@@ -13248,8 +13248,9 @@
         "state": "future"
     },
     "pixazza.com": {
-        "epoch": 1600214400.0,
-        "expiration_date": "16-sep-2020",
+        "epoch": 1631750400.0,
+        "expiration_date": "16-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "pixel.watch": {
@@ -13390,7 +13391,8 @@
     "polluxnetwork.com": {
         "epoch": 1600300800.0,
         "expiration_date": "17-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "pompazilla.com": {
         "epoch": 1598745600.0,
@@ -13527,8 +13529,9 @@
         "state": "future"
     },
     "postmasterbannernet.com": {
-        "epoch": 1600214400.0,
-        "expiration_date": "16-sep-2020",
+        "epoch": 1607299200.0,
+        "expiration_date": "07-dec-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "poweradvertising.co.uk": {
