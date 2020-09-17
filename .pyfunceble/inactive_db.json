@@ -20643,6 +20643,13 @@
             "last_retested_at_iso": "2020-08-30T23:08:40.697288",
             "status": "INACTIVE"
         },
+        "images.ifriends.net": {
+            "included_at_epoch": 1600383302.243064,
+            "included_at_iso": "2020-09-17T22:55:02.243064",
+            "last_retested_at_epoch": 1600383302.243064,
+            "last_retested_at_iso": "2020-09-17T22:55:02.243064",
+            "status": "INACTIVE"
+        },
         "images.indiads.com": {
             "included_at_epoch": 1598828920.91789,
             "included_at_iso": "2020-08-30T23:08:40.917890",
@@ -20818,6 +20825,13 @@
             "last_retested_at_iso": "2020-08-30T23:25:57.375256",
             "status": "INACTIVE"
         },
+        "img.bizjournals.com": {
+            "included_at_epoch": 1600383303.346069,
+            "included_at_iso": "2020-09-17T22:55:03.346069",
+            "last_retested_at_epoch": 1600383303.346069,
+            "last_retested_at_iso": "2020-09-17T22:55:03.346069",
+            "status": "INACTIVE"
+        },
         "img.filefactscdn.com": {
             "included_at_epoch": 1598829957.79843,
             "included_at_iso": "2020-08-30T23:25:57.798430",
@@ -20900,6 +20914,20 @@
             "included_at_iso": "2020-08-30T23:26:01.762624",
             "last_retested_at_epoch": 1598829961.762624,
             "last_retested_at_iso": "2020-08-30T23:26:01.762624",
+            "status": "INACTIVE"
+        },
+        "include.reinvigorate.net": {
+            "included_at_epoch": 1600383306.303061,
+            "included_at_iso": "2020-09-17T22:55:06.303061",
+            "last_retested_at_epoch": 1600383306.303061,
+            "last_retested_at_iso": "2020-09-17T22:55:06.303061",
+            "status": "INACTIVE"
+        },
+        "incoming.cloud-trax.com": {
+            "included_at_epoch": 1600383306.165839,
+            "included_at_iso": "2020-09-17T22:55:06.165839",
+            "last_retested_at_epoch": 1600383306.165839,
+            "last_retested_at_iso": "2020-09-17T22:55:06.165839",
             "status": "INACTIVE"
         },
         "indoorspkacwv.download": {

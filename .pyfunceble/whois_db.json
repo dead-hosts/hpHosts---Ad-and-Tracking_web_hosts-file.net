@@ -8935,7 +8935,8 @@
     "greatcpm.com": {
         "epoch": 1600300800.0,
         "expiration_date": "17-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "greensmoke.com": {
         "epoch": 1613088000.0,
