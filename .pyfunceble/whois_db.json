@@ -2092,10 +2092,10 @@
         "state": "future"
     },
     "adsalvo.com": {
-        "epoch": 1594166400.0,
-        "expiration_date": "08-jul-2020",
+        "epoch": 1631750400.0,
+        "expiration_date": "16-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "adsaturation.com": {
         "epoch": 1605312000.0,
@@ -2906,8 +2906,9 @@
         "state": "future"
     },
     "advertjunction.com": {
-        "epoch": 1600300800.0,
-        "expiration_date": "17-sep-2020",
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "advertlets.com": {
@@ -3102,8 +3103,9 @@
         "state": "future"
     },
     "adzones.com": {
-        "epoch": 1600214400.0,
-        "expiration_date": "16-sep-2020",
+        "epoch": 1631750400.0,
+        "expiration_date": "16-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adzonk.com": {

@@ -10402,6 +10402,13 @@
             "last_retested_at_iso": "2020-08-30T21:19:46.891671",
             "status": "INACTIVE"
         },
+        "advertising.spreadomat.net": {
+            "included_at_epoch": 1600376957.691796,
+            "included_at_iso": "2020-09-17T21:09:17.691796",
+            "last_retested_at_epoch": 1600376957.691796,
+            "last_retested_at_iso": "2020-09-17T21:09:17.691796",
+            "status": "INACTIVE"
+        },
         "advertpro.sitepoint.com": {
             "included_at_epoch": 1598822387.534679,
             "included_at_iso": "2020-08-30T21:19:47.534679",
@@ -10778,6 +10785,13 @@
             "included_at_iso": "2020-08-30T21:19:58.778295",
             "last_retested_at_epoch": 1598822398.778295,
             "last_retested_at_iso": "2020-08-30T21:19:58.778295",
+            "status": "INACTIVE"
+        },
+        "alabardak.com": {
+            "included_at_epoch": 1600376962.50177,
+            "included_at_iso": "2020-09-17T21:09:22.501770",
+            "last_retested_at_epoch": 1600376962.50177,
+            "last_retested_at_iso": "2020-09-17T21:09:22.501770",
             "status": "INACTIVE"
         },
         "alea.adam.ad.daum.net": {
