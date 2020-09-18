@@ -28875,6 +28875,13 @@
             "last_retested_at_iso": "2020-08-29T01:23:19.861143",
             "status": "INACTIVE"
         },
+        "track.reinvigorate.net": {
+            "included_at_epoch": 1600388598.953114,
+            "included_at_iso": "2020-09-18T00:23:18.953114",
+            "last_retested_at_epoch": 1600388598.953114,
+            "last_retested_at_iso": "2020-09-18T00:23:18.953114",
+            "status": "INACTIVE"
+        },
         "track.rejuvenate-lifestyles.com": {
             "included_at_epoch": 1598664200.044242,
             "included_at_iso": "2020-08-29T01:23:20.044242",
@@ -29006,6 +29013,13 @@
             "included_at_iso": "2020-08-29T01:23:23.928628",
             "last_retested_at_epoch": 1598664203.928628,
             "last_retested_at_iso": "2020-08-29T01:23:23.928628",
+            "status": "INACTIVE"
+        },
+        "tracking.cat898.com": {
+            "included_at_epoch": 1600388601.668362,
+            "included_at_iso": "2020-09-18T00:23:21.668362",
+            "last_retested_at_epoch": 1600388601.668362,
+            "last_retested_at_iso": "2020-09-18T00:23:21.668362",
             "status": "INACTIVE"
         },
         "tracking.cmcigroup.com": {

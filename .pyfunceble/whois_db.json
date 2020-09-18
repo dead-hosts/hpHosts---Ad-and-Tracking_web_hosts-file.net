@@ -15819,7 +15819,7 @@
         "epoch": 1600387200.0,
         "expiration_date": "18-sep-2020",
         "server": "whois.verisign-grs.com",
-        "state": "future"
+        "state": "past"
     },
     "thebugs.ws": {
         "epoch": 1614816000.0,
@@ -16691,8 +16691,9 @@
         "state": "future"
     },
     "tuberewards.com": {
-        "epoch": 1600387200.0,
-        "expiration_date": "18-sep-2020",
+        "epoch": 1631923200.0,
+        "expiration_date": "18-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "tufosex.com.br": {
