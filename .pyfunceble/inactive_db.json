@@ -38570,6 +38570,13 @@
             "last_retested_at_iso": "2020-08-29T03:18:35.573538",
             "status": "INACTIVE"
         },
+        "xhr.ciridola.com": {
+            "included_at_epoch": 1600392463.814862,
+            "included_at_iso": "2020-09-18T01:27:43.814862",
+            "last_retested_at_epoch": 1600392463.814862,
+            "last_retested_at_iso": "2020-09-18T01:27:43.814862",
+            "status": "INACTIVE"
+        },
         "xhr.civitik.com": {
             "included_at_epoch": 1598671115.735089,
             "included_at_iso": "2020-08-29T03:18:35.735089",
