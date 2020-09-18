@@ -32235,6 +32235,13 @@
             "last_retested_at_iso": "2020-08-29T02:37:40.100756",
             "status": "INACTIVE"
         },
+        "www.cpmtips.com": {
+            "included_at_epoch": 1600390865.360817,
+            "included_at_iso": "2020-09-18T01:01:05.360817",
+            "last_retested_at_epoch": 1600390865.360817,
+            "last_retested_at_iso": "2020-09-18T01:01:05.360817",
+            "status": "INACTIVE"
+        },
         "www.cpolixyndenisles.review": {
             "included_at_epoch": 1598668660.314726,
             "included_at_iso": "2020-08-29T02:37:40.314726",
