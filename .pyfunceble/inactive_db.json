@@ -19754,6 +19754,13 @@
             "last_retested_at_iso": "2020-08-30T23:08:05.389843",
             "status": "INACTIVE"
         },
+        "go34down.com": {
+            "included_at_epoch": 1600555063.689217,
+            "included_at_iso": "2020-09-19T22:37:43.689217",
+            "last_retested_at_epoch": 1600555063.689217,
+            "last_retested_at_iso": "2020-09-19T22:37:43.689217",
+            "status": "INACTIVE"
+        },
         "gobbetsdjgjnyc.download": {
             "included_at_epoch": 1598828885.638726,
             "included_at_iso": "2020-08-30T23:08:05.638726",
