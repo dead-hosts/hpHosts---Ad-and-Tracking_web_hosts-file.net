@@ -5233,8 +5233,9 @@
         "state": "future"
     },
     "cbsmarket.com": {
-        "epoch": 1600387200.0,
-        "expiration_date": "18-sep-2020",
+        "epoch": 1606262400.0,
+        "expiration_date": "25-nov-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "cbx.net": {
@@ -5506,8 +5507,9 @@
         "state": "future"
     },
     "click2site.co": {
-        "epoch": 1600387200.0,
-        "expiration_date": "18-sep-2020",
+        "epoch": 1631923200.0,
+        "expiration_date": "18-sep-2021",
+        "server": "whois.nic.co",
         "state": "future"
     },
     "click4assistance.co.uk": {
