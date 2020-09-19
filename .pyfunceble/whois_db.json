@@ -1863,7 +1863,8 @@
     "adorigin.com": {
         "epoch": 1600473600.0,
         "expiration_date": "19-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "adorika.net": {
         "epoch": 1661990400.0,
