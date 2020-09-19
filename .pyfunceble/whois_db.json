@@ -4083,7 +4083,8 @@
     "bango.info": {
         "epoch": 1600473600.0,
         "expiration_date": "19-sep-2020",
-        "state": "future"
+        "server": "whois.afilias.net",
+        "state": "past"
     },
     "bango.net": {
         "epoch": 1626134400.0,
