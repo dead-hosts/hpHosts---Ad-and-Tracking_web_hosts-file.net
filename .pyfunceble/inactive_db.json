@@ -22239,6 +22239,13 @@
             "last_retested_at_iso": "2020-08-28T23:53:32.128050",
             "status": "INACTIVE"
         },
+        "magifirst.com": {
+            "included_at_epoch": 1600557154.291237,
+            "included_at_iso": "2020-09-19T23:12:34.291237",
+            "last_retested_at_epoch": 1600557154.291237,
+            "last_retested_at_iso": "2020-09-19T23:12:34.291237",
+            "status": "INACTIVE"
+        },
         "mahuaswcspi.download": {
             "included_at_epoch": 1598658812.395371,
             "included_at_iso": "2020-08-28T23:53:32.395371",
@@ -23336,6 +23343,13 @@
             "included_at_iso": "2020-08-29T00:11:14.721241",
             "last_retested_at_epoch": 1598659874.721241,
             "last_retested_at_iso": "2020-08-29T00:11:14.721241",
+            "status": "INACTIVE"
+        },
+        "network.nocreditcard.net": {
+            "included_at_epoch": 1600557171.401071,
+            "included_at_iso": "2020-09-19T23:12:51.401071",
+            "last_retested_at_epoch": 1600557171.401071,
+            "last_retested_at_iso": "2020-09-19T23:12:51.401071",
             "status": "INACTIVE"
         },
         "network.sofeminine.co.uk": {
