@@ -17374,8 +17374,9 @@
         "state": "future"
     },
     "waiads.com": {
-        "epoch": 1600473600.0,
-        "expiration_date": "19-sep-2020",
+        "epoch": 1632009600.0,
+        "expiration_date": "19-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "wakapita.com": {
@@ -17496,8 +17497,9 @@
         "state": "future"
     },
     "weblemon.pl": {
-        "epoch": 1600473600.0,
-        "expiration_date": "19-sep-2020",
+        "epoch": 1632009600.0,
+        "expiration_date": "19-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "weblog.com.ua": {
