@@ -15498,6 +15498,13 @@
             "last_retested_at_iso": "2020-09-13T21:41:17.564980",
             "status": "INACTIVE"
         },
+        "cdn.hiido.cn": {
+            "included_at_epoch": 1600724719.508162,
+            "included_at_iso": "2020-09-21T21:45:19.508162",
+            "last_retested_at_epoch": 1600724719.508162,
+            "last_retested_at_iso": "2020-09-21T21:45:19.508162",
+            "status": "INACTIVE"
+        },
         "cdn.inentasky.com": {
             "included_at_epoch": 1599687624.538049,
             "included_at_iso": "2020-09-09T21:40:24.538049",
