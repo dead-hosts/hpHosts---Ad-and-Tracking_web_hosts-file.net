@@ -16590,6 +16590,13 @@
             "last_retested_at_iso": "2020-08-30T22:31:51.851536",
             "status": "INACTIVE"
         },
+        "counter.fateback.com": {
+            "included_at_epoch": 1600726811.760704,
+            "included_at_iso": "2020-09-21T22:20:11.760704",
+            "last_retested_at_epoch": 1600726811.760704,
+            "last_retested_at_iso": "2020-09-21T22:20:11.760704",
+            "status": "INACTIVE"
+        },
         "counter.goingup.com": {
             "included_at_epoch": 1598826712.331774,
             "included_at_iso": "2020-08-30T22:31:52.331774",
@@ -16637,6 +16644,13 @@
             "included_at_iso": "2020-08-30T22:31:53.663603",
             "last_retested_at_epoch": 1598826713.663603,
             "last_retested_at_iso": "2020-08-30T22:31:53.663603",
+            "status": "INACTIVE"
+        },
+        "counter.wapstart.ru": {
+            "included_at_epoch": 1600726812.633372,
+            "included_at_iso": "2020-09-21T22:20:12.633372",
+            "last_retested_at_epoch": 1600726812.633372,
+            "last_retested_at_iso": "2020-09-21T22:20:12.633372",
             "status": "INACTIVE"
         },
         "counter.zeit.de": {
