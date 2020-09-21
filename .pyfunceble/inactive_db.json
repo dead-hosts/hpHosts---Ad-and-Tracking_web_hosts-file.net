@@ -4277,6 +4277,13 @@
             "last_retested_at_iso": "2020-08-30T20:26:01.149194",
             "status": "INACTIVE"
         },
+        "ad.kat.ph": {
+            "included_at_epoch": 1600720468.581952,
+            "included_at_iso": "2020-09-21T20:34:28.581952",
+            "last_retested_at_epoch": 1600720468.581952,
+            "last_retested_at_iso": "2020-09-21T20:34:28.581952",
+            "status": "INACTIVE"
+        },
         "ad.leadboltapps.net": {
             "included_at_epoch": 1598819161.366031,
             "included_at_iso": "2020-08-30T20:26:01.366031",
