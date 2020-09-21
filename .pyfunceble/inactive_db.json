@@ -9646,6 +9646,13 @@
             "last_retested_at_iso": "2020-08-30T21:02:14.852862",
             "status": "INACTIVE"
         },
+        "adserver.ad-space.net": {
+            "included_at_epoch": 1600722590.283563,
+            "included_at_iso": "2020-09-21T21:09:50.283563",
+            "last_retested_at_epoch": 1600722590.283563,
+            "last_retested_at_iso": "2020-09-21T21:09:50.283563",
+            "status": "INACTIVE"
+        },
         "adserver.affiliatemg.com": {
             "included_at_epoch": 1598821335.529077,
             "included_at_iso": "2020-08-30T21:02:15.529077",
@@ -10512,6 +10519,13 @@
             "included_at_iso": "2020-08-30T21:19:48.862840",
             "last_retested_at_epoch": 1598822388.86284,
             "last_retested_at_iso": "2020-08-30T21:19:48.862840",
+            "status": "INACTIVE"
+        },
+        "adx.kat.ph": {
+            "included_at_epoch": 1600722598.610744,
+            "included_at_iso": "2020-09-21T21:09:58.610744",
+            "last_retested_at_epoch": 1600722598.610744,
+            "last_retested_at_iso": "2020-09-21T21:09:58.610744",
             "status": "INACTIVE"
         },
         "adz.zwee.ly": {

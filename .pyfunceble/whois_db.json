@@ -2390,8 +2390,9 @@
         "state": "future"
     },
     "adspinner.com": {
-        "epoch": 1600560000.0,
-        "expiration_date": "20-sep-2020",
+        "epoch": 1632096000.0,
+        "expiration_date": "20-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adsplay.in": {
@@ -2801,10 +2802,10 @@
         "state": "future"
     },
     "adversalservers.com": {
-        "epoch": 1600473600.0,
-        "expiration_date": "19-sep-2020",
+        "epoch": 1632009600.0,
+        "expiration_date": "19-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "advertarium.com.ua": {
         "epoch": 1601942400.0,
@@ -3031,8 +3032,9 @@
         "state": "future"
     },
     "adworldmedia.com": {
-        "epoch": 1600560000.0,
-        "expiration_date": "20-sep-2020",
+        "epoch": 1632096000.0,
+        "expiration_date": "20-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adxite.com": {
