@@ -3318,6 +3318,13 @@
             "last_retested_at_iso": "2020-08-30T19:49:56.005048",
             "status": "INACTIVE"
         },
+        "a.ciridola.com": {
+            "included_at_epoch": 1600718327.458533,
+            "included_at_iso": "2020-09-21T19:58:47.458533",
+            "last_retested_at_epoch": 1600718327.458533,
+            "last_retested_at_iso": "2020-09-21T19:58:47.458533",
+            "status": "INACTIVE"
+        },
         "a.civitik.com": {
             "included_at_epoch": 1598816996.09324,
             "included_at_iso": "2020-08-30T19:49:56.093240",
@@ -3491,6 +3498,13 @@
             "included_at_iso": "2020-08-30T19:49:58.571803",
             "last_retested_at_epoch": 1598816998.571803,
             "last_retested_at_iso": "2020-08-30T19:49:58.571803",
+            "status": "INACTIVE"
+        },
+        "a.kat.ph": {
+            "included_at_epoch": 1600718327.968555,
+            "included_at_iso": "2020-09-21T19:58:47.968555",
+            "last_retested_at_epoch": 1600718327.968555,
+            "last_retested_at_iso": "2020-09-21T19:58:47.968555",
             "status": "INACTIVE"
         },
         "a.kilomansa.com": {
@@ -4093,6 +4107,13 @@
             "included_at_iso": "2020-08-30T19:50:09.161596",
             "last_retested_at_epoch": 1598817009.161596,
             "last_retested_at_iso": "2020-08-30T19:50:09.161596",
+            "status": "INACTIVE"
+        },
+        "ad.3322.net": {
+            "included_at_epoch": 1600718330.201014,
+            "included_at_iso": "2020-09-21T19:58:50.201014",
+            "last_retested_at_epoch": 1600718330.201014,
+            "last_retested_at_iso": "2020-09-21T19:58:50.201014",
             "status": "INACTIVE"
         },
         "ad.aboutit.de": {
