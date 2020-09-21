@@ -16191,6 +16191,13 @@
             "last_retested_at_iso": "2020-08-30T22:14:08.372771",
             "status": "INACTIVE"
         },
+        "cloudixconnection.com": {
+            "included_at_epoch": 1600725757.256526,
+            "included_at_iso": "2020-09-21T22:02:37.256526",
+            "last_retested_at_epoch": 1600725757.256526,
+            "last_retested_at_iso": "2020-09-21T22:02:37.256526",
+            "status": "INACTIVE"
+        },
         "cm.ac3.msn.com": {
             "included_at_epoch": 1598825648.927942,
             "included_at_iso": "2020-08-30T22:14:08.927942",
@@ -16224,6 +16231,13 @@
             "included_at_iso": "2020-09-19T21:44:58.471182",
             "last_retested_at_epoch": 1600551898.471182,
             "last_retested_at_iso": "2020-09-19T21:44:58.471182",
+            "status": "INACTIVE"
+        },
+        "cncdn.9966.org": {
+            "included_at_epoch": 1600725758.277018,
+            "included_at_iso": "2020-09-21T22:02:38.277018",
+            "last_retested_at_epoch": 1600725758.277018,
+            "last_retested_at_iso": "2020-09-21T22:02:38.277018",
             "status": "INACTIVE"
         },
         "cnt.in.bookmyshow.com": {
