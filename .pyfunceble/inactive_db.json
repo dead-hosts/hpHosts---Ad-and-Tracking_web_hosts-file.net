@@ -24710,6 +24710,13 @@
             "last_retested_at_iso": "2020-08-29T00:11:42.103170",
             "status": "INACTIVE"
         },
+        "ox.indomediagroup.com": {
+            "included_at_epoch": 1600731077.079908,
+            "included_at_iso": "2020-09-21T23:31:17.079908",
+            "last_retested_at_epoch": 1600731077.079908,
+            "last_retested_at_iso": "2020-09-21T23:31:17.079908",
+            "status": "INACTIVE"
+        },
         "ox.mediabistro.com": {
             "included_at_epoch": 1598659902.242509,
             "included_at_iso": "2020-08-29T00:11:42.242509",
@@ -24778,6 +24785,13 @@
             "included_at_iso": "2020-08-29T00:11:45.034193",
             "last_retested_at_epoch": 1598659905.034193,
             "last_retested_at_iso": "2020-08-29T00:11:45.034193",
+            "status": "INACTIVE"
+        },
+        "pan.conanpartners.com": {
+            "included_at_epoch": 1600731079.218622,
+            "included_at_iso": "2020-09-21T23:31:19.218622",
+            "last_retested_at_epoch": 1600731079.218622,
+            "last_retested_at_iso": "2020-09-21T23:31:19.218622",
             "status": "INACTIVE"
         },
         "pandectxfszuufr.download": {
