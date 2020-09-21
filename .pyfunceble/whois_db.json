@@ -9463,8 +9463,9 @@
         "state": "future"
     },
     "hunt-leads.com": {
-        "epoch": 1600560000.0,
-        "expiration_date": "20-sep-2020",
+        "epoch": 1632096000.0,
+        "expiration_date": "20-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "huntmad.com": {
