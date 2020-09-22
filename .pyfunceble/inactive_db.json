@@ -27895,6 +27895,13 @@
             "last_retested_at_iso": "2020-09-13T23:45:02.885563",
             "status": "INACTIVE"
         },
+        "stat.tianya.cn": {
+            "included_at_epoch": 1600733205.882072,
+            "included_at_iso": "2020-09-22T00:06:45.882072",
+            "last_retested_at_epoch": 1600733205.882072,
+            "last_retested_at_iso": "2020-09-22T00:06:45.882072",
+            "status": "INACTIVE"
+        },
         "stat.vidcore.tv": {
             "included_at_epoch": 1598662086.627046,
             "included_at_iso": "2020-08-29T00:48:06.627046",
