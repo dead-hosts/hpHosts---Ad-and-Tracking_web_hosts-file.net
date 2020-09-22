@@ -15685,8 +15685,9 @@
         "state": "future"
     },
     "taplytics.com": {
-        "epoch": 1600646400.0,
-        "expiration_date": "21-sep-2020",
+        "epoch": 1632182400.0,
+        "expiration_date": "21-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "tapsense.com": {
@@ -15804,8 +15805,9 @@
         "state": "future"
     },
     "the-binary-trader.biz": {
-        "epoch": 1600646400.0,
-        "expiration_date": "21-sep-2020",
+        "epoch": 1632182400.0,
+        "expiration_date": "21-sep-2021",
+        "server": "whois.nic.biz",
         "state": "future"
     },
     "the-counter.net": {
