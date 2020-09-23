@@ -17605,6 +17605,13 @@
             "last_retested_at_iso": "2020-08-30T22:32:21.335304",
             "status": "INACTIVE"
         },
+        "data.marketgid.com": {
+            "included_at_epoch": 1600899776.400916,
+            "included_at_iso": "2020-09-23T22:22:56.400916",
+            "last_retested_at_epoch": 1600899776.400916,
+            "last_retested_at_iso": "2020-09-23T22:22:56.400916",
+            "status": "INACTIVE"
+        },
         "data.mobclix.com": {
             "included_at_epoch": 1598826741.503331,
             "included_at_iso": "2020-08-30T22:32:21.503331",
