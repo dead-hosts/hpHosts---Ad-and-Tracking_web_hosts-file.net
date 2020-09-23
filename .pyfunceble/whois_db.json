@@ -5296,8 +5296,9 @@
         "state": "future"
     },
     "certified-email.com": {
-        "epoch": 1600819200.0,
-        "expiration_date": "23-sep-2020",
+        "epoch": 1695427200.0,
+        "expiration_date": "23-sep-2023",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "cetrk.com": {
@@ -5643,8 +5644,9 @@
         "state": "future"
     },
     "clickcash.com": {
-        "epoch": 1600732800.0,
-        "expiration_date": "22-sep-2020",
+        "epoch": 1632268800.0,
+        "expiration_date": "22-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "clickcashmoney.com": {
