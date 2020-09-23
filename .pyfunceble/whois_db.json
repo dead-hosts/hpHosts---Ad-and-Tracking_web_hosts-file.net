@@ -13597,8 +13597,9 @@
         "state": "future"
     },
     "predictad.com": {
-        "epoch": 1600732800.0,
-        "expiration_date": "22-sep-2020",
+        "epoch": 1663804800.0,
+        "expiration_date": "22-sep-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "predictivadvertising.com": {
