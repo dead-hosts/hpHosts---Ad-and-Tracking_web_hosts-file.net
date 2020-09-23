@@ -11480,6 +11480,13 @@
             "last_retested_at_iso": "2020-08-30T21:20:15.318897",
             "status": "INACTIVE"
         },
+        "application.bfast.com": {
+            "included_at_epoch": 1600896582.514733,
+            "included_at_iso": "2020-09-23T21:29:42.514733",
+            "last_retested_at_epoch": 1600896582.514733,
+            "last_retested_at_iso": "2020-09-23T21:29:42.514733",
+            "status": "INACTIVE"
+        },
         "appmpire.go2affise.com": {
             "included_at_epoch": 1598822415.597582,
             "included_at_iso": "2020-08-30T21:20:15.597582",

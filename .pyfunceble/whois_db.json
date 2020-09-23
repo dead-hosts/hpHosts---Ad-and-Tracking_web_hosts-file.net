@@ -3954,10 +3954,10 @@
         "state": "future"
     },
     "avatarresources.com": {
-        "epoch": 1600646400.0,
-        "expiration_date": "21-sep-2020",
+        "epoch": 1632182400.0,
+        "expiration_date": "21-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "avatraffic.com": {
         "epoch": 1626220800.0,
@@ -4010,7 +4010,7 @@
         "epoch": 1600819200.0,
         "expiration_date": "23-sep-2020",
         "server": "whois.verisign-grs.com",
-        "state": "future"
+        "state": "past"
     },
     "axonix.com": {
         "epoch": 1682553600.0,
