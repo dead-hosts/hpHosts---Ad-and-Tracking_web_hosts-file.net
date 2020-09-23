@@ -6608,6 +6608,13 @@
             "last_retested_at_iso": "2020-09-21T20:52:09.559685",
             "status": "INACTIVE"
         },
+        "adnet.com.tr": {
+            "included_at_epoch": 1600894476.072961,
+            "included_at_iso": "2020-09-23T20:54:36.072961",
+            "last_retested_at_epoch": 1600894476.072961,
+            "last_retested_at_iso": "2020-09-23T20:54:36.072961",
+            "status": "INACTIVE"
+        },
         "adnet.mediawhiz.com": {
             "included_at_epoch": 1598820250.79681,
             "included_at_iso": "2020-08-30T20:44:10.796810",
@@ -7460,6 +7467,13 @@
             "included_at_iso": "2020-08-30T21:01:37.720005",
             "last_retested_at_epoch": 1598821297.720005,
             "last_retested_at_iso": "2020-08-30T21:01:37.720005",
+            "status": "INACTIVE"
+        },
+        "ads.telkomsel.com": {
+            "included_at_epoch": 1600894488.175906,
+            "included_at_iso": "2020-09-23T20:54:48.175906",
+            "last_retested_at_epoch": 1600894488.175906,
+            "last_retested_at_iso": "2020-09-23T20:54:48.175906",
             "status": "INACTIVE"
         },
         "ads.topcities.com": {
