@@ -19306,6 +19306,13 @@
             "last_retested_at_iso": "2020-08-30T22:50:23.766229",
             "status": "INACTIVE"
         },
+        "foreign.marketgid.com": {
+            "included_at_epoch": 1600900840.902249,
+            "included_at_iso": "2020-09-23T22:40:40.902249",
+            "last_retested_at_epoch": 1600900840.902249,
+            "last_retested_at_iso": "2020-09-23T22:40:40.902249",
+            "status": "INACTIVE"
+        },
         "fossilisedboxbkshj.download": {
             "included_at_epoch": 1598827824.366274,
             "included_at_iso": "2020-08-30T22:50:24.366274",
