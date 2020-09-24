@@ -15502,7 +15502,8 @@
     "su600.com": {
         "epoch": 1600905600.0,
         "expiration_date": "24-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "submitexpress.co.uk": {
         "epoch": 1595203200.0,
@@ -15814,8 +15815,9 @@
         "state": "future"
     },
     "thaidigger.com": {
-        "epoch": 1600905600.0,
-        "expiration_date": "24-sep-2020",
+        "epoch": 1607040000.0,
+        "expiration_date": "04-dec-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "the-binary-trader.biz": {
