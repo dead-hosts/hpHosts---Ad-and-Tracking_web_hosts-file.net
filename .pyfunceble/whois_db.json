@@ -930,8 +930,9 @@
         "state": "future"
     },
     "adbuyer.com": {
-        "epoch": 1600905600.0,
-        "expiration_date": "24-sep-2020",
+        "epoch": 1632441600.0,
+        "expiration_date": "24-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adcade.com": {
@@ -1702,8 +1703,9 @@
         "state": "future"
     },
     "admitad.com": {
-        "epoch": 1600905600.0,
-        "expiration_date": "24-sep-2020",
+        "epoch": 1632441600.0,
+        "expiration_date": "24-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "admixer.co.kr": {
