@@ -5399,8 +5399,9 @@
         "state": "future"
     },
     "cityredirect.com": {
-        "epoch": 1600905600.0,
-        "expiration_date": "24-sep-2020",
+        "epoch": 1632441600.0,
+        "expiration_date": "24-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "cityviplink.com": {
@@ -5494,7 +5495,8 @@
     "click-ice.com": {
         "epoch": 1600992000.0,
         "expiration_date": "25-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "click168.com": {
         "epoch": 1609891200.0,
