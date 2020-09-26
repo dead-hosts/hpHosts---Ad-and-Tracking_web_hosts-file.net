@@ -16444,10 +16444,10 @@
         "state": "future"
     },
     "trafficmagnet.com": {
-        "epoch": 1600819200.0,
-        "expiration_date": "23-sep-2020",
+        "epoch": 1632355200.0,
+        "expiration_date": "23-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "trafficmasterz.net": {
         "epoch": 1627430400.0,
@@ -17128,8 +17128,9 @@
         "state": "future"
     },
     "utorido.com": {
-        "epoch": 1600992000.0,
-        "expiration_date": "25-sep-2020",
+        "epoch": 1608076800.0,
+        "expiration_date": "16-dec-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "utrade.com": {
