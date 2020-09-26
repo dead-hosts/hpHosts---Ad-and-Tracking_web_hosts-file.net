@@ -10507,7 +10507,8 @@
     "komoona.com": {
         "epoch": 1601078400.0,
         "expiration_date": "26-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "kontera.com": {
         "epoch": 1603411200.0,
