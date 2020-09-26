@@ -7041,7 +7041,8 @@
     "devolapgt.com": {
         "epoch": 1601078400.0,
         "expiration_date": "26-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "dh956.com": {
         "epoch": 1613260800.0,
@@ -7795,7 +7796,8 @@
     "eveitoki.com": {
         "epoch": 1601078400.0,
         "expiration_date": "26-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "eventi.co.il": {
         "epoch": 1621814400.0,
@@ -7868,13 +7870,15 @@
         "state": "future"
     },
     "exchangebanner.com": {
-        "epoch": 1600905600.0,
-        "expiration_date": "24-sep-2020",
+        "epoch": 1632441600.0,
+        "expiration_date": "24-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "exct.net": {
-        "epoch": 1600905600.0,
-        "expiration_date": "24-sep-2020",
+        "epoch": 1663977600.0,
+        "expiration_date": "24-sep-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "exitdevil.com": {
@@ -7987,7 +7991,8 @@
     "fastonlinefinder.com": {
         "epoch": 1600992000.0,
         "expiration_date": "25-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "fastpopclick.com": {
         "epoch": 1623196800.0,
