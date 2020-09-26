@@ -14269,7 +14269,8 @@
     "resultonline.com": {
         "epoch": 1600992000.0,
         "expiration_date": "25-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "retail-affiliates.com": {
         "epoch": 1631923200.0,
@@ -14855,8 +14856,9 @@
         "state": "future"
     },
     "senseiproducts.com": {
-        "epoch": 1590883200.0,
-        "expiration_date": "31-may-2020",
+        "epoch": 1630972800.0,
+        "expiration_date": "07-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "sensor.org.ua": {
