@@ -14989,8 +14989,9 @@
         "state": "future"
     },
     "shokala.com": {
-        "epoch": 1600992000.0,
-        "expiration_date": "25-sep-2020",
+        "epoch": 1632528000.0,
+        "expiration_date": "25-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "shopexplorer.com": {
@@ -15330,10 +15331,10 @@
         "state": "future"
     },
     "sponsorpay.com": {
-        "epoch": 1600819200.0,
-        "expiration_date": "23-sep-2020",
+        "epoch": 1632355200.0,
+        "expiration_date": "23-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "sponsorships.net": {
         "epoch": 1601251200.0,
