@@ -1,0 +1,15 @@
+{
+    "abs_source": "/home/runner/work/hpHosts---Ad-and-Tracking_web_hosts-file.net/hpHosts---Ad-and-Tracking_web_hosts-file.net/origin.list",
+    "checker_type": "AVAILABILITY",
+    "destination": "origin.list",
+    "hash": "8af39a5d85fab61a78548dfeafa02c55737fb16b6e78d4742315808b",
+    "line_number": 12037,
+    "output_dir": "/home/runner/work/hpHosts---Ad-and-Tracking_web_hosts-file.net/hpHosts---Ad-and-Tracking_web_hosts-file.net/output/origin.list",
+    "previous_hash": null,
+    "rel_source": "origin.list",
+    "session_id": "4e6a198e3a900ac5e8db5de1",
+    "source": "/home/runner/work/hpHosts---Ad-and-Tracking_web_hosts-file.net/hpHosts---Ad-and-Tracking_web_hosts-file.net/origin.list",
+    "subject": "/home/runner/work/hpHosts---Ad-and-Tracking_web_hosts-file.net/hpHosts---Ad-and-Tracking_web_hosts-file.net/origin.list",
+    "subject_type": "domain",
+    "type": "file"
+}
