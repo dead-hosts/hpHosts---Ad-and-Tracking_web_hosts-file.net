@@ -1485,6 +1485,7 @@
         "com.de",
         "community-pro.de",
         "customer.speedpartner.de",
+        "dd-dns.de",
         "ddnss.de",
         "diskussionsbereich.de",
         "dnshome.de",
@@ -1555,6 +1556,8 @@
         "deno.dev",
         "fly.dev",
         "gateway.dev",
+        "github.dev",
+        "githubpreview.dev",
         "iserv.dev",
         "lcl.dev",
         "lclstage.dev",
@@ -4924,7 +4927,6 @@
     "mt": [
         "blogspot.com.mt",
         "com.mt",
-        "dd-dns.de",
         "edu.mt",
         "net.mt",
         "org.mt"
@@ -7702,7 +7704,8 @@
         "store.st"
     ],
     "store": [
-        "shopware.store"
+        "shopware.store",
+        "storebase.store"
     ],
     "su": [
         "abkhazia.su",
