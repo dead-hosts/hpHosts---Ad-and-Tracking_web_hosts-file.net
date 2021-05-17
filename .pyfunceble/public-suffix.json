@@ -1825,7 +1825,8 @@
         "gov.gi",
         "ltd.gi",
         "mod.gi",
-        "org.gi"
+        "org.gi",
+        "org.hk"
     ],
     "gl": [
         "biz.gl",
@@ -1966,7 +1967,6 @@
         "half.host",
         "jele.host",
         "mircloud.host",
-        "mozilla-iot.org",
         "myfast.host",
         "pcloud.host",
         "tempurl.host",
