@@ -764,6 +764,7 @@
         "alp1.ae.flow.ch",
         "appengine.flow.ch",
         "blogspot.ch",
+        "dnsking.ch",
         "firenet.ch",
         "gotdns.ch",
         "lima-city.ch",
@@ -1824,8 +1825,7 @@
         "gov.gi",
         "ltd.gi",
         "mod.gi",
-        "org.gi",
-        "org.hk"
+        "org.gi"
     ],
     "gl": [
         "biz.gl",
@@ -6854,7 +6854,6 @@
         "dk.eu.org",
         "dnsalias.org",
         "dnsdojo.org",
-        "dnsking.ch",
         "doesntexist.org",
         "dontexist.org",
         "doomdns.org",
