@@ -1562,7 +1562,6 @@
         "deno.dev",
         "fly.dev",
         "gateway.dev",
-        "github.dev",
         "githubpreview.dev",
         "iserv.dev",
         "lcl.dev",
@@ -2328,7 +2327,6 @@
         "cesena-forli.it",
         "cesena-forlì.it",
         "cesenaforli.it",
-        "cesenaforlì.it",
         "ch.it",
         "chieti.it",
         "ci.it",
@@ -2653,7 +2651,6 @@
         "xn--bozen-sdtirol-2ob.it",
         "xn--bulsan-sdtirol-nsb.it",
         "xn--cesena-forl-mcb.it",
-        "xn--cesenaforl-i8a.it",
         "xn--forl-cesena-fcb.it",
         "xn--forlcesena-c8a.it",
         "xn--sdtirol-n2a.it",
@@ -4346,6 +4343,7 @@
         "xn--8ltr62k.jp",
         "xn--8pvr4u.jp",
         "xn--c3s14m.jp",
+        "xn--cesenaforl-i8a.it",
         "xn--d5qv7z876c.jp",
         "xn--djrs72d6uy.jp",
         "xn--djty4k.jp",
@@ -7768,7 +7766,8 @@
         "tuva.su",
         "vladikavkaz.su",
         "vladimir.su",
-        "vologda.su"
+        "vologda.su",
+        "worse-than.tv"
     ],
     "support": [
         "barsy.support"
@@ -7949,8 +7948,7 @@
     "tv": [
         "better-than.tv",
         "dyndns.tv",
-        "on-the-web.tv",
-        "worse-than.tv"
+        "on-the-web.tv"
     ],
     "tw": [
         "blogspot.tw",
