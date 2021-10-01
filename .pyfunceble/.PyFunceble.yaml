@@ -16,7 +16,7 @@ cli_testing:
         max_exec_minutes: 20
     cidr_expand: false
     complements: false
-    cooldown_time: 3.25
+    cooldown_time: 0.2
     days_between:
         db_clean: 28
         db_retest: 1
@@ -42,9 +42,9 @@ cli_testing:
     hosts_ip: 0.0.0.0
     inactive_db: true
     local_network: false
-    max_workers: 1
+    max_workers: null
     mining: false
-    preload_file: true
+    preload_file: false
     sorting_mode:
         hierarchical: false
         standard: true
@@ -53,10 +53,14 @@ cli_testing:
         reputation: false
         syntax: false
     whois_db: true
+collection:
+    push: true
+    url_base: https://collection.dead-hosts.funilrys.com
 debug:
     active: false
     level: info
 dns:
+    delay: 0.0
     follow_server_order: true
     protocol: UDP
     server:
@@ -133,6 +137,7 @@ links:
     api_date_format: https://pyfunceble.funilrys.com/api/date-format
     api_no_referrer: https://pyfunceble.funilrys.com/api/no-referrer
 lookup:
+    collection: true
     dns: true
     http_status_code: true
     netinfo: true

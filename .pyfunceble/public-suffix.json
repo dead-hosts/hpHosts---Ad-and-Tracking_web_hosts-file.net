@@ -21,7 +21,6 @@
         "gov.ae",
         "mil.ae",
         "net.ae",
-        "nom.ae",
         "org.ae",
         "sch.ae"
     ],
@@ -118,7 +117,6 @@
         "edu.af",
         "gov.af",
         "net.af",
-        "nom.af",
         "org.af"
     ],
     "ag": [
@@ -131,7 +129,6 @@
     "ai": [
         "com.ai",
         "net.ai",
-        "nom.ai",
         "off.ai",
         "org.ai",
         "uwu.ai"
@@ -143,7 +140,6 @@
         "gov.al",
         "mil.al",
         "net.al",
-        "nom.al",
         "org.al"
     ],
     "am": [
@@ -168,6 +164,8 @@
     "app": [
         "a.run.app",
         "bookonline.app",
+        "clerk.app",
+        "clerkstage.app",
         "developer.app",
         "edgecompute.app",
         "fireweb.app",
@@ -186,16 +184,20 @@
         "wnext.app"
     ],
     "ar": [
+        "bet.ar",
         "blogspot.com.ar",
         "com.ar",
+        "coop.ar",
         "edu.ar",
         "gob.ar",
         "gov.ar",
         "int.ar",
         "mil.ar",
         "musica.ar",
+        "mutual.ar",
         "net.ar",
         "org.ar",
+        "senasa.ar",
         "tur.ar"
     ],
     "arpa": [
@@ -707,7 +709,6 @@
         "mediatech.by",
         "mil.by",
         "mycloud.by",
-        "nym.by",
         "of.by"
     ],
     "bz": [
@@ -716,8 +717,6 @@
         "gov.bz",
         "gsj.bz",
         "net.bz",
-        "nom.bz",
-        "nym.bz",
         "org.bz",
         "za.bz"
     ],
@@ -753,6 +752,7 @@
         "fantasyleague.cc",
         "ftpaccess.cc",
         "game-server.cc",
+        "instances.spawn.cc",
         "myphotos.cc",
         "scrapping.cc",
         "twmail.cc"
@@ -807,8 +807,7 @@
         "co.cl",
         "gob.cl",
         "gov.cl",
-        "mil.cl",
-        "nom.cl"
+        "mil.cl"
     ],
     "cloud": [
         "banzai.cloud",
@@ -817,6 +816,7 @@
         "cs.keliweb.cloud",
         "de.trendhosting.cloud",
         "diadem.cloud",
+        "elementor.cloud",
         "es-1.axarnet.cloud",
         "it1.eur.aruba.jenv-aruba.cloud",
         "it1.jenv-aruba.cloud",
@@ -1016,6 +1016,7 @@
         "dev-myqnapcloud.com",
         "dev.adobeaemcloud.com",
         "devcdnaccesso.com",
+        "digitaloceanspaces.com",
         "ditchyourip.com",
         "dnsalias.com",
         "dnsdojo.com",
@@ -1046,6 +1047,9 @@
         "dynns.com",
         "elasticbeanstalk.com",
         "elb.amazonaws.com",
+        "elluciancrmadvance.com",
+        "elluciancrmadvise.com",
+        "elluciancrmrecruit.com",
         "est-a-la-maison.com",
         "est-a-la-masion.com",
         "est-le-patron.com",
@@ -1434,7 +1438,8 @@
         "ravendb.community"
     ],
     "cool": [
-        "de.cool"
+        "de.cool",
+        "elementor.cool"
     ],
     "cr": [
         "ac.cr",
@@ -1552,6 +1557,7 @@
         "my-wan.de",
         "myhome-server.de",
         "myspreadshop.de",
+        "pages.it.hs-heilbronn.de",
         "schulserver.de",
         "spdns.de",
         "square7.de",
@@ -1651,7 +1657,6 @@
         "med.ec",
         "mil.ec",
         "net.ec",
-        "nym.ec",
         "org.ec",
         "pro.ec"
     ],
@@ -1809,8 +1814,7 @@
     ],
     "gd": [
         "edu.gd",
-        "gov.gd",
-        "nom.gd"
+        "gov.gd"
     ],
     "gdn": [
         "cnpy.gdn"
@@ -1821,7 +1825,6 @@
         "gov.ge",
         "mil.ge",
         "net.ge",
-        "nom.ge",
         "org.ge",
         "pvt.ge"
     ],
@@ -1855,7 +1858,6 @@
         "com.gl",
         "edu.gl",
         "net.gl",
-        "nom.gl",
         "org.gl",
         "xx.gl"
     ],
@@ -1869,7 +1871,8 @@
     ],
     "goog": [
         "cloud.goog",
-        "translate.goog"
+        "translate.goog",
+        "usercontent.goog"
     ],
     "gp": [
         "app.gp",
@@ -1886,7 +1889,6 @@
         "edu.gr",
         "gov.gr",
         "net.gr",
-        "nym.gr",
         "org.gr"
     ],
     "group": [
@@ -1901,7 +1903,6 @@
         "ind.gt",
         "mil.gt",
         "net.gt",
-        "nom.gt",
         "org.gt",
         "to.gt"
     ],
@@ -1922,7 +1923,6 @@
         "edu.gy",
         "gov.gy",
         "net.gy",
-        "nym.gy",
         "org.gy"
     ],
     "health": [
@@ -1937,7 +1937,6 @@
         "inc.hk",
         "ltd.hk",
         "net.hk",
-        "nym.hk",
         "org.hk",
         "secaas.hk",
         "xn--55qx5d.hk",
@@ -1978,7 +1977,6 @@
         "gob.hn",
         "mil.hn",
         "net.hn",
-        "nom.hn",
         "org.hn"
     ],
     "host": [
@@ -2072,6 +2070,7 @@
         "net.id",
         "or.id",
         "ponpes.id",
+        "rss.my.id",
         "sch.id",
         "wblog.id",
         "web.id"
@@ -2079,8 +2078,7 @@
     "ie": [
         "blogspot.ie",
         "gov.ie",
-        "myspreadshop.ie",
-        "nym.ie"
+        "myspreadshop.ie"
     ],
     "il": [
         "ac.il",
@@ -2092,7 +2090,8 @@
         "muni.il",
         "net.il",
         "org.il",
-        "ravpage.co.il"
+        "ravpage.co.il",
+        "tabitorder.co.il"
     ],
     "im": [
         "ac.im",
@@ -2100,7 +2099,6 @@
         "com.im",
         "ltd.co.im",
         "net.im",
-        "nom.im",
         "org.im",
         "plc.co.im",
         "ro.im",
@@ -2174,7 +2172,6 @@
         "cust.disrec.thingdust.io",
         "cust.prod.thingdust.io",
         "cust.testing.thingdust.io",
-        "customer.enonic.io",
         "dedyn.io",
         "definima.io",
         "devices.resinstaging.io",
@@ -2182,7 +2179,6 @@
         "dyn53.io",
         "dyndns.dappnode.io",
         "editorx.io",
-        "enonic.io",
         "fh-muenster.io",
         "g.vbrplsbx.io",
         "ghost.io",
@@ -4563,7 +4559,6 @@
         "me.ke",
         "mobi.ke",
         "ne.ke",
-        "nom.ke",
         "or.ke",
         "sc.ke"
     ],
@@ -4685,7 +4680,6 @@
         "jcloud.kz",
         "mil.kz",
         "net.kz",
-        "nym.kz",
         "org.kz",
         "upaas.kazteleport.kz"
     ],
@@ -4698,7 +4692,6 @@
         "info.la",
         "int.la",
         "net.la",
-        "nym.la",
         "org.la",
         "per.la"
     ],
@@ -4720,15 +4713,12 @@
         "edu.lc",
         "gov.lc",
         "net.lc",
-        "nym.lc",
         "org.lc",
         "oy.lc"
     ],
     "li": [
         "blogspot.li",
-        "caa.li",
-        "nom.li",
-        "nym.li"
+        "caa.li"
     ],
     "link": [
         "cyon.link",
@@ -4783,12 +4773,10 @@
     ],
     "lt": [
         "blogspot.lt",
-        "gov.lt",
-        "nym.lt"
+        "gov.lt"
     ],
     "lu": [
-        "blogspot.lu",
-        "nym.lu"
+        "blogspot.lu"
     ],
     "lv": [
         "asn.lv",
@@ -4799,7 +4787,6 @@
         "id.lv",
         "mil.lv",
         "net.lv",
-        "nom.lv",
         "org.lv"
     ],
     "ly": [
@@ -4871,11 +4858,9 @@
         "mcdir.me",
         "mcpe.me",
         "myds.me",
-        "nctu.me",
         "net.me",
         "nohost.me",
         "noip.me",
-        "nym.me",
         "org.me",
         "priv.me",
         "ravendb.me",
@@ -4884,6 +4869,7 @@
         "tbits.me",
         "tcp4.me",
         "ukco.me",
+        "vp4.me",
         "wbq.me",
         "webhop.me",
         "wedeploy.me",
@@ -4915,7 +4901,6 @@
         "inf.mk",
         "name.mk",
         "net.mk",
-        "nom.mk",
         "org.mk"
     ],
     "ml": [
@@ -4934,7 +4919,6 @@
         "edu.mn",
         "gov.mn",
         "nyc.mn",
-        "nym.mn",
         "org.mn"
     ],
     "mo": [
@@ -5572,7 +5556,6 @@
         "edu.mx",
         "gob.mx",
         "net.mx",
-        "nym.mx",
         "org.mx"
     ],
     "my": [
@@ -5653,7 +5636,6 @@
         "cdn77-ssl.net",
         "centralus.azurestaticapps.net",
         "channelsdvr.net",
-        "clic2000.net",
         "clickrising.net",
         "cloudaccess.net",
         "cloudapp.net",
@@ -6816,7 +6798,6 @@
         "enterprisecloud.nu",
         "merseine.nu",
         "mine.nu",
-        "nom.nu",
         "shacknet.nu"
     ],
     "nz": [
@@ -6834,7 +6815,6 @@
         "mil.nz",
         "māori.nz",
         "net.nz",
-        "nym.nz",
         "org.nz",
         "parliament.nz",
         "school.nz",
@@ -7075,7 +7055,6 @@
         "mil.pe",
         "net.pe",
         "nom.pe",
-        "nym.pe",
         "org.pe"
     ],
     "pf": [
@@ -7141,6 +7120,7 @@
         "czeladz.pl",
         "czest.pl",
         "dlugoleka.pl",
+        "ecommerce-shop.pl",
         "edu.pl",
         "elblag.pl",
         "elk.pl",
@@ -7156,6 +7136,7 @@
         "grajewo.pl",
         "griw.gov.pl",
         "gsm.pl",
+        "homesklep.pl",
         "ic.gov.pl",
         "ilawa.pl",
         "info.pl",
@@ -7404,7 +7385,6 @@
         "int.pt",
         "net.pt",
         "nome.pt",
-        "nym.pt",
         "org.pt",
         "publ.pt"
     ],
@@ -7418,7 +7398,6 @@
         "ed.pw",
         "go.pw",
         "ne.pw",
-        "nom.pw",
         "or.pw",
         "x443.pw"
     ],
@@ -7439,7 +7418,6 @@
         "mil.qa",
         "name.qa",
         "net.qa",
-        "nom.qa",
         "org.qa",
         "sch.qa"
     ],
@@ -7457,6 +7435,7 @@
     ],
     "ro": [
         "arts.ro",
+        "barsy.ro",
         "blogspot.ro",
         "co.ro",
         "com.ro",
@@ -7464,7 +7443,6 @@
         "info.ro",
         "nom.ro",
         "nt.ro",
-        "nym.ro",
         "org.ro",
         "rec.ro",
         "shop.ro",
@@ -7484,7 +7462,6 @@
         "edu.rs",
         "gov.rs",
         "in.rs",
-        "nom.rs",
         "org.rs",
         "ox.rs",
         "shop.brendly.rs",
@@ -7541,7 +7518,8 @@
         "development.run",
         "hs.run",
         "ravendb.run",
-        "repl.run"
+        "repl.run",
+        "servers.run"
     ],
     "rw": [
         "ac.rw",
@@ -7680,8 +7658,7 @@
     "si": [
         "blogspot.si",
         "gitapp.si",
-        "gitpage.si",
-        "nom.si"
+        "gitpage.si"
     ],
     "site": [
         "barsy.site",
@@ -7703,8 +7680,7 @@
         "tst.site"
     ],
     "sk": [
-        "blogspot.sk",
-        "nym.sk"
+        "blogspot.sk"
     ],
     "sl": [
         "com.sl",
@@ -7732,6 +7708,9 @@
         "org.so",
         "sch.so"
     ],
+    "solutions": [
+        "diher.solutions"
+    ],
     "space": [
         "myfast.space",
         "uber.space",
@@ -7756,7 +7735,6 @@
         "mil.st",
         "net.st",
         "noho.st",
-        "nom.st",
         "org.st",
         "principe.st",
         "saotome.st",
@@ -7805,7 +7783,6 @@
         "navoi.su",
         "north-kazakhstan.su",
         "nov.su",
-        "nym.su",
         "obninsk.su",
         "penza.su",
         "pokrovsk.su",
@@ -7833,8 +7810,7 @@
         "red.sv"
     ],
     "sx": [
-        "gov.sx",
-        "nym.sx"
+        "gov.sx"
     ],
     "sy": [
         "com.sy",
@@ -7891,7 +7867,6 @@
         "name.tj",
         "net.tj",
         "nic.tj",
-        "nom.tj",
         "org.tj",
         "test.tj",
         "web.tj"
@@ -7910,10 +7885,7 @@
         "org.tm"
     ],
     "tn": [
-        "agrinet.tn",
         "com.tn",
-        "defense.tn",
-        "edunet.tn",
         "ens.tn",
         "fin.tn",
         "gov.tn",
@@ -7926,11 +7898,7 @@
         "orangecloud.tn",
         "org.tn",
         "perso.tn",
-        "rnrt.tn",
-        "rns.tn",
-        "rnu.tn",
-        "tourism.tn",
-        "turen.tn"
+        "tourism.tn"
     ],
     "to": [
         "611.to",
@@ -7945,6 +7913,9 @@
         "oya.to",
         "rdv.to",
         "vpnplus.to"
+    ],
+    "today": [
+        "prequalifyme.today"
     ],
     "top": [
         "now-dns.top",
@@ -8016,7 +7987,6 @@
         "mil.tw",
         "mymailer.com.tw",
         "net.tw",
-        "nym.tw",
         "org.tw",
         "url.tw",
         "xn--czrw28b.tw",
@@ -8068,6 +8038,7 @@
         "in.ua",
         "inf.ua",
         "ivano-frankivsk.ua",
+        "k12.vi",
         "kh.ua",
         "kharkiv.ua",
         "kharkov.ua",
@@ -8132,7 +8103,6 @@
         "com.ug",
         "go.ug",
         "ne.ug",
-        "nom.ug",
         "or.ug",
         "org.ug",
         "sc.ug"
@@ -8140,6 +8110,7 @@
     "uk": [
         "ac.uk",
         "adimo.co.uk",
+        "affinitylottery.org.uk",
         "barsy.co.uk",
         "barsy.uk",
         "barsyonline.co.uk",
@@ -8168,9 +8139,11 @@
         "plc.uk",
         "police.uk",
         "pymnt.uk",
+        "raffleentry.org.uk",
         "sch.uk",
         "service.gov.uk",
         "vm.bytemark.co.uk",
+        "weeklylottery.org.uk",
         "wellbeingzone.co.uk"
     ],
     "us": [
@@ -8425,7 +8398,6 @@
         "gub.uy",
         "mil.uy",
         "net.uy",
-        "nom.uy",
         "org.uy"
     ],
     "uz": [
@@ -8443,11 +8415,11 @@
         "gv.vc",
         "mil.vc",
         "net.vc",
-        "nom.vc",
         "org.vc"
     ],
     "ve": [
         "arts.ve",
+        "bib.ve",
         "co.ve",
         "com.ve",
         "e12.ve",
@@ -8459,15 +8431,16 @@
         "int.ve",
         "mil.ve",
         "net.ve",
+        "nom.ve",
         "org.ve",
+        "rar.ve",
         "rec.ve",
         "store.ve",
         "tec.ve",
         "web.ve"
     ],
     "vg": [
-        "at.vg",
-        "nom.vg"
+        "at.vg"
     ],
     "vi": [
         "co.vi",
