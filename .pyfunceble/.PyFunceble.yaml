@@ -5,7 +5,7 @@ cli_decoding:
     wildcard: false
 cli_testing:
     autocontinue: true
-    chancy_tester: true
+    chancy_tester: false
     ci:
         active: true
         branch: master
