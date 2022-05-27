@@ -522,7 +522,6 @@
         "campinas.br",
         "caxias.br",
         "ce.gov.br",
-        "ce.leg.br",
         "cim.br",
         "cng.br",
         "cnt.br",
@@ -1408,6 +1407,7 @@
         "serveexchange.com",
         "serveftp.com",
         "servegame.com",
+        "servehalflife.com",
         "servehttp.com",
         "servehumour.com",
         "serveirc.com",
@@ -4127,7 +4127,6 @@
         "sennan.osaka.jp",
         "sera.hiroshima.jp",
         "seranishi.hiroshima.jp",
-        "servehalflife.com",
         "setagaya.tokyo.jp",
         "seto.aichi.jp",
         "setouchi.okayama.jp",
@@ -4977,6 +4976,7 @@
         "router.management"
     ],
     "marketing": [
+        "ce.leg.br",
         "from.marketing",
         "with.marketing"
     ],
