@@ -2169,7 +2169,6 @@
         "co.in",
         "edu.in",
         "firm.in",
-        "gen.in",
         "gov.in",
         "ind.in",
         "mil.in",
@@ -2298,6 +2297,7 @@
     "ir": [
         "ac.ir",
         "co.ir",
+        "gen.in",
         "gov.ir",
         "id.ir",
         "net.ir",
@@ -7729,6 +7729,7 @@
     "sb": [
         "com.sb",
         "edu.sb",
+        "gov.sb",
         "net.sb",
         "org.sb"
     ],
@@ -8093,7 +8094,6 @@
         "direct.quickconnect.to",
         "edu.to",
         "gov.to",
-        "mil.to",
         "net.to",
         "nyan.to",
         "org.to",
@@ -8220,7 +8220,6 @@
         "donetsk.ua",
         "dp.ua",
         "edu.ua",
-        "gov.sb",
         "gov.ua",
         "if.ua",
         "in.ua",
@@ -8544,6 +8543,7 @@
         "md.us",
         "me.us",
         "mi.us",
+        "mil.to",
         "mircloud.us",
         "mn.us",
         "mo.us",
