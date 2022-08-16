@@ -7262,8 +7262,7 @@
         "mil.pe",
         "net.pe",
         "nom.pe",
-        "org.pe",
-        "tm.ro"
+        "org.pe"
     ],
     "pf": [
         "com.pf",
@@ -8377,7 +8376,6 @@
         "al.us",
         "ann-arbor.mi.us",
         "ar.us",
-        "as.us",
         "az.us",
         "ca.us",
         "cc.ak.us",
@@ -8782,6 +8780,7 @@
     ],
     "zw": [
         "ac.zw",
+        "as.us",
         "co.zw",
         "gov.zw",
         "mil.zw",
