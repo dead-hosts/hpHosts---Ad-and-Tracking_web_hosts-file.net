@@ -14,6 +14,7 @@
     "name": "hpHosts---Ad-and-Tracking_web_hosts-file.net",
     "own_management": false,
     "ping": [],
+    "ping_enabled": false,
     "platform_container_id": null,
     "platform_container_name": "hphosts---ad-and-tracking_web_hosts-file-net",
     "platform_description": "Imported from Dead-Hosts legacy infrastructure.",
